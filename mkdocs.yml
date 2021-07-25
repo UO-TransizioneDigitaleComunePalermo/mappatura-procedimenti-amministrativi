@@ -31,7 +31,7 @@ extra:
       link: editare url dell'eventuale gruppo telegram
       name: gruppo Telegram
     - icon: fontawesome/solid/envelope
-      link: https://mailto:cirospat@gmail.com
+      link: mailto:cirospat@gmail.com
       name: mail to cirospat@gmail.com
     - icon: fontawesome/solid/rss
       link: ../feed_rss_created.xml
@@ -80,7 +80,7 @@ plugins:
 - macros  
 - print-site:
     add_to_navigation: false
-    print_page_title: 'Manuale pdf'
+    print_page_title: 'Documento pdf'
     add_print_site_banner: true
     print_site_banner_template: "docs/pdf/banner.tpl"
     # Table of contents
