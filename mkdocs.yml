@@ -16,23 +16,23 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/home
-      link: https://opendatasicilia.github.io/ods-mkdocs-material/
+      link: https://cirospat.github.io/mkdocs-style/
       name: Home Page
     - icon: fontawesome/brands/twitter
-      link: http://twitter.com/opendatasicilia
+      link: http://twitter.com/cirospat
       name: account twitter
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/ciro.spataro.3
       name: facebook
     - icon: fontawesome/brands/github
-      link: https://github.com/coseerobe/gb-MaterialMkDocs
+      link: https://github.com/cirospat/mkdocs-style
       name: Repoisitory GitHub
     - icon: fontawesome/brands/telegram
-      link: http://twitter.com/cirospat
+      link: url gruppo telegram
       name: gruppo Telegram
     - icon: fontawesome/solid/envelope
-      link: https://groups.google.com/forum/#!forum/opendatasicilia
-      name: mailing list OpenDataSicilia
+      link: url mailing list
+      name: mailing list del progetto
     - icon: fontawesome/solid/rss
       link: ../feed_rss_created.xml
       name: Feed RSS
