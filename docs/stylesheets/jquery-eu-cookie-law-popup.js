@@ -28,7 +28,7 @@ $.fn.euCookieLawPopup = (function() {
 	///////////////////////////////////////////////////////////////////////////////////////////////
 	// PARAMETERS (MODIFY THIS PART) //////////////////////////////////////////////////////////////
 	_self.params = {
-		cookiePolicyUrl : 'https://opendatasicilia.github.io/ods-mkdocs-material/privacy/',
+		cookiePolicyUrl : 'https://github.com/cirospat/mkdocs-style/privacy/',
 		popupPosition : 'top',
 		colorStyle : 'default',
 		compactStyle : false,
@@ -253,7 +253,7 @@ $(document).ready( function() {
 	if ($(".eupopup").length > 0) {
 		$(document).euCookieLawPopup().init({
 			'info' : 'YOU_CAN_ADD_MORE_SETTINGS_HERE',
-			'popupTitle' : '<img src="https://opendatasicilia.github.io/ods-mkdocs-material/img/logo.png" class="immagonobox"  alt="HfcQGIS" title="Cose&Robe" width="" border="0" ><br><br> Questo sito, OpenDataSicilia utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web. <br> ',
+			'popupTitle' : 'Questo sito, utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web. <br> ',
 			'popupText' : 'Chiudendo questo messaggio, scorrendo questa pagina o cliccando su qualunque suo elemento acconsenti all&rsquo;uso dei cookie.<br> Per maggiori informazioni o per negare il consenso a tutti o ad alcuni cookie, consulta l&rsquo;informativa!</a>'
 		});
 	}
