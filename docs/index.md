@@ -25,4 +25,4 @@ Curabitur neque nibh, iaculis laoreet ornare ut, euismod ut ex. Curabitur alique
 
 ## Incorporare una pagina di un repo diverso
 
-{% include 'https://github.com/coseerobe/gb-MaterialMkDocs/blob/main/docs/elaborazioni/ods_mappa1.md' %}
+{% include 'Riferimenti/rifer1.md' %}
