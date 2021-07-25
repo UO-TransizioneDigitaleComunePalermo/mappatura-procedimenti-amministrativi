@@ -176,3 +176,6 @@ nav:
         
     - About:
         - OpenDataSicilia: ods.md
+        
+    - Privacy/cookies: 
+        - Privacy/cookies: privacy.md
