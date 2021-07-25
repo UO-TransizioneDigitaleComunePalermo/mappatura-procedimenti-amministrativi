@@ -1,10 +1,10 @@
 {
     "name": "OpenDataSicilia Mkdocs-Material",
     "short_name": "ODS Mkdocs-Material",
-    "start_url": "https://github.com/opendatasicilia/ods-mkdocs-material",
+    "start_url": "https://github.com/cirospat/mkdocs-style",
     "display": "standalone",
     "background_color": "#fff",
-    "description": "OpenDataSicilia Mkdocs-Material repo demo ",
+    "description": "cirospat mkdocs-style repo demo ",
     "lang": "it-IT",
     "theme_color": "white"
 }
