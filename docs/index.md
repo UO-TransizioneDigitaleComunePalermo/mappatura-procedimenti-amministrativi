@@ -23,6 +23,4 @@ Breve video introduttivo (2’10”)
 Curabitur neque nibh, iaculis laoreet ornare ut, euismod ut ex. Curabitur aliquet tempus tortor vel eleifend. Etiam semper facilisis odio, vitae faucibus leo consectetur vitae. Etiam convallis risus tristique lectus interdum fermentum. 
 
 
-## Incorporare una pagina di un repo diverso
 
-{% include 'Riferimenti/rifer1.md' %}
