@@ -8,6 +8,11 @@ hide:
 
 Praesent vehicula id orci eu consectetur. Vivamus mollis nunc eu nisl vestibulum convallis. In sed velit tempor neque tristique tincidunt vel eget arcu. Integer consequat, massa eu gravida mollis, tellus velit interdum diam, maximus semper lacus lorem porttitor sem. Duis suscipit ante ut quam sollicitudin iaculis. Proin nec mi mollis, eleifend libero at, scelerisque libero. Maecenas nec dictum sapien. Nullam id feugiat sapien, ut convallis nulla. Curabitur facilisis pulvinar nisi vel luctus. Donec laoreet ultrices risus, quis gravida odio lobortis non. Cras sed lobortis magna. Cras aliquet dapibus dolor, et finibus ipsum commodo nec. Morbi a elit nec dolor fermentum lacinia. In facilisis venenatis dictum. Sed egestas, sem et maximus accumsan, est arcu porttitor felis, vel semper orci felis vitae lacus. Maecenas aliquet ipsum eget metus rutrum, at consequat orci ultricies.
 
+## Video
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/5O2D4h5hI18" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Breve video introduttivo (2’10”)
+
 Aenean gravida metus egestas sagittis lobortis. Fusce ullamcorper imperdiet maximus. Curabitur sed turpis ultrices, accumsan libero vel, pellentesque libero. Curabitur tempor porttitor mauris nec congue. Duis bibendum urna nec metus placerat lobortis vitae non massa. Mauris auctor magna erat, eget gravida urna aliquet ut. Aenean iaculis libero imperdiet, blandit nulla sed, lobortis risus. Suspendisse potenti. Vivamus viverra dolor lacinia, placerat odio in, ultricies mauris. Nullam posuere ligula nec dignissim rutrum. Sed odio sem, malesuada vitae purus eu, ultricies cursus sem. Integer aliquet nibh quis urna vulputate consequat. Ut lacinia elit ac turpis sollicitudin, et faucibus metus pharetra. Nullam dignissim, nisl eu pellentesque eleifend, mauris metus vulputate magna, ac hendrerit risus nisl id metus. Cras fringilla lobortis eros, nec blandit justo efficitur ut. Fusce mi erat, sollicitudin ac urna volutpat, hendrerit dictum metus.
 
 ![](img/ods18.jpg)
@@ -18,11 +23,6 @@ Vivamus non finibus augue. Integer faucibus rutrum massa, id venenatis dui condi
 
 Suspendisse ullamcorper dui sem, non sagittis lectus accumsan a. Etiam at iaculis urna, nec consectetur orci. Fusce ex dolor, aliquet id auctor id, gravida ut orci. Etiam ut dolor eget lacus bibendum lobortis. Maecenas rhoncus consequat nibh nec molestie. Vestibulum vitae finibus arcu. Donec accumsan sollicitudin viverra. Donec eu vulputate orci. Proin laoreet dapibus lacus, sit amet condimentum massa efficitur vitae.
 
-Morbi vitae vestibulum leo. Ut in lacus et nisl aliquam interdum. Nunc blandit maximus mauris sit amet congue. Vivamus pulvinar sollicitudin libero. Aliquam nec erat vel risus tempus convallis. In maximus at libero vel pretium. Cras in volutpat purus. Curabitur maximus libero nibh, non ornare libero pretium eget.
-
-Mauris convallis eu lectus eu placerat. Maecenas mattis tempus massa, ac viverra turpis vulputate euismod. Nunc ante tellus, tristique eget lacus non, placerat lacinia mauris. Praesent blandit dolor at leo consequat, vel auctor massa posuere. Integer sit amet ex efficitur, luctus nulla vitae, imperdiet eros. Suspendisse ac quam nec dolor pharetra efficitur eget nec nunc. Praesent luctus id enim non semper. Sed at diam porttitor, fermentum magna sit amet, tristique nibh. Aliquam accumsan placerat elit non fringilla. Phasellus luctus egestas malesuada. Etiam non erat auctor, elementum odio et, convallis tortor. Maecenas a faucibus purus, sit amet condimentum elit. Morbi sollicitudin nisi tempor odio interdum, et dictum leo laoreet. Etiam efficitur at ligula vitae congue.
-
-Phasellus pretium arcu in urna convallis viverra. Donec interdum tempor ligula eu volutpat. Nam condimentum erat at vehicula convallis. Etiam eget lectus erat. Vestibulum euismod massa lectus, quis blandit nisi tristique pharetra. Cras elit ipsum, lacinia ut sem ut, consequat dignissim felis. Integer id diam ornare, facilisis ligula sed, efficitur eros. Cras erat purus, tincidunt vitae imperdiet ut, convallis id ipsum. Etiam feugiat euismod nunc, eget euismod erat volutpat eget. Morbi ultrices nisi turpis, vel iaculis turpis iaculis in.
 
 ![](img/ods18_mosaico.jpg)
 
@@ -30,5 +30,5 @@ Nam ante odio, euismod at diam non, consequat egestas enim. Ut fringilla ante ma
 
 Etiam ultrices ante nec auctor facilisis. Vivamus posuere augue eu ornare congue. Nullam quis bibendum arcu, in faucibus nunc. Sed nisi leo, finibus ac metus et, blandit tempus mauris. Donec gravida sagittis ante, pharetra sollicitudin justo pellentesque pretium. Proin tempus sem scelerisque dapibus viverra. Praesent condimentum dui ipsum, id faucibus urna pretium sit amet. Donec id metus quis lacus dapibus feugiat vel eget libero. In tempus velit ac dolor consequat, id malesuada sapien cursus.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum maximus diam nisl, et luctus ante efficitur a. Nulla rhoncus justo quis enim rhoncus efficitur. Proin non tempus quam. Morbi tristique felis at justo porttitor commodo. Proin pellentesque sem augue, vitae porta nulla tincidunt eu. Suspendisse a purus suscipit, pretium lectus sit amet, dignissim dui. Nunc suscipit nisl vitae lectus facilisis, vitae pulvinar ligula egestas. Vivamus iaculis semper orci, non posuere sem vestibulum sit amet. Nulla lacinia fermentum fringilla. Curabitur id finibus dui. Integer eget ex laoreet, molestie enim ut, lobortis tortor. Vivamus viverra tortor sit amet elit elementum, sed rhoncus est porttitor. Phasellus tristique, risus in sollicitudin bibendum, felis ante semper ante, non vestibulum leo turpis sit amet ante. Morbi viverra ligula sit amet interdum gravida. Cras malesuada tellus eu metus rhoncus, a hendrerit neque lobortis.
+
   
