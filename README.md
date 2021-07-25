@@ -1,4 +1,4 @@
-# cirospat mkdocs-style repo demo
+# Cirospat mkdocs-style (demo)
 
 con il supporto di @gbvitrano e #opendatasicilia
 
