@@ -28,7 +28,7 @@ $.fn.euCookieLawPopup = (function() {
 	///////////////////////////////////////////////////////////////////////////////////////////////
 	// PARAMETERS (MODIFY THIS PART) //////////////////////////////////////////////////////////////
 	_self.params = {
-		cookiePolicyUrl : 'https://github.com/cirospat/mkdocs-style/privacy/',
+		cookiePolicyUrl : 'https://cirospat.github.io/mkdocs-style/privacy/',
 		popupPosition : 'top',
 		colorStyle : 'default',
 		compactStyle : false,
