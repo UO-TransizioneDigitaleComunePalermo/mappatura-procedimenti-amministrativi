@@ -28,11 +28,11 @@ extra:
       link: https://github.com/cirospat/mkdocs-style
       name: Repoisitory GitHub
     - icon: fontawesome/brands/telegram
-      link: url gruppo telegram
+      link: editare url dell'eventuale gruppo telegram
       name: gruppo Telegram
     - icon: fontawesome/solid/envelope
       link: url mailing list
-      name: mailing list del progetto
+      name: mailto:cirospat@gmail.com
     - icon: fontawesome/solid/rss
       link: ../feed_rss_created.xml
       name: Feed RSS
@@ -95,7 +95,8 @@ plugins:
     cover_page_template: "docs/pdf/cover_page.tpl"
     path_to_pdf: "ODS_Mkdocs-Material.pdf"
     exclude:
-        
+
+# Feed RSS setting
 - rss:
     abstract_chars_count: 160
     date_from_meta:
@@ -103,7 +104,7 @@ plugins:
         as_update: false 
         datetime_format: "%d-%m-%Y"
     # datetime_format: "%Y-%m-%d"
-    image: https://materialmkdocs-gb.readthedocs.io/it/latest/img/hfc_rss.png
+    image: https://cirospat.github.io/mkdocs-style/img/logo1.png
     feed_ttl: 1440
     length: 20
     pretty_print: false
