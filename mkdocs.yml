@@ -31,7 +31,7 @@ extra:
       link: editare url dell'eventuale gruppo telegram
       name: gruppo Telegram
     - icon: fontawesome/solid/envelope
-      link: mailto:cirospat@gmail.com
+      link: https://mailto:cirospat@gmail.com
       name: mail to cirospat@gmail.com
     - icon: fontawesome/solid/rss
       link: ../feed_rss_created.xml
