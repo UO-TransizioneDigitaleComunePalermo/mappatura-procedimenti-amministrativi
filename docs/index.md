@@ -4,7 +4,8 @@ hide:
   - navigation
   - toc
 ---
-# cirospat/mkdocs-style
+
+# cirospat | mkdocs-style
 
 Modello di creazione 
 
