@@ -1,15 +1,15 @@
 ## Project information
-site_name: OpenDataSicilia Mkdocs-Material
-site_url: https://opendatasicilia.github.io/ods-mkdocs-material/
-site_description: OpenDataSicilia Mkdocs-Material repo demo
+site_name: cirospat Mkdocs-Material
+site_url: https://cirospat.github.io/mkdocs-style/
+site_description: cirospat Mkdocs-Material repo demo
 
 ## Repository
-repo_name: OpenDataSicilia Mkdocs-Material
-repo_url: https://github.com/opendatasicilia/ods-mkdocs-material
+repo_name: cirospat mkdocs-style
+repo_url: https://github.com/cirospat/mkdocs-style
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <a href="https://opendatasicilia.github.io/ods-mkdocs-material/privacy/" title="Informativa privacy estesa">Privacy</a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">CC-BY-SA-4.0</a>
+copyright: <a href="https://cirospat.github.io/mkdocs-style/privacy/" title="Informativa privacy-cookies">Privacy</a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">CC-BY-SA-4.0</a>
 
 ## Social Media
 extra:
@@ -22,13 +22,13 @@ extra:
       link: http://twitter.com/opendatasicilia
       name: account twitter
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/groups/opendatasicilia/
-      name: gruppo facebook
+      link: https://www.facebook.com/ciro.spataro.3
+      name: facebook
     - icon: fontawesome/brands/github
       link: https://github.com/coseerobe/gb-MaterialMkDocs
       name: Repoisitory GitHub
     - icon: fontawesome/brands/telegram
-      link: http://twitter.com/opendatasicilia
+      link: http://twitter.com/cirospat
       name: gruppo Telegram
     - icon: fontawesome/solid/envelope
       link: https://groups.google.com/forum/#!forum/opendatasicilia
@@ -88,7 +88,7 @@ plugins:
     print_site_banner_template: "docs/pdf/banner.tpl"
     # Table of contents
     add_table_of_contents: true
-    toc_title: 'OpenDataSicilia Mkdocs-Material formato PDF'
+    toc_title: 'documento in formato PDF'
     toc_depth: 6
     # Content-related
     add_full_urls: true
