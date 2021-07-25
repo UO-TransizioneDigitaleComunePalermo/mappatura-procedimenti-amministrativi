@@ -1,5 +1,5 @@
 ---
-title: cirospat mkdocs-style repo demo
+title: Cirospat mkdocs-style (demo)
 hide:
   - navigation
   - toc
@@ -20,8 +20,7 @@ Breve video introduttivo (2’10”)
 
 ## Testo
 
-Curabitur neque nibh, iaculis laoreet ornare ut, euismod ut ex. Curabitur aliquet tempus tortor vel eleifend. Etiam semper facilisis odio, vitae faucibus leo consectetur vitae. Etiam convallis risus tristique lectus interdum fermentum. Nulla a odio ex. Integer nunc est, lobortis vitae arcu non, hendrerit mattis mauris. Fusce ullamcorper tortor vitae lectus rutrum, non vehicula felis maximus. Sed auctor ligula vitae ante pharetra gravida. 
+Curabitur neque nibh, iaculis laoreet ornare ut, euismod ut ex. Curabitur aliquet tempus tortor vel eleifend. Etiam semper facilisis odio, vitae faucibus leo consectetur vitae. Etiam convallis risus tristique lectus interdum fermentum. 
 
-Suspendisse ullamcorper dui sem, non sagittis lectus accumsan a. Etiam at iaculis urna, nec consectetur orci. Fusce ex dolor, aliquet id auctor id, gravida ut orci. Etiam ut dolor eget lacus bibendum lobortis. Maecenas rhoncus consequat nibh nec molestie. Vestibulum vitae finibus arcu. Donec accumsan sollicitudin viverra. Donec eu vulputate orci. Proin laoreet dapibus lacus, sit amet condimentum massa efficitur vitae.
 
   
