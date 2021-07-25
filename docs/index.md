@@ -23,4 +23,6 @@ Breve video introduttivo (2’10”)
 Curabitur neque nibh, iaculis laoreet ornare ut, euismod ut ex. Curabitur aliquet tempus tortor vel eleifend. Etiam semper facilisis odio, vitae faucibus leo consectetur vitae. Etiam convallis risus tristique lectus interdum fermentum. 
 
 
-  
+## Incorporare una pagina di un repo diverso
+
+{% include 'https://github.com/coseerobe/gb-MaterialMkDocs/blob/main/docs/elaborazioni/ods_mappa1.md' %}
