@@ -1,6 +1,11 @@
 <!-- Elements added to main will be displayed on all pages -->
 {% extends "base.html" %}
 
+ <!-- Qui override the site title) --> 
+{% block htmltitle %}
+<title>Avviso <b>importante</b>da non <code>sottovalutare</code> </title>
+{% endblock %}
+
 {% block libs %}
  <!-- Qui Script header) --> 
  <link href="{{ config.site_url}}stylesheets/jquery-eu-cookie-law-popup.css" rel="stylesheet" type="text/css"/>
