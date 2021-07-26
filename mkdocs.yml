@@ -36,6 +36,9 @@ extra:
     - icon: fontawesome/solid/rss
       link: ../feed_rss_created.xml
       name: Feed RSS
+    - icon: fontawesome/solid/file-pdf
+      link: https://cirospat.github.io/mkdocs-style/print_page/
+      name: Scarica il file PDF
  # analytics:
  #   provider: google
  #   property: usa il tuo codice
