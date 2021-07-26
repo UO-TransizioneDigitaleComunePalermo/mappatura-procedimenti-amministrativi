@@ -55,7 +55,7 @@ theme:
 
   palette:
     - scheme: default
-      primary: grey
+      primary: indigo
       accent: red
       toggle:
         icon: material/weather-night
