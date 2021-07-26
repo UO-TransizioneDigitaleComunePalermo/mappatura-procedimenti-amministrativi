@@ -36,7 +36,7 @@ extra:
     - icon: fontawesome/solid/rss
       link: ../feed_rss_created.xml
       name: Feed RSS
-    - icon: fontawesome/brands/doc 
+    - icon: fontawesome/brands/f4e7 
       link: https://cirospat.github.io/mkdocs-style/print_page/
       name: Genera il documento in formato PDF
  # analytics:
