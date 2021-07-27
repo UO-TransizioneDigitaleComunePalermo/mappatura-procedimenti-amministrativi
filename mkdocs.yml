@@ -158,7 +158,8 @@ extra_javascript:
 extra_css:
    - stylesheets/ods-extra.css
   
-## Page tree
+## Page tree 
+# ogni file .md corrisponde ad una pagina web 
 nav:
     - Home: index.md
     
