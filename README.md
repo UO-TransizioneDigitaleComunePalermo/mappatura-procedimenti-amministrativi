@@ -1,4 +1,4 @@
-# Cirospat mkdocs-style (demo)
+# Cirospat mkdocs-style 
 Modello per la creazione di un progetto di documentazione, creato con [MKDocs](https://squidfunk.github.io/mkdocs-material/), grazie al supporto tecnico di @gbvitrano, @aborruso e #opendatasicilia
 
 ---
