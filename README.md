@@ -1,5 +1,6 @@
-
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/mkdocs-style.svg?&label=ultimo_aggiornamento">
+![GitHub](https://img.shields.io/github/license/cirospat/mkdocs-style)
 
 
 
