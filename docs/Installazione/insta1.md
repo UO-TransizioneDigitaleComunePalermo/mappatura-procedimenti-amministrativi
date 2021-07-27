@@ -1,6 +1,7 @@
----
-social_image: img/card_social_page.png
----
+# Contenuti
+
+Cosa si può inserire nelle pagine
+
 
 ## Video (embedding)
 
@@ -9,7 +10,7 @@ Breve video introduttivo (2’10”)
 
 ## Foto
 
-![](img/ods18.jpg)
+![](docs/img/ods18.jpg)
 
 ---
 
