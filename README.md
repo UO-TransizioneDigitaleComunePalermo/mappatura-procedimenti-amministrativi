@@ -3,7 +3,7 @@ Modello per la creazione di un progetto di documentazione, creato con [MKDocs](h
 
 ---
 
-![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo1.png)
+![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
 
 ---
 
