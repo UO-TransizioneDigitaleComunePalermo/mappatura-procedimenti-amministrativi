@@ -1,8 +1,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/mkdocs-style.svg?&label=ultimo_aggiornamento">
 ![GitHub](https://img.shields.io/github/license/cirospat/mkdocs-style)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcirospat)
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/cirospat/mkdocs-style?logo=cirospat)
 
 
 
