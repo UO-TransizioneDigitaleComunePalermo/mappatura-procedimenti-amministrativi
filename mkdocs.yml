@@ -86,12 +86,12 @@ plugins:
 - macros  
 - print-site:
     add_to_navigation: false
-    print_page_title: 'Documento formato PDF'
+    print_page_title: 'Documentazione in formato PDF'
     add_print_site_banner: true
     print_site_banner_template: "docs/pdf/banner.tpl"
     # Table of contents
     add_table_of_contents: true
-    toc_title: 'documento in formato PDF'
+    toc_title: 'Documentazione in formato PDF'
     toc_depth: 6
     # Content-related
     add_full_urls: true
