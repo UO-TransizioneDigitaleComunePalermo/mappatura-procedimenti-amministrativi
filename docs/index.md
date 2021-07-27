@@ -7,7 +7,9 @@ hide:
 
 # cirospat | mkdocs-style
 
-Modello di creazione 
+Modello di creazione di documentazione online
+
+![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
 
 ---
 
