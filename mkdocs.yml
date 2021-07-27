@@ -76,7 +76,7 @@ theme:
   favicon: img/favicon.ico
   icon:
     repo: fontawesome/brands/github
-  logo: img/logo1.png
+  logo: img/logo2.png
    
 plugins:
 - search
