@@ -1,4 +1,3 @@
-![example workflow](https://github.com/cirospat/mkdocs-style/actions/workflows/mkdocs.yml/badge.svg)
 
 <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/mkdocs-style.svg?&label=ultimo_aggiornamento">
 
