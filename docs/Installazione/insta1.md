@@ -2,17 +2,36 @@
 social_image: img/card_social_page.png
 ---
 
-# Lorem Ipsum
+## Video (embedding)
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ![](../img/gatti_02.jpg){ align=right}standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic  typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/5O2D4h5hI18" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Breve video introduttivo (2’10”)
 
-### Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ![](../img/gatti_02.jpg){ align=left} The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+## Foto
 
+![](img/ods18.jpg)
 
-## Where does it come from?
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. 
+---
+
+## Tabella
+
+nro|Esempio|Descrizione|Autore
+---|------|----------|------
+1|[campo area](add_col_area.md)|aggiungere colonna area per calcolo superficie|Pigreco
+2|[campi coordinate](add_coord_xy.md)|aggiungere colonne coordinate x e y|Pigreco
+3|[campo virtuale](add_campo_virtuale.md)|aggiungere campo virtuale|Pigreco
+4|[campo quota z](add_col_z.md)|aggingere colonna quota con valori z|Pigreco
+5|[etichettare](etichette.md)|etichettare usando il campo geometry|Pigreco
+6|[aggiornare geometria](agg_geom.md)|aggiornare il campo geometry|Pigreco
+7|[conversione](conversione.md)|etichettare punti da sessadecimali a sessagesimali|Pigreco
+
+---
+
+## Testo libero
+
+Curabitur neque nibh, iaculis laoreet ornare ut, euismod ut ex. Curabitur aliquet tempus tortor vel eleifend. Etiam semper facilisis odio, vitae faucibus leo consectetur vitae. Etiam convallis risus tristique lectus interdum fermentum. 
+
+## Immagine 
 
 ![](../img/gatti_02.jpg)
 
