@@ -10,7 +10,7 @@ Breve video introduttivo (2’10”)
 
 ## Foto
 
-![](/docs/img/ods18.jpg)
+![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/ods18.jpg)
 
 ---
 
