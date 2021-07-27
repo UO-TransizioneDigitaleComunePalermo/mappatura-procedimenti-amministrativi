@@ -10,7 +10,7 @@ Breve video introduttivo (2’10”)
 
 ## Foto
 
-![](docs/img/ods18.jpg)
+![](/docs/img/ods18.jpg)
 
 ---
 
