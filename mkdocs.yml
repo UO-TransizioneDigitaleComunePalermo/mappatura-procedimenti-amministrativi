@@ -99,7 +99,7 @@ plugins:
     enumerate_figures: true
     add_cover_page: true
     cover_page_template: "docs/pdf/cover_page.tpl"
-    path_to_pdf: "ODS_Mkdocs-Material.pdf"
+    path_to_pdf: "nome_file.pdf"
     exclude:
 
 ## Feed RSS setting
