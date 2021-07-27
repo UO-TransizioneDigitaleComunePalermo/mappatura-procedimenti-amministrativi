@@ -2,9 +2,9 @@
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
 
 # Cirospat MKDocs-style 
-Modello per la creazione di un progetto di documentazione online, creato con [MKDocs](https://squidfunk.github.io/mkdocs-material/).
+Modello per la creazione di un progetto di documentazione online, creato con [MKDocs](https://squidfunk.github.io/mkdocs-material/). Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** (`.MD`).
 
-Grazie al supporto tecnico di @gbvitrano, @aborruso e #opendatasicilia
+Lavoro realizzato con il prezioso supporto tecnico di [@gbvitrano](https://github.com/gbvitrano), [@aborruso](https://github.com/aborruso) e [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza.
 
 
 ## Compilazione con Github pages
