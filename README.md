@@ -32,6 +32,6 @@ Questi strumenti sono opzionali e possono non essere inclusi nella visualizzazio
 ## Cosa deve cambiare l'utente per generare progetti di documentazione online con MKDocs a partire da questo modello
 - i parametri del file `mkdocs.yml`
 - i contenuti nel file `index.md` che si trova nella directory `docs`
-- i contenuti dei file `.md` che si trovano dentro le cartelle (directory) e che rappresentano il nome dei capitoli o sezioni del documento. Ogni file `.md` è la pagine web del progetto di documentazione
+- i contenuti dei file `.md` che si trovano dentro la cartella madre `docs` (ed eventualmente sotto cartelle) e che rappresentano il nome dei capitoli o sezioni del documento. Ogni file `.md` è la pagine web del progetto di documentazione
 - inserire le immagini nella cartella `img` che si trova nel percorso `mkdocs-style/docs/img/`
 - inserire il favicon che si trova al seguente percorso `mkdocs-style/docs/overrides/.icons/favicon.png`. E' facoltativo e non è importante.
