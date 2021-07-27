@@ -20,3 +20,7 @@ faucibus dui a venenatis. Morbi consequat elit ac vestibulum tempus. Aliquam ele
 
 ### Integer pellentesque
 tellus in libero gravida, sed maximus mi imperdiet. Duis sed volutpat purus, ut fringilla ex. Sed mollis risus sit amet dolor congue condimentum. Nullam porttitor quam ac ex vehicula, quis maximus turpis auctor. Nulla id rhoncus libero. Donec quis dolor ultrices, fringilla dui venenatis, tempor est. Etiam maximus justo eget dignissim gravida.
+
+---
+
+{% include 'index.md' %}
