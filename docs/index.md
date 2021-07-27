@@ -1,11 +1,11 @@
 ---
-title: Cirospat mkdocs-style (demo)
+title: cirospat mkdocs-style 
 hide:
   - navigation
   - toc
 ---
 
-# cirospat | mkdocs-style
+# cirospat mkdocs-style
 
 Modello di creazione di documentazione online
 
@@ -41,6 +41,3 @@ nro|Esempio|Descrizione|Autore
 ## Testo
 
 Curabitur neque nibh, iaculis laoreet ornare ut, euismod ut ex. Curabitur aliquet tempus tortor vel eleifend. Etiam semper facilisis odio, vitae faucibus leo consectetur vitae. Etiam convallis risus tristique lectus interdum fermentum. 
-
-
-
