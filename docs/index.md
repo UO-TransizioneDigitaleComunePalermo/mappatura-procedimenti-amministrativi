@@ -6,9 +6,10 @@ hide:
 ---
 
 # cirospat mkdocs-style
+![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
 Modello per la creazione di un progetto di documentazione online
 
-![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
+
 
 
 ## Cosa è
