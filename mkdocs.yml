@@ -1,7 +1,7 @@
 ## Project information
 site_name: cirospat mkdocs-style
 site_url: https://cirospat.github.io/mkdocs-style/
-site_description: Cirospat mkdocs-style demo
+site_description: cirospat mkdocs-style - modello di documentazione online
 
 ## Repository
 # repo_name: cirospat mkdocs-style
@@ -45,7 +45,7 @@ extra:
   # property: usa il tuo codice
 
     
-# Configuration
+## Configuration
 theme:
   name: material
   custom_dir: docs/overrides/
@@ -77,7 +77,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
   logo: img/logo2.png
-   
+
+## Plugins
 plugins:
 - search
 - mkdocstrings
@@ -85,7 +86,7 @@ plugins:
 - macros  
 - print-site:
     add_to_navigation: false
-    print_page_title: 'Documento pdf'
+    print_page_title: 'Documento formato PDF'
     add_print_site_banner: true
     print_site_banner_template: "docs/pdf/banner.tpl"
     # Table of contents
@@ -101,7 +102,7 @@ plugins:
     path_to_pdf: "ODS_Mkdocs-Material.pdf"
     exclude:
 
-# Feed RSS setting
+## Feed RSS setting
 - rss:
     abstract_chars_count: 160
     date_from_meta:
@@ -109,7 +110,7 @@ plugins:
         as_update: false 
         datetime_format: "%d-%m-%Y"
     # datetime_format: "%Y-%m-%d"
-    image: https://cirospat.github.io/mkdocs-style/img/logo1.png
+    image: https://cirospat.github.io/mkdocs-style/img/logo2.png
     feed_ttl: 1440
     length: 20
     pretty_print: false
@@ -119,6 +120,7 @@ plugins:
         utm_medium: "RSS"
         utm_campaign: "feed-syndication"    
 
+## markdown extension
 markdown_extensions:
 - toc:
         permalink: ↵
@@ -151,7 +153,8 @@ markdown_extensions:
 ## Custom theme additions
 extra_javascript:
    - stylesheets/extra.js
- 
+
+## extra CSS
 extra_css:
    - stylesheets/ods-extra.css
   
