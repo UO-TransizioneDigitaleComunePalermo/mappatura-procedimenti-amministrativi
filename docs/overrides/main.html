@@ -77,6 +77,11 @@
     </a>
 {% endif %}
 
+<!-- Disqus commenti nelle pagine -->
+{% block disqus %}
+  <!-- Add custom comment system integration here -->
+  <script id="dsq-count-scr" src="//https-cirospat-github-io-mkdocs-style.disqus.com/count.js" async></script>
+{% endblock %}
 
 {{ super() }}
 {% endblock content %}
