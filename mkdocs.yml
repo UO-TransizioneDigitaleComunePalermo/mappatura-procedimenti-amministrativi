@@ -14,6 +14,7 @@ copyright: <a href="https://cirospat.github.io/mkdocs-style/privacy/" title="Inf
 ## Social Media
 extra:
   manifest: "manifest.webmanifest"
+  disqus: https-cirospat-github-io-mkdocs-style
   social:
     - icon: fontawesome/solid/home
       link: https://cirospat.github.io/mkdocs-style/
@@ -39,7 +40,6 @@ extra:
     - icon: fontawesome/solid/file-pdf
       link: https://cirospat.github.io/mkdocs-style/print_page/
       name: Scarica il documento in formato PDF
-  disqus: https-cirospat-github-io-mkdocs-style
   # analytics:
   # provider: google
   # property: usa il tuo codice
