@@ -38,8 +38,8 @@ extra:
       name: Feed RSS
     - icon: fontawesome/solid/file-pdf
       link: https://cirospat.github.io/mkdocs-style/print_page/
-      name: Scarica il file PDF
-  disqus: https-cirospat-github-io-mkdocs-style
+      name: Scarica il documento in formato PDF
+  # disqus: https-cirospat-github-io-mkdocs-style
   # analytics:
   # provider: google
   # property: usa il tuo codice
