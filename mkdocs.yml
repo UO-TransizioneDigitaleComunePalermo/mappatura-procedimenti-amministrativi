@@ -39,7 +39,7 @@ extra:
     - icon: fontawesome/solid/file-pdf
       link: https://cirospat.github.io/mkdocs-style/print_page/
       name: Scarica il documento in formato PDF
-  # disqus: https-cirospat-github-io-mkdocs-style
+  disqus: https-cirospat-github-io-mkdocs-style
   # analytics:
   # provider: google
   # property: usa il tuo codice
