@@ -77,20 +77,6 @@
     </a>
 {% endif %}
 
-<!-- Disqus commenti nelle pagine -->
-{% block disqus %}
-  <!-- Add custom comment system integration here -->
-  <div id="disqus_thread"></div>
-  <script>
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://https-cirospat-github-io-mkdocs-style.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-  </script>
-{% endblock %}
-
 
 {{ super() }}
 {% endblock content %}
