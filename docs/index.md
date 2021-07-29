@@ -57,3 +57,6 @@ Questi strumenti sono opzionali e possono non essere inclusi nella visualizzazio
 :ant:
 [**icons-emojis**](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#icons-emojis)
 :butterfly:
+
+
+[Subscribe to our mailing list](#){ .md-button .md-button--primary }
