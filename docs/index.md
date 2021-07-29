@@ -32,8 +32,6 @@ Lavoro realizzato con il prezioso supporto tecnico di [@gbvitrano](https://githu
 
 ---
 
-[Subscribe to our mailing list](#){ .md-button .md-button--primary }
-
 
 ## Strumenti integrati nel progetto
 - **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
@@ -59,4 +57,3 @@ Questi strumenti sono opzionali e possono non essere inclusi nella visualizzazio
 :butterfly:
 
 
-[Subscribe to our mailing list](#){ .md-button .md-button--primary }
