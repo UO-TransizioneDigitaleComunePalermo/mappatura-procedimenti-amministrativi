@@ -30,6 +30,10 @@ Lavoro realizzato con il prezioso supporto tecnico di [@gbvitrano](https://githu
 ## Link al progetto creato su pagine di Github
 [cirospat mkdocs-style](https://cirospat.github.io/mkdocs-style/)
 
+---
+
+[Subscribe to our mailing list](#){ .md-button .md-button--primary }
+
 
 ## Strumenti integrati nel progetto
 - **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
