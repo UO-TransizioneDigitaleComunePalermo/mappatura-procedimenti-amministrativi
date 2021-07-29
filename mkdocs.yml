@@ -63,7 +63,7 @@ theme:
   palette:
     - scheme: default
       primary: blue grey
-      accent: red
+      accent: amber
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
