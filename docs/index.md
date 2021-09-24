@@ -14,6 +14,11 @@ hide:
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
 Modello per la creazione di un progetto di documentazione online
 
+---
+
+<a href="https://www.skylinewebcams.com/it/webcam/italia/sicilia/palermo/spiaggia-mondello.html" target="_blank"><img src="https://embed.skylinewebcams.com/img/571.jpg" alt="Webcam Vedetta spiaggia di Mondello - Palermo"></a>
+
+---
 
 
 
