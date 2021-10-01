@@ -151,8 +151,7 @@ markdown_extensions:
 - abbr
 - pymdownx.snippets
 - footnotes
-- pymdownx.tabbed:
-      alternate_style: true
+
 
 ## Custom theme additions
 extra_javascript:
