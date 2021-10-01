@@ -56,8 +56,7 @@ Questi strumenti sono opzionali e possono non essere inclusi nella visualizzazio
 
 ---
 
- <!-- codice per abilitare i commenti in basso (prima del footer) grazie alle API del componente Disqus -->
-	       <div id="disqus_thread"></div>
+<div id="disqus_thread"></div>
                <script>
                (function() { // DON'T EDIT BELOW THIS LINE
                var d = document, s = d.createElement('script');
@@ -65,6 +64,6 @@ Questi strumenti sono opzionali e possono non essere inclusi nella visualizzazio
                s.setAttribute('data-timestamp', +new Date());
                (d.head || d.body).appendChild(s);
                })();
-               </script>
-               <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>	
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>	
                
