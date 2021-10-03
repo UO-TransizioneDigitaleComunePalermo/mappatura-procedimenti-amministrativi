@@ -111,7 +111,8 @@ markdown_extensions:
 - mkdocs-click
 - pymdownx.highlight
 - pymdownx.superfences
-- pymdownx.tabbed
+- pymdownx.tabbed:
+    alternate_style: true
 - pymdownx.critic:
       mode: view
 - pymdownx.betterem:
