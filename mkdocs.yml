@@ -112,6 +112,7 @@ markdown_extensions:
 - pymdownx.highlight
 - pymdownx.superfences
 - pymdownx.tabbed
+    alternate_style: true
 - pymdownx.critic:
       mode: view
 - pymdownx.betterem:
