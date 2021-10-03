@@ -19,3 +19,20 @@
         utm_medium: "RSS"
         utm_campaign: "feed-syndication"  
 ```
+
+## Su mkdocs.yml
+
+
+```
+### Social Media
+extra:
+  manifest: "manifest.webmanifest"
+  social:
+```  
+  
+
+```
+    - icon: fontawesome/solid/rss
+      link: ../feed_rss_created.xml
+      name: Feed RSS
+```
