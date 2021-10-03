@@ -54,7 +54,7 @@ Questi strumenti sono opzionali e possono non essere inclusi nella visualizzazio
 [**icons-emojis**](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#icons-emojis)
 :butterfly:
 
-<iframe width="100%" height="500" src="https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="800" src="https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
