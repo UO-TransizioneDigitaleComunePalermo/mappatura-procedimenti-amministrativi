@@ -1,5 +1,6 @@
 # codice per RSS setting (che non funzionava più, quindi da aggiornare)
 
+```
 ## Feed RSS setting
 - rss:
     abstract_chars_count: 160
@@ -17,3 +18,4 @@
         utm_source: "documentation"
         utm_medium: "RSS"
         utm_campaign: "feed-syndication"  
+```
