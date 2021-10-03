@@ -61,13 +61,13 @@ theme:
       primary: indingo    # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
       accent: blue        # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
       toggle:
-        icon: material/weather-night
+        icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
       primary: black
       accent: red
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
   font:
     text: Lato
