@@ -6,10 +6,10 @@
 <!--TOC-->
 Contenuti
 - [Cirospat MKDocs-style](#Cirospat-MKDocs-style)
-  - [Compilazione con Github pages](##Compilazione-con-Github-pages)
-  - [Link al progetto creato su pagine di Github](##Link-al-progetto-creato-su-pagine-di-Github)
-  - [Strumenti integrati nel progetto](##Strumenti-integrati-nel-progetto)
-  - [Cosa deve cambiare l'utente per generare progetti di documentazione online con MKDocs a partire da questo modello](##Cosa-deve-cambiare-l_utente-per-generare-progetti-di-documentazione-online-con-MKDocs-a-partire-da-questo-modello)
+  - [Compilazione con Github pages](##compilazione-con-github-pages)
+  - [Link al progetto creato su pagine di Github](##link-al-progetto-creato-su-pagine-di-Github)
+  - [Strumenti integrati nel progetto](##strumenti-integrati-nel-progetto)
+  - [Cosa deve cambiare l'utente per generare progetti di documentazione online con MKDocs a partire da questo modello](##cosa-deve-cambiare-l_utente-per-generare-progetti-di-documentazione-online-con-MKDocs-a-partire-da-questo-modello)
 
 <!--/TOC-->
 
