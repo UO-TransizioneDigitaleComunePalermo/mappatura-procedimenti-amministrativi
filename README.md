@@ -9,7 +9,7 @@ Contenuti
   - [Compilazione con Github pages](##Compilazione-con-Github-pages)
   - [Link al progetto creato su pagine di Github](##Link-al-progetto-creato-su-pagine-di-Github)
   - [Strumenti integrati nel progetto](##Strumenti-integrati-nel-progetto)
-  - [Cosa deve cambiare l'utente per generare progetti di documentazione online con MKDocs a partire da questo modello](##Cosa-deve-cambiare-l'utente-per-generare-progetti-di-documentazione-online-con-MKDocs-a-partire-da-questo-modello)
+  - [Cosa deve cambiare l'utente per generare progetti di documentazione online con MKDocs a partire da questo modello](##Cosa-deve-cambiare-l_utente-per-generare-progetti-di-documentazione-online-con-MKDocs-a-partire-da-questo-modello)
 
 <!--/TOC-->
 
@@ -38,7 +38,8 @@ Lavoro realizzato con il prezioso supporto tecnico di [@gbvitrano](https://githu
 
 Questi strumenti sono opzionali e possono non essere inclusi nella visualizzazione del progetto di documentazione online che si intende creare
 
-## Cosa deve cambiare l'utente per generare progetti di documentazione online con MKDocs a partire da questo modello
+
+## Cosa deve cambiare l_utente per generare progetti di documentazione online con MKDocs a partire da questo modello
 - i parametri del file `mkdocs.yml`
 - i contenuti nel file `index.md` che si trova nella directory `docs`
 - i contenuti dei file `.md` che si trovano dentro la cartella madre `docs` (ed eventualmente sotto cartelle) e che rappresentano il nome dei capitoli o sezioni del documento. Ogni file `.md` è la pagine web del progetto di documentazione
