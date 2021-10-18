@@ -9,7 +9,10 @@ site_description: cirospat mkdocs-style - modello di documentazione online
 # edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <a href="https://cirospat.github.io/mkdocs-style/privacy/" title="Informativa privacy-cookies">Privacy-cookies</a> | <a href="https://creativecommons.org/licenses/by/4.0/deed.it" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution 4.0 licence (CC BY)" target="_blank" class="link-dark text-decoration-none">Lic. CC-BY 4.0</a> | <img src="https://img.shields.io/github/last-commit/cirospat/mkdocs-style.svg?&label=ultimo_aggiornamento"> | <img src="https://img.shields.io/github/license/cirospat/mkdocs-style">
+copyright: <a href="https://cirospat.github.io/mkdocs-style/privacy/" title="Informativa privacy-cookies">Privacy-cookies</a> | 
+<a href="https://creativecommons.org/licenses/by/4.0/deed.it" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution 4.0 licence (CC BY)" target="_blank" class="link-dark text-decoration-none">Lic. CC-BY 4.0</a> 
+<img src="https://img.shields.io/github/last-commit/cirospat/mkdocs-style.svg?&label=ultimo_aggiornamento"> 
+<img src="https://img.shields.io/github/license/cirospat/mkdocs-style">
 
 ## Social Media
 extra:
