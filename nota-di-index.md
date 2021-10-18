@@ -1,5 +1,4 @@
-per l'index.md
-originariamente è così
+# per l'index.md originariamente è così
 
 
 
@@ -9,3 +8,11 @@ hide:
   - navigation
   - toc
 ---
+
+e su mkdocs.yml:
+
+```
+theme:
+  features:
+    - navigation.tabs
+```
