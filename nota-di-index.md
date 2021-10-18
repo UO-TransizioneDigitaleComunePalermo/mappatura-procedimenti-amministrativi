@@ -1,15 +1,17 @@
-# per l'index.md originariamente è così
+# Il file `index.md` originariamente è così
 
 
-
+```
 ---
 title: cirospat mkdocs-style 
 hide:
   - navigation
   - toc
 ---
+```
 
-e su mkdocs.yml:
+
+e sul file `mkdocs.yml` questo è il setting originario:
 
 ```
 theme:
