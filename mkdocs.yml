@@ -54,8 +54,8 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - navigation.sections
     - navigation.expand
+    - toc.integrate
   
   palette:
     - scheme: default
