@@ -55,6 +55,7 @@ theme:
     - search.highlight
     - search.share
     - navigation.sections
+    - navigation.expand
   
   palette:
     - scheme: default
