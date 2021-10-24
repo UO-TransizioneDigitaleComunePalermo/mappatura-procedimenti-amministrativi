@@ -85,6 +85,6 @@ esempi: `simbols` =  :blue_heart:  &#10024; &#x1F310; &#128194; &#128187; &#1023
 
 link per i simboli:
 
-- https://www.webfx.com/tools/emoji-cheat-sheet
-- https://sphinxemojicodes.readthedocs.io 
-- https://www.w3schools.com/charsets/ref_emoji.asp Emoji Unicode Reference in html
+- [**https://www.webfx.com/tools/emoji-cheat-sheet**](https://www.webfx.com/tools/emoji-cheat-sheet);
+- [**https://sphinxemojicodes.readthedocs.io**](https://sphinxemojicodes.readthedocs.io);
+- [**https://www.w3schools.com/charsets/ref_emoji.asp**](https://www.w3schools.com/charsets/ref_emoji.asp Emoji Unicode Reference in html) Emoji Unicode Reference in html
