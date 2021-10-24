@@ -5,10 +5,7 @@
 
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png) 
 
-`simbols` =  :blue_heart:  &#10024; &#x1F310; &#128194; &#128187; &#10233; 
-
-
-&#169; licenza CC BY SA
+&#169; licenza CC BY
 
 # Cirospat MKDocs-style 
 Modello per la creazione di un progetto di documentazione online, creato con [MKDocs](https://squidfunk.github.io/mkdocs-material/). Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** (`.MD`).
