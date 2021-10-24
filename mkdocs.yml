@@ -14,6 +14,7 @@ copyright: <img src="https://img.shields.io/github/last-commit/cirospat/mkdocs-s
 ## Social Media
 extra:
   manifest: "manifest.webmanifest"
+  disqus: https-cirospat-github-io-mkdocs-style
   social:
     - icon: fontawesome/solid/home
       link: https://cirospat.github.io/mkdocs-style/
