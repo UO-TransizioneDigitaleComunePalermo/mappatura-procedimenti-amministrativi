@@ -141,7 +141,7 @@ extra_javascript:
 
 ## extra CSS
 extra_css:
-   - stylesheets/ods-extra.css
+   - stylesheets/extra.css
   
 ## Page tree 
 # ogni file .md corrisponde ad una pagina web 
