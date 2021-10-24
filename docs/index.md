@@ -56,7 +56,11 @@ Questi strumenti sono opzionali e possono non essere inclusi nella visualizzazio
 
 ---
 
+## Inserire servizio commenti Disqus
 
+esempio di codice
+
+```
 <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
 <div id="disqus_thread"></div>
 <script>
@@ -71,7 +75,6 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
-
-
+```
 
                
