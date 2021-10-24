@@ -72,7 +72,7 @@ theme:
   font:
     text: Lato
     code: Roboto Mono
-  favicon: img/favicon.ico
+  favicon: img/logo2.png
   icon:
     repo: fontawesome/brands/github
   logo: img/logo2.png
