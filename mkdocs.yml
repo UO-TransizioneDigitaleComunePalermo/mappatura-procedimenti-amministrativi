@@ -168,10 +168,7 @@ nav:
         
     - About:
         - OpenDataSicilia: ods.md
-        
-    - Privacy/cookies: 
-        - Privacy/cookies: privacy.md
-        
+             
     - Prova 1:
         - Prova 1: prova1.md
         
@@ -181,4 +178,5 @@ nav:
     - Prova 3:
         - Prova 3: prova3.md   
         
-   
+    - Privacy/cookies: 
+        - Privacy/cookies: privacy.md
