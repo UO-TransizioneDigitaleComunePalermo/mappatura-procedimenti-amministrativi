@@ -14,31 +14,31 @@ hide:
 
 Il profilo è stato creato con lo strumeno [MKDocs Material](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
-Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** (`.MD`).
+Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`.
 
 Le pagine di queso progetto di documentazione vengono compilate su [GitHub ghpages](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions).
 
-Il link al progetto creato è [Ciro Spataro](https://cirospat.github.io/cirospataro)
+Il link al progetto creato è [https://cirospat.github.io/cirospataro](https://cirospat.github.io/cirospataro)
 
 !!! Note "credits"
-    Lavoro realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) e [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza.
+    Lavoro realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) di [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza.
     
 
-## Ambiti principali
-- i dati che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
-- l’ innovazione di processo e di servizio;
-- le competenze digitali dei dirigenti e dipendenti della Pubblica Amministrazione;
-- la cultura digitale e la cittadinanza digitale.
+## Ambiti principali di impegno
+- i `dati` che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
+- l’innovazione di `processo` e di `servizio`;
+- le `competenze digitali` dei dirigenti e dipendenti della Pubblica Amministrazione;
+- la `cultura digitale` e la `cittadinanza digitale`.
 
 
-## Cosa è
-Una raccolta di risorse sull'attività professionale di Ciro Spataro.
+## Cosa è questo progetto
+**Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ciro Spataro**.
 
 Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
 ## Strumenti integrati in questo progetto
-Sono stati utilizzati alcuni strumenti per arricchire l'esperienza di fruzione de contenuti di questo proegtto di socumentazione
+Sono stati utilizzati alcuni strumenti per arricchire l'esperienza di fruzione dei contenuti di questo proegtto di documentazione
 
 ??? Note "strumenti utilizzati"
     - **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
