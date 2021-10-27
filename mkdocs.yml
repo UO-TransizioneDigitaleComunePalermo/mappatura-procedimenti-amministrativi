@@ -4,8 +4,8 @@ site_url: https://cirospat.github.io/cirospataro/
 site_description: Profilo di Ciro Spataro
 
 ## Repository
-# repo_name: cirospat mkdocs-style
-# repo_url: https://github.com/cirospat/mkdocs-style
+# repo_name: ciro spataro
+# repo_url: https://github.com/cirospat/cirospataro/
 # edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
@@ -26,7 +26,7 @@ extra:
       link: https://www.facebook.com/ciro.spataro.3
       name: facebook
     - icon: fontawesome/brands/github
-      link: https://github.com/cirospat/mkdocs-style
+      link: https://github.com/cirospat/cirospataro
       name: Repoisitory GitHub
     - icon: fontawesome/brands/telegram
       link: https://t.me/opendatasicilia
