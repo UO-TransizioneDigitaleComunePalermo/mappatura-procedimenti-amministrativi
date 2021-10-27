@@ -1,10 +1,10 @@
 {
-    "name": "cirospat mkdocs-style",
-    "short_name": "cirospat mkdocs-style",
-    "start_url": "https://github.com/cirospat/mkdocs-style",
+    "name": "ciro spataro",
+    "short_name": "ciro spataro",
+    "start_url": "https://github.com/cirospat/cirospataro",
     "display": "standalone",
     "background_color": "#fff",
-    "description": "cirospat mkdocs-style ",
+    "description": "ciro spataro ",
     "lang": "it-IT",
     "theme_color": "white"
 }
