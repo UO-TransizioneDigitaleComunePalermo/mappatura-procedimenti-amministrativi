@@ -16,26 +16,23 @@ Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **Mar
 
 Le pagine di queso progetto di documentazione vengono compilate su [GitHub ghpages](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions).
 
-
 Il link al progetto creato è [Ciro Spataro](https://cirospat.github.io/cirospataro)
 
-**Cosa deve cambiare l'utente per generare progetti di documentazione online con MKDocs a partire da questo modello**
+!!! Note "nota"
+    Lavoro realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) e [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza.
+    
 
-- i parametri del file `mkdocs.yml`
-- i contenuti nel file `index.md` che si trova nella directory `docs`
-- i contenuti dei file `.md` che si trovano dentro la cartella madre `docs` (ed eventualmente sotto cartelle) e che rappresentano il nome dei capitoli o sezioni del documento. Ogni file `.md` è la pagine web del progetto di documentazione
-- inserire le immagini nella cartella `img` che si trova nel percorso `mkdocs-style/docs/img/`
-- inserire il favicon che si trova al seguente percorso `mkdocs-style/docs/overrides/.icons/favicon.png`. E' facoltativo e non è importante
-- inserire i dati nel file `docs/manifest.webmanifest`
+## Ambiti principali
+- i dati che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
+- l’ innovazione di processo e di servizio;
+- le competenze digitali dei dirigenti e dipendenti della Pubblica Amministrazione;
+- la cultura digitale e la cittadinanza digitale.
 
 
 ## Cosa è
 Una raccolta di risorse sull'attività professionale di Ciro Spataro.
 
 Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
-
-!!! Note "nota"
-    Lavoro realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) e [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza.
 
 
 ## Strumenti integrati in questo progetto
