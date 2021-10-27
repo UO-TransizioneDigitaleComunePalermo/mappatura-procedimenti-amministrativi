@@ -1,0 +1,1 @@
+<a href="mailto:cirospat@gmail.com" target="_blank" rel="noopener" title="email cirospat"><img src="https://img.shields.io/badge/email-cirospat@gmail.com-red.svg?style=popout&logo=gmail&logoColor=red" /></a>
