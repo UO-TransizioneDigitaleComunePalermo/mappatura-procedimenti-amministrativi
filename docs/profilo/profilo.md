@@ -27,29 +27,26 @@ Avvio e gestione della procedura di digitalizzazione delle note tramite procedur
 - [Portale di formazione/informazione open data](https://sites.google.com/view/opendataformazione) - cc by sa 
 - [Github repository codice](https://github.com/cirospat) - cc by sa 
 - [Portale open data del comune di Palermo](http://opendata.comune.palermo.it/) (in collaborazione con il webmaster) 2013-now - cc by 
-- Redazione partecipata del report di candidatura della città di Palermo al titolo di "capitale europea dell'innovazione, edizione 2019". cc by
-- Maps hub by cirospat  - cc by sa 
-- Palermo_maps, uno sguardo alla città attraverso le mappe - cc by sa 
-- Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search - (interfaccia di navigazione Simile Exhibit) - cc by 
-- Piano strategico della mobilità sostenibile di Palermo (2007) - cc by 
-- 1° Rapporto sullo stato dell'Ambiente della città di Palermo (2006) - cc by 
-- Piano strategico di Palermo (2008) - cc by 
-- Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs cc by e Linee guida comunali open data 2017 Palermo in formato aperto - cc by sa
+- [Redazione partecipata del report di candidatura della città di Palermo al titolo di "capitale europea dell'innovazione, edizione 2019"](https://docs.google.com/document/d/1LwcdcBhkrJxzaNQtzvp43vCaFvDBVVLbFv1CkdR348o/edit#). cc by
+- [Maps hub by cirospat](https://cirospat.github.io/maps/index.html) - cc by sa 
+- [Piano strategico della mobilità sostenibile di Palermo (2007)](https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf) - cc by 
+- [1° Rapporto sullo stato dell'Ambiente della città di Palermo (2006)](https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf) - cc by 
+- [Piano strategico di Palermo (2008)](https://app.box.com/s/d2le0fdlqy4svt32gy5o) - cc by 
+- [Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs](http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/) - cc by 
+- [Pubblicazioni (regolamenti, linee guida) su Read the Docs](http://documenti-comune-palermo.readthedocs.io/it/latest/) - cc by 
+- [Come creare una pubblicazione su Read the Docs, per documenti pubblici, con lo stile Docs Italia](http://come-creare-guida.readthedocs.io/it/latest/) - cc by sa 
+- [Samba della transizione al digitale nella pubblica amministrazione](http://samba-digitale-pa.readthedocs.io/) - cc by 
+- [Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA)](http://forumpa-librobianco-innovazione-2018.readthedocs.io/) e [versione finale partecipata del Libro Bianco 2018](https://librobianco-innovazione-pa2018-final.readthedocs.io/) - cc by nc sa 
+- [Libro bianco delle Responsive cities, 2021 (FPA)](https://librobianco-responsive-city-fpa-2020.readthedocs.io/) - cc by nc sa 
+- [Palermo sostenibile prototipo di archivio sulla sostenibilità a Palermo, in collaborazione con l’architetto Paola Caselli (2018)](https://palermo-sostenibile.readthedocs.io/) - cc by sa
 
-## Pubblicazioni (regolamenti, linee guida) su Read the Docs 
-- Come creare una pubblicazione su Read the Docs, per documenti pubblici, con lo stile Docs Italia - cc by sa 
-- Samba della transizione al digitale nella pubblica amministrazione - cc by 
-- Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA) e versione finale partecipata del Libro Bianco 2018 - cc by nc sa 
-- Libro bianco delle Responsive cities, 2021 (FPA) - cc by nc sa 
-- Palermo sostenibile prototipo di archivio sulla sostenibilità a Palermo, in collaborazione con l’architetto Paola Caselli (2018) cc by sa
+Visualizzazione in un pannello di controllo dei [**servizi comunali di Palermo**](https://cirospat.github.io/servizi-comunepalermo/) (informazioni tratte dalle carte dei servizi e dal sito web istituzionale) - cc by sa 
 
-Visualizzazione in un pannello di controllo dei **servizi comunali di Palermo** (informazioni tratte dalle carte dei servizi e dal sito web istituzionale) - cc by sa 
+Visualizzazione in un pannello di controllo delle attività relative ai [**procedimenti amministrativi comunali di Palermo versione dicembre 2020**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) (da una ricognizione del dicembre 2020) - cc by sa 
 
-Visualizzazione in un pannello di controllo delle attività relative ai **procedimenti amministrativi comunali di Palermo versione dicembre 2020** (da una ricognizione del dicembre 2020) - cc by sa 
+Visualizzazione in un pannello di controllo delle attività relative ai [**procedimenti amministrativi comunali di Palermo, versione ottobre 2011**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-palermo-delibera-cc-608-27_10_2011/) (dalla Deliberazione C.C. 608 del 27.10.2011) - cc by sa 
 
-Visualizzazione in un pannello di controllo delle attività relative ai **procedimenti amministrativi comunali di Palermo, versione ottobre 2011** (dalla Deliberazione C.C. 608 del 27.10.2011) - cc by sa 
-
-Visualizzazione degli **interventi finanziati dal Piano Nazionale Ripresa e Resilienza (2021), versione maggio 2021** - cc by 
+Visualizzazione degli [**interventi finanziati dal Piano Nazionale Ripresa e Resilienza (2021), versione maggio 2021**](https://cirospat.github.io/pnrr_2021_opendata/) - cc by 
 
 
 ## UE projects
@@ -61,7 +58,7 @@ Visualizzazione degli **interventi finanziati dal Piano Nazionale Ripresa e Resi
 
 ---
 
-### Tipologie di licenze aperte:
+### Tipologie di licenze aperte utilizzate nei lavori
 - licenza Creative Commons, attribuzione dell'opera **CC BY** 
 - licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo **CC BY SA** 
 - licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali **CC BY NC SA**.
