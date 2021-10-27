@@ -1,16 +1,17 @@
 # Tutorial, manuali, corsi/webinar
 
-[**Accussì**](http://accussi.opendatasicilia.it/) catalogo di Tutorial, perché i tutorial sono il sudore delle persone che condividono conoscenza
+➽ [**Accussì**](http://accussi.opendatasicilia.it/) catalogo di Tutorial, perché i tutorial sono il sudore delle persone che condividono conoscenza
 
-[**Tansignari**](http://tansignari.opendatasicilia.it/), quando le cose spiegate in 2 minuti non si perdono. Tansignari è un’idea di Andrea Borruso, ed è un patrimonio culturale della comunità opendatasicilia. Chiunque vuole conoscere come funziona qualcosa concernente qualsiasi cosa abbia relazione con lo sviluppo informatico, crea una issue su un repository di GitHub, così che una volta fornita la risposta (da parte di qualcuno che conosce la materia), si creano delle ricette in un unico contenitore condiviso online che rappresentano la conoscenza.
+➽ [**Tansignari**](http://tansignari.opendatasicilia.it/), quando le cose spiegate in 2 minuti non si perdono. Tansignari è un’idea di Andrea Borruso, ed è un patrimonio culturale della comunità opendatasicilia. Chiunque vuole conoscere come funziona qualcosa concernente qualsiasi cosa abbia relazione con lo sviluppo informatico, crea una issue su un repository di GitHub, così che una volta fornita la risposta (da parte di qualcuno che conosce la materia), si creano delle ricette in un unico contenitore condiviso online che rappresentano la conoscenza.
 
-[**Definizione Standard per il paniere di dataset degli Enti Locali della Regione Lombardia**](https://definizione-standard-paniere-dataset-enti-locali.readthedocs.io/) un documento che definisce uno standard per il paniere di dataset da pubblicare da parte degli Enti Locali (ringraziamenti a Daniele Crespi).
+➽ [**Definizione Standard per il paniere di dataset degli Enti Locali della Regione Lombardia**](https://definizione-standard-paniere-dataset-enti-locali.readthedocs.io/) un documento che definisce uno standard per il paniere di dataset da pubblicare da parte degli Enti Locali (ringraziamenti a Daniele Crespi).
 
-[**Pubblicare documenti su “Read the Docs” utilizzando Google doc e il componente aggiuntivo GGeditor**](http://googledocs.readthedocs.io/) un componente aggiuntivo (GGeditor) per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il «commit» sul progetto Github direttamente da Google doc.
+➽ [**Pubblicare documenti su “Read the Docs” utilizzando Google doc e il componente aggiuntivo GGeditor**](http://googledocs.readthedocs.io/) un componente aggiuntivo (GGeditor) per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il «commit» sul progetto Github direttamente da Google doc.
 
-[Dai fogli di GoogleDrive alle mappe openstreetmap di uMap](http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html) creare mappe su UMAP che si aggiornano automaticamente dai fogli spreadsheet di Google Drive. Il mio primo tutorial di sempre (grazie ad Andrea Borruso).
+➽ [**Dai fogli di GoogleDrive alle mappe openstreetmap di uMap**](http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html) creare mappe su UMAP che si aggiornano automaticamente dai fogli spreadsheet di Google Drive. Il mio primo tutorial di sempre (grazie ad Andrea Borruso).
 
-[**Realizzazione di un progetto a basso costo per il rilevamento dei dati sulle polveri sottili dal proprio balcone**](https://medium.com/@cirospat/realizzazione-di-un-progetto-low-cost-per-il-rilevamento-dati-delle-polveri-sottili-dal-proprio-e85188d9ad0) cosa comprare (spendendo meno di 50 euro), come assemblare la componentistica e come connettere la propria stazione ad una rete mondiale di rilevamento delle polveri sottili, ottenendo la disponibilità dei dati in formato aperto (CSV, JSON) per attività di analisi.
+➽ [**Realizzazione di un progetto a basso costo per il rilevamento dei dati sulle polveri sottili dal proprio balcone**](https://medium.com/@cirospat/realizzazione-di-un-progetto-low-cost-per-il-rilevamento-dati-delle-polveri-sottili-dal-proprio-e85188d9ad0) cosa comprare (spendendo meno di 50 euro), come assemblare la componentistica e come connettere la propria stazione ad una rete mondiale di rilevamento delle polveri sottili, ottenendo la disponibilità dei dati in formato aperto (CSV, JSON) per attività di analisi.
+
 
 ## Corsi online su “competenze e servizi digitali”
 
