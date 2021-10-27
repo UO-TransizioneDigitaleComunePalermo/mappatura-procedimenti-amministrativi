@@ -1,7 +1,6 @@
 ---
 title: Ciro Spataro 
 hide:
-  - toc
   - navigation
 ---
 
