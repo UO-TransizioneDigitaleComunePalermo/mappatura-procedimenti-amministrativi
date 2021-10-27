@@ -38,7 +38,7 @@
 ## Manuali vari
 ➽ [**Manuale d'uso dell'applicativo Open Agenda per la catalogazione e pubblicazione degli eventi pubblici**](http://manuale-openagenda.readthedocs.io/), effettuata tramite l’uso di un vocabolario controllato (applicativo in uso e riuso nelle Pubbliche Amministrazioni).
 
-➽ [**Manuale d'uso dell'applicativo Libro Firma in uso al Comune di Palermo](https://manuale-libro-firma-2-0.readthedocs.io/).
+➽ [**Manuale d'uso dell'applicativo Libro Firma in uso al Comune di Palermo**](https://manuale-libro-firma-2-0.readthedocs.io/).
 
 ➽ [**Manuale per il caricamento dei dataset sul portale open data del comune di Palermo**](http://upload-dataset-comunepalermo.readthedocs.io/).
 
