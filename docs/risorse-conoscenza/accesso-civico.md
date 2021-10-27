@@ -10,7 +10,7 @@ L'accesso civico (semplice o generalizzato) consente a chiunque di accedere a da
 <a href="https://www.facebook.com/marina.galluzzo.7" target="_blank">Marina Galluzzo</a> <br>
 
 ## FOIA POP
-[FOIA: Freedom Of Information Act]
+**FOIA: Freedom Of Information Act**
 
 [http://www.foiapop.it ](http://www.foiapop.it/) - cerca tra più di 20000 Pubbliche Amministrazioni italiane. Crea passo passo la tua richiesta di accesso civico semplice e generalizzato a partire dagli opendata. Scopri come le PA spendono i soldi e come si finanziano. Diventa un cittadino attivo.
 
