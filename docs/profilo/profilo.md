@@ -4,14 +4,14 @@
 0917407340 - c.spataro@comune.palermo.it
 
 ## Competenze
-In attuazione di quanto previsto dal C.A.D., l’U.O. assume qualsiasi iniziativa e misura conforme ad agenda digitale e/o proposta in materia di sviluppo e innovazione tecnologica con riferimento a tutte le Aree dell’Amministrazione e delle relative attività, ivi comprese quelle che coinvolgono le società c/o Enti partecipati. Le iniziative e/o proposte comprendono l’individuazione degli ambiti, le modalità operative, la qualificazione dei costi, i provvedimenti e le scelte delle modalità di realizzazione.
+In attuazione di quanto previsto dal C.A.D., l’U.O. assume qualsiasi iniziativa e misura conforme ad agenda digitale e/o proposta in materia di sviluppo e innovazione tecnologica con riferimento a tutte le Aree dell’Amministrazione e delle relative attività, ivi comprese quelle che coinvolgono le società e / o Enti partecipati.
 
-Supporto al Dirigente nella progettazione, pianificazione e coordinamento delle attività relative ai progetti innovativi, alla pubblicazione dei dati, anche sulla sezione open data, coordinando tutti gli uffici dell’Amministrazione. Coordinamento degli adempimenti in capo al dirigente e al servizio Innovazione relativi in materia di pubblicazione, trasparenza, conservazione digitale e relative al C.A.D..
+Supporto al Dirigente nella progettazione, pianificazione e coordinamento delle attività relative ai progetti innovativi, alla pubblicazione dei dati, anche sulla sezione open data, coordinando tutti gli uffici dell’Amministrazione. Coordinamento degli adempimenti in capo al dirigente e al servizio Innovazione relativi in materia di pubblicazione, trasparenza, conservazione digitale e relative al [Codice dell'Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html).
 
 Avvio e gestione della procedura di digitalizzazione delle note tramite procedura Libro Firma Digitale e ogni altro adempimento relativo all’ambito del passaggio al digitale.
 
 ## CV
-[CV](https://................)
+[CV di Ciro Spataro](profilo/cv.md)
 
 ## Engagement
 2013 - current
