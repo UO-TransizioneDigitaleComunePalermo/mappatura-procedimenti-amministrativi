@@ -20,6 +20,7 @@ Le pagine di queso progetto di documentazione vengono compilate su [GitHub ghpag
 Il link al progetto creato è [Ciro Spataro](https://cirospat.github.io/cirospataro)
 
 **Cosa deve cambiare l'utente per generare progetti di documentazione online con MKDocs a partire da questo modello**
+
 - i parametri del file `mkdocs.yml`
 - i contenuti nel file `index.md` che si trova nella directory `docs`
 - i contenuti dei file `.md` che si trovano dentro la cartella madre `docs` (ed eventualmente sotto cartelle) e che rappresentano il nome dei capitoli o sezioni del documento. Ogni file `.md` è la pagine web del progetto di documentazione
