@@ -29,13 +29,13 @@ extra:
       link: https://github.com/cirospat/mkdocs-style
       name: Repoisitory GitHub
     - icon: fontawesome/brands/telegram
-      link: editare url dell'eventuale gruppo telegram
+      link: https://t.me/opendatasicilia
       name: gruppo Telegram
     - icon: fontawesome/solid/envelope
       link: mailto:cirospat@gmail.com
       name: mail to cirospat@gmail.com
     - icon: fontawesome/solid/file-pdf
-      link: https://cirospat.github.io/mkdocs-style/print_page/
+      link: https://cirospat.github.io/cirospataro/print_page/
       name: Scarica il documento in formato PDF
   # analytics:
   # provider: google
