@@ -60,7 +60,7 @@ theme:
   
   palette:
     - scheme: default
-      primary: teal           # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
+      primary: light grey           # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
       accent: red              # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
       toggle:
         icon: material/toggle-switch
