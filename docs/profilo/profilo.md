@@ -21,12 +21,12 @@ Avvio e gestione della procedura di digitalizzazione delle note tramite procedur
 [Azioni svolte dal Comune di Palermo per l’attuazione del C.A.D. e del Piano Triennale per l’Informatica nella PA](comune-palermo/attuazione-cad.md)
 
 ## works
-- Pubblicazioni varie su Palermo consultabili su una mappa georeferenziata - cc by sa 
-- Accussì, catalogo di tutorial cc by sa
-- Petrusino, catalogo di mappe con dati aperti - cc by sa 
-- Portale di formazione/informazione open data - cc by sa 
-- Github repository codice - cc by sa 
-- Portale open data del comune di Palermo (in collaborazione con il webmaster) 2013-now - cc by
+- [Pubblicazioni varie su Palermo consultabili su una mappa georeferenziata](https://umap.openstreetmap.fr/it/map/pubblicazioni-sul-territorio-di-palermo_137398) - cc by sa 
+- [Accussì, catalogo di tutorial](http://accussi.opendatasicilia.it/)  - cc by sa
+- [Petrusino, catalogo di mappe con dati aperti](http://petrusino.opendatasicilia.it/) - cc by sa 
+- [Portale di formazione/informazione open data](https://sites.google.com/view/opendataformazione) - cc by sa 
+- [Github repository codice](https://github.com/cirospat) - cc by sa 
+- [Portale open data del comune di Palermo](http://opendata.comune.palermo.it/) (in collaborazione con il webmaster) 2013-now - cc by
 
 ## Redazione partecipata del report di candidatura della città di Palermo al titolo di "capitale europea dell'innovazione, edizione 2019". cc by
 - Maps hub by cirospat  - cc by sa 
