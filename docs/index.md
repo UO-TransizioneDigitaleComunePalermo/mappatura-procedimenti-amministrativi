@@ -18,7 +18,7 @@ Le pagine di queso progetto di documentazione vengono compilate su [GitHub ghpag
 
 Il link al progetto creato è [Ciro Spataro](https://cirospat.github.io/cirospataro)
 
-!!! Note "nota"
+!!! Note "credits"
     Lavoro realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) e [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza.
     
 
