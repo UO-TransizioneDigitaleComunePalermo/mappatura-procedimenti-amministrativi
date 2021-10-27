@@ -1,6 +1,8 @@
 # OpendataSicilia
 
-**Opendatasicilia**, community sulla cultura dei dati aperti è una iniziativa civica condivisa da più persone, che si propone di far conoscere e diffondere la cultura dell’open government e le prassi dell’open data nel nostro territorio e aprire una discussione pubblica partecipata. Un gruppo di cittadini con diverse storie, competenze, professioni. Siamo accomunati dalla genuina volontà di contribuire a migliorare la qualità della vita della nostra comunità. Lo vogliamo fare con spirito di collaborazione e concretezza.
+**Opendatasicilia**, community sulla cultura dei dati aperti è una iniziativa civica condivisa da più persone, che si propone di far conoscere e diffondere la cultura dell’open government e le prassi dell’open data nel nostro territorio e aprire una discussione pubblica partecipata. 
+
+Un gruppo di cittadini con diverse storie, competenze, professioni. Siamo accomunati dalla genuina volontà di contribuire a migliorare la qualità della vita della nostra comunità. Lo vogliamo fare con spirito di collaborazione e concretezza.
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/Zj2Kosq-v6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <br>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/QOd1SKzxRqA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
