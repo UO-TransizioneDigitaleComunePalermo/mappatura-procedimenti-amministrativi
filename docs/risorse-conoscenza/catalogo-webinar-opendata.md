@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+---
+
+
 # Catalogo webinar open data
 Un ricco catalogo di webinar su open data
 
