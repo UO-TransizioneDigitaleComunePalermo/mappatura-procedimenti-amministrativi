@@ -1,7 +1,7 @@
 # Work profile
 ⤷ Comune di Palermo | Servizio Innovazione | U.O. Transizione al Digitale 
 
-0917407340 - c.spataro@comune.palermo.it
+:telephone_receiver:  0917407340 | :envelope_with_arrow: c.spataro@comune.palermo.it
 
 ## Competenze
 In attuazione di quanto previsto dal C.A.D., l’U.O. assume qualsiasi iniziativa e misura conforme ad agenda digitale e/o proposta in materia di sviluppo e innovazione tecnologica con riferimento a tutte le Aree dell’Amministrazione e delle relative attività, ivi comprese quelle che coinvolgono le società e / o Enti partecipati.
