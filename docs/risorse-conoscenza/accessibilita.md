@@ -236,7 +236,7 @@ Vedi le domande frequenti su accessibilità, sul portale AgID.
 ## Check the Accessibility of a PDF Document - controlla l'accessibilità di un documento PDF
 http://checkers.eiii.eu/en/pdfcheck servizio online di verifica.
 
-## #Strumenti open source per le verifiche di accessibilità:
+## Strumenti open source per le verifiche di accessibilità:
 - Strumenti open source per le verifiche di accessibilità (a cura di AgID):
 - Validatore W3C
 - Colour Contrast Analyzer: (tool da scaricare)
