@@ -6,7 +6,7 @@ hide:
 # Accesso Civico
 L'accesso civico (semplice o generalizzato) consente a chiunque di accedere a dati, documenti e informazioni delle pubbliche amministrazioni senza necessità di dimostrare un interesse legittimo (art. 5, D.Lgs. 33/2013).
 
-<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/accesso_civico.jpg" width="400" /> infografica a cura di
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/accesso_civico.jpg" width="700" /> infografica a cura di
 <a href="https://www.facebook.com/marina.galluzzo.7" target="_blank">Marina Galluzzo</a> <br>
 
 ## FOIA POP
