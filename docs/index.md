@@ -34,10 +34,10 @@ Una raccolta di risorse sull'attività professionale di Ciro Spataro.
 Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 !!! Note "nota"
-    **Admonition note**. Lavoro realizzato con il prezioso supporto tecnico di [@gbvitrano](https://github.com/gbvitrano), [@aborruso](https://github.com/aborruso) e [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza.
+    Lavoro realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) e [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza.
 
 
-## Strumenti integrati nel progetto
+## Strumenti integrati in questo progetto
 - **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
 - **Disqus** per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
 - **Strumento di generazione dei contenuti del progetto in formato PDF**, indicato in ogni pagina con il simbolo della stampante posizionato in alto a destra
