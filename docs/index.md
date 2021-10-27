@@ -1,6 +1,9 @@
 ---
 title: Ciro Spataro 
+hide:
+  - toc
 ---
+
 
 <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo_aggiornamento"> ![GitHub](https://img.shields.io/github/license/cirospat/cirospataro)
 
