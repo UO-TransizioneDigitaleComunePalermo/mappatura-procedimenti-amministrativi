@@ -7,7 +7,9 @@ title: Ciro Spataro
 
 
 # Profilo di Ciro Spataro
+![](img/cirospataro.jpg)
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
+
 Il profilo è stato creato con lo strumeno [MKDocs Material](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
 Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** (`.MD`).
