@@ -38,8 +38,7 @@ Descrivo le principali attività in cui sono impegnato per lavoro e per passione
 
 
 ## Strumenti integrati in questo progetto
-Elenco degli strumenti utilizzati in questo progetto di documentazione:
-
+Sono stati utilizzati alcuni strumenti per arricchire l'esperienza di fruzione de contenuti di questo proegtto di socumentazione
 
 ??? Note "strumenti utilizzati"
     - **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
