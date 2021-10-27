@@ -30,21 +30,21 @@ In generale, è possibile garantire una comprensione delle interfacce mantenendo
  
  
 ## Problemi di accessibilità informatica
-Applicazioni software e sistemi operativi
-Accessibilità delle interfacce e controlli di navigazione
-Hardware
-Accessibilità delle periferiche
-Web
-Accessibilità dei contenuti per il web 
-Accessibilità dei programmi di navigazione 
-Accessibilità dei programmi di sviluppo
+- Applicazioni software e sistemi operativi
+- Accessibilità delle interfacce e controlli di navigazione
+- Hardware
+- Accessibilità delle periferiche
+- Web
+- Accessibilità dei contenuti per il web 
+- Accessibilità dei programmi di navigazione 
+- Accessibilità dei programmi di sviluppo
 
 ## Accessibilità Web
 Raccomandazioni di riferimento
-W3C WCAG 2.1 (Web Content Accessibility Guidelines - Linee guida per l'accessibilità dei contenuti web tradotte in italiano) - Raccomandazione del 5 giugno 2018 
-W3C ATAG 2.0 (Authoring Tools Accessibility Guidelines) - Raccomandazione del 24 settembre 2015 
-W3C UAAG 2.0 (User Agent Accessibility Guidelines) - Raccomandazione del 15 dicembre 2015 
-W3C WAI-ARIA 1.1 (Accessible Rich Internet Applications) - Raccomandazione del 14 dicembre 2017
+- W3C WCAG 2.1 (Web Content Accessibility Guidelines - Linee guida per l'accessibilità dei contenuti web tradotte in italiano) - Raccomandazione del 5 giugno 2018 
+- W3C ATAG 2.0 (Authoring Tools Accessibility Guidelines) - Raccomandazione del 24 settembre 2015 
+- W3C UAAG 2.0 (User Agent Accessibility Guidelines) - Raccomandazione del 15 dicembre 2015 
+- W3C WAI-ARIA 1.1 (Accessible Rich Internet Applications) - Raccomandazione del 14 dicembre 2017
 
 ## Il Web e l’accessibilità
 La forza del web sta nella sua universalità. L’accesso da parte di chiunque, indipendentemente dalle disabilità, ne è un aspetto essenziale. Tim Berners Lee, Inventore del Web, Fondatore del W3C.
@@ -60,25 +60,26 @@ La direttiva riguarda sia i siti web che le applicazioni mobili di enti pubblici
 ## Direttiva UE su accessibilità Web: la specifica tecnica
 Dal punto di vista tecnico la Commissione Europea pubblicherà entro 24 mesi dall’entrata in vigore della direttiva una specifica tecnica dettagliata per i siti web e le applicazioni mobili. 
 In assenza della pubblicazione della specifica tecnica dovrà essere presa come riferimento la norma europea “EN 301 549 V1.1.2 (2015-04), Accessibility requirements suitable for public procurement of ICT products and services in Europe” (le pertinenti disposizioni per i contenuti dei siti web e per i contenuti delle applicazioni mobili).
-A   partire dai sei mesi successivi alla pubblicazione della direttiva, la Commissione potrà aggiornare il riferimento alla norma europea EN  301 549 V1.1.2 (2015-04) in modo da far riferimento ad una versione più recente di questo standard, o ad una norma europea che la sostituisce, rispondente ai requisiti di accessibilità di cui all’articolo 4 e garantire almeno un livello di accessibilità equivalente a quello garantito dalla norma europea EN 301 549 V1.1.2 (2015-04). 
+A partire dai sei mesi successivi alla pubblicazione della direttiva, la Commissione potrà aggiornare il riferimento alla norma europea EN  301 549 V1.1.2 (2015-04) in modo da far riferimento ad una versione più recente di questo standard, o ad una norma europea che la sostituisce, rispondente ai requisiti di accessibilità di cui all’articolo 4 e garantire almeno un livello di accessibilità equivalente a quello garantito dalla norma europea EN 301 549 V1.1.2 (2015-04). 
 
 ## Norma tecnica EN 301 549 v. 2.1.2 (08-2018)
-Requisiti di accessibilità per prodotti e servizi ICT:
-Prestazioni funzionali 
-Requisiti generici 
-ICT con comunicazione vocale bidirezionale
-ICT con funzionalità video 
-Hardware 
-Web 
-Documenti non Web 
-Software 
-Documentazione e servizi di supporto 
-ICT che fornisce ritrasmissione o accesso al servizio di emergenza 
+- Requisiti di accessibilità per prodotti e servizi ICT:
+- Prestazioni funzionali 
+- Requisiti generici 
+- ICT con comunicazione vocale bidirezionale
+- ICT con funzionalità video 
+- Hardware 
+- Web 
+- Documenti non Web 
+- Software 
+- Documentazione e servizi di supporto 
+- ICT che fornisce ritrasmissione o accesso al servizio di emergenza 
+
 Allegati: 
-Relazione tra EN 301 549 e i requisiti essenziali della direttiva 2016/2102 
-Relazione tra requisiti e dichiarazioni di prestazione funzionale 
-Determinazione della conformità
-HARMONISED EUROPEAN STANDARD - Accessibility requirements for ICT products and services.
+- Relazione tra EN 301 549 e i requisiti essenziali della direttiva 2016/2102 
+- Relazione tra requisiti e dichiarazioni di prestazione funzionale 
+- Determinazione della conformità
+- HARMONISED EUROPEAN STANDARD - Accessibility requirements for ICT products and services.
 
 
 ## WCAG 2.1. Nuovi (17) criteri di successo
@@ -88,23 +89,23 @@ Le linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1 comprendono una
 
 ## I criteri di successo per le WCAG 2.1 consistono in istruzioni testabili che non dipendono dalla tecnologia utilizzata.
 
-1.3.4 Orientamento (AA)
-1.3.5 Identificare lo scopo degli input (AA)
-1.3.6 Identificare lo scopo (AAA)
-1.4.10 Ricalcolo del flusso (AA)
-1.4.11 Contrasto in contenuti non testuali (AA)
-1.4.12 Spaziatura del testo (AA)
-1.4.13 Contenuto con Hover o Focus (AA)
-2.1.4 Tasti di scelta rapida (A)
-2.2.6 Termine del tempo (AAA)
-2.3.3 Animazione da interazioni (AAA)
-2.5.1 Movimenti del puntatore (A)
-2.5.2 Cancellazione delle azioni del puntatore (A)
-2.5.3 Etichetta nel nome (A) 
-2.5.4 Azionamento da movimento (A)
-2.5.5 Dimensione dell'obiettivo (AAA) 
-2.5.6 Meccanismi di input simultanei (AAA)
-4.1.3 Messaggi di stato (AA)
+- 1.3.4 Orientamento (AA)
+- 1.3.5 Identificare lo scopo degli input (AA)
+- 1.3.6 Identificare lo scopo (AAA)
+- 1.4.10 Ricalcolo del flusso (AA)
+- 1.4.11 Contrasto in contenuti non testuali (AA)
+- 1.4.12 Spaziatura del testo (AA)
+- 1.4.13 Contenuto con Hover o Focus (AA)
+- 2.1.4 Tasti di scelta rapida (A)
+- 2.2.6 Termine del tempo (AAA)
+- 2.3.3 Animazione da interazioni (AAA)
+- 2.5.1 Movimenti del puntatore (A)
+- 2.5.2 Cancellazione delle azioni del puntatore (A)
+- 2.5.3 Etichetta nel nome (A) 
+- 2.5.4 Azionamento da movimento (A)
+- 2.5.5 Dimensione dell'obiettivo (AAA) 
+- 2.5.6 Meccanismi di input simultanei (AAA)
+- 4.1.3 Messaggi di stato (AA)
  
 ## Direttiva UE su accessibilità Web: onere sproporzionato e dichiarazione di accessibilità
 La direttiva, all’articolo 5, introduce anche il concetto di onere sproporzionato per le pubbliche amministrazioni ma vi sarà anche l’obbligo per le pubbliche amministrazioni di pubblicare la dichiarazione di accessibilità secondo un modello che verrà fornito dalla Commissione (art. 7) entro 24 mesi dall’entrata in vigore della direttiva.
@@ -123,6 +124,7 @@ I corsi saranno progettati per insegnare come creare, gestire e aggiornare il co
  
 ## Direttiva UE su accessibilità Web: il Monitoraggio
 Decisione di esecuzione (UE) 2018/1524 della Commissione, dell’11 ottobre 2018, che stabilisce una metodologia di monitoraggio e definisce le disposizioni riguardanti la presentazione delle relazioni degli Stati membri conformemente alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici [notificata con il numero C(2018) 6560].
+
 Entro ventiquattro mesi dall’entrata in vigore della direttiva, la Commissione Europea fornirà una metodologia per effettuare il monitoraggio di siti web e applicazioni mobili (incluso un modello di report) e dopo cinque anni dall’entrata in vigore della direttiva (e successivamente ogni tre anni), gli Stati membri presenteranno alla Commissione una relazione sui risultati del monitoraggio. Gli Stati membri informeranno la Commissione sull’Ente che si occuperà del monitoraggio e dei report e sull’Ente che si occuperà dell’applicazione della direttiva.
  
 
@@ -135,34 +137,46 @@ Mobile app: dal 23 Giugno 2021.
  
 ## Novità
 Normativa italiana: 
-Schema decreto legislativo (16 maggio 2018).
-Decreto legislativo definitivo (10 agosto 2018 n. 106).
-Linee guida AGID (xxxxxxxxxx2019).
+
+- Schema decreto legislativo (16 maggio 2018).
+- Decreto legislativo definitivo (10 agosto 2018 n. 106).
+- Linee guida AGID (xxxxxxxxxx2019).
+
 Normativa europea: 
-Consultazione pubblica (18 maggio 2018)
-Metodologia di monitoraggio e valutazione (12 ottobre 2018).
-Modello di dichiarazione di accessibilità (12 ottobre 2018).
-Recepimento aggiornamento norma EN 301549 v. 2.1.2 (20 dicembre 2018).
-Norma tecnica europea armonizzata: 
-Approvazione finale (19 giugno 2018).
-Pubblicazione (28 agosto 2018).
+
+- Consultazione pubblica (18 maggio 2018)
+- Metodologia di monitoraggio e valutazione (12 ottobre 2018).
+- Modello di dichiarazione di accessibilità (12 ottobre 2018).
+- Recepimento aggiornamento norma EN 301549 v. 2.1.2 (20 dicembre 2018).
+- Norma tecnica europea armonizzata: 
+- Approvazione finale (19 giugno 2018).
+- Pubblicazione (28 agosto 2018).
+
 Traduzioni:
-WCAG 2.1: traduzione ufficiale in lingua italiana (13 settembre 2018)
-EN 301 549 v. 2.1.2: traduzione ufficiale in lingua italiana (30 novembre 2018).
+
+- WCAG 2.1: traduzione ufficiale in lingua italiana (13 settembre 2018)
+- EN 301 549 v. 2.1.2: traduzione ufficiale in lingua italiana (30 novembre 2018).
 
  
 ## Legge Stanca: cosa cambia (in sintesi)
 Aggiornato il titolo (Disposizioni per favorire e semplificare l'accesso degli utenti e, in particolare, delle persone con disabilità agli strumenti informatici). 
 Recepiti i dettami della direttiva UE 2016/2102.
+
 Aggiornate le terminologie (art. 2).
+
 Estesi i soggetti erogatori (art. 3).
+
 Eliminato il bollino di accessibilità (art. 6).
+
 Assegna compiti direttamente ad AGID di concerto con il Ministro per la famiglia e le disabilità (art. 7).
+
 Eliminati i decreti a favore di linee guida (art. 10 e 11).
+
 LEGGE 9 gennaio 2004, n. 4 ((Disposizioni per favorire e semplificare l'accesso degli utenti e, in particolare, delle persone con disabilità' agli strumenti informatici)).
  
 ## Art. 4 Legge 4/2004 Obblighi per l'accessibilità
 Nelle procedure svolte dai soggetti di cui all'articolo 3, comma 1, per l'acquisto di beni e per la fornitura di servizi informatici, i requisiti di accessibilità stabiliti con le linee guida di cui all'articolo 11 sono necessari.  La mancata considerazione dei requisiti di accessibilità o l'eventuale acquisizione di beni o fornitura di servizi non accessibili consentita nei casi di cui all’articolo 3, comma 2, ovvero in presenza di un onere sproporzionato nei casi di cui all’articolo 3-ter ed è adeguatamente motivata. 
+
 I soggetti di cui all'articolo 3, comma 1, non possono stipulare, a pena di nullità, contratti per la realizzazione e la modifica di siti web e applicazioni mobili quando non è previsto che essi rispettino i requisiti di accessibilità stabiliti dalle linee guida di cui all’articolo 11, fatto salvo quanto previsto dall’articolo 3-ter. I contratti in essere alla data di pubblicazione delle linee guida di cui all'articolo 11, in caso di rinnovo, modifica o novazione, sono adeguati, a pena di nullità, alle disposizioni della presente legge circa il rispetto dei requisiti di accessibilità, con l'obiettivo di realizzare tale adeguamento entro dodici mesi dalla medesima data di adozione delle predette linee guida.
 
 ## Responsabile della transazione digitale
@@ -216,33 +230,34 @@ Vedi documento ANAC.
 Vedi le domande frequenti su accessibilità, sul portale AgID.
 
 ## Evitiamo questi «orrori» di accessibilità
-ϕ HTML
 <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/orrore.JPG" />
-
 
 
 ## Check the Accessibility of a PDF Document - controlla l'accessibilità di un documento PDF
 http://checkers.eiii.eu/en/pdfcheck servizio online di verifica.
 
 ## #Strumenti open source per le verifiche di accessibilità:
-Strumenti open source per le verifiche di accessibilità (a cura di AgID):
-Validatore W3C
-Colour Contrast Analyzer: (tool da scaricare)
-Contrastchecker
-WebAIM
-Web Developer Toolbar: Firefox; Chrome;
-Siteimprove Browser Extensions: estensione per il browser Chrome
-JAWS Screen Reader
-Ulteriori strumenti sono elencati all’interno del sito del W3C
+- Strumenti open source per le verifiche di accessibilità (a cura di AgID):
+- Validatore W3C
+- Colour Contrast Analyzer: (tool da scaricare)
+- Contrastchecker
+- WebAIM
+- Web Developer Toolbar: Firefox; Chrome;
+- Siteimprove Browser Extensions: estensione per il browser Chrome
+- JAWS Screen Reader
+- Ulteriori strumenti sono elencati all’interno del sito del W3C
 
 ## Linee guida sull’accessibilità degli strumenti informatici
 Le linee guida sull'accessibilità degli strumenti informatici comprendono i seguenti documenti:
-Allegato 1. Modello di dichiarazione di accessibilità sito Web e applicazione mobile
-Allegato 2. Modello di autovalutazione
-Allegato 3. Prodotti per la classe 22 della UNI EN ISO 9999:2017 relativa alla comunicazione e gestione dell’informazione.
+
+- Allegato 1. Modello di dichiarazione di accessibilità sito Web e applicazione mobile
+- Allegato 2. Modello di autovalutazione
+- Allegato 3. Prodotti per la classe 22 della UNI EN ISO 9999:2017 relativa alla comunicazione e gestione dell’informazione.
+
 ⓘ Determinazione AGID n. 437 del 20 dicembre 2019
 Adozione delle Linee Guida sull’accessibilità degli strumenti informatici
 
 
-## Piattaforma online per la verifica del rispetto dei requisiti per l'accessibilità dei siti e servizi web della PA (https://form.agid.gov.it).
+## Piattaforma online per la verifica del rispetto dei requisiti per l'accessibilità dei siti e servizi web della PA 
+https://form.agid.gov.it.
 
