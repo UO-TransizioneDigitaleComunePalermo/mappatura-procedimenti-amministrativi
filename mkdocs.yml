@@ -1,7 +1,7 @@
 ## Project information
-site_name: cirospat mkdocs-style
-site_url: https://cirospat.github.io/mkdocs-style/
-site_description: cirospat mkdocs-style - modello di documentazione online
+site_name: Ciro Spataro
+site_url: https://cirospat.github.io/cirospataro/
+site_description: Profilo di Ciro Spataro
 
 ## Repository
 # repo_name: cirospat mkdocs-style
@@ -9,7 +9,7 @@ site_description: cirospat mkdocs-style - modello di documentazione online
 # edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <img src="https://img.shields.io/github/last-commit/cirospat/mkdocs-style.svg?&label=ultimo_aggiornamento">  <img src="https://img.shields.io/github/license/cirospat/mkdocs-style">
+copyright: <img src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo_aggiornamento">  <img src="https://img.shields.io/github/license/cirospat/cirospataro">
 
 ## Social Media
 extra:
@@ -17,7 +17,7 @@ extra:
   disqus: mkdocs
   social:
     - icon: fontawesome/solid/home
-      link: https://cirospat.github.io/mkdocs-style/
+      link: https://cirospat.github.io/cirospataro/
       name: Home Page
     - icon: fontawesome/brands/twitter
       link: http://twitter.com/cirospat
@@ -149,35 +149,32 @@ extra_css:
 nav:
     - Home: index.md
     
-    - Installazione:
-        - Insta 1: Installazione/insta1.md
-        - Insta 2:
-            -  Insta 2.1: Installazione/insta2_1.md
-            -  Insta 2.2: Installazione/insta2_2.md   
-        - Insta 3: Installazione/insta3.md 
+    - Profilo:
+        - Profilo work: profilo/profilo.md
+        - Opendatasicilia & communities: profilo/opendatasicilia-communities.md
+        - CV: profilo/cv.md
             
-    - Configurazione:
-        - Congf 1: Configurazione/conf1.md
-        - Congf 2: Configurazione/conf2.md
+    - Risorse e conoscenza:
+        - Risorse e conoscenza: risorse-conoscenza/risorse-conoscenza.md
+        - Tutorial manuali e corsi: risorse-conoscenza/tutorial-manuali-corsi.md
+        - Mappe: risorse-conoscenza/mappe.md
+        - Catalogo webinar opendata: risorse-conoscenza/catalogo-webinar-opendata.md
+        - Accesso Civico: risorse-conoscenza/accesso-civico.md
+        - Accessibilità: risorse-conoscenza/accessibilita.md
             
-    - Riferimenti:
-        - Rifer 1: Riferimenti/rifer1.md
-        - Rifer 2:
-            - Rifer 2.1: Riferimenti/rifer2_1.md
-            - Rifer 2.2: Riferimenti/rifer2_2.md 
-            - Rifer 2.3: Riferimenti/rifer2_3.md 
+    - Comune di Palermo:
+        - Open data e innovazione: comune-palermo/opendata-innovazione.md
+        - Catalogo servizi online: comune-palermo/catalogo-servizi-online.md
+        - Atuazione CAD: comune-palermo/attuazione-cad
+        - Lavoro Agile: comune-palermo/lavoro-agile.md
+        - Piano triennale informatica: comune-palermo/piano-triennale-informatica.md
+            
+    - Amministrazione digitale:
+        - Fondamentali per la PA digitale: amministrazione-digitale/fondamentali-pa-digitale.md
+        - Responsabile transizione digitale: amministrazione-digitale/rtd.md
+        - Competenze digitali dipendenti: amministrazione-digitale/competenze-digitali-dipendenti.md
+        - Competenze digitali cittadini: amministrazione-digitale/competenze-digitali-cittadini.md
+        - Vocaborlari controllati e ontologie: amministrazione-digitale/vocabolaricontrollati-ontologie.md
         
-    - About:
-        - OpenDataSicilia: ods.md
-             
-    - Prova 1:
-        - Prova 1: prova1.md
-        
-    - Prova 2:
-        - Prova 2: prova2.md
-        
-    - Prova 3:
-        - Prova 3: prova3.md   
-        
-    - Privacy/cookies: 
+    - Privacy | cookies: 
         - Privacy/cookies: privacy.md
