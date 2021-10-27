@@ -26,9 +26,8 @@ Avvio e gestione della procedura di digitalizzazione delle note tramite procedur
 - [Petrusino, catalogo di mappe con dati aperti](http://petrusino.opendatasicilia.it/) - cc by sa 
 - [Portale di formazione/informazione open data](https://sites.google.com/view/opendataformazione) - cc by sa 
 - [Github repository codice](https://github.com/cirospat) - cc by sa 
-- [Portale open data del comune di Palermo](http://opendata.comune.palermo.it/) (in collaborazione con il webmaster) 2013-now - cc by
-
-## Redazione partecipata del report di candidatura della città di Palermo al titolo di "capitale europea dell'innovazione, edizione 2019". cc by
+- [Portale open data del comune di Palermo](http://opendata.comune.palermo.it/) (in collaborazione con il webmaster) 2013-now - cc by 
+- Redazione partecipata del report di candidatura della città di Palermo al titolo di "capitale europea dell'innovazione, edizione 2019". cc by
 - Maps hub by cirospat  - cc by sa 
 - Palermo_maps, uno sguardo alla città attraverso le mappe - cc by sa 
 - Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search - (interfaccia di navigazione Simile Exhibit) - cc by 
@@ -37,7 +36,7 @@ Avvio e gestione della procedura di digitalizzazione delle note tramite procedur
 - Piano strategico di Palermo (2008) - cc by 
 - Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs cc by e Linee guida comunali open data 2017 Palermo in formato aperto - cc by sa
 
-## Pubblicazioni del comune di Palermo (regolamenti, linee guida) su Read the Docs - cc by 
+## Pubblicazioni (regolamenti, linee guida) su Read the Docs 
 - Come creare una pubblicazione su Read the Docs, per documenti pubblici, con lo stile Docs Italia - cc by sa 
 - Samba della transizione al digitale nella pubblica amministrazione - cc by 
 - Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA) e versione finale partecipata del Libro Bianco 2018 - cc by nc sa 
