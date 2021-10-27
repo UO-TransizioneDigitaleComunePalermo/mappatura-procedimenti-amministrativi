@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+---
+
+
 # Curriculum Vitae
 `aggiornato al 25 giugno 2021`
 
