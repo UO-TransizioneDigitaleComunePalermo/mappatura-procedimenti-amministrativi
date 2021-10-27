@@ -42,7 +42,7 @@
 
 ➽ [**Manuale per il caricamento dei dataset sul portale open data del comune di Palermo**](http://upload-dataset-comunepalermo.readthedocs.io/).
 
-➽ [**Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA**](https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html) (Modular Object-Oriented Dynamic Learning Environment, ambiente per l’apprendimento modulare, dinamico, orientato ad oggetti) è un ambiente informatico per la gestione di corsi, basato sull’ideologia costruzionista secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [Definizione di Wikipedia]. Vedi anche la guida a Moodle Learning Platform.
+➽ [**Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA**](https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html) (Modular Object-Oriented Dynamic Learning Environment, ambiente per l’apprendimento modulare, dinamico, orientato ad oggetti) è un ambiente informatico per la gestione di corsi, basato sull’ideologia costruzionista secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [Definizione di Wikipedia]. Vedi anche la [guida a Moodle Learning Platform](https://www.html.it/guide/moodle-learning-platform-la-guida/).
 
 
 
