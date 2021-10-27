@@ -11,7 +11,7 @@ Supporto al Dirigente nella progettazione, pianificazione e coordinamento delle 
 Avvio e gestione della procedura di digitalizzazione delle note tramite procedura Libro Firma Digitale e ogni altro adempimento relativo all’ambito del passaggio al digitale.
 
 ## CV
-[CV di Ciro Spataro](profilo/cv.md)
+[CV di Ciro Spataro](https://cirospat.github.io/cirospataro/profilo/cv/)
 
 ## Engagement
 2013 - current
