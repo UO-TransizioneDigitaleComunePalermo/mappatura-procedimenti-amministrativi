@@ -1,5 +1,5 @@
 # Work profile
-⤷ Comune di Palermo | Servizio Innovazione | U.O. Transizione al Digitale 
+⤷ :office: Comune di Palermo | Servizio Innovazione | U.O. Transizione al Digitale 
 
 :telephone_receiver:  0917407340 | :envelope_with_arrow: c.spataro@comune.palermo.it
 
