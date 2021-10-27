@@ -16,7 +16,7 @@ Il profilo è stato creato con lo strumeno [MKDocs Material](https://squidfunk.g
 
 Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`.
 
-Le pagine di queso progetto di documentazione vengono compilate su [GitHub ghpages](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions).
+Le pagine di queso progetto di documentazione vengono compilate su ![](https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png) [GitHub ghpages](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions).
 
 Il link al progetto creato è [https://cirospat.github.io/cirospataro](https://cirospat.github.io/cirospataro)
 
