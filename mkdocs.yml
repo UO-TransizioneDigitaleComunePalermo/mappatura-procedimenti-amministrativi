@@ -135,6 +135,7 @@ markdown_extensions:
 - abbr
 - pymdownx.snippets
 - footnotes
+- md_in_html
 
 
 ## Custom theme additions
