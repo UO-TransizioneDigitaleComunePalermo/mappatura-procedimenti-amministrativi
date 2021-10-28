@@ -10,7 +10,7 @@ hide:
 
 # Profilo di Ciro Spataro
 ![](img/cirospataro.jpg) 
-<img src="https://cirospat.readthedocs.io/it/latest/_images/index-cirospat_1.jpeg" width="160">
+
 
 ## Ambiti principali di impegno
 - i `dati` che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
@@ -21,6 +21,7 @@ hide:
 ## Cosa è questo progetto
 **Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ciro Spataro**.
 
+<img src="https://cirospat.readthedocs.io/it/latest/_images/index-cirospat_1.jpeg" width="160">
 Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
