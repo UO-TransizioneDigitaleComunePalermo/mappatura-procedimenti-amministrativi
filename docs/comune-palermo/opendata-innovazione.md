@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-   <td><code>ⓘ Hint</code>
+   <td><code>ⓘ Nota</code>
    </td>
   </tr>
   <tr>
@@ -109,8 +109,6 @@ Partecipazione alla redazione online del Programma nazionale per la cultura, la 
 
 Attività di assistenza costante al Responsabile Open Data del Comune di Palermo per l'attuazione delle linee guida comunali open data, in particolare con le prime attività del 2014 di:
 
-
-
 * creazione del database dei referenti tecnici e tematici open data del Comune, come nominati dai dirigenti (su invito del Responsabile open data); 
 * predisposizione del materiale didattico online per la formazione dei referenti open data comunali;
 * supporto tecnico ai referenti open data per l'attività di censimento delle banche dati da pubblicare sul portale open data. 
@@ -157,10 +155,8 @@ Cogestione del workshop pubblico open data nel contesto della 1° giornata della
 
 Due report sono disponibili sul workshop open data: 
 
-
-
-* [http://opendatasicilia.it/2014/07/14/prima-giornata-della-trasparenza-e-della-partecipazione-del-comune-di-palermo/](http://opendatasicilia.it/2014/07/14/prima-giornata-della-trasparenza-e-della-partecipazione-del-comune-di-palermo/) a cura di Andrea Borruso
-* [http://www.rosalio.it/2014/07/09/partecipazione-e-trasparenza-a-palermo-larte-del-non-fare/#comment-1349703](http://www.rosalio.it/2014/07/09/partecipazione-e-trasparenza-a-palermo-larte-del-non-fare/#comment-1349703) a cura di Ciro Spataro
+- [http://opendatasicilia.it/2014/07/14/prima-giornata-della-trasparenza-e-della-partecipazione-del-comune-di-palermo/](http://opendatasicilia.it/2014/07/14/prima-giornata-della-trasparenza-e-della-partecipazione-del-comune-di-palermo/) a cura di Andrea Borruso
+- [http://www.rosalio.it/2014/07/09/partecipazione-e-trasparenza-a-palermo-larte-del-non-fare/#comment-1349703](http://www.rosalio.it/2014/07/09/partecipazione-e-trasparenza-a-palermo-larte-del-non-fare/#comment-1349703) a cura di Ciro Spataro
 
 
 ### 2014 - adesione Palermo ad app IO RICICLO
@@ -675,52 +671,4 @@ Utilizzo del web service [Risk Tool Assesment](https://www.sicurezzait.gov.it) p
 
 ---
 
-
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>&lt;script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async>&lt;/script></code>
-<p>
-<code>&lt;div id="disqus_thread">&lt;/div></code>
-<p>
-<code>&lt;script></code>
-<p>
-<code>/**</code>
-<p>
-<code>*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</code>
-<p>
-<code>*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/</code>
-<p>
-<code>/*</code>
-<p>
-<code>var disqus_config = function () {</code>
-<p>
-<code>this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable</code>
-<p>
-<code>this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable</code>
-<p>
-<code>};</code>
-<p>
-<code>*/</code>
-<p>
-<code>(function() { // DON'T EDIT BELOW THIS LINE</code>
-<p>
-<code>var d = document, s = d.createElement('script');</code>
-<p>
-<code>s.src = '<a href="https://guida-readthedocs.disqus.com/embed.js">https://guida-readthedocs.disqus.com/embed.js</a>';</code>
-<code>s.setAttribute('data-timestamp', +new Date());</code>
-<p>
-<code>(d.head || d.body).appendChild(s);</code>
-<p>
-<code>})();</code>
-<p>
-<code>&lt;/script></code>
-<p>
-<code>&lt;noscript>Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript">comments powered by Disqus.&lt;/a>&lt;/noscript></code>
-   </td>
-  </tr>
-</table>
 
