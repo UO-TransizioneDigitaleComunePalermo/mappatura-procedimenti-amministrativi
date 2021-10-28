@@ -56,11 +56,11 @@ Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, prom
 
 
 !!! Note "Nota"
-    Da tempo il Consorzio dei Comuni Trentini sta lavorando a questo tema, in collaborazione con la Provincia autonoma di Trento, cercando di ideare metodologie e tecnologie semplici per consentire a tutti i propri soci di assolvere a questo obbligo, in linea peraltro con quanto previsto dal cap. 5.1.1.2 "<a href="http://infotn.byway.it/nl/link?c=1lv3&d=f3&h=255eojflqlhu2raf2tv6hl6tls&i=32e&iw=1&p=H653219741&s=lp&sn=bs&z=1nn">Catalogo dei servizi</a>" del Piano Triennale dell'Informatica 2019-2021. (<a href="http://infotn.byway.it/nl/link?c=1lv3&d=f3&h=2uap4jpa721nevjmlqhjm2vn88&i=32e&iw=1&n=bs&p=H301835223&s=wv&sn=bs">Fonte</a>).
+    Da tempo il Consorzio dei Comuni Trentini sta lavorando a questo tema, in collaborazione con la Provincia autonoma di Trento, cercando di ideare metodologie e tecnologie semplici per consentire a tutti i propri soci di assolvere a questo obbligo, in linea peraltro con quanto previsto dal [cap. 5.1.1.2](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/05_dati-della-pubblica-amministrazione.html#catalogo-dei-servizi (Catalogo dei servizi) del Piano Triennale dell'Informatica 2019-2021. [Fonte](https://infotn.byway.it/nl/link?c=1lv3&d=f3&h=2uap4jpa721nevjmlqhjm2vn88&i=32e&iw=1&n=bs&p=H301835223&s=wv&sn=bs).
+ 
 
-    
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/IE2UJCV2ggI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&lt;/iframe><br>
+<iframe src="https://www.youtube.com/embed/IE2UJCV2ggI" width="100%" height="500" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
+<br>
 The Catalogue of Services Action of the European Commission's ISA² Programme supports public administrations that create and exchange information on public service descriptions. To do so, it has created a common vocabulary for describing public services, the Core Public Service Vocabulary Application Profile (CPSV-AP), and provides interoperable tools to support local implementations. The CPSV-AP is a data model for harmonising the way public services are described on eGovernment portals. 
 
 [More about the Catalogue of Services](https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/about#what)
@@ -81,7 +81,9 @@ Un lavoro condiviso ed in progress che nasce dall'[hackathon di Udine del 15 giu
 
 
 ## Open Contracting Data Standard (OCDS)
-[Documentazione](https://standard.open-contracting.org/latest/it/). Obiettivi:
+[Documentazione](https://standard.open-contracting.org/latest/it/). 
+
+Obiettivi:
 
 * Ottenere valore per i soldi pubblici spesi dalle amministrazioni pubbliche.
 * Rafforzare la trasparenza, la responsabilità e l’integrità negli appalti pubblici.
