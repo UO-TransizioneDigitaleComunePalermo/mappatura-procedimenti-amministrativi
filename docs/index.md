@@ -22,6 +22,7 @@ hide:
 **Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ciro Spataro**.
 
 <img src="https://cirospat.readthedocs.io/it/latest/_images/index-cirospat_1.jpeg" width="160">
+
 Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
@@ -43,7 +44,7 @@ Il link al progetto creato è [https://cirospat.github.io/cirospataro](https://c
 
 
 ## Strumenti integrati in questo progetto
-Sono stati utilizzati alcuni strumenti per arricchire l'esperienza di fruzione dei contenuti di questo proegtto di documentazione
+Sono stati utilizzati alcuni strumenti per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione
 
 ??? Note "strumenti utilizzati"
     - **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
