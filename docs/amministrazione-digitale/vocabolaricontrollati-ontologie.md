@@ -1,34 +1,13 @@
-## Vocabolari controllati e ontologie per l'interoperabilità semantica
+# Vocabolari controllati e ontologie per l'interoperabilità semantica
 
 
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>&lt;img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/vocabolari-controllati-architettura-informazione.png" /> </code>
-<p>
-<code>&lt;/br></code>
-<p>
-<code>&lt;span class="footer_small">&lt;a href="<a href="https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html">https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html</a>" target="_blank">Architettura di riferimento per l'informazione del settore pubblico&lt;/a> (Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico, AgID).&lt;/span></code>
-   </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/vocabolari-controllati-architettura-informazione.png" /> 
 
-
-|
+[Architettura di riferimento per l'informazione del settore pubblico (Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico, AgID)](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html)
 
 
 ## Ontologia semantica, le basi
-
-
-```
-Ontologia semantica: le basi per comprendere facilmente ``ontologia`` e ``semantica``.
-```
-
-
-|
+Ontologia semantica: [le basi per comprendere facilmente "ontologia" e "semantica"](https://cirospat.readthedocs.io/it/latest/ontologia-semantica-le-basi.html).
 
 
 ## Interoperabilità semantica
@@ -36,32 +15,14 @@ Ontologia semantica: le basi per comprendere facilmente ``ontologia`` e ``semant
 Definizione di interoperabilità semantica: "**possibilità, offerta alle organizzazioni, di  elaborare informazioni da fonti esterne o secondarie senza perdere il reale significato  delle informazioni stesse nel processo di elaborazione**" (fonte: "[Linee Guida per l'interoperabilità semantica attraverso i Linked Open Data](https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf)" AgID).
 
 
-<table>
-  <tr>
-   <td><code>ⓘ Important</code>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#dati-della-pubblica-amministrazione">L’articolo 4 del Piano Triennale per l'informatica nella PA</a> definisce i <strong>vocabolari controllati e modelli dei dati</strong> come “un modo comune e condiviso per organizzare codici e nomenclature ricorrenti in maniera standardizzata e normalizzata (vocabolari controllati) e una concettualizzazione esaustiva e rigorosa nell’ambito di un dato dominio (ontologia o modello dei dati condiviso”).
-   </td>
-  </tr>
-</table>
+!!! Note "importante"
+    [L’articolo 4 del Piano Triennale per l'informatica nella PA](https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#dati-della-pubblica-amministrazione) definisce i **vocabolari controllati** e modelli dei dati come “un modo comune e condiviso per organizzare codici e nomenclature ricorrenti in maniera standardizzata e normalizzata (vocabolari controllati) e una concettualizzazione esaustiva e rigorosa nell’ambito di un dato dominio (ontologia o modello dei dati condiviso”).
 
 
 
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>&lt;iframe src="//www.slideshare.net/slideshow/embed_code/key/ijWjMuMPVxTyBU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> &lt;/iframe> &lt;div style="margin-bottom:5px"> &lt;strong> &lt;a href="//www.slideshare.net/GiorgiaLodi/interoperabilit-semantica-metadatazione-e-ontologie-per-la-pa" title="Interoperabilità semantica: metadatazione e ontologie per la PA" target="_blank">Interoperabilità semantica: metadatazione e ontologie per la PA&lt;/a> &lt;/strong> from &lt;strong>&lt;a href="https://www.slideshare.net/GiorgiaLodi" target="_blank">Giorgia Lodi&lt;/a>&lt;/strong> &lt;/div></code>
-   </td>
-  </tr>
-</table>
 
+<iframe src="www.slideshare.net/slideshow/embed_code/key/ijWjMuMPVxTyBU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen /iframe> 
 
-|
 
 
 ## Ontologia OPENARS (Parlamento Regionale Siciliano)
@@ -69,28 +30,14 @@ Definizione di interoperabilità semantica: "**possibilità, offerta alle organi
 [Ontologia](http://www.openars.org/openars/ontologia/) a cura di Davide Taibi e Giovanni Pirrotta ([Opendatasicilia](http://ods2018.opendatasicilia.it)). Guarda le relazioni in [questo schema dinamico](http://www.openars.org/core/webvowl/index.html#ontology).
 
 
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>&lt;img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/openars.jpg" /> &lt;/br></code>
-<p>
-<code>a cura di Giovanni Pirrotta e Davide Taibi</code>
-   </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/openars.jpg" /> <br>a cura di Giovanni Pirrotta e Davide Taibi
 
-
-|
 
 
 ## Vocabolario controllato degli eventi pubblici
 
 [Link](https://content-classes.readthedocs.io/it/latest/docs/Eventi%20pubblici%20(CPEV-AP_IT).html) alla risorsa creata da Opencontent. Vocabolario allineato a [Cultural ONtology](http://dati.beniculturali.it/cultural_on/) del Ministero dei Beni Culturali.
 
-|
 
 
 ## Vocabolario controllato dei servizi pubblici
