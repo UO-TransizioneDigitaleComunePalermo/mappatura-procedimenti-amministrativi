@@ -39,7 +39,7 @@ Le pagine di queso progetto di documentazione vengono compilate su ![](https://r
 Il link al codice del progetto è [https://github.com/cirospat/cirospataro](https://github.com/cirospat/cirospataro)
 
 !!! Note "credits"
-    ✅ Lavoro realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) di [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza e la voglia di condivere conoscenza :slight_smile:
+    Lavoro realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) di [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza e la voglia di condivere conoscenza :slight_smile:
     
 
 
