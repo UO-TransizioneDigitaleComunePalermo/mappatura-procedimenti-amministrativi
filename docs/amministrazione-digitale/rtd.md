@@ -64,69 +64,59 @@ Pagina dedicata alle [conferenze organizzate dall'AGID sui Responsabili Transizi
 ## Formazione RTD
 [Formazione anno 2019 sulla figura del RTD curata da AGID e FormezPA](https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/formazione-rtd).
 
+
 **Video webinar su RTD anno 2019**
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/DaM3xLumHYU" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen> /iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/DaM3xLumHYU" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen> </iframe>
 <br>
 <a href="http://eventipa.formez.it/node/197571" target="_blank"> Ruolo e funzione del Responsabile per la transizione al digitale nell'attuazione del Piano triennale (29 ottobre 2019) </a>
 
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/MAZniwA-wSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
 <br>
-<a href="http://eventipa.formez.it/node/199190" target="_blank"> Il documento amministrativo informatico (5 novembre 2019) </a>
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/MAZniwA-wSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<br>
+<a href="http://eventipa.formez.it/node/199190" target="_blank"> Il documento amministrativo informatico (5 novembre 2019)</a>
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/JFKaRAbnWnc" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen /iframe>
+<br>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/JFKaRAbnWnc" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen> </iframe>
 <br>
 <a href="http://eventipa.formez.it/node/200517" target="_blank">La riqualificazione della spesa ICT (12 novembre 2019) </a>
- 
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/AfzZUCwwejU" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen>&lt;/iframe></code>
 <br>
-<a href="http://eventipa.formez.it/node/202136" target="_blank">L'usabilità dei servizi digitali (19 novembre 2019) </a>
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/1RuK1f8H1ug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/AfzZUCwwejU" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen> </iframe>
+<br>
+<a href="http://eventipa.formez.it/node/202136" target="_blank">L'usabilità dei servizi digitali (19 novembre 2019)</a>
+
+<br>  
+  
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/1RuK1f8H1ug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 <br>
 <a href="http://eventipa.formez.it/node/204122" target="_blank"> Conservazione documentale: esperienze e casi d'uso (26 novembre 2019) </a> 
 
+<br>
 
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/c0qlGIM_CXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/c0qlGIM_CXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 <br>
 <a href="https://www.ot11ot2.it/notizie/video-e-materiali-del-webinar-sistemi-informativi-e-servizi-digitali-per-i-tributi-locali-e" target="_blank">Sistemi informativi e servizi digitali per i tributi locali e pagamenti elettronici - Catalogo delle esperienze OT2-T11 (27 novembre 2019) </a>
 
+<br>
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/IX4CiEBZZ98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<br>
+<a href="http://eventipa.formez.it/node/204606" target="_blank">La comunicazione dei servizi digitali (28 novembre 2019) </a> 
 
-<table>
-   <tr>
-   <td><code>&lt;iframe width="100%" height="500" src="https://www.youtube.com/embed/IX4CiEBZZ98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&lt;/iframe></code>
-<p>
-<code>&lt;span class="footer_small">&lt;a href="<a href="http://eventipa.formez.it/node/204606">http://eventipa.formez.it/node/204606</a>" target="_blank">La comunicazione dei servizi digitali<strong> (28 novembre 2019)&lt;/a></strong>&lt;/span></code>
-   </td>
-  </tr>
-</table>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/cHNngxMVkYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<br>
+<a href="http://eventipa.formez.it/node/206230" target="_blank">Favorire il riuso del software: dalle linee guida alle attività di supporto alle PA - (10 dicembre 2019) </a>
 
+<br>
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/KirEFMKyykU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<br>
+<a href="http://eventipa.formez.it/node/208262" target="_blank">L'accessibilità dei servizi digitali nel contesto normativo vigente e del regolamento Europeo Single Digital Gateway - (17 dicembre 2019) </a>
 
-<table>
-   <tr>
-   <td><code>&lt;iframe width="100%" height="500" src="https://www.youtube.com/embed/cHNngxMVkYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&lt;/iframe></code>
-<p>
-<code>&lt;span class="footer_small">&lt;a href="http://eventipa.formez.it/node/206230" target="_blank">Favorire il riuso del software: dalle linee guida alle attività di supporto alle PA<strong> (10 dicembre 2019)&lt;/a></strong>&lt;/span></code>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-   <tr>
-   <td><code>&lt;iframe width="100%" height="500" src="https://www.youtube.com/embed/KirEFMKyykU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&lt;/iframe></code>
-<p>
-<code>&lt;span class="footer_small">&lt;a href="<a href="http://eventipa.formez.it/node/208262">http://eventipa.formez.it/node/208262</a>" target="_blank">L'accessibilità dei servizi digitali nel contesto normativo vigente e del regolamento Europeo Single Digital Gateway<strong> (17 dicembre 2019)&lt;/a></strong>&lt;/span></code>
-   </td>
-  </tr>
-</table>
 
 ---
 
