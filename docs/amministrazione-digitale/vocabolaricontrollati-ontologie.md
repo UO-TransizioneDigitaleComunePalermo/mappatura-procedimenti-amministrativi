@@ -46,7 +46,7 @@ a cura di Giovanni Pirrotta e Davide Taibi
 [Consultazione sul profilo italiano dei metadati per i servizi pubblici (CPSV-AP_IT)](https://www.dati.gov.it/consultazione/CPSV-AP_IT). Versione draft 0.4 – per la consultazione pubblica. AGID.
 
 
-Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, promuovendo una visione integrata degli eventi della vita, degli eventi aziendali e dei servizi pubblici esistenti; in particolare, questa iniziativa (ISA²) della Commissione Europea (più volte citata come riferimento nel Piano Triennale dell'Informatica della PA) si prefigge di:
+Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, promuovendo una visione integrata degli eventi della vita, degli eventi aziendali e dei servizi pubblici esistenti; in particolare, questa iniziativa (ISA2) della Commissione Europea (più volte citata come riferimento nel Piano Triennale dell'Informatica della PA) si prefigge di:
 
 - analizzare le tipologie di servizi pubblici per cittadini ed imprese all'interno dell'UE, al fine di identificare le sfide e le buone pratiche da condividere; 
 - costruire il consenso sui modi comuni di rappresentare eventi della vita, eventi aziendali e servizi pubblici, oltre i confini e tra i settori. Ciò ha portato alla creazione di un <strong>vocabolario condiviso</strong> per descrivere i servizi pubblici; 
@@ -56,7 +56,7 @@ Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, prom
 
 
 !!! Note "Nota"
-    Da tempo il Consorzio dei Comuni Trentini sta lavorando a questo tema, in collaborazione con la Provincia autonoma di Trento, cercando di ideare metodologie e tecnologie semplici per consentire a tutti i propri soci di assolvere a questo obbligo, in linea peraltro con quanto previsto dal [cap. 5.1.1.2](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/05_dati-della-pubblica-amministrazione.html#catalogo-dei-servizi (Catalogo dei servizi) del Piano Triennale dell'Informatica 2019-2021. [Fonte](https://infotn.byway.it/nl/link?c=1lv3&d=f3&h=2uap4jpa721nevjmlqhjm2vn88&i=32e&iw=1&n=bs&p=H301835223&s=wv&sn=bs).
+    Da tempo il Consorzio dei Comuni Trentini sta lavorando a questo tema, in collaborazione con la Provincia autonoma di Trento, cercando di ideare metodologie e tecnologie semplici per consentire a tutti i propri soci di assolvere a questo obbligo, in linea peraltro con quanto previsto dal [cap. 5.1.1.2](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/05_dati-della-pubblica-amministrazione.html#catalogo-dei-servizi) sul Catalogo dei servizi del Piano Triennale dell'Informatica 2019-2021. [Fonte](https://infotn.byway.it/nl/link?c=1lv3&d=f3&h=2uap4jpa721nevjmlqhjm2vn88&i=32e&iw=1&n=bs&p=H301835223&s=wv&sn=bs).
  
 
 <iframe src="https://www.youtube.com/embed/IE2UJCV2ggI" width="100%" height="500" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
