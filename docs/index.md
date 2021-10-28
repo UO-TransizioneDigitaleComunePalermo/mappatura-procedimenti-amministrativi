@@ -9,10 +9,26 @@ hide:
 
 
 # Profilo di Ciro Spataro
-![](img/cirospataro.jpg)
+![](img/cirospataro.jpg) 
+<img src="https://cirospat.readthedocs.io/it/latest/_images/index-cirospat_1.jpeg" width="160">
+
+## Ambiti principali di impegno
+- i `dati` che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
+- l’innovazione di `processo` e di `servizio`;
+- le `competenze digitali` dei dirigenti e dipendenti della Pubblica Amministrazione;
+- la `cultura digitale` e la `cittadinanza digitale`.
+
+## Cosa è questo progetto
+**Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ciro Spataro**.
+
+Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
+
+
+## Come è costruito questo progetto
+
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
 
-Il profilo è stato creato con lo strumeno [MKDocs Material](https://squidfunk.github.io/mkdocs-material/getting-started/).
+Il progetto di documentazione è stato creato con lo strumeno [MKDocs Material](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
 Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`.
 
@@ -23,18 +39,6 @@ Il link al progetto creato è [https://cirospat.github.io/cirospataro](https://c
 !!! Note "credits"
     Lavoro realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) di [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento e un grande grazie per la pazienza.
     
-
-## Ambiti principali di impegno
-- i `dati` che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
-- l’innovazione di `processo` e di `servizio`;
-- le `competenze digitali` dei dirigenti e dipendenti della Pubblica Amministrazione;
-- la `cultura digitale` e la `cittadinanza digitale`.
-
-
-## Cosa è questo progetto
-**Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ciro Spataro**.
-
-Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
 ## Strumenti integrati in questo progetto
