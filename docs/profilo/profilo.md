@@ -1,10 +1,10 @@
 # Work profile
-⤷ :office: Comune di Palermo | Servizio Innovazione | U.O. Transizione al Digitale 
+:office: Comune di Palermo | Servizio Innovazione | U.O. Transizione al Digitale 
 
 :telephone_receiver:  0917407340 | :envelope_with_arrow: c.spataro@comune.palermo.it
 
 ## Competenze
-In attuazione di quanto previsto dal C.A.D., l’U.O. assume qualsiasi iniziativa e misura conforme ad agenda digitale e/o proposta in materia di sviluppo e innovazione tecnologica con riferimento a tutte le Aree dell’Amministrazione e delle relative attività, ivi comprese quelle che coinvolgono le società e / o Enti partecipati.
+In attuazione di quanto previsto dal Codice dell'Amministrazione Digitale, l’U.O. assume qualsiasi iniziativa e misura conforme ad agenda digitale e/o proposta in materia di sviluppo e innovazione tecnologica con riferimento a tutte le Aree dell’Amministrazione e delle relative attività, ivi comprese quelle che coinvolgono le società e / o Enti partecipati.
 
 Supporto al Dirigente nella progettazione, pianificazione e coordinamento delle attività relative ai progetti innovativi, alla pubblicazione dei dati, anche sulla sezione open data, coordinando tutti gli uffici dell’Amministrazione. Coordinamento degli adempimenti in capo al dirigente e al servizio Innovazione relativi in materia di pubblicazione, trasparenza, conservazione digitale e relative al [Codice dell'Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html).
 
@@ -14,11 +14,9 @@ Avvio e gestione della procedura di digitalizzazione delle note tramite procedur
 [CV di Ciro Spataro](https://cirospat.github.io/cirospataro/profilo/cv/)
 
 ## Engagement
-2013 - current
+[2013 - current](https://cirospat.github.io/cirospataro/comune-palermo/opendata-innovazione/)
 
-[Innovazione tecnologica](comune-palermo/opendata-innovazione.md)
-
-[Azioni svolte dal Comune di Palermo per l’attuazione del C.A.D. e del Piano Triennale per l’Informatica nella PA](comune-palermo/attuazione-cad.md)
+[Azioni svolte dal Comune di Palermo per l’attuazione del C.A.D. e del Piano Triennale per l’Informatica nella PA](https://cirospat.github.io/cirospataro/comune-palermo/attuazione-cad/)
 
 ## works
 - [Pubblicazioni varie su Palermo consultabili su una mappa georeferenziata](https://umap.openstreetmap.fr/it/map/pubblicazioni-sul-territorio-di-palermo_137398) - cc by sa 
@@ -48,6 +46,7 @@ Visualizzazione in un pannello di controllo delle attività relative ai [**proce
 
 Visualizzazione degli [**interventi finanziati dal Piano Nazionale Ripresa e Resilienza (2021), versione maggio 2021**](https://cirospat.github.io/pnrr_2021_opendata/) - cc by 
 
+---
 
 ## UE projects
 - [CIED](http://poieinkaiprattein.org/cied/)
