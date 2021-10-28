@@ -1,6 +1,6 @@
 # Vocabolari controllati e ontologie per l'interoperabilità semantica
 
-<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/vocabolari-controllati-architettura-informazione.png" /> 
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/vocabolari-controllati-architettura-informazione.png"> </img>
 
 [Architettura di riferimento per l'informazione del settore pubblico, dalle Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico, AgID](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html).
 
@@ -26,18 +26,18 @@ Definizione di interoperabilità semantica: **possibilità, offerta alle organiz
 [Ontologia](http://www.openars.org/openars/ontologia/) a cura di **Davide Taibi e Giovanni Pirrotta** [Opendatasicilia](http://ods2018.opendatasicilia.it). Guarda le relazioni in [questo schema dinamico](http://www.openars.org/core/webvowl/index.html#ontology).
 
 
-<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/openars.jpg" /> 
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/openars.jpg" > </img>
 <br></br> a cura di Giovanni Pirrotta e Davide Taibi
 
 
 ## Vocabolario controllato degli eventi pubblici
-[Link](https://content-classes.readthedocs.io/it/latest/docs/Eventi%20pubblici%20(CPEV-AP_IT).html) alla risorsa creata da Opencontent. Vocabolario allineato a [Cultural ONtology](http://dati.beniculturali.it/cultural_on/) del Ministero dei Beni Culturali.
+[Link](https://bit.ly/3mmBHhf) alla risorsa creata da Opencontent. Vocabolario allineato a [Cultural ONtology](http://dati.beniculturali.it/cultural_on/) del Ministero dei Beni Culturali.
 
 
 ## Vocabolario controllato dei servizi pubblici
 [Link](https://vocabolario-controllato-servizi-pubblici.readthedocs.io) alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato [Core Public Service Vocabulary Application Profile 2.2](https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/releases).
 
-<img src="https://raw.githubusercontent.com/cirospat/-vocabolario-controllato-servizi-pubblici/master/static/CPSV-AP_Specification%20v2.2.png" /> 
+<img src="https://raw.githubusercontent.com/cirospat/-vocabolario-controllato-servizi-pubblici/master/static/CPSV-AP_Specification%20v2.2.png" > </img>
 
 [Vocabolario controllato dei servizi pubblici (traduzione del Core Public Service Vocabulary Application Profile 2.2](https://vocabolario-controllato-servizi-pubblici.readthedocs.io)
 
@@ -55,7 +55,7 @@ Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, prom
 !!! Note "Nota"
     Da tempo il **Consorzio dei Comuni Trentini** sta lavorando a questo tema, in collaborazione con la Provincia autonoma di Trento, cercando di ideare metodologie e tecnologie semplici per consentire a tutti i propri soci di assolvere a questo obbligo, in linea peraltro con quanto previsto dal [cap. 5.1.1.2](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/05_dati-della-pubblica-amministrazione.html#catalogo-dei-servizi) sul Catalogo dei servizi del Piano Triennale dell'Informatica 2019-2021. [Fonte](https://infotn.byway.it/nl/link?c=1lv3&d=f3&h=2uap4jpa721nevjmlqhjm2vn88&i=32e&iw=1&n=bs&p=H301835223&s=wv&sn=bs).
 
-<iframe src="https://www.youtube.com/embed/IE2UJCV2ggI" width="100%" height="500" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
+<iframe src="https://www.youtube.com/embed/IE2UJCV2ggI" width="100%" height="500" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 <br></br> The Catalogue of Services Action of the European Commission's ISA2 Programme supports public administrations that create and exchange information on public service descriptions. To do so, it has created a common vocabulary for describing public services, the Core Public Service Vocabulary Application Profile (CPSV-AP), and provides interoperable tools to support local implementations. The CPSV-AP is a data model for harmonising the way public services are described on eGovernment portals. 
 
 [More about the Catalogue of Services](https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/about#what)
@@ -65,7 +65,7 @@ Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, prom
 
 Guarda anche il [Regolamento del Parlamento EU e del Consiglio che istituisce uno sportello digitale unico per l’accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi](https://vocabolario-controllato-servizi-pubblici.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html#).
 
-<iframe src="https://www.youtube.com/embed/Znkoz0-P3sc" width="100%" height="500"frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
+<iframe src="https://www.youtube.com/embed/Znkoz0-P3sc" width="100%" height="500"frameborder="0" allow="autoplay; encrypted-media" allowfullscreen > </iframe>
 <br></br> Istituzione e gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE
 
 
@@ -86,7 +86,7 @@ Obiettivi:
 
 ## Ontologie e vocabolari controllati del Data & Analytics Framework - AGID (OntoPiA)
 
-<img src="http://giovanni.pirrotta.it/images/ontopia/ontopia-tecnico.png" /> 
+<img src="http://giovanni.pirrotta.it/images/ontopia/ontopia-tecnico.png" > </img>
     
 (immagine tratta dall'articolo di Giovanni Pirrotta)
     
