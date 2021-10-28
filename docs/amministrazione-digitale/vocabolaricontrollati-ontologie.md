@@ -12,15 +12,14 @@ Ontologia semantica: [le basi per comprendere facilmente "ontologia" e "semantic
 
 ## Interoperabilità semantica
 
-Definizione di interoperabilità semantica: "**possibilità, offerta alle organizzazioni, di  elaborare informazioni da fonti esterne o secondarie senza perdere il reale significato  delle informazioni stesse nel processo di elaborazione**" (fonte: "[Linee Guida per l'interoperabilità semantica attraverso i Linked Open Data](https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf)" AgID).
+Definizione di interoperabilità semantica: **possibilità, offerta alle organizzazioni, di  elaborare informazioni da fonti esterne o secondarie senza perdere il reale significato  delle informazioni stesse nel processo di elaborazione**  - fonte: [Linee Guida per l'interoperabilità semantica attraverso i Linked Open Data](https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf) AgID.
 
 
 !!! Note "importante"
-    [L’articolo 4 del Piano Triennale per l'informatica nella PA](https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#dati-della-pubblica-amministrazione) definisce i **vocabolari controllati** e modelli dei dati come “un modo comune e condiviso per organizzare codici e nomenclature ricorrenti in maniera standardizzata e normalizzata (vocabolari controllati) e una concettualizzazione esaustiva e rigorosa nell’ambito di un dato dominio (ontologia o modello dei dati condiviso”).
+    [L’articolo 4 del Piano Triennale per l'informatica nella PA](https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#dati-della-pubblica-amministrazione) definisce i **vocabolari controllati** e modelli dei dati come "un modo comune e condiviso per organizzare codici e nomenclature ricorrenti in maniera standardizzata e normalizzata (vocabolari controllati) e una concettualizzazione esaustiva e rigorosa nell’ambito di un dato dominio (ontologia o modello dei dati condiviso").
 
 
-<iframe src="www.slideshare.net/slideshow/embed_code/key/ijWjMuMPVxTyBU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen /iframe> 
-
+<iframe src="www.slideshare.net/slideshow/embed_code/key/ijWjMuMPVxTyBU" /iframe> 
 
 
 ## Ontologia OPENARS - Parlamento Regionale Siciliano
@@ -113,20 +112,14 @@ Un lavoro condiviso ed in progress che nasce dall'[hackathon di Udine del 15 giu
 [Ontologie del Ministero dei Beni Culturali](http://dati.beniculturali.it/le-ontologie/) (quali ad esempio [Cultural ONtology](http://dati.beniculturali.it/cultural_on/), con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura), MIBACT.
 
 ## Presentazioni e articoli su ontologie e vocabolari controllati
-
-**Presentazioni concernenti ontologie e vocabolari controllati**
-
-<code><a href="https://speakerdeck.com/pietercolpaert/an-introduction-to-open-data">Open Data - Sharing data for maximum reuse. Consuming data on Web-Scale (Pieter Colpaert)</a>.</code>
-
-<code>Ontologie e vocabolari controllati del <strong>Ministero dei Beni Culturali</strong>. <a href="http://www.iccd.beniculturali.it/it/150/archivio-news/4618/">Slide illustrative del progetto ARCO e il catalogo dei beni culturali</a> (Carriero - Lodi - Mancinelli/Veninata - Nuzzolese - Presutti).</code>
-<code><a href="https://www.slideshare.net/GiorgiaLodi">Presentazioni di Giorgia Lodi</a> su ontologie, vocabolari controllati, e interoperabilità semantica.</code>
-
-
+- [Open Data - Sharing data for maximum reuse. Consuming data on Web-Scale (Pieter Colpaert)](https://speakerdeck.com/pietercolpaert/an-introduction-to-open-data)
+- [Ontologie e vocabolari controllati del Ministero dei Beni Culturali](http://www.iccd.beniculturali.it/it/150/archivio-news/4618/), slide illustrative del progetto ARCO e il catalogo dei beni culturali (Carriero - Lodi - Mancinelli/Veninata - Nuzzolese - Presutti).
+- [Presentazioni di Giorgia Lodi</a> su ontologie, vocabolari controllati, e interoperabilità semantica.](https://www.slideshare.net/GiorgiaLodi)
 
 
 ## Articoli concernenti ontologie, vocabolari controllati e linked open data
 
-<li>"<a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>", un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``.
+<li><a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>, un articolo di Giovanni Pirrotta che spiega in maniera chiara le **ontologie** ed i **vocabolari controllati**.
 
 <li><a href="https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827">Understanding Linked Data Formats</a> - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
 
