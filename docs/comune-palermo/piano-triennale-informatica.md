@@ -2,138 +2,79 @@
 adottato con [deliberazione di Giunta Comunale n. 149 del 29.06.2020](https://drive.google.com/file/d/1WPdtkRW5poRM4lAFMxPNHDYJtKahbOvt/view?usp=sharing)
 
 
-<table>
-  <tr>
-   <td>LA GIUNTA COMUNALE 
-   </td>
-  </tr>
-  <tr>
-    <td><b>Atteso che</b>:
-<p>
+LA GIUNTA COMUNALE 
+
+**Atteso che**:
+
 L’atto che si propone consegue dall’applicazione dei contenuti del <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html">Codice dell’Amministrazione Digitale (CAD)</a> di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e del <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/">Piano triennale nazionale per l’Informatica</a> redatto dall’<a href="https://www.agid.gov.it/">Agenzia per l’Italia Digitale</a> (AGID).
-<p>
-<strong>Premesso che</strong>:
-<p>
+
+**Premesso che**:
+
 Il Piano triennale per l’informatica è uno strumento essenziale per promuovere la trasformazione digitale dell’amministrazione pubblica italiana. Tale trasformazione deve avvenire nel contesto del <a href="https://youtu.be/Znkoz0-P3sc">mercato unico europeo di beni e servizi digitali</a>, secondo una strategia che si propone di migliorare l’accesso online ai beni e servizi in tutta Europa per i consumatori e le imprese, e creare un contesto favorevole affinché le reti e i servizi digitali possano svilupparsi per massimizzare il potenziale di crescita dell’economia digitale europea e della cittadinanza digitale.
-<p>
-<strong>Considerato</strong>:
-<p>
+
+**Considerato**:
+
 Che gli obiettivi generali, declinati dal Piano nazionale a quello comunale, con il presente documento possono essere così riassunti:
-<ul>
 
-<li>snellire i procedimenti burocratici, ricorrendo alla reingegnerizzazione dei processi amministrativi in fase di adozione di soluzioni digitali per soppiantare l’uso della carta;
+- snellire i procedimenti burocratici, ricorrendo alla reingegnerizzazione dei processi amministrativi in fase di adozione di soluzioni digitali per soppiantare l’uso della carta; 
+- aumentare l’interoperabilità delle banche dati sia interne che con Enti esterni; 
+- aumentare la trasparenza dei processi amministrativi attraverso la tracciabilità delle attività umane grazie all’adozione di nuovi applicativi per la gestione dei procedimenti; 
+- aumentare l’efficienza nell’erogazione dei servizi pubblici, in termini di: 
+   - servizi pubblici comunali fruibili interamente online e accessibili tramite il sistema pubblico di identità digitale <a href="https://www.spid.gov.it/">SPID</a> e la <a href="https://www.cartaidentita.interno.gov.it/">Carta d'Identità Elettronica (CIE)</a>; 
+   - servizi di pagamento online all’Amministrazione esclusivamente tramite il sistema nazionale <a href="https://www.pagopa.gov.it/">PAGOPA</a>; 
+   - servizi pubblici più veloci da fruire agli sportelli fisici se non possono essere sostituiti da quelli online; 
+   - implementazione dei servizi da collegare all’<a href="https://io.italia.it/">app nazionale IO</a> del Ministero dell’Innovazione Tecnologica e della Digitalizzazione, in attuazione dell'<a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo5_sezione3_art64-bis.html">articolo 64 bis del Codice dell'Amministrazione Digitale</a> (<em>I soggetti di cui all’articolo 2, comma 2, rendono fruibili i propri servizi in rete, in conformità alle regole tecniche di cui all’articolo 71, tramite il punto di accesso telematico attivato presso la Presidenza del Consiglio dei ministri, senza nuovi o maggiori oneri per la finanza pubblica</em>);
+- razionalizzare la spesa informatica, ricorrendo ove possibile al “riuso applicativo” secondo le linee guida <a href="https://www.agid.gov.it/">AGID</a>, o alla collaborazione applicativa con altri Enti pubblici; 
+- nel caso specifico del Comune di Palermo, in riferimento alla “connettività”, implementare il numero di uffici, e sedi di immobili comunali connessi all’Anello Telematico per lo scambio dati, infrastruttura proprietaria che rappresenta la banda ultralarga comunale, gestita dalla Società comunale in house SISPI SpA per conto dell’Amministrazione; 
+- aumentare la competenze digitali dei dirigenti e dipendenti comunali, anche attraverso modalità “learn by doing”, al fine di permettere un agevole gestione dei nuovi applicativi gestionali per trattare in digitale l'intero ciclo di vita del procedimento amministrativo di competenza dei diversi uffici; 
+- attraverso l’adesione dell’Amministrazione alle piattaforme nazionali abilitanti all’erogazione dei servizi pubblici locali (<a href="https://www.spid.gov.it/">SPID</a>, <a href="https://www.pagopa.gov.it/">PAGOPA</a>, <a href="https://io.italia.it/">IO</a>, <a href="https://www.anpr.interno.it/portale/">ANPR</a> e <a href="https://www.cartaidentita.interno.gov.it/">CIE</a>), permettere un aumento del livello di cittadinanza digitale, anche attraverso specifici percorsi di sensibilizzazione all’uso degli strumenti digitali rivolti ad associazioni e cittadini.
 
-<li>aumentare l’interoperabilità delle banche dati sia interne che con Enti esterni;
+**Tenuto conto che**:
 
-<li>aumentare la trasparenza dei processi amministrativi attraverso la tracciabilità delle attività umane grazie all’adozione di nuovi applicativi per la gestione dei procedimenti;
-
-<li>aumentare l’efficienza nell’erogazione dei servizi pubblici, in termini di: 
-<ul>
+- Il Comune di Palermo è impegnato, attraverso la propria Società, in house, partecipata per i servizi informatici, SISPI SPA, nella digitalizzazione dei processi amministrativi e nel miglioramento dei servizi online all’utenza, necessari, tra l’altro, all’attuazione degli obiettivi nazionali di Agenda Digitale. 
+- L’Amministrazione, consapevole dell’importanza di avviare ogni tipo di iniziativa in cooperazione con altri soggetti istituzionali per migliorare le competenze del personale in materia di Tecnologia della Comunicazione e dell’Informazione, dal 2017 partecipa, insieme ad altre PA, e con la regia dell’AGID e del Team Trasformazione Digitale (oggi <a href="https://innovazione.gov.it/">Ministero Innovazione Tecnologica e Digitalizzazione</a>), ad alcune azioni di carattere sperimentale per accelerare il processo di transizione alla modalità digitale. Tra queste azioni vanno menzionate le seguenti: 
  
-<li>servizi pubblici comunali fruibili interamente online e accessibili tramite il sistema pubblico di identità digitale <a href="https://www.spid.gov.it/">SPID</a> e la <a href="https://www.cartaidentita.interno.gov.it/">Carta d'Identità Elettronica (CIE)</a>;
- 
-<li>servizi di pagamento online all’Amministrazione esclusivamente tramite il sistema nazionale <a href="https://www.pagopa.gov.it/">PAGOPA</a>; 
- 
-<li>servizi pubblici più veloci da fruire agli sportelli fisici se non possono essere sostituiti da quelli online;
- 
-<li>implementazione dei servizi da collegare all’<a href="https://io.italia.it/">app nazionale IO</a> del Ministero dell’Innovazione Tecnologica e della Digitalizzazione, in attuazione dell'<a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo5_sezione3_art64-bis.html">articolo 64 bis del Codice dell'Amministrazione Digitale</a> (<em>I soggetti di cui all’articolo 2, comma 2, rendono fruibili i propri servizi in rete, in conformità alle regole tecniche di cui all’articolo 71, tramite il punto di accesso telematico attivato presso la Presidenza del Consiglio dei ministri, senza nuovi o maggiori oneri per la finanza pubblica</em>);
-</li> 
-</ul>
+   1. <a href="https://docs.italia.it/italia/daf/pianotri-elencobasidatichiave/it/stabile/appendice.html">Individuazione delle basi di dati chiave</a>” da valorizzare per rispondere a bisogni della collettività, rendendole disponibili sotto forma di open data, facilmente ottenibili “in bulk” e/o interrogabili attraverso Application Programming Interface (API) e descritte sia a livello di metadatazione generale che a livello di dati con chiari modelli condivisi, allineati ad altri già esistenti a livello Europeo e nel Web. 
+   2. <a href="https://io.italia.it/enti/">App “IO”</a>, un progetto nazionale che parte dall’analisi delle necessità dei cittadini e costituisce un vantaggio per tutti i soggetti pubblici che erogano servizi digitali. Fornisce le principali funzioni necessarie all'interazione tra la pubblica amministrazione e i cittadini, grazie anche all'integrazione con le piattaforme abilitanti pagoPA, ANPR e SPID. La città di Palermo è nell’elenco delle prime pubbliche amministrazioni che sperimenta l’uso dell’app IO in Italia. 
+   3. <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/allegati/2_rilevazione-spesa-ict-pa-2018.html?highlight=rilevazione%20spesa">Rilevazione della spesa ICT della Pubblica Amministrazione</a>, necessaria alla redazione del Piano nazionale triennale nelle versioni 2017-2019, 2019-2021 e future. 
+   4. Attività di <a href="https://www.sicurezzait.gov.it/">analisi di gestione del rischio informatico</a>, in collaborazione con l’AGID, al fine di adottare le necessarie misure di protezione e prevenzione degli attacchi cibernetici.
 
-<li>razionalizzare la spesa informatica, ricorrendo ove possibile al “riuso applicativo” secondo le linee guida <a href="https://www.agid.gov.it/">AGID</a>, o alla collaborazione applicativa con altri Enti pubblici;
+**Ritenuto**:
 
-<li>nel caso specifico del Comune di Palermo, in riferimento alla “connettività”, implementare il numero di uffici, e sedi di immobili comunali connessi all’Anello Telematico per lo scambio dati, infrastruttura proprietaria che rappresenta la banda ultralarga comunale, gestita dalla Società comunale in house SISPI SpA per conto dell’Amministrazione;
+- di dover fissare, comunque, l’obiettivo gestionale di cui al presente provvedimento, da realizzarsi a cura del Dirigente competente, con l’osservanza di determinati criteri direttivi, in ossequio al principio che la gestione spetta ai Dirigenti pur nel rispetto dei criteri fissati dall’organo politico.
 
-<li>aumentare la competenze digitali dei dirigenti e dipendenti comunali, anche attraverso modalità “learn by doing”, al fine di permettere un agevole gestione dei nuovi applicativi gestionali per trattare in digitale l'intero ciclo di vita del procedimento amministrativo di competenza dei diversi uffici;
+**Viste le norme di settore sull’Agenda Digitale**:
 
-<li>attraverso l’adesione dell’Amministrazione alle piattaforme nazionali abilitanti all’erogazione dei servizi pubblici locali (<a href="https://www.spid.gov.it/">SPID</a>, <a href="https://www.pagopa.gov.it/">PAGOPA</a>, <a href="https://io.italia.it/">IO</a>, <a href="https://www.anpr.interno.it/portale/">ANPR</a> e <a href="https://www.cartaidentita.interno.gov.it/">CIE</a>), permettere un aumento del livello di cittadinanza digitale, anche attraverso specifici percorsi di sensibilizzazione all’uso degli strumenti digitali rivolti ad associazioni e cittadini.
+- il <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html">Codice dell’Amministrazione Digitale (CAD)</a>, D. Lgs. 7 marzo 2005 n. 82 e successive modifiche e integrazioni; 
+- il <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/">Piano triennale nazionale per l’Informatica</a> redatto dall’Agenzia per l’Italia Digitale.
 
-<p>
-<strong>Tenuto conto che</strong>:
-<ul>
+**Visti**:
 
-<li>Il Comune di Palermo è impegnato, attraverso la propria Società, in house, partecipata per i servizi informatici, SISPI SPA, nella digitalizzazione dei processi amministrativi e nel miglioramento dei servizi online all’utenza, necessari, tra l’altro, all’attuazione degli obiettivi nazionali di Agenda Digitale.
+- lo Statuto Comunale; 
+- il vigente Regolamento degli Uffici e dei Servizi; 
+- l’art. 107 del D.lgs n. 267/2000 “T.U. degli Enti Locali” che disciplina le competenze dei dirigenti; 
+- l’art. 1, lett. h) della l.r. 48/91, che recepisce art.51 l. 142/90; 
+- l’art. 107, comma 5 del D.Lgs. 267/2000 (“<em>l’adozione di atti di gestione e di atti o provvedimenti amministrativi .. .si intendono nel senso che la rispettiva competenza spetta ai dirigenti</em>”); 
+- la legge 142/90 e s.m.i. così come recepita dalla Legge Regionale 48/91 e s.m.i.; del T.U.E.L. approvato con D.Lgs 267/2000; dell’O.R.EE.LL che richiamano la competenza della Giunta comunale a deliberare l’atto proposto; 
+- il DPR 445/2000 "Testo Unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa”. 
 
-<li>L’Amministrazione, consapevole dell’importanza di avviare ogni tipo di iniziativa in cooperazione con altri soggetti istituzionali per migliorare le competenze del personale in materia di Tecnologia della Comunicazione e dell’Informazione, dal 2017 partecipa, insieme ad altre PA, e con la regia dell’AGID e del Team Trasformazione Digitale (oggi <a href="https://innovazione.gov.it/">Ministero Innovazione Tecnologica e Digitalizzazione</a>), ad alcune azioni di carattere sperimentale per accelerare il processo di transizione alla modalità digitale.
-<p>
+**Vista**: 
 
-    Tra queste azioni vanno menzionate le seguenti: 
-<ol>
- 
-<li>“<a href="https://docs.italia.it/italia/daf/pianotri-elencobasidatichiave/it/stabile/appendice.html">Individuazione delle basi di dati chiave</a>” da valorizzare per rispondere a bisogni della collettività, rendendole disponibili sotto forma di open data, facilmente ottenibili “in bulk” e/o interrogabili attraverso Application Programming Interface (API) e descritte sia a livello di metadatazione generale che a livello di dati con chiari modelli condivisi, allineati ad altri già esistenti a livello Europeo e nel Web.
- 
-<li><a href="https://io.italia.it/enti/">App “IO”</a>, un progetto nazionale che parte dall’analisi delle necessità dei cittadini e costituisce un vantaggio per tutti i soggetti pubblici che erogano servizi digitali. Fornisce le principali funzioni necessarie all'interazione tra la pubblica amministrazione e i cittadini, grazie anche all'integrazione con le piattaforme abilitanti pagoPA, ANPR e SPID. La città di Palermo è nell’elenco delle prime pubbliche amministrazioni che sperimenta l’uso dell’app IO in Italia.
- 
-<li><a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/allegati/2_rilevazione-spesa-ict-pa-2018.html?highlight=rilevazione%20spesa">Rilevazione della spesa ICT della Pubblica Amministrazione</a>, necessaria alla redazione del Piano nazionale triennale nelle versioni 2017-2019, 2019-2021 e future.
- 
-<li>Attività di <a href="https://www.sicurezzait.gov.it/">analisi di gestione del rischio informatico</a>, in collaborazione con l’AGID, al fine di adottare le necessarie misure di protezione e prevenzione degli attacchi cibernetici.
-
-<p>
-<strong>Ritenuto</strong>:
-<p>
-di dover fissare, comunque, l’obiettivo gestionale di cui al presente provvedimento, da realizzarsi a cura del Dirigente competente, con l’osservanza di determinati criteri direttivi, in ossequio al principio che la gestione spetta ai Dirigenti pur nel rispetto dei criteri fissati dall’organo politico.
-<p>
-<strong>Viste le norme di settore sull’Agenda Digitale</strong>:
-<ul>
-
-<li>il <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html">Codice dell’Amministrazione Digitale (CAD)</a>, D. Lgs. 7 marzo 2005 n. 82 e successive modifiche e integrazioni;
-
-<li>il <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/">Piano triennale nazionale per l’Informatica</a> redatto dall’Agenzia per l’Italia Digitale.
-
-<p>
-<strong>Visti</strong>:
-<ul>
-
-<li>lo Statuto Comunale;
-
-<li>il vigente Regolamento degli Uffici e dei Servizi;
-
-<li>l’art. 107 del D.lgs n. 267/2000 “T.U. degli Enti Locali” che disciplina le competenze dei dirigenti; 
-
-<li>l’art. 1, lett. h) della l.r. 48/91, che recepisce art.51 l. 142/90;
-
-<li>l’art. 107, comma 5 del D.Lgs. 267/2000 (“<em>l’adozione di atti di gestione e di atti o provvedimenti amministrativi .. .si intendono nel senso che la rispettiva competenza spetta ai dirigenti</em>”);
-
-<li>la legge 142/90 e s.m.i. così come recepita dalla Legge Regionale 48/91 e s.m.i.; del T.U.E.L. approvato con D.Lgs 267/2000; dell’O.R.EE.LL che richiamano la competenza della Giunta comunale a deliberare l’atto proposto;
-
-<li>il DPR 445/2000 "Testo Unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa”. 
-
-<p>
-<strong>Vista</strong>: 
-<p>
 la proposta di “<strong>Piano triennale per l’informatica del Comune di Palermo 2020-2022</strong>” (allegato A) redatta dallo staff del Responsabile del Servizio Innovazione, in collaborazione con la Società in house per i servizi informatici SISPI SPA, coerentemente con le <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/13_indicazioni-per-le-pubbliche-amministrazioni.html">indicazioni del “Piano nazionale triennale per l’informatica 2019-2021”</a> dell’Agenzia per l’Italia Digitale.
-<p>
-<strong>DELIBERA</strong>
-<p>
+
+**DELIBERA**
+
 Per i motivi esposti in narrativa e che s’intendono riportati: 
-<ul>
 
-<li>di adottare il “<strong>Piano triennale per l’informatica del Comune di Palermo 2020-2022</strong>” allegato al presente atto; 
-
-<li>di dare mandato alla Società informatica comunale SISPI SpA e al Servizio Innovazione, per lo staff del Webmaster, di porre in essere tutte le attività tecniche e soluzioni tecnologiche necessarie all’attuazione dei contenuti nell’allegato “Piano triennale per l’informatica del Comune di Palermo 2020-2022”; 
-
-<li>di dare mandato al Segretario Generale di provvedere, con successivo atto, all'inserimento degli obiettivi del “Piano triennale per l’informatica del Comune di Palermo 2020-2022” nel “Piano della Performance del Comune di Palermo”, ai sensi dell'art. 12 comma 1-ter del CAD (<em>l’attuazione delle disposizioni del presente Codice è comunque rilevante ai fini della misurazione e valutazione della performance organizzativa ed individuale dei dirigenti</em>). 
-
-<li>di dare atto che il presente atto non comporta oneri riflessi diretti o indiretti sulla situazione economico finanziaria dell'Amministrazione Comunale.
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
+- di adottare il “<strong>Piano triennale per l’informatica del Comune di Palermo 2020-2022</strong>” allegato al presente atto; 
+- di dare mandato alla Società informatica comunale SISPI SpA e al Servizio Innovazione, per lo staff del Webmaster, di porre in essere tutte le attività tecniche e soluzioni tecnologiche necessarie all’attuazione dei contenuti nell’allegato “Piano triennale per l’informatica del Comune di Palermo 2020-2022”; 
+- di dare mandato al Segretario Generale di provvedere, con successivo atto, all'inserimento degli obiettivi del “Piano triennale per l’informatica del Comune di Palermo 2020-2022” nel “Piano della Performance del Comune di Palermo”, ai sensi dell'art. 12 comma 1-ter del CAD (<em>l’attuazione delle disposizioni del presente Codice è comunque rilevante ai fini della misurazione e valutazione della performance organizzativa ed individuale dei dirigenti</em>).  
+- di dare atto che il presente atto non comporta oneri riflessi diretti o indiretti sulla situazione economico finanziaria dell'Amministrazione Comunale.
 
 ---
 
-La redazione del documento “**Piano triennale per l’Informatica del comune di Palermo 2020-2022**” è stata curata dal Servizio Innovazione con la collaborazione della  Società in house per i servizi informatici Sispi SpA. Il documento è stato redatto in conformità al [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html), di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al [Piano nazionale triennale per l’informatica 2019-2021](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/index.html), pubblicato dall’Agenzia per l’Italia Digitale (AGID). 
+!!! Nota "nota"
+        La redazione del documento **Piano triennale per l’Informatica del comune di Palermo 2020-2022** è stata curata dal Servizio Innovazione con la collaborazione della Società in house per i servizi informatici **Sispi SpA**. Il documento è stato redatto in conformità al [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html), di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al [Piano nazionale triennale per l’informatica 2019-2021](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/index.html), pubblicato dall’Agenzia per l’Italia Digitale (AGID). 
 
 
 
@@ -356,16 +297,7 @@ Il Modello strategico previsto dal Piano nazionale è stato pensato per superare
 Il Modello strategico per governare la trasformazione digitale della_ _PA descritto dal Piano Triennale per l’Informatica della PA 2019-2021 pubblicato da AGID è schematicamente rappresentato come illustrato dal diagramma che segue (cfr. AGID – Piano Triennale per l’informatizzazione della PA).
 
 
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>&lt;img src="<a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/gestione-cambiamento.png">https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/gestione-cambiamento.png</a>" />   </code>
-   </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/gestione-cambiamento.png" />   
 
 
 *Schema del Modello strategico per governare la trasformazione digitale della PA*
@@ -403,12 +335,7 @@ E’ necessario attivare collaborazioni sia interne all’ente tra le diverse ar
 Tra le iniziative che rivestono un’importanza strategica per la realizzazione dell’agenda digitale nelle Pubbliche Amministrazioni è da sottolineare l’elenco delle Convenzioni Consip, che possono trovare applicazione nella realizzazione delle linee di azione del Piano nazionale. Sono di particolare utilità: gli “Accordi Quadro” e le “Convenzioni”/”Contratti” quadro secondo lo schema di sintesi qui di seguito riportato.
 
 
-<table>
-   <tr>
-   <td><code>&lt;img src="<a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/spc-cloud.png">https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/spc-cloud.png</a>" />   </code>
-   </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/spc-cloud.png" />
 
 
 Copertura degli strumenti Consip sulle componenti del Modello strategico (dal Piano triennale Informatica 2017-2019).
@@ -517,12 +444,7 @@ La programmazione delle attività per il periodo 2022-2022 si caratterizza per a
 
 In analogia con il modello di rappresentazione adottato per la definizione del piano strategico per l’ICT, si riporta, nella figura che segue, il quadro degli interventi previsti dal piano di azione relativo al periodo 2020-2022 della Città di Palermo.
 
-<table>
-   <tr>
-   <td><code>&lt;img src="<a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/piano-azione.png">https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/piano-azione.png</a>" />   </code>
-   </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/piano-azione.png" />
 
 A seguire l’analisi più dettagliata degli interventi articolata secondo una struttura logica coerente con il modello indicato dal Piano Triennale per l’informatizzazione della PA elaborato da AGID.
 
@@ -1319,12 +1241,7 @@ Nell’ambito delle attività volte alla dematerializzazione documentale il comu
 Gli obiettivi di dematerializzazione documentale, nel 2020, verranno inseriti nel Piano della Performance dei Dirigenti, ai sensi dell'[art. 12 comma 1-ter del CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione3_art12.html?highlight=performance) (_l’attuazione delle disposizioni del presente Codice è comunque rilevante ai fini della misurazione e valutazione della performance organizzativa ed individuale dei dirigenti_). Ciò al fine di permettere una celerità nel cambio di paradigma operativo di lavoro. Lo staff del Responsabile Transizione Digitale, in sinergia con il personale della Società in house SISPI, affianca il personale degli uffici nella formazione necessaria ad utilizzare nuovi applicativi informatici per la gestione dell’intero ciclo di vita del documento e dei procedimenti in modalità esclusivamente digitale.
 
 
-<table>
-   <tr>
-   <td><code>&lt;img src="<a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/da-carta-a-file.png">https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/da-carta-a-file.png</a>" />   </code>
-   </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/da-carta-a-file.png" />
 
 *cambio del paradigma della gestione documentale, attualmente in atto*
 
