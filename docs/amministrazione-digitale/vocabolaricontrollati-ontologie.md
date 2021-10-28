@@ -1,6 +1,5 @@
 # Vocabolari controllati e ontologie per l'interoperabilità semantica
 
-
 <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/vocabolari-controllati-architettura-informazione.png" /> 
 
 [Architettura di riferimento per l'informazione del settore pubblico (Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico, AgID)](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html)
@@ -26,25 +25,23 @@ Definizione di interoperabilità semantica: **possibilità, offerta alle organiz
 [Ontologia](http://www.openars.org/openars/ontologia/) a cura di Davide Taibi e Giovanni Pirrotta ([Opendatasicilia](http://ods2018.opendatasicilia.it)). Guarda le relazioni in [questo schema dinamico](http://www.openars.org/core/webvowl/index.html#ontology).
 
 
-<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/openars.jpg" /> <br>
-a cura di Giovanni Pirrotta e Davide Taibi
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/openars.jpg" /> 
+<br> a cura di Giovanni Pirrotta e Davide Taibi
 
 
 
 ## Vocabolario controllato degli eventi pubblici
 [Link](https://content-classes.readthedocs.io/it/latest/docs/Eventi%20pubblici%20(CPEV-AP_IT).html) alla risorsa creata da Opencontent. Vocabolario allineato a [Cultural ONtology](http://dati.beniculturali.it/cultural_on/) del Ministero dei Beni Culturali.
 
-## Vocabolario controllato dei servizi pubblici
-[Link](https://vocabolario-controllato-servizi-pubblici.readthedocs.io) alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato[ Core Public Service Vocabulary Application Profile 2.2](https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/releases).
 
+## Vocabolario controllato dei servizi pubblici
+[Link](https://vocabolario-controllato-servizi-pubblici.readthedocs.io) alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato [Core Public Service Vocabulary Application Profile 2.2](https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/releases).
 
 <img src="https://raw.githubusercontent.com/cirospat/-vocabolario-controllato-servizi-pubblici/master/static/CPSV-AP_Specification%20v2.2.png" /> 
 
 [Vocabolario controllato dei servizi pubblici (traduzione del "Core Public Service Vocabulary Application Profile 2.2"](https://vocabolario-controllato-servizi-pubblici.readthedocs.io)
 
-
-[Consultazione sul profilo italiano dei metadati per i servizi pubblici (CPSV-AP_IT)](https://www.dati.gov.it/consultazione/CPSV-AP_IT). Versione draft 0.4 – per la consultazione pubblica. AGID.
-
+[Consultazione sul profilo italiano dei metadati per i servizi pubblici (CPSV-AP_IT)](https://www.dati.gov.it/consultazione/CPSV-AP_IT). Versione draft 0.4 – per la consultazione pubblica, AGID.
 
 Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, promuovendo una visione integrata degli eventi della vita, degli eventi aziendali e dei servizi pubblici esistenti; in particolare, questa iniziativa (ISA2) della Commissione Europea (più volte citata come riferimento nel Piano Triennale dell'Informatica della PA) si prefigge di:
 
@@ -61,23 +58,22 @@ Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, prom
 
 <iframe src="https://www.youtube.com/embed/IE2UJCV2ggI" width="100%" height="500" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
 <br>
-The Catalogue of Services Action of the European Commission's ISA² Programme supports public administrations that create and exchange information on public service descriptions. To do so, it has created a common vocabulary for describing public services, the Core Public Service Vocabulary Application Profile (CPSV-AP), and provides interoperable tools to support local implementations. The CPSV-AP is a data model for harmonising the way public services are described on eGovernment portals. 
+The Catalogue of Services Action of the European Commission's ISA2 Programme supports public administrations that create and exchange information on public service descriptions. To do so, it has created a common vocabulary for describing public services, the Core Public Service Vocabulary Application Profile (CPSV-AP), and provides interoperable tools to support local implementations. The CPSV-AP is a data model for harmonising the way public services are described on eGovernment portals. 
 
 [More about the Catalogue of Services](https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/about#what)
     
 
 ## Sportello digitale unico per l’accesso a informazioni, procedure e servizi di assistenza
-Guarda anche il "[Regolamento del Parlamento EU e del Consiglio che istituisce uno sportello digitale unico per l’accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi](https://vocabolario-controllato-servizi-pubblici.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html#)".
+Guarda anche il [Regolamento del Parlamento EU e del Consiglio che istituisce uno sportello digitale unico per l’accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi](https://vocabolario-controllato-servizi-pubblici.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html#).
 
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/Znkoz0-P3sc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe><br>
-
-Istituzione e gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE
-
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Znkoz0-P3sc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
+<br> Istituzione e gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE
 
 
 ## Vocabolario controllato degli atti che sono pubblicati nell'Albo Pretorio dei comuni
-Un lavoro condiviso ed in progress che nasce dall'[hackathon di Udine del 15 giugno 2019](https://www.anci.fvg.it/HackFVG/LA-DUE-GIORNI-DI-HACKFVG). A [questo link](https://docs.google.com/spreadsheets/d/1KbBZguoxhFRkcas4Nhe8xN_TMGqRoSfcJmac4wiyFck/edit#gid=0) l'inizio della strutturazione delle definizioni/tassonomie degli atti amministrativi che confluiscono nella sezione "Albo Pretorio" dei portali web dei comuni. [Questo è lo spazio](https://github.com/italia/daf-ontologie-vocabolari-controllati/issues/66) (issue di GitHub) in cui si condivide il processo che porta alla strutturazione condivisa del "vocabolario controllato" degli atti pubblicati negli albi pretori.
+Un lavoro condiviso ed in progress che nasce dall'[hackathon di Udine del 15 giugno 2019](https://www.anci.fvg.it/HackFVG/LA-DUE-GIORNI-DI-HACKFVG). 
+A [questo link](https://docs.google.com/spreadsheets/d/1KbBZguoxhFRkcas4Nhe8xN_TMGqRoSfcJmac4wiyFck/edit#gid=0) l'inizio della strutturazione delle definizioni/tassonomie degli atti amministrativi che confluiscono nella sezione "Albo Pretorio" dei portali web dei comuni. [Questo è lo spazio](https://github.com/italia/daf-ontologie-vocabolari-controllati/issues/66) - issue di GitHub - in cui si condivide il processo che porta alla strutturazione condivisa del "vocabolario controllato" degli atti pubblicati negli albi pretori.
 
 
 ## Open Contracting Data Standard (OCDS)
@@ -92,10 +88,14 @@ Obiettivi:
 
 ## Ontologie e vocabolari controllati del Data & Analytics Framework - AGID (OntoPiA)
 
-<img src="http://giovanni.pirrotta.it/images/ontopia/ontopia-tecnico.png" /> <br>
-[Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana (immagine tratta dall'articolo di Giovanni Pirrotta)](http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/), un articolo di Giovanni Pirrotta che spiega in maniera chiara le **ontologie** ed i **vocabolari controllati**.
+<img src="http://giovanni.pirrotta.it/images/ontopia/ontopia-tecnico.png" /> 
+    
+(immagine tratta dall'articolo di Giovanni Pirrotta)
+    
+[Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana]
+(http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/), un articolo di Giovanni Pirrotta che spiega in maniera chiara le **ontologie** ed i **vocabolari controllati**.
 
-[**Repository GitHub delle ontologie e dei vocabolari controllati**](https://github.com/italia/daf-ontologie-vocabolari-controllati) sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_[elenco delle basi di dati chiave](http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/). A cura di Giorgia Lodi, AGID.
+[**Repository GitHub delle ontologie e dei vocabolari controllati**](https://github.com/italia/daf-ontologie-vocabolari-controllati) sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_[elenco delle basi di dati chiave](http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/). A cura di Giorgia Lodi.
 
 [**Ontologie dal Data & Analytics Framework Italia**](https://dataportal.daf.teamdigitale.it/dataset/search#/ontologies). AGID.
 
@@ -113,25 +113,22 @@ Obiettivi:
 
 
 ## Ontologie del Ministero dei Beni Culturali
-[Ontologie del Ministero dei Beni Culturali](http://dati.beniculturali.it/le-ontologie/) (quali ad esempio [Cultural ONtology](http://dati.beniculturali.it/cultural_on/), con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura), MIBACT.
+[Ontologie del Ministero dei Beni Culturali](http://dati.beniculturali.it/le-ontologie/), quali ad esempio [Cultural ONtology](http://dati.beniculturali.it/cultural_on/), con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura), MIBACT.
 
 ## Presentazioni e articoli su ontologie e vocabolari controllati
 - [Open Data - Sharing data for maximum reuse. Consuming data on Web-Scale (Pieter Colpaert)](https://speakerdeck.com/pietercolpaert/an-introduction-to-open-data)
 - [Ontologie e vocabolari controllati del Ministero dei Beni Culturali](http://www.iccd.beniculturali.it/it/150/archivio-news/4618/), slide illustrative del progetto ARCO e il catalogo dei beni culturali (Carriero - Lodi - Mancinelli/Veninata - Nuzzolese - Presutti).
-- [Presentazioni di Giorgia Lodi</a> su ontologie, vocabolari controllati, e interoperabilità semantica.](https://www.slideshare.net/GiorgiaLodi)
+- [Presentazioni di Giorgia Lodi su ontologie, vocabolari controllati, e interoperabilità semantica](https://www.slideshare.net/GiorgiaLodi).
 
 
 ## Articoli concernenti ontologie, vocabolari controllati e linked open data
+- [Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana, un articolo di Giovanni Pirrotta che spiega in maniera chiara le **ontologie** ed i **vocabolari controllati**](http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana).
+- [Understanding Linked Data Formats - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee)](https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827)
+- [Generazione e verifica di notizie di qualità attraverso il Web Semantico: la storia di Liliana Segre, un articolo di Giovanni Pirrotta (come il web semantico può combattere le false notizie)](https://medium.com/@gpirrotta/generazione-e-verifica-di-notizie-di-qualit%C3%A0-attraverso-il-web-semantico-la-storia-di-liliana-6cd81f05e9fe).
+- [Una guida di facile lettura (di Ilaria Maresi) per coloro che desiderano conoscere la modellazione semantica o aggiornare la propria memoria sull'argomento. Destinato a un vasto pubblico, il libro tratta argomenti dal "RDF" di base, all'integrazione di ontologie, alla costruzione di un modello e, infine, all'esecuzione di query "SPARQL"](https://zenodo.org/record/3898519#.Xvniul9xdPY).
+- [Estensione di SPARQL 1.1 per generare RDF da XML, JSON, CSV, GeoJSON, HTML, CBOR, testo con espressioni regolari. Disponibile un playground per imparare dalle basi (grazie a Giovanni Pirrotta](https://ci.mines-stetienne.fr/sparql-generate/playground.html). Da un [post di Giovanni Pirotta](https://www.facebook.com/groups/opendatasicilia/?multi_permalinks=2969269163191719%2C2966008010184501%2C2964474767004492&notif_id=1593324030818250&notif_t=group_activity&ref=notif)
 
-<li><a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>, un articolo di Giovanni Pirrotta che spiega in maniera chiara le **ontologie** ed i **vocabolari controllati**.
 
-<li><a href="https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827">Understanding Linked Data Formats</a> - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
-
-<li>"<a href="https://medium.com/@gpirrotta/generazione-e-verifica-di-notizie-di-qualit%C3%A0-attraverso-il-web-semantico-la-storia-di-liliana-6cd81f05e9fe">Generazione e verifica di notizie di qualità attraverso il Web Semantico: la storia di Liliana Segre</a>" un articolo di Giovanni Pirrotta (come il web semantico può combattere le false notizie).
-
-<li>Una <a href="https://zenodo.org/record/3898519#.Xvniul9xdPY">guida di facile lettura</a> (di Ilaria Maresi) per coloro che desiderano conoscere la modellazione semantica o aggiornare la propria memoria sull'argomento. Destinato a un vasto pubblico, il libro tratta argomenti dal ``RDF`` di base, all'integrazione di ontologie, alla costruzione di un modello e, infine, all'esecuzione di query ``SPARQL``.
-
-<li><a href="https://ci.mines-stetienne.fr/sparql-generate/playground.html">Estensione di SPARQL 1.1 per generare RDF da XML, JSON, CSV, GeoJSON, HTML, CBOR, testo con espressioni regolari</a>. Disponibile un playground per imparare dalle basi (grazie a <a href="https://www.facebook.com/groups/opendatasicilia/?multi_permalinks=2969269163191719%2C2966008010184501%2C2964474767004492&notif_id=1593324030818250&notif_t=group_activity&ref=notif">Giovanni Pirrotta</a>).
 
 
 
