@@ -5,37 +5,19 @@ Questo spazio fornisce utili informazioni per l'attività di questa figura all'i
 Il Responsabile per la Transizione al Digitale (RTD)  è previsto dall'[articolo 17 del Codice dell'Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo1_sezione3_art17.html).
 
 
-<table>
-  <tr>
-    <td><code><b>Compiti dell'ufficio del RTD (art. 17 CAD)</b></code>
-   </td>
-  </tr>
-  <tr>
-   <td>a) coordinamento strategico dello sviluppo dei sistemi informativi, di telecomunicazione e fonia, in modo da assicurare anche la coerenza con gli standard tecnici e organizzativi comuni;
-<p>
-b) indirizzo e coordinamento dello sviluppo dei servizi, sia interni che esterni, forniti dai sistemi informativi di telecomunicazione e fonia dell’amministrazione;
-<p>
-c) indirizzo, pianificazione, coordinamento e monitoraggio della sicurezza informatica relativamente ai dati, ai sistemi e alle infrastrutture anche in relazione al sistema pubblico di connettività, nel rispetto delle regole tecniche di cui all’articolo 51, comma 1;
-<p>
-d) accesso dei soggetti disabili agli strumenti informatici e promozione dell’accessibilità anche in attuazione di quanto previsto dalla legge 9 gennaio 2004, n. 4;
-<p>
-e) analisi periodica della coerenza tra l’organizzazione dell’amministrazione e l’utilizzo delle tecnologie dell’informazione e della comunicazione, al fine di migliorare la soddisfazione dell’utenza e la qualità dei servizi nonché di ridurre i tempi e i costi dell’azione amministrativa;
-<p>
-f) cooperazione alla revisione della riorganizzazione dell’amministrazione ai fini di cui alla lettera e);
-<p>
-g) indirizzo, coordinamento e monitoraggio della pianificazione prevista per lo sviluppo e la gestione dei sistemi informativi di telecomunicazione e fonia;
-<p>
-h) progettazione e coordinamento delle iniziative rilevanti ai fini di una più efficace erogazione di servizi in rete a cittadini e imprese mediante gli strumenti della cooperazione applicativa tra pubbliche amministrazioni, ivi inclusa la predisposizione e l’attuazione di accordi di servizio tra amministrazioni per la realizzazione e compartecipazione dei sistemi informativi cooperativi; 
-<p>
-i) promozione delle iniziative attinenti l’attuazione delle direttive impartite dal Presidente del Consiglio dei Ministri o dal Ministro delegato per l’innovazione e le tecnologie;
-<p>
-j) pianificazione e coordinamento del processo di diffusione, all’interno dell’amministrazione, dei sistemi di identità e domicilio digitale, posta elettronica, protocollo informatico, firma digitale o firma elettronica qualificata e mandato informatico, e delle norme in materia di accessibilità e fruibilità nonché del processo di integrazione e interoperabilità tra i sistemi e servizi dell’amministrazione e quello di cui all’articolo 64-bis; 
-<p>
-k) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informatici, telematici e di telecomunicazione al fine di garantirne la compatibilità con gli obiettivi di attuazione dell’agenda digitale e, in particolare, con quelli stabiliti nel piano triennale di cui all’articolo 16, comma 1, lettera b).
-   </td>
-  </tr>
-</table>
+### Compiti specifici dell'ufficio del RTD (art. 17 CAD)
 
+- a) coordinamento strategico dello sviluppo dei sistemi informativi, di telecomunicazione e fonia, in modo da assicurare anche la coerenza con gli standard tecnici e organizzativi comuni; 
+- b) indirizzo e coordinamento dello sviluppo dei servizi, sia interni che esterni, forniti dai sistemi informativi di telecomunicazione e fonia dell’amministrazione; 
+- c) indirizzo, pianificazione, coordinamento e monitoraggio della sicurezza informatica relativamente ai dati, ai sistemi e alle infrastrutture anche in relazione al sistema pubblico di connettività, nel rispetto delle regole tecniche di cui all’articolo 51, comma 1; 
+- d) accesso dei soggetti disabili agli strumenti informatici e promozione dell’accessibilità anche in attuazione di quanto previsto dalla legge 9 gennaio 2004, n. 4; 
+- e) analisi periodica della coerenza tra l’organizzazione dell’amministrazione e l’utilizzo delle tecnologie dell’informazione e della comunicazione, al fine di migliorare la soddisfazione dell’utenza e la qualità dei servizi nonché di ridurre i tempi e i costi dell’azione amministrativa; 
+- f) cooperazione alla revisione della riorganizzazione dell’amministrazione ai fini di cui alla lettera e); 
+- g) indirizzo, coordinamento e monitoraggio della pianificazione prevista per lo sviluppo e la gestione dei sistemi informativi di telecomunicazione e fonia; 
+- h) progettazione e coordinamento delle iniziative rilevanti ai fini di una più efficace erogazione di servizi in rete a cittadini e imprese mediante gli strumenti della cooperazione applicativa tra pubbliche amministrazioni, ivi inclusa la predisposizione e l’attuazione di accordi di servizio tra amministrazioni per la realizzazione e compartecipazione dei sistemi informativi cooperativi; 
+- i) promozione delle iniziative attinenti l’attuazione delle direttive impartite dal Presidente del Consiglio dei Ministri o dal Ministro delegato per l’innovazione e le tecnologie; 
+- j) pianificazione e coordinamento del processo di diffusione, all’interno dell’amministrazione, dei sistemi di identità e domicilio digitale, posta elettronica, protocollo informatico, firma digitale o firma elettronica qualificata e mandato informatico, e delle norme in materia di accessibilità e fruibilità nonché del processo di integrazione e interoperabilità tra i sistemi e servizi dell’amministrazione e quello di cui all’articolo 64-bis;  
+- k) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informatici, telematici e di telecomunicazione al fine di garantirne la compatibilità con gli obiettivi di attuazione dell’agenda digitale e, in particolare, con quelli stabiliti nel piano triennale di cui all’articolo 16, comma 1, lettera b).
 
 
 
@@ -68,53 +50,46 @@ Pagina dedicata alle [conferenze organizzate dall'AGID sui Responsabili Transizi
 **Video webinar su RTD anno 2019**
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/DaM3xLumHYU" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen> </iframe>
-<br>
 <a href="http://eventipa.formez.it/node/197571" target="_blank"> Ruolo e funzione del Responsabile per la transizione al digitale nell'attuazione del Piano triennale (29 ottobre 2019) </a>
 
 <br>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/MAZniwA-wSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
-<br>
 <a href="http://eventipa.formez.it/node/199190" target="_blank"> Il documento amministrativo informatico (5 novembre 2019)</a>
 
 <br>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/JFKaRAbnWnc" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen> </iframe>
-<br>
 <a href="http://eventipa.formez.it/node/200517" target="_blank">La riqualificazione della spesa ICT (12 novembre 2019) </a>
 
 <br>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/AfzZUCwwejU" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen> </iframe>
-<br>
 <a href="http://eventipa.formez.it/node/202136" target="_blank">L'usabilità dei servizi digitali (19 novembre 2019)</a>
 
 <br>  
   
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/1RuK1f8H1ug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
-<br>
 <a href="http://eventipa.formez.it/node/204122" target="_blank"> Conservazione documentale: esperienze e casi d'uso (26 novembre 2019) </a> 
 
 <br>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/c0qlGIM_CXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
-<br>
 <a href="https://www.ot11ot2.it/notizie/video-e-materiali-del-webinar-sistemi-informativi-e-servizi-digitali-per-i-tributi-locali-e" target="_blank">Sistemi informativi e servizi digitali per i tributi locali e pagamenti elettronici - Catalogo delle esperienze OT2-T11 (27 novembre 2019) </a>
 
 <br>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/IX4CiEBZZ98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<a href="http://eventipa.formez.it/node/204606" target="_blank">La comunicazione dei servizi digitali (28 novembre 2019) </a>
+
 <br>
-<a href="http://eventipa.formez.it/node/204606" target="_blank">La comunicazione dei servizi digitali (28 novembre 2019) </a> 
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/cHNngxMVkYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
-<br>
 <a href="http://eventipa.formez.it/node/206230" target="_blank">Favorire il riuso del software: dalle linee guida alle attività di supporto alle PA - (10 dicembre 2019) </a>
 
 <br>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/KirEFMKyykU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
-<br>
 <a href="http://eventipa.formez.it/node/208262" target="_blank">L'accessibilità dei servizi digitali nel contesto normativo vigente e del regolamento Europeo Single Digital Gateway - (17 dicembre 2019) </a>
 
 
@@ -151,9 +126,7 @@ Pagina dedicata alle [conferenze organizzate dall'AGID sui Responsabili Transizi
 
 
 ## Formazione RTD da la #PAdigitale (2020)
-Da [@diritto2punto0](https://twitter.com/diritto2punto0) +[ #PAdigitale](https://twitter.com/hashtag/PAdigitale?src=hashtag_click) ogni martedì di ottobre e novembre 2020, un webinar gratuito per approfondire, con taglio pratico, i temi caldi della digitalizzazione, visti dalla prospettiva di un[ #RTD](https://twitter.com/hashtag/RTD?src=hashtag_click). I webinar sono consultabili anche registrati.
-
-[Link al sito RTD Accademy](https://www.lapadigitale.it/rtd-academy/).
+Da [@diritto2punto0](https://twitter.com/diritto2punto0) +[#PAdigitale](https://twitter.com/hashtag/PAdigitale?src=hashtag_click) ogni martedì di ottobre e novembre 2020, un webinar gratuito per approfondire, con taglio pratico, i temi caldi della digitalizzazione, visti dalla prospettiva di un[ #RTD](https://twitter.com/hashtag/RTD?src=hashtag_click). I webinar sono consultabili anche registrati. [**Link al sito RTD Accademy**](https://www.lapadigitale.it/rtd-academy/).
 
 
 
@@ -178,7 +151,7 @@ Da [@diritto2punto0](https://twitter.com/diritto2punto0) +[ #PAdigitale](https:/
 
 <table>
   <tr>
-   <td>:guilabel:`Una serie di utili domande e risposte sulla formazione - gestione - conservazione dei documenti informatici`
+   <td><b>Una serie di utili domande e risposte sulla formazione - gestione - conservazione dei documenti informatici</b>
    </td>
   </tr>
   <tr>
