@@ -235,14 +235,7 @@ Un lavoro condiviso ed in progress che nasce dall'[hackathon di Udine del 15 giu
 
 
 
-<table>
-  <tr>
-   <td><code>ⓘ Articoli concernenti ontologie, vocabolari controllati e linked open data</code>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ul>
+## Articoli concernenti ontologie, vocabolari controllati e linked open data
 
 <li>"<a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>", un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``.
 
@@ -260,54 +253,5 @@ Un lavoro condiviso ed in progress che nasce dall'[hackathon di Udine del 15 giu
 </table>
 
 
-|
 
-
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>&lt;script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async>&lt;/script></code>
-<p>
-<code>&lt;div id="disqus_thread">&lt;/div></code>
-<p>
-<code>&lt;script></code>
-<p>
-<code>/**</code>
-<p>
-<code>*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</code>
-<p>
-<code>*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/</code>
-<p>
-<code>/*</code>
-<p>
-<code>var disqus_config = function () {</code>
-<p>
-<code>this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable</code>
-<p>
-<code>this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable</code>
-<p>
-<code>};</code>
-<p>
-<code>*/</code>
-<p>
-<code>(function() { // DON'T EDIT BELOW THIS LINE</code>
-<p>
-<code>var d = document, s = d.createElement('script');</code>
-<p>
-<code>s.src = '<a href="https://guida-readthedocs.disqus.com/embed.js">https://guida-readthedocs.disqus.com/embed.js</a>';</code>
-<code>s.setAttribute('data-timestamp', +new Date());</code>
-<p>
-<code>(d.head || d.body).appendChild(s);</code>
-<p>
-<code>})();</code>
-<p>
-<code>&lt;/script></code>
-<p>
-<code>&lt;noscript>Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript">comments powered by Disqus.&lt;/a>&lt;/noscript></code>
-   </td>
-  </tr>
-</table>
 
