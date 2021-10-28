@@ -639,7 +639,7 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 
 Utilizzo del web service [Risk Tool Assesment](https://www.sicurezzait.gov.it) per valutare i livelli di rischi a cui sono esposti i servizi digitali del comune di Palermo e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. Con la collaborazione della Società SISPI SpA. L'azione fa parte del **Piano Triennale per l'Informatica nella Pubblica Amministrazione 2019-2021**, [capitolo Sicurezza](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2017-2019/doc/08_sicurezza.html?highlight=sicurezza).
 
-
+---
 
 **Per le iniziative dal 2019 in poi** <a href="https://cirospat.readthedocs.io/it/latest/Comune-Palermo-attuazione-CAD.html"><b>vai a questa pagina</b></a>. 
  
