@@ -2,7 +2,7 @@
 
 **Contributi di Ciro Spataro [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) nei processi di innovazione al comune di Palermo, per il miglioramento delle competenze digitali dei dipendenti, per l'attuazione delle linee guida open data**
 
-<p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Elenco delle atività dal 2013 al 2018</span></p>
+<p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Elenco delle iniziative dal 2013 al 2018</span></p>
 
 
 <table>
@@ -645,7 +645,7 @@ Utilizzo del web service [Risk Tool Assesment](https://www.sicurezzait.gov.it) p
 
 
 
-Per le iniziative dal 2019 in poi <a href="https://cirospat.readthedocs.io/it/latest/Comune-Palermo-attuazione-CAD.html">vai a questa pagina</a>. 
+**Per le iniziative dal 2019 in poi** <a href="https://cirospat.readthedocs.io/it/latest/Comune-Palermo-attuazione-CAD.html"><b>vai a questa pagina</b></a>. 
  
 
 
