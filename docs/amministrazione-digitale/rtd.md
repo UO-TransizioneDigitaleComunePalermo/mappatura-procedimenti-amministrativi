@@ -56,7 +56,7 @@ Pagina dedicata alle [conferenze organizzate dall'AGID sui Responsabili Transizi
 
 
 
-## Competenze RTD
+## Competenze RTD (formazione)
 [Competenze specialistiche, identificazione delle professionalità ICT a supporto dell’ufficio RTD](http://eventipa.formez.it/sites/default/files/allegati_eventi/scano_20191118.pdf), a cura di Roberto Scano (AgID), [roberto.scano@agid.gov.it](mailto:roberto.scano@agid.gov.it) (18 novembre 2019). [Linea di azione 86](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/11_governare-la-trasformazione-digitale.html#la86) del Piano Triennale per l’informatica nella Pubblica amministrazione 2019-2021.
 
 ---
@@ -66,71 +66,34 @@ Pagina dedicata alle [conferenze organizzate dall'AGID sui Responsabili Transizi
 
 **Video webinar su RTD anno 2019**
 
-<table>
-   <tr>
-   <td><code>&lt;iframe width="100%" height="500" src="https://www.youtube.com/embed/DaM3xLumHYU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&lt;/iframe></code>
-<p>
-<code>&lt;span class="footer_small">&lt;a href="<a href="http://eventipa.formez.it/node/197571">http://eventipa.formez.it/node/197571</a><strong>" target="_blank">Ruolo e funzione del Responsabile per la transizione al digitale nell'attuazione del Piano triennale (29 ottobre 2019)&lt;/a></strong>&lt;/span></code>
-   </td>
-  </tr>
-</table>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/DaM3xLumHYU" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen> /iframe>
+<br>
+<a href="http://eventipa.formez.it/node/197571" target="_blank"> Ruolo e funzione del Responsabile per la transizione al digitale nell'attuazione del Piano triennale (29 ottobre 2019) </a>
 
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/MAZniwA-wSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
+<br>
+<a href="http://eventipa.formez.it/node/199190" target="_blank"> Il documento amministrativo informatico (5 novembre 2019) </a>
+
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/JFKaRAbnWnc" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen /iframe>
+<br>
+<a href="http://eventipa.formez.it/node/200517" target="_blank">La riqualificazione della spesa ICT (12 novembre 2019) </a>
  
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/AfzZUCwwejU" frameborder="0" allow="autoplay; encrypted-media"; allowfullscreen>&lt;/iframe></code>
+<br>
+<a href="http://eventipa.formez.it/node/202136" target="_blank">L'usabilità dei servizi digitali (19 novembre 2019) </a>
 
-<table>
-   <tr>
-   <td><code>&lt;iframe width="100%" height="500" src="https://www.youtube.com/embed/MAZniwA-wSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&lt;/iframe></code>
-<p>
-<code>&lt;span class="footer_small">&lt;a href="<a href="http://eventipa.formez.it/node/199190">http://eventipa.formez.it/node/199190</a><strong>" target="_blank">Il documento amministrativo informatico (5 novembre 2019)&lt;/a></strong>&lt;/span></code>
-   </td>
-  </tr>
-</table>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/1RuK1f8H1ug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
+<br>
+<a href="http://eventipa.formez.it/node/204122" target="_blank"> Conservazione documentale: esperienze e casi d'uso (26 novembre 2019) </a> 
 
 
 
-<table>
-   <tr>
-   <td><code>&lt;iframe width="100%" height="500" src="https://www.youtube.com/embed/JFKaRAbnWnc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&lt;/iframe></code>
-<p>
-<code>&lt;span class="footer_small">&lt;a href="<a href="http://eventipa.formez.it/node/200517">http://eventipa.formez.it/node/200517</a><strong>" target="_blank">La riqualificazione della spesa ICT (12 novembre 2019)&lt;/a></strong>&lt;/span></code>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-   <tr>
-   <td><code>&lt;iframe width="100%" height="500" src="https://www.youtube.com/embed/AfzZUCwwejU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&lt;/iframe></code>
-<p>
-<code>&lt;span class="footer_small">&lt;a href="http://eventipa.formez.it/node/202136<strong>" target="_blank">L'usabilità dei servizi digitali (19 novembre 2019)&lt;/a></strong>&lt;/span></code>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-   <tr>
-   <td><code>&lt;iframe width="100%" height="500" src="https://www.youtube.com/embed/1RuK1f8H1ug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&lt;/iframe></code>
-<p>
-<code>&lt;span class="footer_small">&lt;a href="<a href="http://eventipa.formez.it/node/204122">http://eventipa.formez.it/node/204122</a>" target="_blank">Conservazione documentale: esperienze e casi d'uso<strong> (26 novembre 2019)&lt;/a></strong>&lt;/span></code>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-   <tr>
-   <td><code>&lt;iframe width="100%" height="500" src="https://www.youtube.com/embed/c0qlGIM_CXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&lt;/iframe></code>
-<p>
-<code>&lt;span class="footer_small">&lt;a href="<a href="https://www.ot11ot2.it/notizie/video-e-materiali-del-webinar-sistemi-informativi-e-servizi-digitali-per-i-tributi-locali-e">https://www.ot11ot2.it/notizie/video-e-materiali-del-webinar-sistemi-informativi-e-servizi-digitali-per-i-tributi-locali-e</a><strong>" target="_blank">Sistemi informativi e servizi digitali per i tributi locali e pagamenti elettronici - &lt;b>Catalogo delle esperienze OT2-T11&lt;/b> (27 novembre 2019)&lt;/a></strong>&lt;/span></code>
-   </td>
-  </tr>
-</table>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/c0qlGIM_CXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
+<br>
+<a href="https://www.ot11ot2.it/notizie/video-e-materiali-del-webinar-sistemi-informativi-e-servizi-digitali-per-i-tributi-locali-e" target="_blank">Sistemi informativi e servizi digitali per i tributi locali e pagamenti elettronici - Catalogo delle esperienze OT2-T11 (27 novembre 2019) </a>
 
 
 
