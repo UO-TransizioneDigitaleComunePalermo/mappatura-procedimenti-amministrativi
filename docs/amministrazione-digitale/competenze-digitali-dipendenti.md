@@ -227,7 +227,7 @@ Conoscere le caratteristiche degli Open Data. Sapere quali obiettivi si possono 
 
 ---
 
-|
+
 
 
 ## Comunicazione e condivisione
@@ -299,7 +299,7 @@ Saper selezionare le modalità di comunicazione e condivisione digitale più opp
 </table>
 
 
-|
+
 
 
 ### Comunicare e condividere con cittadini, imprese e altre PA
@@ -820,8 +820,6 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 **LINEE DI INTERVENTO**
 
-
-
 1. Reclutamento di dirigenti in possesso di competenze digitali, trasversali e della capacità di risolvere problematiche complesse 
 2. Percorsi di orientamento alla carriera in ambito pubblico e di formazione specialistica sul digitale in collaborazione con il sistema universitario 
 3. Procedure assunzionali per il personale non dirigenziale che prevedono l'accertamento del possesso delle competenze necessarie a lavorare in una PA sempre più digitale 
@@ -844,18 +842,15 @@ Dopo aver realizzato un primo e importante traguardo, adottando la Strategia Naz
 
 Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 ne segnaliamo alcuni il cui conseguimento mira ad avere un impatto rilevante per la crescita del nostro Paese:
 
-
-
 * Raggiungere il 70% di popolazione con competenze digitali almeno di base, con un incremento di oltre 13 milioni di cittadini dal 2019 e azzerare il divario di genere;
 * duplicare la popolazione in possesso di competenze digitali avanzate (con il 78% di giovani con formazione superiore dimezzando il divario di genere, il 40% dei lavoratori nel settore privato e il 50% di dipendenti pubblici);
 * triplicare il numero dei laureati in ICT e quadruplicare quelli di sesso femminile, duplicare la quota di imprese che utilizza i big data;
 * incrementare del 50% la quota di PMI che utilizzano specialisti ICT;
 * aumentare di cinque volte la quota di popolazione che utilizza servizi digitali pubblici, portandola al 64% e portare ai livelli dei Paesi europei più avanzati, l’utilizzo di Internet anche nelle fasce meno giovani della popolazione (l’84% nella fascia 65-74 anni).
 
-<!--H6 not demoted to H7. -->
 
 
-##### **Le linee di intervento**
+##### Le linee di intervento
 
 Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della [Strategia Nazionale](https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/) e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
 
