@@ -140,7 +140,7 @@ Da [@diritto2punto0](https://twitter.com/diritto2punto0) +[#PAdigitale](https://
 * Spesa ICT nelle PA
 * Riuso e open source
 
-1° webinar (**Il Piano Triennale per l’informatica nella PA 2020 - 2022: scadenze, adempimenti e novità per le PA **- 10 novembre 2020) - [link ai materiali](https://www.crui.it/archivio-notizie/i%C2%B0-ciclo-di-formazione-agid-%E2%80%93-crui-per-rtd-202011021047.html) - [link alla videoregistrazione](https://www.youtube.com/watch?v=Sc-EDRnWlSY).
+1° webinar (**Il Piano Triennale per l’informatica nella PA 2020 - 2022: scadenze, adempimenti e novità per le PA**- 10 novembre 2020) - [link ai materiali](https://www.crui.it/archivio-notizie/i%C2%B0-ciclo-di-formazione-agid-%E2%80%93-crui-per-rtd-202011021047.html) - [link alla videoregistrazione](https://www.youtube.com/watch?v=Sc-EDRnWlSY).
 
 2° webinar (**Il ruolo e la valorizzazione dei dati nella PA** – 17 novembre 2020) - [link ai materiali](https://www.fondazionecrui.it/wp-content/uploads/2020/11/3_Il-ruolo-e-la-valorizzazione-dei-dati-nella-PA_Slide.pdf) - [link alla videoregistrazione](https://youtu.be/Bl0SfUgWg-s).
 
