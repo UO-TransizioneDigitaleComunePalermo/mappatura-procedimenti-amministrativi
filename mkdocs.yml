@@ -157,14 +157,14 @@ nav:
         - Opendatasicilia & communities: profilo/opendatasicilia-communities.md
         - CV: profilo/cv.md
             
-    - Risorse e conoscenza:
+    - Risorse | conoscenza:
         - Tutorial manuali e corsi: risorse-conoscenza/tutorial-manuali-corsi.md
         - Mappe: risorse-conoscenza/mappe.md
         - Catalogo webinar opendata: risorse-conoscenza/catalogo-webinar-opendata.md
         - Accesso Civico: risorse-conoscenza/accesso-civico.md
         - Accessibilità: risorse-conoscenza/accessibilita.md
             
-    - Comune di Palermo:
+    - Comune Palermo:
         - Open data e innovazione: comune-palermo/opendata-innovazione.md
         - Catalogo servizi online: comune-palermo/catalogo-servizi-online.md
         - Attuazione C.A.D.: comune-palermo/attuazione-cad.md
@@ -178,5 +178,5 @@ nav:
         - Competenze digitali cittadini: amministrazione-digitale/competenze-digitali-cittadini.md
         - Vocabolari controllati e ontologie: amministrazione-digitale/vocabolaricontrollati-ontologie.md
         
-    - Privacy & cookies: 
-        - Privacy & cookies: privacy.md
+    - Privacy | cookies: 
+        - Privacy | cookies: privacy.md
