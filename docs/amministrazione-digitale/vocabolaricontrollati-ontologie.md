@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/vocabolari-controllati-architettura-informazione.png" /> 
 
-[Architettura di riferimento per l'informazione del settore pubblico (Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico, AgID)](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html)
+[Architettura di riferimento per l'informazione del settore pubblico, dalle Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico, AgID](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html).
 
 
 ## Ontologia semantica, le basi
@@ -11,7 +11,7 @@ Ontologia semantica: [le basi per comprendere facilmente "ontologia" e "semantic
 
 ## Interoperabilità semantica
 
-Definizione di interoperabilità semantica: **possibilità, offerta alle organizzazioni, di  elaborare informazioni da fonti esterne o secondarie senza perdere il reale significato  delle informazioni stesse nel processo di elaborazione**  - fonte: [Linee Guida per l'interoperabilità semantica attraverso i Linked Open Data](https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf) AgID.
+Definizione di interoperabilità semantica: **possibilità, offerta alle organizzazioni, di  elaborare informazioni da fonti esterne o secondarie senza perdere il reale significato  delle informazioni stesse nel processo di elaborazione** - fonte: [Linee Guida per l'interoperabilità semantica attraverso i Linked Open Data](https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf) AgID.
 
 
 !!! Note "importante"
@@ -22,7 +22,7 @@ Definizione di interoperabilità semantica: **possibilità, offerta alle organiz
 
 
 ## Ontologia OPENARS - Parlamento Regionale Siciliano
-[Ontologia](http://www.openars.org/openars/ontologia/) a cura di Davide Taibi e Giovanni Pirrotta ([Opendatasicilia](http://ods2018.opendatasicilia.it)). Guarda le relazioni in [questo schema dinamico](http://www.openars.org/core/webvowl/index.html#ontology).
+[Ontologia](http://www.openars.org/openars/ontologia/) a cura di **Davide Taibi e Giovanni Pirrotta** ([Opendatasicilia](http://ods2018.opendatasicilia.it)). Guarda le relazioni in [questo schema dinamico](http://www.openars.org/core/webvowl/index.html#ontology).
 
 
 <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/openars.jpg" /> 
@@ -39,25 +39,25 @@ Definizione di interoperabilità semantica: **possibilità, offerta alle organiz
 
 <img src="https://raw.githubusercontent.com/cirospat/-vocabolario-controllato-servizi-pubblici/master/static/CPSV-AP_Specification%20v2.2.png" /> 
 
-[Vocabolario controllato dei servizi pubblici (traduzione del "Core Public Service Vocabulary Application Profile 2.2"](https://vocabolario-controllato-servizi-pubblici.readthedocs.io)
+[Vocabolario controllato dei servizi pubblici (traduzione del Core Public Service Vocabulary Application Profile 2.2](https://vocabolario-controllato-servizi-pubblici.readthedocs.io)
 
 [Consultazione sul profilo italiano dei metadati per i servizi pubblici (CPSV-AP_IT)](https://www.dati.gov.it/consultazione/CPSV-AP_IT). Versione draft 0.4 – per la consultazione pubblica, AGID.
 
-Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, promuovendo una visione integrata degli eventi della vita, degli eventi aziendali e dei servizi pubblici esistenti; in particolare, questa iniziativa (ISA2) della Commissione Europea (più volte citata come riferimento nel Piano Triennale dell'Informatica della PA) si prefigge di:
+Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, promuovendo una visione integrata degli eventi della vita, degli eventi aziendali e dei servizi pubblici esistenti; in particolare, questa iniziativa (ISA2) della Commissione Europea (più volte citata come riferimento nel Piano Triennale dell'Informatica della PA) si prefigge di: 
 
 - analizzare le tipologie di servizi pubblici per cittadini ed imprese all'interno dell'UE, al fine di identificare le sfide e le buone pratiche da condividere; 
-- costruire il consenso sui modi comuni di rappresentare eventi della vita, eventi aziendali e servizi pubblici, oltre i confini e tra i settori. Ciò ha portato alla creazione di un <strong>vocabolario condiviso</strong> per descrivere i servizi pubblici; 
+- costruire il consenso sui modi comuni di rappresentare eventi della vita, eventi aziendali e servizi pubblici, oltre i confini e tra i settori. Ciò ha portato alla creazione di un vocabolario condiviso per descrivere i servizi pubblici; 
 - sviluppare delle componenti riutilizzabili per l'implementazione di cataloghi di servizi a livello locale, regionale, nazionale ed europeo; 
-- sostenere il "<strong>punto unico di accesso ai servizi</strong>", fornendo strumenti per descrivere e per erogare servizi pubblici, tra cui anche strumenti software Open Source; 
+- sostenere il "punto unico di accesso ai servizi", fornendo strumenti per descrivere e per erogare servizi pubblici, tra cui anche strumenti software Open Source; 
 - creazione di linee guida e pratiche per la gestione di cataloghi di servizi pubblici.
 
 
 !!! Note "Nota"
-    Da tempo il Consorzio dei Comuni Trentini sta lavorando a questo tema, in collaborazione con la Provincia autonoma di Trento, cercando di ideare metodologie e tecnologie semplici per consentire a tutti i propri soci di assolvere a questo obbligo, in linea peraltro con quanto previsto dal [cap. 5.1.1.2](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/05_dati-della-pubblica-amministrazione.html#catalogo-dei-servizi) sul Catalogo dei servizi del Piano Triennale dell'Informatica 2019-2021. [Fonte](https://infotn.byway.it/nl/link?c=1lv3&d=f3&h=2uap4jpa721nevjmlqhjm2vn88&i=32e&iw=1&n=bs&p=H301835223&s=wv&sn=bs).
+    Da tempo il **Consorzio dei Comuni Trentini** sta lavorando a questo tema, in collaborazione con la Provincia autonoma di Trento, cercando di ideare metodologie e tecnologie semplici per consentire a tutti i propri soci di assolvere a questo obbligo, in linea peraltro con quanto previsto dal [cap. 5.1.1.2](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/05_dati-della-pubblica-amministrazione.html#catalogo-dei-servizi) sul Catalogo dei servizi del Piano Triennale dell'Informatica 2019-2021. [Fonte](https://infotn.byway.it/nl/link?c=1lv3&d=f3&h=2uap4jpa721nevjmlqhjm2vn88&i=32e&iw=1&n=bs&p=H301835223&s=wv&sn=bs).
  
 
 <iframe src="https://www.youtube.com/embed/IE2UJCV2ggI" width="100%" height="500" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
-<br>
+<br></br>
 The Catalogue of Services Action of the European Commission's ISA2 Programme supports public administrations that create and exchange information on public service descriptions. To do so, it has created a common vocabulary for describing public services, the Core Public Service Vocabulary Application Profile (CPSV-AP), and provides interoperable tools to support local implementations. The CPSV-AP is a data model for harmonising the way public services are described on eGovernment portals. 
 
 [More about the Catalogue of Services](https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/about#what)
@@ -68,7 +68,7 @@ Guarda anche il [Regolamento del Parlamento EU e del Consiglio che istituisce un
 
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/Znkoz0-P3sc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
-<br> Istituzione e gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE
+<br></br> Istituzione e gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE
 
 
 ## Vocabolario controllato degli atti che sono pubblicati nell'Albo Pretorio dei comuni
@@ -126,9 +126,3 @@ Obiettivi:
 - [Generazione e verifica di notizie di qualità attraverso il Web Semantico: la storia di Liliana Segre, un articolo di Giovanni Pirrotta (come il web semantico può combattere le false notizie)](https://medium.com/@gpirrotta/generazione-e-verifica-di-notizie-di-qualit%C3%A0-attraverso-il-web-semantico-la-storia-di-liliana-6cd81f05e9fe).
 - [Una guida di facile lettura (di Ilaria Maresi) per coloro che desiderano conoscere la modellazione semantica o aggiornare la propria memoria sull'argomento. Destinato a un vasto pubblico, il libro tratta argomenti dal "RDF" di base, all'integrazione di ontologie, alla costruzione di un modello e, infine, all'esecuzione di query "SPARQL"](https://zenodo.org/record/3898519#.Xvniul9xdPY).
 - [Estensione di SPARQL 1.1 per generare RDF da XML, JSON, CSV, GeoJSON, HTML, CBOR, testo con espressioni regolari. Disponibile un playground per imparare dalle basi (grazie a Giovanni Pirrotta](https://ci.mines-stetienne.fr/sparql-generate/playground.html). Da un [post di Giovanni Pirotta](https://www.facebook.com/groups/opendatasicilia/?multi_permalinks=2969269163191719%2C2966008010184501%2C2964474767004492&notif_id=1593324030818250&notif_t=group_activity&ref=notif)
-
-
-
-
-
-
