@@ -56,7 +56,8 @@ Visualizzazione degli [**interventi finanziati dal Piano Nazionale Ripresa e Res
 
 ---
 
-### Tipologie di licenze aperte utilizzate nei lavori elencati
-- licenza Creative Commons, attribuzione dell'opera `CC BY` 
-- licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo `CC BY SA` 
-- licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali `CC BY NC SA`.
+??? Note "Tipologie di licenze aperte utilizzate nei lavori elencati"
+    - licenza Creative Commons, attribuzione dell'opera `CC BY` 
+    - licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo `CC BY SA` 
+    - licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali `CC BY NC SA`.
+
