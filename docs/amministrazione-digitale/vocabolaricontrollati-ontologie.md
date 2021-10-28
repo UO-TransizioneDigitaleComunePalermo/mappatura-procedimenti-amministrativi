@@ -89,7 +89,7 @@ Un lavoro condiviso ed in progress che nasce dall'[hackathon di Udine del 15 giu
 ## Ontologie e vocabolari controllati del Data & Analytics Framework - AGID (OntoPiA)
 
 <img src="http://giovanni.pirrotta.it/images/ontopia/ontopia-tecnico.png" /> <br>
-[Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana (immagine tratta dall'articolo di Giovanni Pirrotta)](http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/), , un articolo di Giovanni Pirrotta che spiega in maniera chiara le **ontologie** ed i **vocabolari controllati**.
+[Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana (immagine tratta dall'articolo di Giovanni Pirrotta)](http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/), un articolo di Giovanni Pirrotta che spiega in maniera chiara le **ontologie** ed i **vocabolari controllati**.
 
 [**Repository GitHub delle ontologie e dei vocabolari controllati**](https://github.com/italia/daf-ontologie-vocabolari-controllati) sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_[elenco delle basi di dati chiave](http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/). A cura di Giorgia Lodi, AGID.
 
