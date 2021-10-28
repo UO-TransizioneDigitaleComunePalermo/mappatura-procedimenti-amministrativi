@@ -1,7 +1,7 @@
 # Piano  triennale per l’Informatica del Comune di Palermo 2020-2022    
 adottato con [deliberazione di Giunta Comunale n. 149 del 29.06.2020](https://drive.google.com/file/d/1WPdtkRW5poRM4lAFMxPNHDYJtKahbOvt/view?usp=sharing)
 
-
+## Contenuto della deliberazione G.C. n. 149 del 29.06.2020
 LA GIUNTA COMUNALE 
 
 **Atteso che**:
@@ -347,12 +347,7 @@ Copertura degli strumenti Consip sulle componenti del Modello strategico (dal Pi
 Il Piano nazionale, al capitolo 13 (“[Indicazioni per le pubbliche amministrazioni](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/13_indicazioni-per-le-pubbliche-amministrazioni.html)”) prevede numerose azioni a carico delle PA per attuare concretamente la transizione alla modalità digitale, alcune delle quali sono già state avviate dal Comune di Palermo a cominciare già dal 2015 attraverso il supporto tecnologico della Società in house per i servizi informatici, SISPI SpA. 
 
 
-<table>
-   <tr>
-   <td><code>&lt;img src="<a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/agenda-scadenze-pt.png">https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/agenda-scadenze-pt.png</a>" />   </code>
-   </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/agenda-scadenze-pt.png" />
 
 
 [Scheda](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/_images/agenda-scadenze-pt.png) che riporta le numerose azioni da realizzare da parte delle PA per la transizione alla modalità digitale.
