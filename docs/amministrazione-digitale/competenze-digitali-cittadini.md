@@ -1,33 +1,31 @@
 # Competenze digitali dei cittadini e cittadinanza digitale
 
 
-
 ## La cittadinanza digitale
 
 Lo Stato e **le pubbliche amministrazioni promuovono iniziative per la diffusione della cultura digitale tra i cittadini** con particolare riguardo ai minori e alle categorie a rischio di esclusione, anche al fine di favorire lo sviluppo di competenze di informatica giuridica e l’utilizzo dei servizi digitali delle pubbliche amministrazioni con azioni specifiche e concrete, avvalendosi di un insieme di mezzi diversi fra i quali il servizio radiotelevisivo. [[Art. 8 del Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo1_sezione2_art8.html?highlight=cittadinanza)].
 
-La **“cittadinanza digitale”** è l’insieme di diritti e doveri che, grazie al supporto di servizi e strumenti come l’identità digitale, il domicilio digitale, le firme digitali, i pagamenti elettronici, ha l’obiettivo di **semplificare il rapporto tra cittadini, imprese e pubblica amministrazione**, tramite l’uso delle tecnologie digitali.
+La **cittadinanza digitale** è l’insieme di diritti e doveri che, grazie al supporto di servizi e strumenti come l’identità digitale, il domicilio digitale, le firme digitali, i pagamenti elettronici, ha l’obiettivo di **semplificare il rapporto tra cittadini, imprese e pubblica amministrazione**, tramite l’uso delle tecnologie digitali.
 
-La Carta della cittadinanza digitale sancisce** il diritto di cittadini e imprese**, **anche attraverso l’utilizzo delle tecnologie dell’informazione e della comunicazione, di accedere a tutti i dati, i documenti e i servizi di loro interesse in modalità digitale, al fine di garantire la semplificazione nell’accesso ai servizi alla persona e riducendo la necessità dell’accesso fisico agli uffici pubblici**. [[Art. 1 legge 7 agosto 2015, n. 124 Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124)].
+La Carta della cittadinanza digitale sancisce il diritto di cittadini e imprese, **anche attraverso l’utilizzo delle tecnologie dell’informazione e della comunicazione, di accedere a tutti i dati, i documenti e i servizi di loro interesse in modalità digitale, al fine di garantire la semplificazione nell’accesso ai servizi alla persona e riducendo la necessità dell’accesso fisico agli uffici pubblici**. [Art. 1 legge 7 agosto 2015, n. 124 Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124).
+
 
 **Gli elementi fondamentali** che permettono di esercitare la Cittadinanza Digitale sono:
-
-
 
 * **IL DOMICILIO DIGITALE** - un indirizzo elettronico eletto presso un servizio di posta elettronica certificata o un servizio elettronico di recapito certificato qualificato. Le comunicazioni elettroniche inviate al domicilio digitale hanno gli stessi effetti giuridici delle “comunicazioni a mezzo raccomandata con ricevuta di ritorno ed equivalgono alla notificazione per mezzo della posta, salvo che la legge disponga diversamente”.
 * **IL DIFENSORE CIVICO PER IL DIGITALE** (presso l’AgID) - figura che ha il compito di intervenire presso le amministrazioni o i concessionari di pubblici servizi inadempienti, su segnalazione di cittadini e imprese, per invitarli a rimuovere gli ostacoli che impediscono l’esercizio dei diritti di cittadinanza digitale.
 * **I PAGAMENTI DIGITALI PAGOPA** - diritto per i cittadini di utilizzare il sistema dei pagamenti  digitali ed elettronici, quale mezzo principale per i pagamenti verso la pubblica amministrazione e gli esercenti di servizi di pubblica utilità.
 * **LA FIRMA DIGITALE** - consente di scambiare in rete documenti con piena validità legale, garantendone l’autenticità, l’integrità e la non ripudiabilità. Integra la forma scritta dei documenti e ha l’efficacia della scrittura privata prevista dall’articolo 2702 del Codice civile.
 * **SISTEMA PUBBLICO D'IDENTITÀ' DIGITALE SPID** - il Sistema Pubblico per la gestione dell’Identità Digitale di cittadini e imprese (SPID) permette di accedere ai servizi online offerti dalle pubbliche amministrazioni con un’unica identità digitale (username, password e altro codice temporaneo) utilizzabile da tutti i dispositivi connessi a internet.
-* **ANAGRAFE NAZIONALE POPOLAZIONE RESIDENTE  ANPR **- l’Anagrafe Nazionale della Popolazione Residente è un’unica infrastruttura telematica dove confluiscono tutte le anagrafi comunali che diventa il sistema anagrafico di riferimento per l’intero Paese. Subentrerà alle anagrafi della popolazione residente tenute dai comuni. Oltre a semplificare operazioni quali il cambio di residenza, emigrazioni, immigrazioni e censimenti, l’ANPR garantisce una maggiore qualità e certezza del dato anagrafico, andando a eliminare le duplicazioni di comunicazione con le Pubbliche Amministrazioni.
+* **ANAGRAFE NAZIONALE POPOLAZIONE RESIDENTE  ANPR**- l’Anagrafe Nazionale della Popolazione Residente è un’unica infrastruttura telematica dove confluiscono tutte le anagrafi comunali che diventa il sistema anagrafico di riferimento per l’intero Paese. Subentrerà alle anagrafi della popolazione residente tenute dai comuni. Oltre a semplificare operazioni quali il cambio di residenza, emigrazioni, immigrazioni e censimenti, l’ANPR garantisce una maggiore qualità e certezza del dato anagrafico, andando a eliminare le duplicazioni di comunicazione con le Pubbliche Amministrazioni.
 * **CARTA D'IDENTITÀ ELETTRONICA CIE** - è un documento personale, rilasciato dai comuni, dotato di un microchip a radiofrequenza che memorizza i dati del titolare, attestandone l’identità. Può essere utilizzata come documento di viaggio in tutti i paesi appartenenti all’Unione Europea e come identità digitale per accedere ai servizi online delle pubbliche amministrazioni.
 
 
-### La cittadinanza digitale attraverso l’agenda digitale
+## La cittadinanza digitale attraverso l’agenda digitale
 
-L’**Agenzia per l’Italia Digitale** e** **il**  Ministero dell’Innovazione tecnologica e della digitalizzazione** sono gli organi istituzionali dello Stato che hanno il compito di garantire la **realizzazione degli obiettivi dell’Agenda digitale italiana nella Pubblica Amministrazione** e contribuire alla **diffusione dell’utilizzo delle tecnologie dell’informazione e della comunicazione**, favorendo l’innovazione e la crescita economica.
+L’**Agenzia per l’Italia Digitale** e il  **Ministero dell’Innovazione tecnologica e della digitalizzazione** sono gli organi istituzionali dello Stato che hanno il compito di garantire la **realizzazione degli obiettivi dell’Agenda digitale italiana nella Pubblica Amministrazione** e contribuire alla **diffusione dell’utilizzo delle tecnologie dell’informazione e della comunicazione**, favorendo l’innovazione e la crescita economica.
 
-L’**agenda digitale** **europea** individua 7 ambiti di azione principali:
+L’**agenda digitale europea** individua 7 ambiti di azione principali:
 
 1. [creare un mercato unico digitale (digital single market)](https://youtu.be/Znkoz0-P3sc)
 2. migliorare il contesto per [l’interoperabilità tra prodotti e servizi](https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/master/) delle Tecnologie dell’Informazione e della Comunicazione (ICT)
@@ -45,31 +43,32 @@ Le competenze digitali dei cittadini permettono, agli stessi, di esercitare i di
 
 Le competenze digitali del cittadino comprendono:
 
-1. **l’alfabetizzazione informatica e digitale, **
-2. **la comunicazione e la collaborazione, **
-3. **l’alfabetizzazione mediatica, **
+1. **l’alfabetizzazione informatica e digitale,**
+2. **la comunicazione e la collaborazione,**
+3. **l’alfabetizzazione mediatica,**
 4. **la creazione di contenuti digitali** (inclusa la programmazione), 
 5. **la sicurezza** (compreso l’essere a proprio agio nel mondo digitale e possedere competenze relative alla ciber-sicurezza), 
-6. **le questioni legate alla proprietà intellettuale, **
-7. **la risoluzione di problemi. **
+6. **le questioni legate alla proprietà intellettuale,**
+7. **la risoluzione di problemi.**
 8. **il pensiero critico.**
+
 
 Le persone, per esercitare al meglio i diritti di cittadinanza digitale, dovrebbero: 
 
 * **Comprendere in che modo le tecnologie digitali possono essere di aiuto** alla comunicazione, alla creatività e all’innovazione.
 * **Comprendere i principi generali, i meccanismi e la logica** che sottendono alle tecnologie digitali.
-* Essere in grado di **utilizzare le tecnologie digitali come ausilio per la cittadinanza** attiva e l’inclusione sociale, la collaborazione con gli altri e la creatività nel raggiungimento di obiettivi personali, sociali o commerciali. [Le abilità comprendono la **capacità di utilizzare, accedere a, filtrare, valutare, creare, programmare e condividere contenuti digitali**].
+* Essere in grado di **utilizzare le tecnologie digitali come ausilio per la cittadinanza** attiva e l’inclusione sociale, la collaborazione con gli altri e la creatività nel raggiungimento di obiettivi personali, sociali o commerciali. Le abilità comprendono la **capacità di utilizzare, accedere a, filtrare, valutare, creare, programmare e condividere contenuti digitali**.
 * Essere in grado di **gestire e proteggere informazioni, contenuti, dati e identità digitali**, oltre a **riconoscere software, dispositivi, intelligenza artificiale o robot e interagire efficacemente con essi.**
 
 
 
-### Un modello europeo per comprendere le competenze digitali dei cittadini
+## Un modello europeo per comprendere le competenze digitali dei cittadini
 
 E’ stato creato un modello a livello europeo per definire le competenze digitali dei cittadini che si chiama [DIGCOMP](http://www.cittadinanzadigitale.eu/wp-content/uploads/2017/11/DigComp%202.1_Sandra%20Troia.pdf), organizzato in 5 aree di competenza, 21 competenze, 8 livelli di padronanza.
 
 
 
-### Le aree di competenza digitale dei cittadini
+## Le aree di competenza digitale dei cittadini
 
 Le 5 aree di competenza sono:
 
@@ -82,8 +81,7 @@ Le 5 aree di competenza sono:
 |
 
 
-### Parole chiave che contraddistinguono gli 8 livelli di padronanza delle competenze digitali dei cittadini
-
+## Parole chiave che contraddistinguono gli 8 livelli di padronanza delle competenze digitali dei cittadini
 
 <table>
   <tr>
@@ -179,9 +177,7 @@ Le 5 aree di competenza sono:
 </table>
 
 
-
-
-### Gli 8 livelli di padronanza delle 21 competenze digitali dei cittadini suddivisi in 5 aree
+## Gli 8 livelli di padronanza delle 21 competenze digitali dei cittadini suddivisi in 5 aree
 
 **Elaborazione delle informazioni**
 
@@ -219,40 +215,18 @@ Le 5 aree di competenza sono:
 * 5.3 Utilizzare creativamente le tecnologie digitali
 * 5.4 Identificare i gap di competenza digitale
 
-<table>
-  <tr>
-   <td>
-<code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>&lt;img src="<a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/oceano_digitale.png">https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/oceano_digitale.png</a>" width= 900 /></code>
-   </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/oceano_digitale.png"></img>
+
+Fonte: 
+- [competenze digitali - Docs Italia](https://competenze-digitali-docs.readthedocs.io) 
+- [competenze digitali da docs.italia.it/italia/designers-italia/lg-competenzedigitali](https://docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs/it/stabile/index.html)
 
 
 
-<table>
-  <tr>
-   <td><code>ⓘ Fonte: competenze digitali - Docs Italia</code>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://competenze-digitali-docs.readthedocs.io/">competenze-digitali-docs.readthedocs.io</a>
-<p>
-<a href="https://docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs/it/stabile/index.html">docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs</a>
-   </td>
-  </tr>
-</table>
+### 1. Elaborazione delle informazioni
 
 
-
-
-#### 1. Elaborazione delle informazioni
-
-
-##### **1.1 Navigare,   ricercare   e   filtrare   dati,   informazioni   e   contenuti   digitali** 
+#### **1.1 Navigare,   ricercare   e   filtrare   dati,   informazioni   e   contenuti   digitali** 
 
 Articolare i fabbisogni informativi, ricercare i dati, le informazioni e i contenuti in ambienti digitali, accedervi e navigare al loro interno. Creare e aggiornare strategie di ricerca personali.
 
@@ -441,7 +415,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### **1.2 Valutare  dati,  informazioni  e  contenuti  digitali**
+#### **1.2 Valutare  dati,  informazioni  e  contenuti  digitali**
 
 Analizzare, confrontare e valutare in maniera critica la credibilità e l’affidabilità delle fonti dei dati, delle informazioni e dei contenuti digitali. Analizzare, interpretare e valutare in maniera critica dati, informazioni e contenuti digitali.
 
@@ -602,7 +576,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 1.3 Gestire  dati,  informazioni  e  contenuti  digitali 
+#### 1.3 Gestire  dati,  informazioni  e  contenuti  digitali 
 
 Organizzare, archiviare e recuperare dati, informazioni e contenuti negli ambienti digitali. Organizzarli ed elaborarli in un ambiente strutturato.
 
@@ -769,10 +743,10 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-#### 2. Comunicazione e collaborazione
+### 2. Comunicazione e collaborazione
 
 
-##### 2.1 Interagire con le tecnologie digitali
+#### 2.1 Interagire con le tecnologie digitali
 
 Interagire attraverso diverse tecnologie digitali e capire quali sono gli strumenti di comunicazione più appropriati in un determinato contesto.
 
@@ -946,8 +920,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-
-##### 2.2 Condividere con le tecnologie digitali 
+#### 2.2 Condividere con le tecnologie digitali 
 
 Condividere dati, informazioni e contenuti digitali con altri attraverso tecnologie digitali appropriate. Agire da intermediari, conoscendo le prassi adeguate per la citazione delle fonti e attribuzione di titolarità.
 
@@ -1132,7 +1105,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 2.3 Impegnarsi nella cittadinanza con le tecnologie digitali 
+#### 2.3 Impegnarsi nella cittadinanza con le tecnologie digitali 
 
 Partecipare alla vita sociale attraverso l’utilizzo di servizi digitali pubblici e privati. Trovare opportunità di self-empowerment e cittadinanza partecipativa attraverso le tecnologie digitali più appropriate.
 
@@ -1298,9 +1271,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-
-
-##### 2.4 Collaborare  attraverso  le  tecnologie  digitali  
+#### 2.4 Collaborare  attraverso  le  tecnologie  digitali  
 
 Utilizzare gli strumenti e le tecnologie per i processi collaborativi e per la co-costruzione e la co-creazione di dati, risorse e know-how.
 
@@ -1459,7 +1430,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 2.5 Netiquette
+#### 2.5 Netiquette
 
 Essere al corrente delle norme comportamentali e del know-how per l’utilizzo delle tecnologie digitali e l’interazione con gli ambienti digitali. Adeguare le strategie di comunicazione al pubblico specifico e tenere conto delle differenze culturali e generazionali negli ambienti digitali.
 
@@ -1637,7 +1608,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 2.6 Gestire l’identità digitale
+#### 2.6 Gestire l’identità digitale
 
 Creare e gestire una o più identità digitali, essere in grado di proteggere la propria reputazione, gestire i dati che uno ha prodotto, utilizzando diversi strumenti, ambienti e servizi digitali.
 
@@ -1812,10 +1783,10 @@ Sono in grado di proporre una nuova procedura alla mia scuola che eviti la pubbl
 
 
 
-#### 3. Creazione di Contenuti
+### 3. Creazione di Contenuti
 
 
-##### 3.1 Sviluppare contenuti digitali   
+#### 3.1 Sviluppare contenuti digitali   
 
 Creare e modificare contenuti digitali in diversi formati, esprimersi attraverso mezzi digitali.
 
@@ -1986,7 +1957,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 3.2 Integrare e rielaborare contenuti digitali 
+#### 3.2 Integrare e rielaborare contenuti digitali 
 
 Modificare, affinare, migliorare e integrare informazioni e contenuti all’interno di un corpus di conoscenze esistente per creare conoscenze e contenuti nuovi, originali e rilevanti.
 
@@ -2140,7 +2111,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 3.3 Copyright (diritti d'autore) e licenze
+#### 3.3 Copyright (diritti d'autore) e licenze
 
 Capire come il copyright e le licenze si applicano ai dati, alle informazioni e ai contenuti digitali.
 
@@ -2298,7 +2269,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 3.4 Programmazione
+#### 3.4 Programmazione
 
 Pianificare e sviluppare una sequenza di istruzioni comprensibili da parte di un sistema informatico per risolvere un determinato problema o svolgere un compito specifico.
 
@@ -2452,10 +2423,10 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-#### 4. Sicurezza
+### 4. Sicurezza
 
 
-##### 4.1 Proteggere i dispositivi
+#### 4.1 Proteggere i dispositivi
 
 Proteggere i dispositivi e i contenuti digitali e comprendere i rischi e le minacce presenti negli ambienti digitali. Conoscere le misure di sicurezza e protezione e tenere in debita considerazione l’affidabilità e la privacy.
 
@@ -2652,7 +2623,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 4.2 Proteggere   i   dati   personali   e   la   privacy   
+#### 4.2 Proteggere   i   dati   personali   e   la   privacy   
 
 Proteggere i dati personali e la privacy negli ambienti digitali. Capire come utilizzare e condividere informazioni personali proteggendo sé stessi e gli altri dai danni. Comprendere che i servizi digitali hanno un “regolamento sulla privacy” per informare gli utenti sull’utilizzo dei dati personali raccolti.
 
@@ -2836,7 +2807,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 4.3 Tutelare  la  salute  e  il  benessere 
+#### 4.3 Tutelare  la  salute  e  il  benessere 
 
 Essere in grado di evitare rischi per la salute e minacce al benessere psico-fisico quando si utilizzano le tecnologie digitali. Essere in grado di proteggere sé stessi e gli altri da possibili pericoli negli ambienti digitali (ad es. cyberbullismo). Essere a conoscenza delle tecnologie digitali per il benessere e l’inclusione sociale.
 
@@ -3011,7 +2982,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 4.4 Tutelare l’ambiente 
+#### 4.4 Tutelare l’ambiente 
 
 Essere consapevoli dell’impatto ambientale delle tecnologie digitali e del loro utilizzo.
 
@@ -3162,10 +3133,10 @@ Sono in grado di creare un nuovo eBook per rispondere alle domande sull’utiliz
 
 
 
-#### 5. Risoluzione di problemi
+### 5. Risoluzione di problemi
 
 
-##### 5.1 Risolvere i problemi tecnici
+#### 5.1 Risolvere i problemi tecnici
 
 Individuare problemi tecnici nell’utilizzo dei dispositivi e degli ambienti digitali e risolverli (dalla ricerca e risoluzione di piccoli problemi all’eliminazione di problemi più complessi).
 
@@ -3333,7 +3304,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 5.2 Identificare i bisogni e le risposte tecnologiche
+#### 5.2 Identificare i bisogni e le risposte tecnologiche
 
 Valutare le esigenze e individuare, valutare, scegliere e utilizzare gli strumenti digitali e le possibili risposte tecnologiche per risolverli. Adeguare e personalizzare gli ambienti digitali in base alle esigenze personali (ad es. accessibilità).
 
@@ -3516,7 +3487,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 5.3 Utilizzare  creativamente  le  tecnologie  digitali  
+#### 5.3 Utilizzare  creativamente  le  tecnologie  digitali  
 
 Utilizzare gli strumenti e le tecnologie digitali per creare conoscenza e innovare processi e prodotti. Partecipare individualmente e collettivamente ai processi cognitivi per comprendere e risolvere problemi concettuali e situazioni problematiche negli ambienti digitali.
 
@@ -3691,7 +3662,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 
 
-##### 5.4 Identificare i gap di competenza digitale
+#### 5.4 Identificare i gap di competenza digitale
 
 Capire dove occorre migliorare o aggiornare i propri fabbisogni di competenze digitali. Essere in grado di supportare gli altri nello sviluppo delle proprie competenze digitali. Ricercare opportunità di crescita personale e tenersi al passo con l’evoluzione digitale.
 
@@ -3877,8 +3848,6 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 [L’Italia ha la sua Strategia Nazionale per le Competenze Digitali](https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/).
 
- 
-
 [Link alla pagina del Decreto concernente le competenze digitali dei cittadini](https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf#page=38).
 
 
@@ -3919,8 +3888,6 @@ Il livello delle competenze digitali dei cittadini italiani, come rappresentato 
 
 In sintesi la situazione attuale:
 
-
-
 * Basse competenze digitali nella popolazione 
 * Divari generazionali, ma carenze anche tra giovani e individui istruiti 
 * Divari territoriali e di genere nell’utilizzo di internet 
@@ -3928,15 +3895,11 @@ In sintesi la situazione attuale:
 
 **PRIORITÀ**
 
-
-
 * Accesso a Internet della popolazione in età lavorativa con scarse o nulle competenze digitali assenti e livello di istruzione basso
 * Alfabetizzazione digitale della popolazione in età lavorativa che già utilizza Internet 
 * Inclusione/accesso digitale degli anziani e delle categorie svantaggiate
 
 **LINEE DI INTERVENTO**
-
-
 
 1. **Percorsi formativi all’interno delle Istituzioni Scolastiche** (in sinergia con le scuole che si aprono al territorio e potenziano le iniziative di alfabetizzazione digitale, in particolare all’interno delle attività per l’educazione permanente dei CPIA)
 2. **Percorsi formativi nel circuito educativo non formale** (basati sulla valorizzazione del lifelong learning, con piattaforme di apprendimento online che accompagnino la crescita del livello di competenza)
@@ -3946,25 +3909,20 @@ In sintesi la situazione attuale:
 
 **IMPATTO**
 
-
-
 * Aumento dei cittadini e della popolazione attiva con competenze digitali almeno di base
 * Aumento degli individui svantaggiati con competenze digitali almeno di base
 * Incremento dell’utilizzo di internet, con particolare riferimento ad alcune attività essenziali (inclusi i servizi di eGovernment) e alle categorie svantaggiate
 
 
 
-## Pubblicato il Piano Operativo della Strategia Nazionale per le competenze digitali, 23 dicembre 2020
+## Dopo la Strategia, viene pubbicato il Piano Operativo della Strategia Nazionale per le competenze digitali, 23.12.2020
 
 Dopo aver realizzato un primo e importante traguardo, adottando la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo [Piano Operativo](https://repubblicadigitale.innovazione.gov.it/pubblicato-piano-operativo-strategia-nazionale-competenze-digitali/).
 
 
-
-###### **Gli obiettivi del Piano**
+### Gli obiettivi del Piano
 
 Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 ne segnaliamo alcuni il cui conseguimento mira ad avere un impatto rilevante per la crescita del nostro Paese:
-
-
 
 * Raggiungere il 70% di popolazione con competenze digitali almeno di base, con un incremento di oltre 13 milioni di cittadini dal 2019 e azzerare il divario di genere;
 * duplicare la popolazione in possesso di competenze digitali avanzate (con il 78% di giovani con formazione superiore dimezzando il divario di genere, il 40% dei lavoratori nel settore privato e il 50% di dipendenti pubblici);
@@ -3973,8 +3931,7 @@ Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 ne segnaliamo 
 * aumentare di cinque volte la quota di popolazione che utilizza servizi digitali pubblici, portandola al 64% e portare ai livelli dei Paesi europei più avanzati, l’utilizzo di Internet anche nelle fasce meno giovani della popolazione (l’84% nella fascia 65-74 anni).
 
 
-
-###### **Le linee di intervento**
+### Le linee di intervento del Piano
 
 Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della [Strategia Nazionale](https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/) e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
 
@@ -3985,15 +3942,16 @@ Il Piano indica le azioni di sistema per l’attuazione delle linee di intervent
 
 L’architettura del piano si articola in 4 assi strategici nell’ambito di ciascuno dei quali sono individuate le azioni di breve, medio e lungo termine che attuano le priorità e le linee di intervento definite nella Strategia. Il modello che consente il monitoraggio di tali azioni include un cruscotto di indicatori di impatto generale, suddivisi per ciascun asse, tra fattori abilitanti e risultati da ottenere, nonché indicatori specifici per ciascuna azione.
 
-[IL PIANO COMPLETO](https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf)
+[**IL PIANO COMPLETO**](https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf)
 
-[LA SINTESI DEL PIANO](https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Executive-Summary.pdf)
+[**LA SINTESI DEL PIANO**](https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Executive-Summary.pdf)
 
-[LA VERSIONE INFOGRAFICA DEL PIANO](https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Infografica.pdf)
+[**LA VERSIONE INFOGRAFICA DEL PIANO**](https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Infografica.pdf)
+
 
 Gli **ALLEGATI** con le schede di dettaglio delle azioni del Piano:
 
-* [APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf)
-* [APPENDICE 2: FORZA LAVORO ATTIVA](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf)
-* [APPENDICE 3: COMPETENZE SPECIALISTICHE ICT](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice3-Competenze-specialistiche-ICT.pdf)
-* [APPENDICE 4: CITTADINI](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice4-Cittadini.pdf)
+* [**APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE**](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf)
+* [**APPENDICE 2: FORZA LAVORO ATTIVA**](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf)
+* [**APPENDICE 3: COMPETENZE SPECIALISTICHE ICT**](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice3-Competenze-specialistiche-ICT.pdf)
+* [**APPENDICE 4: CITTADINI**](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice4-Cittadini.pdf)
