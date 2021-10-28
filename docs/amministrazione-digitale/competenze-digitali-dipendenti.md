@@ -4,14 +4,11 @@
     I contenuti di questa pagina sono estratti da "Il Syllabus", <strong>Competenze digitali per la PA</strong>, a cura del Dipartimento della Funzione Pubblica - Ufficio per l'innovazione e la digitalizzazione. [<a href="https://www.competenzedigitali.gov.it/syllabus.html">Link al Syllabus</a>]
 
 
-
-
 ## Cos'è il Syllabus delle “Competenze digitali per la PA”
 è il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione. Rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
 
 L’obiettivo generale del Syllabus [vedi pag.11 del documento](https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf#page=11)  è fare in modo che tutti i dipendenti pubblici siano in grado di operare attivamente in modo sicuro, consapevole, collaborativo e orientato al risultato all’interno di una pubblica amministrazione sempre più digitale. Il Syllabus si concentra esclusivamente [vedi pag.12 del documento](https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf#page=12) sugli aspetti pertinenti alle competenze digitali complementari richieste ad un dipendente pubblico che lavora in ambienti digitali. 
 
-|
 
 **Le 5 Aree tematiche di competenza del Syllabus:**
 
@@ -21,14 +18,12 @@ L’obiettivo generale del Syllabus [vedi pag.11 del documento](https://www.comp
 4. Servizi online
 5. Trasformazione digitale
 
-|
 
 **I 3 Livelli di competenza del Syllabus:**
 
 1. livello padronanza BASE 
 2. livello padronanza INTERMEDIO 
 3. livello padronanza AVANZATO
-
 
 
 **La struttura del Syllabus** **si basa su 4 dimensioni:**
