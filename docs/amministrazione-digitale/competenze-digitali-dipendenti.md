@@ -9,13 +9,11 @@
 ## Cos'è il Syllabus delle “Competenze digitali per la PA”
 è il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione. Rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
 
-L’obiettivo generale del Syllabus [[vedi pag.11 del documento](https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf#page=11)]  è fare in modo che tutti i dipendenti pubblici siano in grado di operare attivamente in modo sicuro, consapevole, collaborativo e orientato al risultato all’interno di una pubblica amministrazione sempre più digitale. Il Syllabus si concentra esclusivamente [[vedi pag.12 del documento](https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf#page=12)] sugli aspetti pertinenti alle competenze digitali complementari richieste ad un dipendente pubblico che lavora in ambienti digitali. 
+L’obiettivo generale del Syllabus [vedi pag.11 del documento](https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf#page=11)  è fare in modo che tutti i dipendenti pubblici siano in grado di operare attivamente in modo sicuro, consapevole, collaborativo e orientato al risultato all’interno di una pubblica amministrazione sempre più digitale. Il Syllabus si concentra esclusivamente [vedi pag.12 del documento](https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf#page=12) sugli aspetti pertinenti alle competenze digitali complementari richieste ad un dipendente pubblico che lavora in ambienti digitali. 
 
 |
 
-**Le 5 Aree tematiche di competenza del Syllabus: **
-
-
+**Le 5 Aree tematiche di competenza del Syllabus:**
 
 1. Dati, informazioni e documenti informatici 
 2. Comunicazione e condivisione 
@@ -25,33 +23,25 @@ L’obiettivo generale del Syllabus [[vedi pag.11 del documento](https://www.com
 
 |
 
-**I 3 Livelli di competenza del Syllabus: **
-
-
+**I 3 Livelli di competenza del Syllabus:**
 
 1. livello padronanza BASE 
 2. livello padronanza INTERMEDIO 
 3. livello padronanza AVANZATO
 
-|
+
 
 **La struttura del Syllabus** **si basa su 4 dimensioni:**
-
-
 
 1. Area di competenza che delimita ciascun ambito tematico che concorre alla definizione della competenza digitale nel suo complesso
 2. Descrittore delle competenze presenti in ciascuna area
 3. Livello di padronanza per ciascuna competenza (Base, Intermedio, Avanzato)
 4. Descrittore delle conoscenze e/o delle abilità che caratterizzano una competenza per ciascun livello di padronanza
 
-|
-
-La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una [consultazione pubblica](https://commenta.formez.it/ch/syllabus) (2019) che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento ([vai agli esiti della consultazione pubblica](https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-report-consultazione-pubblica-dfp-uid-maggio-2019.pdf)).
 
 
----
+La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una [consultazione pubblica](https://commenta.formez.it/ch/syllabus) (2019) che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento [vai agli esiti della consultazione pubblica](https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-report-consultazione-pubblica-dfp-uid-maggio-2019.pdf).
 
-|
 
 
 ## Dati, informazioni e documenti informatici
@@ -113,7 +103,6 @@ Conoscere la differenza tra dato e informazione. Saper raccogliere i dati e le i
 </table>
 
 
-|
 
 
 ### Produrre, valutare e gestire documenti informatici
@@ -182,7 +171,6 @@ Produrre e riconoscere la validità di un documento informatico. Acquisire, gest
 </table>
 
 
-|
 
 
 ### Conoscere gli open data
@@ -259,7 +247,7 @@ La comunicazione deve poi tenere conto dell’evoluzione normativa. Gli strument
 
 In questo scenario il dipendente pubblico ha, pertanto, la necessità di conoscere gli strumenti di comunicazione esterna e di saper applicare le modalità di interazione più adatte a seconda del soggetto e della circostanza, nel costante rispetto delle disposizioni normative.
 
-|
+
 
 
 ### Comunicare e condividere all'interno dell'Amministrazione
@@ -398,8 +386,6 @@ Sapere cos’è il domicilio digitale dei cittadini, dei professionisti e delle 
 
 ---
 
-|
-
 
 ## Sicurezza
 
@@ -417,7 +403,7 @@ Dal 25 maggio 2018 è operativo e obbligatorio il nuovo regolamento europeo sull
 
 La pubblica amministrazione, alla stregua di qualunque impresa o organizzazione che gestisce informazioni, deve conoscere i contenuti della nuova normativa sulla Privacy nota anche con il termine **GDPR (General Data Protection Regulation)**, saperli applicare e prevedere competenze e ruoli adatti ad assicurarne il pieno rispetto nei processi di trattamento dei dati.
 
-|
+
 
 
 ### Proteggere i dispositivi
@@ -472,7 +458,6 @@ Conoscere l’esistenza degli attacchi informatici e dei rischi ad essi associat
 </table>
 
 
-|
 
 
 ### Proteggere i dati personali e la Privacy
@@ -528,8 +513,6 @@ Conoscere la normativa vigente sulla protezione dei dati personali e saperla app
 
 ---
 
-|
-
 
 ## Servizi on-line
 
@@ -543,7 +526,6 @@ Alcune di queste piattaforme abilitanti si rivolgono specificatamente ai cittadi
 
 Il dipendente pubblico è chiamato, pertanto, a conoscere e garantire il diritto alla fruizione dei servizi on-line, nonché a conoscere le principali piattaforme abilitanti a supporto dell’erogazione di tali servizi da parte delle pubbliche amministrazioni in favore di cittadini e imprese.
 
-|
 
 
 ### Conoscere l'identità digitale
@@ -597,8 +579,6 @@ Conoscere il concetto di identità digitale e le relative implicazioni nell’ac
   </tr>
 </table>
 
-
-|
 
 
 ### Erogare servizi online
@@ -665,10 +645,8 @@ Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il
 </table>
 
 
-
 ---
 
-|
 
 
 ## Trasformazione digitale
@@ -681,8 +659,7 @@ Il Codice dell'amministrazione digitale (d. lgs. n. 82/2005) accompagna le ammin
 
 È altresì necessario che il dipendente pubblico possegga una “**cultura digitale**” di base relativamente ai trend e alle tecnologie che si stanno sviluppando in questo momento, e sia in grado di riconoscerne le potenzialità applicative anche in ambito pubblico.
 
- \
-|
+
 
 
 ### Conoscere gli obiettivi di trasformazione digitale
@@ -739,7 +716,6 @@ Conoscere le strategie di crescita digitale del Paese e le principali modalità 
 </table>
 
 
-|
 
 
 ### Conoscere le tecnologie emergenti per la trasformazione digitale
@@ -800,7 +776,6 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 </table>
 
 
-
 ---
 
 
@@ -815,7 +790,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 <table>
   <tr>
-   <td>ⓘ Quattro sono gli assi di intervento della Strategia:
+   <td>Quattro sono gli assi di intervento della Strategia:
    </td>
   </tr>
   <tr>
@@ -838,19 +813,15 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 **SITUAZIONE ATTUALE** 
 
-
-
-* Difficoltà nell’individuare risorse con le competenze necessarie a ricoprire il ruolo di RTD-Responsabile per la transizione al digitale 
-* Classe dirigente sprovvista delle competenze necessarie a riconoscere le opportunità di innovazione e a coordinare i processi di cambiamento abilitati dalle tecnologie digitali 
-* Capitale umano della PA male attrezzato, anziano e poco qualificato 
+- Difficoltà nell’individuare risorse con le competenze necessarie a ricoprire il ruolo di RTD-Responsabile per la transizione al digitale 
+- Classe dirigente sprovvista delle competenze necessarie a riconoscere le opportunità di innovazione e a coordinare i processi di cambiamento abilitati dalle tecnologie digitali 
+- Capitale umano della PA male attrezzato, anziano e poco qualificato 
 
 **PRIORITÀ**
 
-
-
-* Favorire l’assunzione di dirigenti preparati ad accogliere e gestire la trasformazione digitale della PA 
-* Rendere la Pubblica Amministrazione più attrattiva rispetto a risorse ad alto potenziale in ambiti connessi all'innovazione e al digitale 
-* Favorire la creazione di una cultura condivisa sull'innovazione e la digitalizzazione a tutti i livelli dell'amministrazione e accrescere le professionalità di chi già lavora nella PA 
+- Favorire l’assunzione di dirigenti preparati ad accogliere e gestire la trasformazione digitale della PA 
+- Rendere la Pubblica Amministrazione più attrattiva rispetto a risorse ad alto potenziale in ambiti connessi all'innovazione e al digitale 
+- Favorire la creazione di una cultura condivisa sull'innovazione e la digitalizzazione a tutti i livelli dell'amministrazione e accrescere le professionalità di chi già lavora nella PA 
 
 **LINEE DI INTERVENTO**
 
@@ -864,23 +835,17 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 **IMPATTO**
 
-
-
-* Aumento dei dipendenti pubblici con competenze digitali almeno di base 
-* Aumento dei dipendenti pubblici con competenze specialistiche in ambito ICT 
-* Incremento del numero di servizi pubblici digitali destinati a cittadini e soprattutto alle imprese
-
-|
+- Aumento dei dipendenti pubblici con competenze digitali almeno di base 
+- Aumento dei dipendenti pubblici con competenze specialistiche in ambito ICT 
+- Incremento del numero di servizi pubblici digitali destinati a cittadini e soprattutto alle imprese
 
 
 ## Pubblicato il Piano Operativo della Strategia Nazionale per le competenze digitali, 23 dicembre 2020
 
 Dopo aver realizzato un primo e importante traguardo, adottando la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo [Piano Operativo](https://repubblicadigitale.innovazione.gov.it/pubblicato-piano-operativo-strategia-nazionale-competenze-digitali/).
 
-<!--H6 not demoted to H7. -->
 
-
-###### **Gli obiettivi del Piano**
+##### **Gli obiettivi del Piano**
 
 Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 ne segnaliamo alcuni il cui conseguimento mira ad avere un impatto rilevante per la crescita del nostro Paese:
 
@@ -895,13 +860,12 @@ Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 ne segnaliamo 
 <!--H6 not demoted to H7. -->
 
 
-###### **Le linee di intervento**
+##### **Le linee di intervento**
 
 Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della [Strategia Nazionale](https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/) e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
 
 
-
-1. Istruzione e Formazione Superiore - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca;
+1. Istruzione e Formazione Superiore - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca; 
 2. Forza lavoro - per garantire competenze digitali adeguate sia nel settore privato che nel settore pubblico, incluse le competenze per l’e-leadership, con il coordinamento del Ministero dello Sviluppo Economico e del Ministro per la Pubblica Amministrazione;
 3. Competenze specialistiche ICT - per potenziare la capacità del Paese di sviluppare competenze per mercati emergenti e nuove possibilità di occupazione, in gran parte legate alle tecnologie innovative e al possesso delle competenze indispensabili per i lavori del futuro, con il coordinamento del Ministero dell’Università e Ricerca e del Ministero dello Sviluppo Economico;
 4. Cittadini - per sviluppare le competenze digitali necessarie a esercitare i diritti di cittadinanza e la partecipazione consapevole alla vita democratica, con il coordinamento del Ministro per l’innovazione tecnologica e la digitalizzazione).
@@ -914,11 +878,9 @@ L’architettura del piano si articola in 4 assi strategici nell’ambito di cia
 
 [LA VERSIONE INFOGRAFICA DEL PIANO](https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Infografica.pdf)
 
-Gli ALLEGATI con le schede di dettaglio delle azioni del Piano:
+Gli **ALLEGATI** con le schede di dettaglio delle azioni del Piano:
 
-
-
-* [APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf)
-* [APPENDICE 2: FORZA LAVORO ATTIVA](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf)
-* [APPENDICE 3: COMPETENZE SPECIALISTICHE ICT](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice3-Competenze-specialistiche-ICT.pdf)
-* [APPENDICE 4: CITTADINI](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice4-Cittadini.pdf)
+- [APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf)
+- [APPENDICE 2: FORZA LAVORO ATTIVA](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf)
+- [APPENDICE 3: COMPETENZE SPECIALISTICHE ICT](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice3-Competenze-specialistiche-ICT.pdf)
+- [APPENDICE 4: CITTADINI](https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice4-Cittadini.pdf)
