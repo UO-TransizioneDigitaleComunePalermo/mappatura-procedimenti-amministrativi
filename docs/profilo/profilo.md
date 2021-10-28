@@ -37,13 +37,12 @@
 - [Libro bianco delle Responsive cities, 2021 (FPA)](https://librobianco-responsive-city-fpa-2020.readthedocs.io/) - cc by nc sa 
 - [Palermo sostenibile prototipo di archivio sulla sostenibilità a Palermo, in collaborazione con l’architetto Paola Caselli (2018)](https://palermo-sostenibile.readthedocs.io/) - cc by sa
 
-Visualizzazione in un pannello di controllo dei [**servizi comunali di Palermo**](https://cirospat.github.io/servizi-comunepalermo/) (informazioni tratte dalle carte dei servizi e dal sito web istituzionale) - cc by sa 
+**Visualizzazioni con Simile exhibit**
 
-Visualizzazione in un pannello di controllo delle attività relative ai [**procedimenti amministrativi comunali di Palermo versione dicembre 2020**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) (da una ricognizione del dicembre 2020) - cc by sa 
-
-Visualizzazione in un pannello di controllo delle attività relative ai [**procedimenti amministrativi comunali di Palermo, versione ottobre 2011**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-palermo-delibera-cc-608-27_10_2011/) (dalla Deliberazione C.C. 608 del 27.10.2011) - cc by sa 
-
-Visualizzazione degli [**interventi finanziati dal Piano Nazionale Ripresa e Resilienza (2021), versione maggio 2021**](https://cirospat.github.io/pnrr_2021_opendata/) - cc by 
+- Visualizzazione in un pannello di controllo dei [**servizi comunali di Palermo**](https://cirospat.github.io/servizi-comunepalermo/) (informazioni tratte dalle carte dei servizi e dal sito web istituzionale) - cc by sa 
+- Visualizzazione in un pannello di controllo delle attività relative ai [**procedimenti amministrativi comunali di Palermo versione dicembre 2020**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) (da una ricognizione del dicembre 2020) - cc by sa 
+- Visualizzazione in un pannello di controllo delle attività relative ai [**procedimenti amministrativi comunali di Palermo, versione ottobre 2011**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-palermo-delibera-cc-608-27_10_2011/) (dalla Deliberazione C.C. 608 del 27.10.2011) - cc by sa 
+- Visualizzazione degli [**interventi finanziati dal Piano Nazionale Ripresa e Resilienza (2021), versione maggio 2021**](https://cirospat.github.io/pnrr_2021_opendata/) - cc by 
 
 ---
 
