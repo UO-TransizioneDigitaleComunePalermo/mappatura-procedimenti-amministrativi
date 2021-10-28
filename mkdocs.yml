@@ -52,6 +52,7 @@ theme:
   features:
     - navigation.top
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
     - search.suggest
     - search.highlight
