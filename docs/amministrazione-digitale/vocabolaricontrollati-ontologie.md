@@ -10,8 +10,7 @@ Ontologia semantica: [le basi per comprendere facilmente "ontologia" e "semantic
 
 
 ## Interoperabilità semantica
-
-Definizione di interoperabilità semantica: **possibilità, offerta alle organizzazioni, di  elaborare informazioni da fonti esterne o secondarie senza perdere il reale significato  delle informazioni stesse nel processo di elaborazione** - fonte: [Linee Guida per l'interoperabilità semantica attraverso i Linked Open Data](https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf) AgID.
+Definizione di interoperabilità semantica: **possibilità, offerta alle organizzazioni, di  elaborare informazioni da fonti esterne o secondarie senza perdere il reale significato  delle informazioni stesse nel processo di elaborazione** - fonte AGID: [Linee Guida per l'interoperabilità semantica attraverso i Linked Open Data](https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf).
 
 
 !!! Note "importante"
@@ -22,12 +21,11 @@ Definizione di interoperabilità semantica: **possibilità, offerta alle organiz
 
 
 ## Ontologia OPENARS - Parlamento Regionale Siciliano
-[Ontologia](http://www.openars.org/openars/ontologia/) a cura di **Davide Taibi e Giovanni Pirrotta** ([Opendatasicilia](http://ods2018.opendatasicilia.it)). Guarda le relazioni in [questo schema dinamico](http://www.openars.org/core/webvowl/index.html#ontology).
+[Ontologia](http://www.openars.org/openars/ontologia/) a cura di **Davide Taibi e Giovanni Pirrotta** [Opendatasicilia](http://ods2018.opendatasicilia.it). Guarda le relazioni in [questo schema dinamico](http://www.openars.org/core/webvowl/index.html#ontology).
 
 
 <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/openars.jpg" /> 
-<br> a cura di Giovanni Pirrotta e Davide Taibi
-
+<br></br> a cura di Giovanni Pirrotta e Davide Taibi
 
 
 ## Vocabolario controllato degli eventi pubblici
@@ -64,7 +62,6 @@ Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, prom
 ## Sportello digitale unico per l’accesso a informazioni, procedure e servizi di assistenza
 
 Guarda anche il [Regolamento del Parlamento EU e del Consiglio che istituisce uno sportello digitale unico per l’accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi](https://vocabolario-controllato-servizi-pubblici.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html#).
-
 
 <iframe src="https://www.youtube.com/embed/Znkoz0-P3sc" width="100%" height="500"frameborder="0" allow="autoplay; encrypted-media" allowfullscreen /iframe>
 <br></br> Istituzione e gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE
@@ -114,14 +111,14 @@ Obiettivi:
 [Ontologie del Ministero dei Beni Culturali](http://dati.beniculturali.it/le-ontologie/), quali ad esempio [Cultural ONtology](http://dati.beniculturali.it/cultural_on/), con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura, MIBACT.
 
 ## Presentazioni e articoli su ontologie e vocabolari controllati
-- [Open Data - Sharing data for maximum reuse. Consuming data on Web-Scale (Pieter Colpaert)](https://speakerdeck.com/pietercolpaert/an-introduction-to-open-data)
+- [Open Data - Sharing data for maximum reuse. Consuming data on Web-Scale, di Pieter Colpaert](https://speakerdeck.com/pietercolpaert/an-introduction-to-open-data)
 - [Ontologie e vocabolari controllati del Ministero dei Beni Culturali](http://www.iccd.beniculturali.it/it/150/archivio-news/4618/), slide illustrative del progetto ARCO e il catalogo dei beni culturali (Carriero - Lodi - Mancinelli/Veninata - Nuzzolese - Presutti).
 - [Presentazioni di Giorgia Lodi su ontologie, vocabolari controllati, e interoperabilità semantica](https://www.slideshare.net/GiorgiaLodi).
 
 
 ## Articoli concernenti ontologie, vocabolari controllati e linked open data
 - [Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana, un articolo di Giovanni Pirrotta che spiega in maniera chiara le **ontologie** ed i **vocabolari controllati**](http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana).
-- [Understanding Linked Data Formats - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee)](https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827)
-- [Generazione e verifica di notizie di qualità attraverso il Web Semantico: la storia di Liliana Segre, un articolo di Giovanni Pirrotta (come il web semantico può combattere le false notizie)](https://medium.com/@gpirrotta/generazione-e-verifica-di-notizie-di-qualit%C3%A0-attraverso-il-web-semantico-la-storia-di-liliana-6cd81f05e9fe).
+- [Understanding Linked Data Formats - Turtle vs RDF/XML vs N-Triples vs JSON-LD, di Angus Addlesee](https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827)
+- [Generazione e verifica di notizie di qualità attraverso il Web Semantico: la storia di Liliana Segre, un articolo di Giovanni Pirrotta: come il web semantico può combattere le false notizie](https://medium.com/@gpirrotta/generazione-e-verifica-di-notizie-di-qualit%C3%A0-attraverso-il-web-semantico-la-storia-di-liliana-6cd81f05e9fe).
 - [Una guida di facile lettura (di Ilaria Maresi) per coloro che desiderano conoscere la modellazione semantica o aggiornare la propria memoria sull'argomento. Destinato a un vasto pubblico, il libro tratta argomenti dal "RDF" di base, all'integrazione di ontologie, alla costruzione di un modello e, infine, all'esecuzione di query "SPARQL"](https://zenodo.org/record/3898519#.Xvniul9xdPY).
 - [Estensione di SPARQL 1.1 per generare RDF da XML, JSON, CSV, GeoJSON, HTML, CBOR, testo con espressioni regolari. Disponibile un playground per imparare dalle basi](https://ci.mines-stetienne.fr/sparql-generate/playground.html). Da un [post di Giovanni Pirotta](https://www.facebook.com/groups/opendatasicilia/?multi_permalinks=2969269163191719%2C2966008010184501%2C2964474767004492&notif_id=1593324030818250&notif_t=group_activity&ref=notif).
