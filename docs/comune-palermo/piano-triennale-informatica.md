@@ -1,15 +1,14 @@
-## Piano  triennale  per l’Informatica del Comune di Palermo 2020-2022    
-
-[adottato con [deliberazione di Giunta Comunale n. 149 del 29.06.2020](https://drive.google.com/file/d/1WPdtkRW5poRM4lAFMxPNHDYJtKahbOvt/view?usp=sharing)]
+# Piano  triennale per l’Informatica del Comune di Palermo 2020-2022    
+adottato con [deliberazione di Giunta Comunale n. 149 del 29.06.2020](https://drive.google.com/file/d/1WPdtkRW5poRM4lAFMxPNHDYJtKahbOvt/view?usp=sharing)
 
 
 <table>
   <tr>
-   <td><code>ⓘ </code>LA GIUNTA COMUNALE 
+   <td>LA GIUNTA COMUNALE 
    </td>
   </tr>
   <tr>
-   <td><strong>Atteso che</strong>:
+    <td><b>Atteso che</b>:
 <p>
 L’atto che si propone consegue dall’applicazione dei contenuti del <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html">Codice dell’Amministrazione Digitale (CAD)</a> di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e del <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/">Piano triennale nazionale per l’Informatica</a> redatto dall’<a href="https://www.agid.gov.it/">Agenzia per l’Italia Digitale</a> (AGID).
 <p>
@@ -132,33 +131,11 @@ Per i motivi esposti in narrativa e che s’intendono riportati:
   </tr>
 </table>
 
-
-|
+---
 
 La redazione del documento “**Piano triennale per l’Informatica del comune di Palermo 2020-2022**” è stata curata dal Servizio Innovazione con la collaborazione della  Società in house per i servizi informatici Sispi SpA. Il documento è stato redatto in conformità al [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html), di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al [Piano nazionale triennale per l’informatica 2019-2021](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/index.html), pubblicato dall’Agenzia per l’Italia Digitale (AGID). 
 
-|
 
-
-<table>
-  <tr>
-   <td><code>.. toctree::  </code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>:maxdepth: 3</code>
-<p>
-<code>:caption: Sommario </code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020</code>
-   </td>
-  </tr>
-</table>
-
-
-|
 
 
 ## 1- Premessa
@@ -181,8 +158,6 @@ Ridurre la burocrazia, migliorare la qualità dei servizi offerti, semplificare 
 
 Dal punto di vista dell’impiego razionale delle tecnologie, ovvero dell’individuazione degli strumenti di supporto allo sviluppo della Città nel contesto generale dei processi che riguardano l’intero Paese, il Piano, in sintonia con i vincoli ed temi cardine previsti dal Piano Triennale Nazionale prende in esame:
 
-
-
 * Infrastrutture: Cloud, Data Center, Connettività
 * Modello di Interoperabilità
 * Dati della PA
@@ -194,22 +169,14 @@ Dal punto di vista dell’impiego razionale delle tecnologie, ovvero dell’indi
 
 Coerentemente con il suddetto scenario di riferimento, il Piano definisce una visione delle tecnologie e delle piattaforme abilitanti fortemente asservita alla realizzazione di servizi incardinati su cinque pilastri portanti essenziali: la banda larga e l’accesso in mobilità; il potenziamento e il dispiegamento del cloud computing, la sicurezza digitale e la convergenza verso le piattaforme abilitanti di livello nazionale (Fatturazione elettronica, SIOPE+, SPID, PAGOPA, ANPR, CIE, PEC) ed il modello di interoperabilità; servizi di livello urbano e l’Internet delle cose per la realizzazione di servizi “adattivi e event-driven”; le piattaforma per il delivery dei servizi; gli ecosistemi tematici ed i servizi. Ovvero:
 
-
-
 * **Infrastruttura di trasporto dei dati**. Ovvero, lo sviluppo del tessuto connettivo della Città di Palermo, funzionale ad un modello di trasporto dei dati convergente e multi-layer, completamente innervato su una potente dorsale della città quale l’anello telematico ed in grado, da un lato, di garantire connettività in banda larga presso tutte le sedi dell’Amministrazione, servizi WiFi per l’accesso ad Internet ed ai servizi qualificati della Città, la raccolta ed il convogliamento degli stream video e della ingente quantità dati generati nel più generale contesto dell’IoT; dall’altro di implementare e gestire servizi di nuova generazione fortemente focalizzati sul paradigma delle smart city.
 * **Cloud Computing e Piattaforme abilitanti**. Ovvero, la consapevole adozione del paradigma del cloud computing quale riferimento metodologico, oltreché tecnologico, per lo sviluppo di servizi coerenti con le strategie di trasformazione digitale del Paese (Agenda Digitale Italiana, Piano Triennale per l'informatica nella Pubblica Amministrazione, Codice Amministrazione Digitale ….), con le piattaforme abilitanti di livello nazionale, e più in generale, con il modello di interoperabilità adottato nello scenario di riferimento della cosiddetta API Economy. Il Cloud Computing costituisce, inoltre, il naturale riferimento per una organica e unitaria interpretazione dei processi di evoluzione delle città (soprattutto quelle di dimensione metropolitana) che, sempre più, sarà improntata al modello, integrato e organizzato, delle smart city con l’obiettivo di “rendere le città e gli insediamenti umani inclusivi, sicuri, duraturi e sostenibili” (cfr. Agenda 2030 - Obiettivo 11).
 * **Sensoristica di livello Urbano**. Ovvero, la capacità di mettere in relazione oggetti, infrastruttura e popolazione con l’obiettivo di automatizzare la raccolta di dati critici per la gestione urbana ed elaborarli per prendere decisioni che permettano di migliorare la qualità della vita dei cittadini, il rispetto dell’ambiente e del territorio, l’efficienza nell’uso delle risorse disponibili sostenendo e implementando l’idea che tecnologie quali quelle della sensoristica urbana, dell’Internet of Things (IoT), dei big data e dei software per gli algoritmi predittivi possano essere impiegate per semplificare i meccanismi di governo delle città, migliorare infrastrutture e servizi per il trasporto comunale, favorire l’efficientamento energetico, stimolare le economie locali, e infine ottimizzare l'ambiente urbano per renderlo più sostenibile, sicuro, vivibile e socialmente inclusivo.
 * **Service Delivery Platform**. Ovvero, l’insieme delle piattaforme di erogazione di servizi (SDP) organizzate attraverso un'architettura di erogazione che fornisce ambienti per il controllo, la creazione, l'orchestrazione e l'esecuzione di servizi. L’organizzazione dei servizi mediante architetture SDP consente di ampliare la capacità di offerta, l’integrazione e l’estensione funzionale dei servizi stessi offrendo strumenti di governance conformi al paradigma delle smart city e implementando, di fatto, paradigmi di open-services in grado di promuovere e sostenere lo sviluppo economico di un territorio.. 
 * **Ecosistemi Tematici e Servizi**. Ovvero, il complesso di azioni volto a razionalizzare e potenziare i servizi in rete così da consentire, da un lato, al sistema pubblico di presentarsi in modo unitario, omogeneo e accessibile a tutti e garantire l’accessibilità e la digitalizzazione di fasce sempre più ampie di utenti; dall’altro, ai cittadini, alle imprese e, più in generale, al territorio di riferimento di promuovere e sviluppare una offerta di servizi coerente con il modello di open-services presente nello scenario di un living lab della Città di Palermo che abbia l’obiettivo di favorire la cooperazione con i cittadini e con i diversi stakeholders del territorio al fine di testare e favorire la nascita di nuove forme di partnership pubblico-private. In questo senso, gli ecosistemi raggruppano i soggetti interessati che interagiscono per il raggiungimento di obiettivi comuni attraverso la condivisione delle esigenze e delle modalità operative, la condivisione delle differenti competenze, la pianificazione e la realizzazione di progetti ICT.
 
-|
-
-
-
 
 ## 2- Obiettivi generali del piano triennale per l’informatica del comune di palermo 2020-2022
-
-|
 
 
 ### 2.1- Contesto Nazionale - Inquadramento generale
@@ -221,8 +188,6 @@ Il Piano Nazionale 2019-2021, nel proseguire il percorso intrapreso col Piano pr
 Le pubbliche amministrazioni sono al centro del processo di trasformazione digitale del Paese in quanto costituiscono lo snodo principale in grado di abilitare la cultura dell'innovazione tra imprese e cittadini. In quest’ottica, il Piano Nazionale detta indirizzi su temi specifici che le amministrazioni potranno utilizzare per costruire i loro piani di trasformazione digitale all’interno di una cornice condivisa, definita da AGID.
 
 Il Piano Triennale 2019-2021, che qui si intende interamente richiamato, ricalca la struttura del Piano precedente ed è articolato in tre parti: 
-
-
 
 * **quadro di riferimento**: si illustra il contesto normativo nazionale ed europeo e la mappa del Modello strategico in cui si inseriscono le iniziative del Piano. Un approfondimento sullo stato di attuazione della strategia europea è presentato in appendice;
 * **componenti tecnologici e di governance**: sono declinate le diverse componenti del Modello strategico. I capitoli hanno una struttura uniforme che prevede:
@@ -285,10 +250,8 @@ Il Piano, inoltre, mantiene la propria convergenza anche verso gli obiettivi pi�
   </tr>
 </table>
 
+*Schema nazionale degli attori, della norma e dei ruoli per la digitalizzazione della PA*
 
-[Schema nazionale degli attori, della norma e dei ruoli per la digitalizzazione della PA]
-
-|
 
 
 ### 2.2- Palermo città Pilota insieme ad AGID e Team Trasformazione Digitale per azioni sperimentali di trasformazione digitale
@@ -297,21 +260,15 @@ L’Amministrazione comunale, consapevole dell’importanza di avviare ogni tipo
 
 Tra queste azioni vanno menzionate le seguenti:
 
-
-
 1. “[Individuazione delle basi di dati chiave](https://docs.italia.it/italia/daf/pianotri-elencobasidatichiave/it/stabile/appendice.html)” _da valorizzare per rispondere a bisogni della collettività, rendendole disponibili sotto forma di open data, facilmente ottenibili “in bulk” e/o interrogabili attraverso Application Programming Interface (API) e descritte sia a livello di metadatazione generale che a livello di dati con chiari modelli condivisi, allineati ad altri già esistenti a livello Europeo e nel Web_.
 2. [App “IO”](https://io.italia.it/enti/), un _progetto nazionale che parte dall’analisi delle necessità dei cittadini e costituisce un vantaggio per tutti i soggetti pubblici che erogano servizi digitali. Fornisce le principali funzioni necessarie all'interazione tra la pubblica amministrazione e i cittadini, grazie anche all'integrazione con le piattaforme abilitanti pagoPA, ANPR e SPID_. La città di Palermo è nell’elenco delle prime pubbliche amministrazioni che sperimenta l’uso dell’app IO in Italia.
 3. [Rilevazione della spesa ICT della Pubblica Amministrazione](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/allegati/2_rilevazione-spesa-ict-pa-2018.html?highlight=rilevazione spesa), necessaria alla redazione del Piano nazionale triennale 2017-2019 e 2019-2021.
 4. Attività di [analisi di gestione del rischio informatico](https://www.sicurezzait.gov.it/), in collaborazione con l’AGID, al fine di adottare le necessarie misure di protezione e prevenzione degli attacchi cibernetici.
 
-|
-
 
 ### 2.3- Gli obiettivi generali del Piano 
 
 Gli obiettivi generali declinati dal Piano nazionale assunti quali riferimenti per la rielaborazione su scala locale del Piano per l’informatizzazione della Città di Palermo possono essere così riassunti:
-
-
 
 * snellire i procedimenti burocratici, ricorrendo alla reingegnerizzazione dei processi amministrativi in fase di adozione di soluzioni digitali per soppiantare l’uso della carta;
 * aumentare l’interoperabilità delle banche dati sia interne che con Enti esterni;
@@ -326,8 +283,6 @@ Gli obiettivi generali declinati dal Piano nazionale assunti quali riferimenti p
 * implementare i servizi di convergenza nazionale attraverso l’adesione dell’Amministrazione alle piattaforme nazionali abilitanti all’erogazione dei servizi pubblici locali (SPID, SIOPE+, Fatturazione Elettronica, PAGOPA, App IO, ANPR, CIE) con l’obiettivo di permettere un aumento del livello di cittadinanza digitale, anche attraverso specifici percorsi di sensibilizzazione all’uso degli strumenti digitali rivolti ad associazioni e cittadini.
 
 In questo scenario di riferimento e da un punto di vista più strutturale il Piano della Città di Palermo individua quattro direttrici di intervento prioritarie. La _vision_ e l’approccio strategico allo sviluppo digitale; la valorizzazione di una _Cittadinanza digitale _inclusiva e partecipativa per mettere le persone al centro dell’azione; _la Città intelligente_ che, valorizzando una oggettiva condizione di governance organica ed unitaria, sappia coniugare lo sviluppo della Città delle CulturE con la sostenibilità ambientale; _lo Sviluppo delle potenzialità economiche del territorio_, anche allargato alla dimensione metropolitana, attraverso l’utilizzo intelligente delle tecnologie. Ovvero:
-
-
 
 * **Vision e Strategia**. La crescita del livello di competenze digitali della popolazione, sia a livello generale che in ambiti specialistici, è condizione per la creazione di una società digitale aperta, competitiva e inclusiva. La Città di Palermo intende, perciò, promuovere la realizzazioni di azioni specifiche volte a: 
     * produrre innovazione a partire dalle persone, ovvero riflettere su cosa un cittadino può ricavare dalle nuove tecnologie quando queste gli permettono di avere maggiore controllo e più informazioni sul proprio ambiente circostante, e su quale contributo egli può dare alla comunità in base alle nuove conoscenze e capacità acquisite;   
@@ -358,21 +313,14 @@ In questo scenario di riferimento e da un punto di vista più strutturale il Pia
     * Realizzare una Living Lab della Città di Palermo, inteso anche come luogo fisico attrezzato, per la realizzazione di servizi industrialmente sostenibili esportabili ed integrati attraverso la co-creazione, l'esplorazione, la sperimentazione e la valutazione di idee innovative, di scenari, concetti e relativi manufatti tecnologici in casi d'uso reali;
     * Realizzare un Marketing del Territorio che, facendo uso delle tecnologie più innovative, fornisca strumenti e servizi ad una governance di livello metropolitano per incrementare e qualificare l’offerta turistica e, quindi, incrementare le presenze turistiche sul territorio. 
 
-|
-
-
 
 
 ## 3- I cardini della strategia nazionale di trasformazione digitale della pubblica amministrazione 
-
-|
 
 
 ### 3.1- Principi alla base della trasformazione digitale
 
 Il Modello nazionale di trasformazione digitale della Pubblica amministrazione, coerentemente con il [Piano di azione europeo sull’e-Government](https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52016DC0179&from=en), impegna i singoli enti a definire le proprie politiche interne sulla base dei seguenti principi:
-
-
 
 * **digital by default**, ovvero “digitale per definizione”: le pubbliche amministrazioni devono fornire servizi digitali come opzione predefinita;
 * **once only**: le pubbliche amministrazioni non devono chiedere ai cittadini e alle imprese informazioni già fornite precedentemente, o dati già in possesso all’interno delle proprie banche dati;
@@ -387,19 +335,13 @@ Il Modello nazionale di trasformazione digitale della Pubblica amministrazione, 
 
 La “Strategia per la crescita digitale” evidenzia la necessità di un radicale ripensamento della strategia di progettazione, gestione ed erogazione dei servizi pubblici in rete che preveda, tra l’altro, l’adozione di:
 
-
-
 1. **architetture informatiche a più livelli** (multi-layer architecture), in contrapposizione alle strutture classiche monolitiche;
 2. **API (Application Programming Interface)**, una sorta di funzioni che permettono ad altri soggetti (pubblici e privati) di interagire con un programma o una piattaforma software o semplicemente permettono di effettuare una serie di “chiamate” a parti di un programma o di una piattaforma con vantaggi in termini di riduzione dei tempi per chi deve effettuare lavori in ambiente di “**interoperabilità tecnica e semantica**”. A tal fine è necessario fare ricorso ai[ Vocabolari Controllati già definiti in versione stabile dall’AGID](https://github.com/italia/daf-ontologie-vocabolari-controllati). 
 
-|
 
 
 ### 3.2- Modello strategico di trasformazione digitale
-
 Il Modello strategico previsto dal Piano nazionale è stato pensato per superare l’approccio a “silos” storicamente adottato (dalla Pubblica amministrazione) e per favorire la realizzazione di un vero e proprio sistema informativo della Pubblica amministrazione (di seguito “**Sistema informativo della PA**”) che:
-
-
 
 * **consideri le esigenze dei cittadini e delle imprese come punto di partenza** per l’individuazione e la realizzazione di servizi digitali moderni, innovativi (servizi di front office) e di facile accesso e consultazione;
 * **uniformi e razionalizzi le infrastrutture e i servizi informatici** utilizzati dalla Pubblica amministrazione (servizi di back office) favorendo l’interoperabilità delle banche dati esistenti;
@@ -426,13 +368,11 @@ Il Modello strategico per governare la trasformazione digitale della_ _PA descri
 </table>
 
 
-“_Schema del Modello strategico per governare la trasformazione digitale della PA”_
+*Schema del Modello strategico per governare la trasformazione digitale della PA*
 
 Lo schema è da intendersi come la rappresentazione di macro-aree che aggregano gli elementi omogenei oggetto del Piano e non come strati di un modello architetturale verticale a pila (cosiddetto “stack”).
 
 Lo Schema del Modello strategico per governare la trasformazione digitale della PA ha lo scopo di:
-
-
 
 * consolidare la visione di lungo periodo per l’evoluzione dei sistemi informativi della PA;
 * rappresentare in modo coerente e sintetico tutte le iniziative in corso sul fronte dell’innovazione digitale della PA italiana;
@@ -442,8 +382,6 @@ Lo Schema del Modello strategico per governare la trasformazione digitale della 
 * consentire il monitoraggio continuativo a più livelli dello stato di implementazione degli obiettivi.
 
 In riferimento allo schema grafico:
-
-
 
 * gli **Strumenti per la generazione e diffusione dei servizi digitali** definiscono regole comuni per la progettazione di interfacce, servizi e contenuti, migliorando e rendendo coerente la navigazione e l’esperienza del cittadino e delle imprese, facilitano il design, la realizzazione e la diffusione di servizi digitali, definiscono linee guida e kit di sviluppo, provvedono alla creazione di community di sviluppatori, di designer e di chiunque voglia scambiare informazioni, collaborare e partecipare con la Pubblica Amministrazione;
 * gli **Ecosistemi** sono i settori o le aree di policy in cui si svolge l’azione da parte delle Pubbliche Amministrazioni: dalla sanità all’agricoltura, dalla scuola ai beni culturali e così via. Ciascun ecosistema può includere diversi domini, coinvolgendo enti ed organismi pubblici, a partire dai Ministeri di riferimento, ma può anche includere soggetti privati che operano nella stessa area di interesse e che a vario titolo svolgono funzioni importanti all’interno dell’ecosistema stesso. Ad esempio, l’ecosistema “Finanza pubblica” comprende l’Agenzia delle Entrate, le Regioni, la Guardia di Finanza e, lato soggetti privati, commercialisti, CAF, avvocati fiscalisti, ecc. Gli ecosistemi raggruppano i soggetti interessati che interagiscono per il raggiungimento di obiettivi comuni attraverso: 1) la condivisione delle esigenze e delle modalità operative, 2) la condivisione delle differenti competenze, 3) la pianificazione e la realizzazione di progetti ICT;
@@ -459,20 +397,14 @@ La **gestione della transizione** da un modello di Amministrazione basata per de
 
 E’ necessario attivare collaborazioni sia interne all’ente tra le diverse aree, servizi, uffici, settori che tra enti diversi per scambiarsi buone prassi, riusare software, e facendo riferimento all’Agenzia per l’Italia Digitale e al Ministero per l’Innovazione Tecnologica e la Digitalizzazione quali enti nazionali che coordinano e monitorano la realizzazione delle azioni per l’agenda digitale.
 
-|
 
 
 ### 3.3- Il supporto delle Convenzioni Consip per la trasformazione digitale delle PA
-
 Tra le iniziative che rivestono un’importanza strategica per la realizzazione dell’agenda digitale nelle Pubbliche Amministrazioni è da sottolineare l’elenco delle Convenzioni Consip, che possono trovare applicazione nella realizzazione delle linee di azione del Piano nazionale. Sono di particolare utilità: gli “Accordi Quadro” e le “Convenzioni”/”Contratti” quadro secondo lo schema di sintesi qui di seguito riportato.
 
 
 <table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
+   <tr>
    <td><code>&lt;img src="<a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/spc-cloud.png">https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/spc-cloud.png</a>" />   </code>
    </td>
   </tr>
@@ -483,36 +415,26 @@ Copertura degli strumenti Consip sulle componenti del Modello strategico (dal Pi
 
 
 
-|
-
-
 ### 3.4- Indicazioni del Piano nazionale dell’AGID per le Pubbliche Amministrazioni e azioni del Comune di Palermo
 
 Il Piano nazionale, al capitolo 13 (“[Indicazioni per le pubbliche amministrazioni](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/13_indicazioni-per-le-pubbliche-amministrazioni.html)”) prevede numerose azioni a carico delle PA per attuare concretamente la transizione alla modalità digitale, alcune delle quali sono già state avviate dal Comune di Palermo a cominciare già dal 2015 attraverso il supporto tecnologico della Società in house per i servizi informatici, SISPI SpA. 
 
 
 <table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
+   <tr>
    <td><code>&lt;img src="<a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/agenda-scadenze-pt.png">https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/agenda-scadenze-pt.png</a>" />   </code>
    </td>
   </tr>
 </table>
 
 
-_[Scheda](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/_images/agenda-scadenze-pt.png) che riporta le numerose azioni da realizzare da parte delle PA per la transizione alla modalità digitale._
+[Scheda](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/_images/agenda-scadenze-pt.png) che riporta le numerose azioni da realizzare da parte delle PA per la transizione alla modalità digitale.
 
-|
+
 
 
 ### 3.5- Forme possibili da adottare per raggiungere gli obiettivi di trasformazione digitale
-
 Le forme che oggi sono in uso e che dovranno essere adottate da quelle amministrazioni pubbliche che non sono nella condizione di raggiungere da sole gli obiettivi nei tempi previsti, sono di seguito elencate:
-
-
 
 * **accordi di collaborazione per la gestione dei servizi applicativi**: partecipazione ad accordi di collaborazione tra amministrazioni che hanno deciso di condividere la realizzazione di piattaforme comuni. In tal senso il Comune di Palermo ha approvato la Deliberazione di Giunta Comunale n. 82 del 19.06.2018 “Approvazione del protocollo d'Intesa tra Comune di Palermo e Comune di Genova per iniziative di collaborazione nello sviluppo dell’Agenda Digitale”;
 * **soluzioni “sussidiarie”**: utilizzo di soluzioni applicative “sussidiare” attraverso accordi tra le PA che hanno già sviluppato le iniziative strategiche e quelle ancora non operative; tali accordi, che potranno essere diversi e, a seconda del progetto, dovranno avere caratteristiche tali da garantirne la sostenibilità;
@@ -525,14 +447,9 @@ Per ciascun intervento viene riportata una descrizione di quanto già realizzato
 
 Al fine di migliorare la leggibilità del piano degli interventi e favorire il riscontro con la coerenza rispetto al Piano Nazionale, si è scelto di strutturare il capitolo utilizzando puntualmente la strutturazione e l’elencazione dei diversi item proposti all’articolo 13 del Piano Nazionale “**Indicazioni per le pubbliche amministrazioni”**.
 
-|
-
-
 
 
 ## 4- Il piano d’azione per la trasformazione digitale del comune di Palermo 
-
-|
 
 
 ### 4.1- La Governance ICT nella Città di Palermo
@@ -545,8 +462,6 @@ Nel maggio 2009 (cfr. Delib. Consiglio Comunale n.26/2009) il Comune di Palermo 
 
 L’assetto societario nel tempo consolidatosi in forza:
 
-
-
 * della ricognizione degli assetti societari a carico degli Enti di cui al DL 138/2011, come convertito nella L. 148/2011, a valle della quale il Commissario straordinario, munito di poteri di Giunta con la Deliberazione del n. 53/2012, ha sancito che “i servizi erogati dalla partecipata [Sispi] sono strettamente necessari al perseguimento delle proprie finalità istituzionali”;
 * del parere dell’Antitrust emesso il 3.07.2013 (a norma del D.Lsg. 95/2012, cd. “Spending review” convertito nella L. 135/2012, allora vincolante per il mantenimento della Società partecipata), in esito al quale l’Autorità ha rilevato che le condizioni contrattuali complessivamente offerte dalla Società mostrano una maggior convenienza rispetto a quelle di mercato, e che le condizioni di approvvigionamento raggiunte dall’Amministrazione mediante la gestione in house, sono sostanzialmente in linea, se non in alcuni casi inferiori, alle condizioni CONSIP, concludendo che non si ritiene utile ed efficace per il Comune di Palermo, il ricorso al mercato per i servizi svolti da Sispi;
 * della Delibera di Consiglio Comunale n. 817 del 14.11.2017 di “Revisione straordinaria delle partecipazioni del Comune di Palermo ex art. 24 del DLgs 175/16”, che conferma la scelta organizzativa dell’Amministrazione;
@@ -555,8 +470,6 @@ L’assetto societario nel tempo consolidatosi in forza:
 inserisce (definitivamente) l’affidamento dei servizi ‘strumentali’ alla Società Sispi nell’ambito del regime cd. ‘in house’, nel presupposto dell’esercizio da parte dell’Ente partecipante del cd. “controllo analogo”, istituto di origine comunitaria definitivamente recepito nell’ordinamento nazionale con l’entrata in vigore del Testo Unico sulle Società Partecipate D. Lgs. 175/16 e successive modifiche e integrazioni, normato dal Comune di Palermo con il Regolamento unico dei controlli interni – Capo VI Il Controllo sulle società partecipate non quotate - approvato dal Consiglio comunale di Palermo che con la Delibera n.4 del 9.02.2017 ha dunque definito gli strumenti di controllo societario di tipo economico-finanziario, di efficienza, efficacia ed economicità della gestione nonché i poteri ispettivi ed informativi dell’Amministrazione comunale nei confronti delle sue partecipate.
 
 Così, coerentemente col quadro normativo e regolamentare sopra delineato, il Consiglio Comunale di Palermo,
-
-
 
 * in data 26 marzo 2018, con Deliberazione n. 39, ha approvato i nuovi statuti delle partecipate (e tra queste Sispi), nel rispetto delle previsioni al riguardo contenute nel D. Lgs. 175/2016;
 * in data 20 aprile 2018, con Deliberazione n. 42, ha deliberato l’affidamento a Sispi del servizio di conduzione tecnica e sviluppo del SITEC per il quinquennio 2018-2023.
@@ -572,8 +485,6 @@ La strategia della trasformazione digitale della Pubblica Amministrazione, conte
 A supporto di tali azioni, Sispi, consapevole che i Sistemi di Gestione si configurano come elementi portanti e funzionali al miglioramento dei processi e delle prestazioni e costituiscono una solida base per iniziative di sviluppo sostenibile, ha avviato un articolato sistema di certificazioni su tematiche afferenti alla Sicurezza delle Informazioni, all’Ambiente, ai Servizi IT, alla Continuità Operativa, all’efficientamento del Data Center. Ciò permetterà all’azienda di affinare: tutti quegli strumenti gestionali preventivi e trasversali a tutti i processi realizzativi favorendo il miglioramento delle performance aziendali secondo i dettami del miglioramento continuo; la riduzione dei rischi e la conseguente riduzione degli impatti negativi in termini operativi ed industriali; il continuo aggiornamento delle proprie infrastrutture tecniche ed organizzative; creando un valore aggiunto di distinzione nel proprio contesto di riferimento.
 
 Nell’arco temporale definito dal presente documento, Sispi ha avviato l’aggiornamento/integrazione delle certificazioni già in suo possesso, ISO 9001- Sistema di gestione per la Qualità e ISO 27001 - Sicurezza informatica dei dati; con le seguenti altre certificazioni per le quali, in forza della sostanziale conformità, sono in corso di completamento i relativi processi di certificazione:
-
-
 
 * ISO 27701 - Conformità al GDPR – la norma basata sui requisiti della ISO/IEC 27001 e sui controlli della sicurezza delle informazioni della ISO/IEC 27002, specifica i requisiti e fornisce le indicazioni per implementare, attuare, mantenere e migliorare costantemente un sistema di gestione delle informazioni sulla privacy, il conseguimento di tale certificazione permetterà all’azienda di soddisfare la crescente necessità di fiducia e senso di responsabilità nel trattamento delle informazioni personali da parte dei cittadini e stakeholder;
 * ISO 50001 - Sistema di Gestione dell’Energia (SGE) – la Norma facilita l’integrazione del SGE con tutti gli altri sistemi di gestione aziendale e contribuisce a migliorare la gestione energetica come elemento strategico e di business dell’azienda. Essa si basa sul modello di sistema di gestione del miglioramento continuo utilizzato anche per altre norme già certificate. Costituisce un supporto nell’ottimizzazione delle attività di consumo energetico, facilita la comunicazione sulla gestione delle risorse energetiche, identifica le best practices di gestione dell’energia, supporta la selezione delle nuove tecnologie di efficienza energetica da applicare, è lo strumento per migliorare la gestione dell’energia per ridurre le emissioni di gas a effetto serra, consente l’integrazione con altri sistemi di gestione, come ambiente (ISO 14001), salute e sicurezza (OHSAS 18001).
@@ -595,14 +506,9 @@ Di seguito si descrivono puntualmente le azioni già intraprese e quelle da avvi
 
 L’analisi puntuale dei singoli interventi permette di comprendere i progressi già compiuti nel tempo e le attività da svolgere secondo una mappatura temporale che sappia dare concreta attuazione all’agenda digitale dell’Amministrazione comunale in conformità e coerenza con gli indirizzi, le prescrizioni ed il programma nazionale.
 
-|
-
 
 ### 4.2- Programmazione Generale interventi
-
 La programmazione delle attività per il periodo 2022-2022 si caratterizza per alcuni elementi di specificità che influenzeranno le linee di sviluppo e le ricadute per la Città. In particolare:
-
-
 
 * la piena aderenza al paradigma del cloud e la totale adesione alle piattaforme nazionali abilitanti rappresentano le condizioni abilitanti per una piena attuazione del modello di Cittadinanza Digitale che ha come obiettivo la completa dematerializzazione dei processi di e-Government, l’inclusione e la trasparenza;
 * il rafforzamento del Sistema Integrato di Connettività Urbana, la convergenza al modello multilayer (fibra-radio) e l’avvio di una specifica rete di trasporto dedicata all’IoT (Internet of Things) consentirà una ulteriore accelerazione sulla attivazione dei servizi di livello urbano (WiFi, VDS, Sensoristica, ….);
@@ -611,22 +517,15 @@ La programmazione delle attività per il periodo 2022-2022 si caratterizza per a
 
 In analogia con il modello di rappresentazione adottato per la definizione del piano strategico per l’ICT, si riporta, nella figura che segue, il quadro degli interventi previsti dal piano di azione relativo al periodo 2020-2022 della Città di Palermo.
 
-
 <table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
+   <tr>
    <td><code>&lt;img src="<a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/piano-azione.png">https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/piano-azione.png</a>" />   </code>
    </td>
   </tr>
 </table>
 
-
 A seguire l’analisi più dettagliata degli interventi articolata secondo una struttura logica coerente con il modello indicato dal Piano Triennale per l’informatizzazione della PA elaborato da AGID.
 
-|
 
 
 ### 4.3- Indicazioni relative alle “Infrastrutture”
@@ -728,8 +627,6 @@ Contestualmente alla realizzazione dell’infrastruttura cloud, sono state avvia
 
 Nel perimetro degli interventi previsti dal Piano per il periodo 2020-2022 rientrano:
 
-
-
 * Estensione dei servizi cloud a supporto degli ecosistemi cittadini esterni al contesto dell’e-Government quali la mobilità, l’efficientamento energetico e l’inclusione Sociale;
 * L’adeguamento delle componenti middleware e delle piattaforme tecnologiche di servizio per il disaccoppiamento dei processi in conformità con le linee guida per l’interoperabilità in corso di elaborazione da parte di AGID;
 * L’onboarding delle soluzioni cloud nel catalogo dei servizi e delle API previsto da AGID.
@@ -737,8 +634,6 @@ Nel perimetro degli interventi previsti dal Piano per il periodo 2020-2022 rient
 **Data Center**.
 
 Gli interventi previsti nel periodo in esame riguardano il consolidamento, già nel corso del 2020, degli elementi strutturali connessi con l’orchestrazione dei diversi strati di servizio previsti dal cloud computing (IaaS, PaaS e SaaS) in conformità ai criteri di sicurezza, economicità ed efficienza previsti dalle strategie nazionali. In particolare, nel corso del periodo saranno realizzati interventi finalizzati a:
-
-
 
 * Completamento dei servizi per la business continuity che, in aggiunta ai servizi di Disaster Recovery già attivi dal 2015, permetteranno di garantire la necessaria continuità ed affidabilità dei servizi;
 * Gestione ed evoluzione delle Certificazioni ISO anche in estensione dei requisiti indicati per i data center delle Pubbliche Amministrazioni. 
@@ -750,19 +645,13 @@ Per quanto riguarda la Connettività, il Comune di Palermo nel 2017 e 2018 ha ad
 
 Nel perimetro degli interventi previsti dal Piano per il periodo 2020-2022 rientrano:
 
-
-
 * Ulteriore estensione dei servizi WiFi da realizzare sia presso le sedi dell’Amministrazione che presso spazi ed aree pubbliche;
 * Integrazione, attraverso il protocollo MPLS, dei servizi di trasporto dati asserviti agli ecosistemi di città oggetto di intervento nell’ambito delle strategie per la realizzazione della smart community;
 * Convergenza sull’anello telematico delle reti radio esistenti e dei servizi di livello urbano prioritariamente orientati alla video sorveglianza e all’IoT.
 
-|
-
-
 
 
 ### 4.4- Indicazioni relative al Modello di interoperabilità
-
 
 <table>
   <tr>
@@ -815,8 +704,6 @@ implementazione dei servizi di interoperabilità con l’ecosistema per il turis
 Alla data attuale, la Città di Palermo ha completato tutte le azioni necessarie per la piena adesione dei propri servizi alle piattaforme nazionali abilitanti previsti da AGID.
 
 In particolare, in coerenza con la programmazione prevista da AGID, i sistemi della Città di Palermo hanno già realizzato:
-
-
 
 * La gestione della fatturazione elettronica
 * L’implementazione dei servizi SIOPE+
@@ -937,19 +824,13 @@ In particolare, in coerenza con la programmazione prevista da AGID, i sistemi de
 
 Per quanto riguarda, invece, gli interventi di maggiore rilevanza che saranno effettuati nel corso del periodo 2020.2022, riguardano:
 
-
-
 * Implementazione di interfacce applicative per il disaccoppiamento dei servizi di ecosistema in conformità al paradigma del cloud e in coerenza con le linee guida di AGID;
 * Ulteriore sviluppo di interfacce applicative per garantire la necessaria interoperabilità sui dati e sui processi anche in riferimento alle interazioni trasversali riferibili ai diversi ecosistemi tematici della PA;
 * Servizi di open API coerenti con gli scenari ed il contesto operativo della cosiddetta API Economy (Living Lab della Città di Palermo); 
 
-|
-
-
 
 
 ### 4.5- Indicazioni relative ai Dati della PA
-
 
 <table>
   <tr>
@@ -1029,8 +910,6 @@ Esporre i propri dataset e relativi metadati ai sensi del profilo nazionale DCAT
 
 **Il Comune di Palermo si è impegnato nel nella realizzazione delle seguenti azioni**:
 
-
-
 * Popolamento e aggiornamento dei dati su IPA, come documentato sul portale  [www.indicepa.gov.it](http://www.indicepa.gov.it/).
 * Utilizzo di IPA e INI-PEC nella gestione dei propri procedimenti.
 * Adesione ad un primo gruppo di amministrazioni pilota, individuate da AGID tra le amministrazioni già aderenti ai sistemi PagoPA, SPID e SIOPE, per l’avvio delle attività di documentazione dei propri servizi nel “catalogo dei servizi”.
@@ -1041,20 +920,15 @@ Esporre i propri dataset e relativi metadati ai sensi del profilo nazionale DCAT
 
 **A partire dal 2020 il Comune di Palermo si impegna ad**:
 
-
-
 * aderire al Modello di interoperabilità, assicurando il flusso di dati verso la Piattaforma Digitale Nazionale Dati e normalizzando i propri dati sulla base delle risorse contenute nei Vocabolari controllati.
 * Assicurare il caricamento delle informazioni relative ai propri servizi nel “catalogo dei servizi” quando il catalogo online verrà reso operativo da AGID.
 * A seguito del rilascio della prima versione del registro dei vocabolari controllati, il Comune di Palermo, nell’adozione di soluzioni applicative per la gestione di processi amministrativi di propria competenza, avvia un percorso di normalizzazione dei propri dati.
 * Alimentare il Repertorio Nazionale dei Dati Territoriali ([RNDT](https://geodati.gov.it/geoportale/)) secondo le regole definite da AGID.
 
-|
-
 
 
 
 ### 4.6- Indicazioni relative alle Piattaforme
-
 
 <table>
   <tr>
@@ -1134,11 +1008,8 @@ Integrazione Spid sui servizi per Ambiente e Sanità.
 </table>
 
 
-|
-
 
 ### 4.7- Indicazioni relative agli Ecosistemi
-
 
 <table>
   <tr>
@@ -1180,11 +1051,9 @@ Integrazione Spid sui servizi per Ambiente e Sanità.
 
 Nota: il Comune di Palermo nel 2019 e 2020 non è stato individuato da AGID quale ente facente parte al Gruppo di Lavoro per le Linee Azione da LA51 a LA54.
 
-|
 
 
 ### 4.8- Indicazioni relative alla Sicurezza informatica
-
 
 <table>
   <tr>
@@ -1216,11 +1085,9 @@ Consolidamento dei processi di certificazione.
 </table>
 
 
-|
 
 
 ### 4.9- Indicazioni relative agli Strumenti per la generazione e la diffusione di servizi digitali
-
 
 <table>
   <tr>
@@ -1314,6 +1181,7 @@ Informazione e sensibilizzazione costante rivolta ai cittadini al fine di aument
 
 Il Comune di Palermo, attraverso lo staff Responsabile Transizione Digitale, il 30 ottobre 2019 ha effettuato, in collaborazione con il Team Trasformazione Digitale e con ForumPA, [un evento pubblico  ai Cantieri Culturali della Zisa, di presentazione ai cittadini dei servizi digitali attivati e dell’app IO](https://www.comune.palermo.it/noticext.php?cat=1&id=25061) quale punto unico di accesso digitale ai servizi delle Pubbliche Amministrazioni. L’evento ha riscosso una consistente e interattiva partecipazione a conferma che i temi dei servizi e della cittadinanza digitale sono di interesse quotidiano.
 
+
 **Team interno per la formazione e sensibilizzazione sui temi della cultura digitale**.
 
 L’amministrazione nel corso del 2020, 2021 e 2022 intende rendere operativo un Team interno di dipendenti, con la missione di affiancare, attraverso moduli formativi formali/informali, il personale interno sui temi della dematerializzazione documentale, uso delle piattaforme abilitanti all’erogazione dei servizi pubblici digitali e open data. 
@@ -1324,11 +1192,10 @@ Gli eventi pubblici potranno essere gestiti anche in cooperazione con enti pubbl
 
 Tale attività formativa interna e di sensibilizzazione della cittadinanza è considerata dall’Amministrazione di strategica importanza al fine di rendere il presente Piano triennale quanto più efficace ed attuato possibile.
 
-|
+
 
 
 ### 4.10- Indicazioni relative ai Modelli e strumenti per l’innovazione
-
 
 <table>
   <tr>
@@ -1364,11 +1231,9 @@ Tale attività formativa interna e di sensibilizzazione della cittadinanza è co
 </table>
 
 
-|
 
 
 ### 4.11- Indicazioni relative al Governare la trasformazione digitale
-
 
 <table>
   <tr>
@@ -1446,10 +1311,6 @@ Implementazione di un approccio BPM (Business process management), per i process
 </table>
 
 
-|
-
-
-
 
 ## 5- Le tappe percorse ed in progress per la dematerializzazione documentale
 
@@ -1459,20 +1320,14 @@ Gli obiettivi di dematerializzazione documentale, nel 2020, verranno inseriti ne
 
 
 <table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
+   <tr>
    <td><code>&lt;img src="<a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/da-carta-a-file.png">https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/da-carta-a-file.png</a>" />   </code>
    </td>
   </tr>
 </table>
 
+*cambio del paradigma della gestione documentale, attualmente in atto*
 
-[cambio del paradigma della gestione documentale, attualmente in atto]
-
-|
 
 
 ### 5.1- Analisi dei Processi amministrativi
@@ -1481,7 +1336,7 @@ Per raggiungere concretamente gli obiettivi di dematerializzazione documentale, 
 
 L’Analisi dei Processi, per i vari Dirigenti dei Servizi/Settori/Aree, sarà inserita, dal 2020,  nei Piani della Performance di prossima approvazione, in coerenza con l’[art.12, comma i -ter  del CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione3_art12.html?highlight=performance).
 
-|
+
 
 
 ### 5.2- Corrispondenza in uscita dall’ente digitale dal 2017
@@ -1490,7 +1345,7 @@ L’Amministrazione già dal 2017, con Delibera di Giunta n.148 del 5.08.2016, h
 
 Con Delibera di Giunta n. 256 del 31.12.2019 è stato approvato un cronoprogramma di attività con il quale si prevede, nel corso del 2020, di completare l’attivazione della procedura in tutti gli uffici comunali, eliminando quindi definitivamente la gestione cartacea e la firma olografa della corrispondenza in uscita dall’Ente.
 
-|
+
 
 
 ### 5.3- Determinazioni Dirigenziali digitali dal 2019
@@ -1499,14 +1354,12 @@ Nel gennaio 2019 tutte le figure dirigenziali hanno avviato la creazione e gesti
 
 La gestione del processo amministrativo delle determinazioni dirigenziali è stato effettuato con successo in tutti gli uffici e si sono registrate rare criticità iniziali legate ad una reingegnerizzazione di alcuni flussi delle procedure amministrative stesse.
 
-|
 
 
 ### 5.4- Deliberazioni di Giunta Comunale digitali dal 2020
 
 Nel corso del 2020, in seguito all’attivazione del lavoro agile per una consistente percentuale del personale comunale dal marzo 2020 per fronteggiare la situazione emergenziale Covid19, sono state avviate le attività di analisi dei processi propedeutiche alla gestione documentale digitale delle deliberazioni di Giunta Comunale sull’applicativo “Webrainbow”, già utilizzato per le Determinazioni Dirigenziali. Attualmente, in fase temporanea, la gestione documentale digitale delle suddette deliberazioni avviene attraverso la procedura “Libro Firma Digitale - Protocollo Maia”.
 
-|
 
 
 ### 5.5- Manuale di Gestione del documento informatico e del protocollo informatico dal 2020
@@ -1515,14 +1368,10 @@ Nel corso del 2020 l’Amministrazione ha l’obiettivo di redigere ed approvare
 
 Dalla creazione del “Manuale”, che avverrà avvalendosi di un gruppo intersettoriale con competenze informatiche e giuridico-amministrative, deriverà una riorganizzazione del protocollo informatico e del relativo applicativo per la gestione documentale digitale. 
 
-|
-
 
 
 
 ## 6- Aggiornamento e organizzazione per l’attuazione del piano comunale
-
-|
 
 
 ### 6.1- Aggiornamento del Piano comunale
@@ -1531,16 +1380,12 @@ Il presente Piano comunale è aggiornato su base triennale. La frequenza di aggi
 
 Ove non si procedesse ad una tempestiva revisione/aggiornamento del Piano comunale vigono le sopraggiunte norme sovraordinate in materia di Amministrazione Digitale.
 
-|
-
 
 ### 6.2- Costituzione di un Team interno per la formazione e sensibilizzazione sulla dematerializzazione e cultura digitale
 
 **Team e attività da svolgere**.
 
 Dalla data di approvazione del presente Piano comunale, l’Amministrazione, al fine di rendere quanto più efficace la realizzazione delle azioni in esso contenute, formalizza la costituzione di un Team operativo intersettoriale con i seguenti compiti:
-
-
 
 * erogare formazione e informazione al personale interno dirigente e dipendente sui seguenti temi:
     * dematerializzazione e adozione della gestione del documento informatico (note digitali, determinazioni dirigenziali digitali, deliberazioni digitali, atti amministrativi digitali);
@@ -1561,8 +1406,6 @@ Gli eventi pubblici potranno essere gestiti anche in cooperazione con enti pubbl
 L’Amministrazione formalizza la costituzione di un Team interno intersettoriale che si avvarrà della collaborazione dello staff del Responsabile Transizione Digitale (nominato ai sensi dell’[art. 17 del C.A.D.](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo1_sezione3_art17.html)) per l’attuazione del Piano comunale. 
 
 La selezione del personale che farà parte del Team sarà effettuata tramite un appello via email interno a cura del Segretario Generale, con il quale sarà chiesto ai candidati interessati di dimostrare il possesso dei seguenti requisiti:
-
-
 
 * conoscenza dei contenuti del Piano Triennale per l’Informatica 2019-2021 redatto dall’AGID;
 * conoscenza dei contenuti del Codice dell’Amministrazione Digitale approvato con D. Lgs. 82/2005 e successive modifiche e integrazioni;
