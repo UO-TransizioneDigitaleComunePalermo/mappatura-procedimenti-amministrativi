@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+---
+
+
 # Documenti e linee guida fondamentali per la PA digitale
 
 !!! Note 
