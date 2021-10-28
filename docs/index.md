@@ -5,7 +5,7 @@ hide:
 ---
 
 
-<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo_aggiornamento"> 
+<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo aggiornamento"> 
 
 
 # Profilo di Ciro Spataro
