@@ -1,14 +1,13 @@
 # Work profile
-:office: Comune di Palermo | Servizio Innovazione | U.O. Transizione al Digitale 
+:office: Comune di Palermo, Servizio Innovazione, U.O. Transizione digitale 
 
 :telephone_receiver:  0917407340 | :envelope_with_arrow: c.spataro@comune.palermo.it
 
 ## Competenze
-In attuazione di quanto previsto dal Codice dell'Amministrazione Digitale, l’U.O. assume qualsiasi iniziativa e misura conforme ad agenda digitale e/o proposta in materia di sviluppo e innovazione tecnologica con riferimento a tutte le Aree dell’Amministrazione e delle relative attività, ivi comprese quelle che coinvolgono le società e / o Enti partecipati.
-
-Supporto al Dirigente nella progettazione, pianificazione e coordinamento delle attività relative ai progetti innovativi, alla pubblicazione dei dati, anche sulla sezione open data, coordinando tutti gli uffici dell’Amministrazione. Coordinamento degli adempimenti in capo al dirigente e al servizio Innovazione relativi in materia di pubblicazione, trasparenza, conservazione digitale e relative al [Codice dell'Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html).
-
-Avvio e gestione della procedura di digitalizzazione delle note tramite procedura Libro Firma Digitale e ogni altro adempimento relativo all’ambito del passaggio al digitale.
+- In attuazione di quanto previsto dal Codice dell'Amministrazione Digitale, l’U.O. assume qualsiasi iniziativa e misura conforme ad agenda digitale e/o proposta in materia di sviluppo e innovazione tecnologica con riferimento a tutte le Aree dell’Amministrazione e delle relative attività, ivi comprese quelle che coinvolgono le società e / o Enti partecipati. 
+- Supporto al Dirigente nella progettazione, pianificazione e coordinamento delle attività relative ai progetti innovativi, alla pubblicazione dei dati, anche sulla sezione open data, coordinando tutti gli uffici dell’Amministrazione. 
+- Coordinamento degli adempimenti in capo al dirigente e al servizio Innovazione relativi in materia di pubblicazione, trasparenza, conservazione digitale e relative al [Codice dell'Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) e al [Piano triennale per l'informatica](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html).
+- Avvio e gestione della procedura di digitalizzazione delle note tramite procedura Libro Firma Digitale e ogni altro adempimento relativo all’ambito del passaggio al digitale.
 
 ## CV
 [CV di Ciro Spataro](https://cirospat.github.io/cirospataro/profilo/cv/)
@@ -48,7 +47,7 @@ Visualizzazione degli [**interventi finanziati dal Piano Nazionale Ripresa e Res
 
 ---
 
-## UE projects
+## Worked on UE projects
 - [CIED](http://poieinkaiprattein.org/cied/)
 - [EURO EMAS](http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf)
 - [ETIV](http://slideplayer.com/slide/4835066/)
@@ -57,7 +56,7 @@ Visualizzazione degli [**interventi finanziati dal Piano Nazionale Ripresa e Res
 
 ---
 
-### Tipologie di licenze aperte utilizzate nei lavori
-- licenza Creative Commons, attribuzione dell'opera **CC BY** 
-- licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo **CC BY SA** 
-- licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali **CC BY NC SA**.
+### Tipologie di licenze aperte utilizzate nei lavori elencati
+- licenza Creative Commons, attribuzione dell'opera `CC BY` 
+- licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo `CC BY SA` 
+- licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali `CC BY NC SA.
