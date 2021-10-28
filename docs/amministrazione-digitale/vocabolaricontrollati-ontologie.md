@@ -47,11 +47,13 @@ a cura di Giovanni Pirrotta e Davide Taibi
 
 
 Il Catalogo europeo dei servizi nasce con l'idea di superare questi limiti, promuovendo una visione integrata degli eventi della vita, degli eventi aziendali e dei servizi pubblici esistenti; in particolare, questa iniziativa (ISA²) della Commissione Europea (più volte citata come riferimento nel Piano Triennale dell'Informatica della PA) si prefigge di:
+
 - analizzare le tipologie di servizi pubblici per cittadini ed imprese all'interno dell'UE, al fine di identificare le sfide e le buone pratiche da condividere; 
 - costruire il consenso sui modi comuni di rappresentare eventi della vita, eventi aziendali e servizi pubblici, oltre i confini e tra i settori. Ciò ha portato alla creazione di un <strong>vocabolario condiviso</strong> per descrivere i servizi pubblici; 
 - sviluppare delle componenti riutilizzabili per l'implementazione di cataloghi di servizi a livello locale, regionale, nazionale ed europeo; 
 - sostenere il "<strong>punto unico di accesso ai servizi</strong>", fornendo strumenti per descrivere e per erogare servizi pubblici, tra cui anche strumenti software Open Source; 
 - creazione di linee guida e pratiche per la gestione di cataloghi di servizi pubblici.
+
 
 !!! Note "Nota"
     Da tempo il Consorzio dei Comuni Trentini sta lavorando a questo tema, in collaborazione con la Provincia autonoma di Trento, cercando di ideare metodologie e tecnologie semplici per consentire a tutti i propri soci di assolvere a questo obbligo, in linea peraltro con quanto previsto dal cap. 5.1.1.2 "<a href="http://infotn.byway.it/nl/link?c=1lv3&d=f3&h=255eojflqlhu2raf2tv6hl6tls&i=32e&iw=1&p=H653219741&s=lp&sn=bs&z=1nn">Catalogo dei servizi</a>" del Piano Triennale dell'Informatica 2019-2021. (<a href="http://infotn.byway.it/nl/link?c=1lv3&d=f3&h=2uap4jpa721nevjmlqhjm2vn88&i=32e&iw=1&n=bs&p=H301835223&s=wv&sn=bs">Fonte</a>).
