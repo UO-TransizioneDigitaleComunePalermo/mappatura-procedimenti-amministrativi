@@ -641,7 +641,7 @@ Utilizzo del web service [Risk Tool Assesment](https://www.sicurezzait.gov.it) p
 
 ---
 
-**Per le iniziative dal 2019 in poi** <a href="https://cirospat.readthedocs.io/it/latest/Comune-Palermo-attuazione-CAD.html"><b>vai a questa pagina</b></a>. 
+**Per le iniziative dal 2019 in poi** <a href="https://cirospat.github.io/cirospataro/comune-palermo/attuazione-cad/"><b>vai a questa pagina</b></a>. 
  
 
 
