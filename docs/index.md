@@ -19,9 +19,9 @@ hide:
 - la `cultura digitale` e la `cittadinanza digitale`.
 
 ## Cosa è questo progetto
-**Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ciro Spataro**.
-
 <img src="https://cirospat.readthedocs.io/it/latest/_images/index-cirospat_1.jpeg" width="160">
+
+**Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ciro Spataro**
 
 Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
