@@ -1,11 +1,11 @@
-## Open data e innovazione tecnologica al comune di Palermo
+# Open data e innovazione tecnologica al comune di Palermo
 
-**Contributi di Ciro Spataro ([c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it)) nei processi di innovazione al comune di Palermo, per il miglioramento delle competenze digitali dei dipendenti, per l'attuazione delle linee guida open data **
+**Contributi di Ciro Spataro [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) nei processi di innovazione al comune di Palermo, per il miglioramento delle competenze digitali dei dipendenti, per l'attuazione delle linee guida open data**
 
 
 <table>
   <tr>
-   <td><code>ⓘ Nota</code>
+   <td><code><b>Nota</b></code>
    </td>
   </tr>
   <tr>
@@ -41,9 +41,6 @@
   </tr>
 </table>
 
-
-
-## 
 
 
 ## 2013
@@ -653,22 +650,9 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 
 Utilizzo del web service [Risk Tool Assesment](https://www.sicurezzait.gov.it) per valutare i livelli di rischi a cui sono esposti i servizi digitali del comune di Palermo e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. Con la collaborazione della Società SISPI SpA. L'azione fa parte del **Piano Triennale per l'Informatica nella Pubblica Amministrazione 2019-2021**, [capitolo Sicurezza](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2017-2019/doc/08_sicurezza.html?highlight=sicurezza).
 
-|
 
 
-<table>
-  <tr>
-   <td><code>ⓘ Note</code>
-   </td>
-  </tr>
-  <tr>
-   <td>Per la continuazione delle iniziative <a href="https://cirospat.readthedocs.io/it/latest/Comune-Palermo-attuazione-CAD.html">vai a questa pagina</a>. 
-   </td>
-  </tr>
-</table>
-
-
-
----
+Per la continuazione delle iniziative <a href="https://cirospat.readthedocs.io/it/latest/Comune-Palermo-attuazione-CAD.html">vai a questa pagina</a>. 
+ 
 
 
