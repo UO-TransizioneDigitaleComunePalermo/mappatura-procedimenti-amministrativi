@@ -1,16 +1,13 @@
+# Resposabile Transizione Digitale
 Questo spazio fornisce utili informazioni per l'attività di questa figura all'interno delle pubbliche amministrazioni italiane. Con particolari riferimento alla formazione, competenze, raduni, forum di confronto.
 
-|
-
-
 ## RTD dal Codice dell'Amministrazione Digitale
-
 Il Responsabile per la Transizione al Digitale (RTD)  è previsto dall'[articolo 17 del Codice dell'Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo1_sezione3_art17.html).
 
 
 <table>
   <tr>
-   <td><code>ⓘ Compiti dell'ufficio del RTD (art. 17 CAD)</code>
+    <td><code><b>Compiti dell'ufficio del RTD (art. 17 CAD)</b></code>
    </td>
   </tr>
   <tr>
@@ -40,14 +37,10 @@ k) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informat
 </table>
 
 
-|
 
 
 ## Community sui RTD
-
 [Link alla sezione del Forum Italia](https://forum.italia.it/c/piano-triennale/RTD) per confronti su temi/argomenti correlati specificatamente alla figura dell'RTD. 
-
-|
 
 
 ## Raduni RTD (AGID e La PA Digitale)
@@ -55,28 +48,23 @@ k) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informat
 Pagina dedicata alle [conferenze organizzate dall'AGID sui Responsabili Transizione al Digitale](https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/conferenza).
 
 
-
 * [1 raduno La PA Digitale a Bologna 28 novembre 2018](https://www.lapadigitale.it/programma-raduno-responsabili-la-transizione-al-digitale/) (vedi i [video dei workshop](https://www.lapadigitale.it/materiale-raduno-responsabili-per-la-transizione-al-digitale/)); vedi [articolo sul 1° raduno](https://medium.com/@cirospat/impressioni-dal-1-raduno-dei-responsabili-transizione-al-digitale-della-pa-970b906437fd);
 * 1 incontro AGID Conferenza dei Responsabili per la Transizione al Digitale del 13 febbraio 2019 - [Agenda dei lavori e presentazione](https://www.agid.gov.it/sites/default/files/repository_files/conferenzartd130219-def_0.pdf); 
 * 2 incontro AGID Conferenza dei Responsabili per la Transizione al Digitale del 15 maggio 2019 - [Agenda dei lavori e presentazione](https://www.agid.gov.it/sites/default/files/repository_files/20190515conferenzartd-filemasterore10_0.pdf);
 * [2 raduno La PA Digitale a Bologna 13 novembre 2019](https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/); vedi i [materiali (video e pdf) del raduno](https://www.lapadigitale.it/materiali-raduno-responsabili-per-la-transizione-al-digitale-2019/); leggi [articolo sul 2° raduno](https://medium.com/@cirospat/cosa-porta-il-2-raduno-dei-responsabili-della-transizione-al-digitale-91d5b3f074a1).
 
-|
+
 
 
 ## Competenze RTD
-
 [Competenze specialistiche, identificazione delle professionalità ICT a supporto dell’ufficio RTD](http://eventipa.formez.it/sites/default/files/allegati_eventi/scano_20191118.pdf), a cura di Roberto Scano (AgID), [roberto.scano@agid.gov.it](mailto:roberto.scano@agid.gov.it) (18 novembre 2019). [Linea di azione 86](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/11_governare-la-trasformazione-digitale.html#la86) del Piano Triennale per l’informatica nella Pubblica amministrazione 2019-2021.
 
-|
-
+---
 
 ## Formazione RTD
-
 [Formazione anno 2019 sulla figura del RTD curata da AGID e FormezPA](https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/formazione-rtd).
 
 **Video webinar su RTD anno 2019**
-
 
 <table>
   <tr>
@@ -213,15 +201,12 @@ Pagina dedicata alle [conferenze organizzate dall'AGID sui Responsabili Transizi
   </tr>
 </table>
 
-
-|
+---
 
 
 ## Webinar 2020 del FormezPA sulla transizione al digitale
 
 (organizzati dal Dipartimento della funzione pubblica, in collaborazione con Formez PA nell'ambito del Progetto Supporto allo sviluppo delle **competenze digitali** per la PA finanziato dal PON Governance e Capacità Istituzionale 2014-2020 Asse 1 - Obiettivo specifico 1.3) 
-
-
 
 * 12/05/2020 [Conoscere gli obiettivi della trasformazione digitale](http://eventipa.formez.it/node/222956)
 * 19/05/2020 [Conoscere le tecnologie emergenti per la trasformazione digitale](http://eventipa.formez.it/node/228618)
@@ -234,12 +219,9 @@ Pagina dedicata alle [conferenze organizzate dall'AGID sui Responsabili Transizi
 * 14/07/2020 [Erogare servizi online](http://eventipa.formez.it/node/260907)
 * 21/07/2020 [Proteggere i dispositivi](http://eventipa.formez.it/node/263407)
 
-|
 
 
 ## RTD Comune di Palermo - attività svolte
-
-
 
 * [Giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)](https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing);
 * [Evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale](https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing) in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
@@ -249,23 +231,17 @@ Pagina dedicata alle [conferenze organizzate dall'AGID sui Responsabili Transizi
 * Realizzazione, nel marzo 2020, e aggiornamento del [portale degli attrezzi digitali per permettere ai dipendenti e dirigenti del Comune di Palermo di lavorare da remoto in modalità agile](https://sites.google.com/comune.palermo.it/lavoroagile).
 * Redazione del [Piano triennale comunale per l'Informatica 2020-2022](https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html) e adozione con Delibera di Giunta n. 149 del 29 giugno 2020.
 
-|
 
 
 ## Formazione RTD da la #PAdigitale (2020)
-
 Da [@diritto2punto0](https://twitter.com/diritto2punto0) +[ #PAdigitale](https://twitter.com/hashtag/PAdigitale?src=hashtag_click) ogni martedì di ottobre e novembre 2020, un webinar gratuito per approfondire, con taglio pratico, i temi caldi della digitalizzazione, visti dalla prospettiva di un[ #RTD](https://twitter.com/hashtag/RTD?src=hashtag_click). I webinar sono consultabili anche registrati.
 
 [Link al sito RTD Accademy](https://www.lapadigitale.it/rtd-academy/).
 
-|
 
 
 ## Formazione RTD da AGID (2020)
-
 [Formazione dal 10 novembre al 15 dicembre 2020 da AGID + CRUI](https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/11/02/rtd-al-il-primo-ciclo-formazione-agid-crui). Temi trattati:
-
-
 
 * Accessibilità
 * Procurement
@@ -379,14 +355,10 @@ L’immodificabilità dei documenti – meglio spiegata nella Linee guida sul do
 
 6° webinar (**La community dei Responsabili per la transizione al digitale e l’importanza della rete** – 15 dicembre 2020) - [link alla video registrazione](https://youtu.be/sDP9c6tobpM).
 
-|
 
 
 ## Formazione RTD dal FormezPA (2021)
-
 Un utile e interessante ciclo di webinar formativi sull'attività del responsabile della Transizione Digitale negli enti pubblici, organizzato dal FormezPA. I materiali (video e presentazioni pdf) dei webinar sono consultabili al seguente link: [I Responsabili per la Transizione al Digitale e l'Innovazione negli Enti Locali](http://learn.formez.it/course/view.php?id=196). Si accede con le credenziali personali per la fruizione dei contenuti formativi del FormezPA (accedi con :class:`DFPAuth`).
-
-
 
 * 17/02/21 - ["Il Responsabile per la transizione al digitale tra Piano Triennale per l’informatica nella PA e DL Semplificazioni"](http://eventipa.formez.it/node/293144)
 * 24/02/21 - ["Il Piano Triennale per l’informatica nella PA: dalla strategia all’applicazione"](http://eventipa.formez.it/node/294186)
