@@ -78,8 +78,6 @@ Le 5 aree di competenza sono:
 4. **Sicurezza**
 5. **Risolvere Problemi**
 
-|
-
 
 ## Parole chiave che contraddistinguono gli 8 livelli di padronanza delle competenze digitali dei cittadini
 
