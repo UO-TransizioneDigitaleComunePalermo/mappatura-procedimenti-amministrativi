@@ -2,14 +2,16 @@
 
 **Contributi di Ciro Spataro [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) nei processi di innovazione al comune di Palermo, per il miglioramento delle competenze digitali dei dipendenti, per l'attuazione delle linee guida open data**
 
+<p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Elenco delle atività dal 2013 al 2018</span></p>
+
 
 <table>
   <tr>
-   <td><code><b>Nota</b></code>
+   <td><strong><code>Contributo ai principali strumenti di innovazione comunali, regionali e nazionali</code></strong>
    </td>
   </tr>
   <tr>
-   <td><strong>Contributo ai principali strumenti di innovazione comunali, regionali e nazionali:</strong>
+   <td>
 <ul>
 
 <li>Linee Guida nazionali versione 2013 per la gestione degli open data (AgID).
@@ -557,7 +559,7 @@ Dicembre. Sono state rispettate dal comune di Palermo le 5 scadenze del CAD per 
 
 ### 2018 - attivazione SPID
 
-20 febbraio:[ attivazione di SPID](https://www.comune.palermo.it/noticext.php?cat=1&id=17367) per l'accesso dei cittadini ai servizi digitali del comune di Palermo, grazie alla Società SISPI SpA. [ Rassegna stampa](http://www.palermotoday.it/video/spid-identita-digitale-sito-comune.html).
+20 febbraio:[attivazione di SPID](https://www.comune.palermo.it/noticext.php?cat=1&id=17367) per l'accesso dei cittadini ai servizi digitali del comune di Palermo, grazie alla Società SISPI SpA. [Rassegna stampa](http://www.palermotoday.it/video/spid-identita-digitale-sito-comune.html).
 
 
 ### 2018 - adozione piattaforma DocsItalia su Read the Docs per pubblicazione documenti del comune di Palermo
@@ -607,7 +609,7 @@ Materiali informativi: [http://bit.do/transizionealdigitale](http://bit.do/trans
 
 17 maggio. Considerato che da tempo il formato degli atti amministrativi pubblicati nell'albo pretorio del comune è il PDF [derivante dalla scansione degli atti cartacei](https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/inviti-pa), il Servizio Innovazione ha ritenuto opportuno inviare una circolare agli Uffici e Dirigenti indicando le modalità di pubblicazione degli atti in formato PDF accessibile anche ai portatori di disabilità visive. Il PDF dell'atto amministrativo deve rispettare i [requisiti tecnici di accessibilità riportati nell'allegato "A" del Decreto Ministeriale dell'8 luglio 2005](http://www.agid.gov.it/dm-8-luglio-2005-allegato-A). 
 
-Nella[ Circolare n. 61/2013 dell’AgID](http://www.agid.gov.it/sites/default/files/circolari/circolare_accessibilta_29_marzo_2013.pdf) si legge: “_Ciò significa che i moduli e formulari, ma anche gli atti e i provvedimenti amministrativi oggetto di pubblicità legale, devono essere fruibili anche da persone con disabilità. Non è ammessa, pertanto, la pubblicazione di documenti-immagine, vale a dire scansioni digitali di documenti cartacei senza che si sia provveduto ad opportuna digitalizzazione del testo ivi contenuto _.”
+Nella[ Circolare n. 61/2013 dell’AgID](http://www.agid.gov.it/sites/default/files/circolari/circolare_accessibilta_29_marzo_2013.pdf) si legge: “*Ciò significa che i moduli e formulari, ma anche gli atti e i provvedimenti amministrativi oggetto di pubblicità legale, devono essere fruibili anche da persone con disabilità. Non è ammessa, pertanto, la pubblicazione di documenti-immagine, vale a dire scansioni digitali di documenti cartacei senza che si sia provveduto ad opportuna digitalizzazione del testo ivi contenuto *.”
 
 
 ### 2018 - Approvazione del protocollo di Intesa tra Comune di Palermo e Comune di Genova per iniziative di collaborazione nello Sviluppo dell'Agenda Digitale (Deliberazione di GC n. 82 del 19.06.2018). 
@@ -617,7 +619,7 @@ Avvio delle fasi di confronto tra i tecnici della Società Sispi e del comune di
 
 ### 2018 - Partecipazione all’area sperimentale della piattaforma Cittadinanza Digitale, progetto IO, (20 luglio 2018).
 
-L'**[applicazione nazionale dell'AgID IO](https://io.italia.it/)** è necessaria per consentire l’accesso telematico ai servizi della Pubblica Amministrazione, ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82.
+L'[**applicazione nazionale dell'AgID IO**](https://io.italia.it/) è necessaria per consentire l’accesso telematico ai servizi della Pubblica Amministrazione, ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82.
 
 
 ### 2018 - Infoday ai Dirigenti su attuazione CAD e Piano Triennale per l'Informatica.
@@ -630,16 +632,7 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 28 dicembre 2018 partecipazione alla giornata 2018 della trasparenza comunale con l'esposizione dei servizi digitali attivati e da attivare ([comunicato stampa](https://www.comune.palermo.it/noticext.php?id=20742)).
 
 
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td>&lt;img src="https://www.comune.palermo.it/js/server/uploads/220x220/_19122018082111.jpg" width="240 />
-   </td>
-  </tr>
-</table>
+<img src="https://www.comune.palermo.it/js/server/uploads/220x220/_19122018082111.jpg" width="240" />
 
 
 
@@ -652,7 +645,7 @@ Utilizzo del web service [Risk Tool Assesment](https://www.sicurezzait.gov.it) p
 
 
 
-Per la continuazione delle iniziative <a href="https://cirospat.readthedocs.io/it/latest/Comune-Palermo-attuazione-CAD.html">vai a questa pagina</a>. 
+Per le iniziative dal 2019 in poi <a href="https://cirospat.readthedocs.io/it/latest/Comune-Palermo-attuazione-CAD.html">vai a questa pagina</a>. 
  
 
 
