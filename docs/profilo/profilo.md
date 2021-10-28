@@ -13,7 +13,7 @@
 [CV di Ciro Spataro](https://cirospat.github.io/cirospataro/profilo/cv/)
 
 ## Engagement
-[2013 - current](https://cirospat.github.io/cirospataro/comune-palermo/opendata-innovazione/)
+[2013 - 2018](https://cirospat.github.io/cirospataro/comune-palermo/opendata-innovazione/)
 
 [Azioni svolte dal Comune di Palermo per l’attuazione del C.A.D. e del Piano Triennale per l’Informatica nella PA](https://cirospat.github.io/cirospataro/comune-palermo/attuazione-cad/)
 
