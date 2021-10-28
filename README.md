@@ -15,7 +15,7 @@ Profilo di Ciro Spataro
 
 
 ## Link al progetto creato su pagine di Github
-[Ciro Spaaro](https://cirospat.github.io/cirospataro)
+[Ciro Spataro](https://cirospat.github.io/cirospataro)
 
 
 ## Strumenti integrati nel progetto
