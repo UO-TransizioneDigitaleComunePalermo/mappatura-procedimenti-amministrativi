@@ -14,10 +14,12 @@ Definizione di interoperabilità semantica: **possibilità, offerta alle organiz
 
 
 !!! Note "importante"
-    [L’articolo 4 del Piano Triennale per l'informatica nella PA](https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#dati-della-pubblica-amministrazione) definisce i **vocabolari controllati** e modelli dei dati come "un modo comune e condiviso per organizzare codici e nomenclature ricorrenti in maniera standardizzata e normalizzata (vocabolari controllati) e una concettualizzazione esaustiva e rigorosa nell’ambito di un dato dominio (ontologia o modello dei dati condiviso").
+    [L’articolo 4 del Piano Triennale per l'informatica nella PA](https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#dati-della-pubblica-amministrazione) definisce i **vocabolari controllati** e modelli dei dati come un modo comune e condiviso per organizzare codici e nomenclature ricorrenti in maniera standardizzata e normalizzata (vocabolari controllati) e una concettualizzazione esaustiva e rigorosa nell’ambito di un dato dominio (ontologia o modello dei dati condiviso).
 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ijWjMuMPVxTyBU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GiorgiaLodi/interoperabilit-semantica-metadatazione-e-ontologie-per-la-pa" title="Interoperabilità semantica: metadatazione e ontologie per la PA" target="_blank">Interoperabilità semantica: metadatazione e ontologie per la PA</a> </strong> from <strong><a href="https://www.slideshare.net/GiorgiaLodi" target="_blank">Giorgia Lodi</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ijWjMuMPVxTyBU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+
 
 
 ## Ontologia OPENARS - Parlamento Regionale Siciliano
