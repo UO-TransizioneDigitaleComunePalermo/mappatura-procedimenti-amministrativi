@@ -632,10 +632,6 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 28 dicembre 2018 partecipazione alla giornata 2018 della trasparenza comunale con l'esposizione dei servizi digitali attivati e da attivare ([comunicato stampa](https://www.comune.palermo.it/noticext.php?id=20742)).
 
 
-<img src="https://www.comune.palermo.it/js/server/uploads/220x220/_19122018082111.jpg" width="240" />
-
-
-
 ## 2019
 
 
