@@ -1,5 +1,5 @@
 # Lavoro Agile - Smart Working
-In questa sezione vengono illustrate le norme emanate in occasione dell’emergenza #coronavirus del marzo 2020 e le azioni poste in essere per realizzare il "lavoro agile" al Comune di Palermo.
+In questa sezione vengono illustrate le norme emanate in occasione dell’emergenza **coronavirus** del marzo 2020 e le azioni poste in essere per realizzare il **lavoro agile** al Comune di Palermo.
 
 ## Le attività del comune di Palermo:
 
