@@ -60,13 +60,13 @@ Il link al codice sorgente di questo progetto è [https://github.com/cirospat/ci
 
         **Read the Docs**
 
-        `Read the docs` si basa sul linguaggio `RST` (restructured text) dalla sintassi più complessa rispetto a `md` :neutral_face: 
+        `Read the Docs` si basa sul linguaggio `RST` (*restructured text*), dalla sintassi più complessa rispetto a `md` :neutral_face: 
         
         Anche il linguaggio `MD` può essere utilizzato dando idonee istruzioni sul file `conf.py` :slight_smile: 
         
-        Il progetto grafico creato su `Read the Docs` presenta un layout più "scarno" rispetto a quello di `Material for MKDocs`, c'è solo una sidebar verticale a sinistra per visualizzare il menù e i sottomenù dell'indice dei contenuti  :neutral_face: 
+        Il progetto grafico creato su `Read the Docs` presenta un layout più "scarno" rispetto a quello di `Material for MKDocs`, ad esempio c'è solo una sidebar verticale a sinistra per visualizzare il menù e i sottomenù dell'indice dei contenuti  :neutral_face: 
         
-        Con `Read the Docs`, prima si lavora su Github per la configurazione del codice sorgente e per la creazione dei contenuti da esporre nel progetto di documentazione, poi si crea il profilo su readthedocs.org e si crea il progetto specifico creando la relazione (tramite l'URL) con il progetto contenente il codice sorgente su Github. Quindi la compilazione del progetto su pagine HTML avviene su readthedocs.org. Siamo - così - in presenza di 2 ambienti web sui quali operare, a differenza di `Material for MKDocs` in cui si opera solo su Github che provvede ad effettuare anche le compilazioni. Questo aspetto gioca indubbiamente a favore di `Material for MKDocs` :neutral_face:
+        Con `Read the Docs`, prima si lavora su **Github** per la configurazione del codice sorgente e per la creazione dei contenuti da esporre nel progetto di documentazione, poi si crea il profilo su **readthedocs.org** e si crea il progetto specifico creando la relazione (tramite l'URL) con il progetto contenente il codice sorgente su Github. Quindi la compilazione del progetto su pagine HTML avviene su readthedocs.org. Siamo - così - in presenza di 2 ambienti web sui quali operare, a differenza di `Material for MKDocs` in cui si opera solo su **Github** che provvede ad effettuare anche le compilazioni. Questo aspetto gioca indubbiamente a favore di `Material for MKDocs` :neutral_face:
         
         Da continuare .............
 
