@@ -34,14 +34,13 @@ Il progetto di documentazione è stato creato con lo strumeno [MKDocs Material](
 
 Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`.
 
-Le pagine di queso progetto di documentazione vengono compilate su ![](https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png) [GitHub ghpages](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions).
+![](https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png) Le pagine di queso progetto di documentazione vengono compilate su [GitHub ghpages](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions).
 
-Il link al codice del progetto è [https://github.com/cirospat/cirospataro](https://github.com/cirospat/cirospataro)
-
-
+Il link al codice sorgente di questo progetto è [https://github.com/cirospat/cirospataro](https://github.com/cirospat/cirospataro)
 
 
-!!! note "Differenze tra **Material for MKDocs** e **Read the Docs** per progetti di documentazione"
+
+!!! note "Differenze tra `Material for MKDocs` e `Read the Docs` per progetti di documentazione"
 
     === "Material for MKDocs"
 
