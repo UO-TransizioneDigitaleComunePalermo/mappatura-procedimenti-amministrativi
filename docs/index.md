@@ -40,7 +40,7 @@ Il link al codice sorgente di questo progetto è [https://github.com/cirospat/ci
 
 
 
-!!! note "Differenze tra `Material for MKDocs` e `Read the Docs` per progetti di documentazione"
+!!! note "Differenze tra `"Material for MKDocs"` e `"Read the Docs"` per progetti di documentazione"
 
     === "Material for MKDocs"
 
