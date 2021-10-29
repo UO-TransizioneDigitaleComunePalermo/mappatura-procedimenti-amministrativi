@@ -41,7 +41,7 @@ Il link al codice del progetto è [https://github.com/cirospat/cirospataro](http
 
 
 
-!!! note "Differenze tra -Material for MKDocs- e -Read the Docs-"
+!!! note "Differenze tra **Material for MKDocs** e **Read the Docs** per progetti di documentazione"
 
     === "Material for MKDocs"
 
