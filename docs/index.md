@@ -41,11 +41,11 @@ Il link al codice del progetto è [https://github.com/cirospat/cirospataro](http
 
 
 
-!!! note "Differenze tra `Material for MKDocs` e `Read the Docs`"
+!!! note "Differenze tra -Material for MKDocs- e -Read the Docs-"
 
     === "Material for MKDocs"
 
-        `Material for MKDocs` 
+        **Material for MKDocs** 
 
         `Material for MKDocs` si presenta con un architetuttura semplice per la costruzione del progetto di documentazione✅.
         
@@ -62,7 +62,7 @@ Il link al codice del progetto è [https://github.com/cirospat/cirospataro](http
 
     === "Read the Docs"
 
-        `Read the Docs`
+        **Read the Docs**
 
         `Read the docs` si basa sul linguaggio `RST` (restructured text) dalla sintassi più complessa rispetto a `md`❌. 
         
@@ -79,7 +79,7 @@ Il link al codice del progetto è [https://github.com/cirospat/cirospataro](http
     
 
 ## Strumenti integrati in questo progetto
-Sono stati utilizzati alcuni strumenti per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione
+Sono stati utilizzati alcuni strumenti per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione.
 
 ??? Note "strumenti utilizzati"
     - **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
