@@ -152,10 +152,8 @@ extra_css:
 ## Page tree 
 # ogni file .md corrisponde ad una pagina web 
 nav:
-    - Home: 
-        - index.md
-        - risorse-conoscenza/markdown.md
-    
+    - Home: index.md
+         
     - Profilo:
         - Profilo work: profilo/profilo.md
         - Social profile: profilo/social-profile.md
@@ -164,6 +162,7 @@ nav:
             
     - Risorse | conoscenza:
         - Tutorial manuali e corsi: risorse-conoscenza/tutorial-manuali-corsi.md
+        - MarkDown (linguaggio): risorse-conoscenza/markdown.md
         - Mappe: risorse-conoscenza/mappe.md
         - Catalogo webinar opendata: risorse-conoscenza/catalogo-webinar-opendata.md
         - Accesso Civico: risorse-conoscenza/accesso-civico.md
