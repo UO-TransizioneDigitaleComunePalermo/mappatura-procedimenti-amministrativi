@@ -20,7 +20,9 @@ hide:
 
 Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ciro Spataro
 
-Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo. Coltivo la passione per la documentazione delle attività, questo è il motivo principale per il quale ho costruito questo portale.
+Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo. 
+
+✏️ Coltivo la passione per la documentazione delle attività, questo è il motivo principale per il quale ho costruito questo portale.
 
 
 ## Come è costruito questo progetto (`Material for MkDocs`)
