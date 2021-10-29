@@ -45,9 +45,11 @@ Il progetto di documentazione è stato creato con lo strumento [**Material for M
 
 <img src="https://img.shields.io/badge/GitHub-for_code_setting-red.svg?style=popout&logo=GitHub&logoColor=orange"> Il link al codice sorgente di questo progetto è [**github.com/cirospat/cirospataro**](https://github.com/cirospat/cirospataro)
 
-Template classici per progetti di documentazione online sono **Read the Docs** e **Material for MKDocs**.
+Template classici per progetti di documentazione online sono:
+- **Read the Docs** <img src="https://user-images.githubusercontent.com/3757525/139450435-d49f2bc7-d785-4cc9-b182-e16730b7d6a8.png" width="30">
+- **Material for MKDocs** <img src="https://user-images.githubusercontent.com/3757525/139392575-e2462137-1d61-4110-8b76-8d3017f9d0de.JPG" width="30">
 
-!!! note "Alcune differenze tra `"Material for MKDocs"` e `"Read the Docs"` per progetti di documentazione"
+!!! note "Alcune differenze tra `"Material for MKDocs"` <img src="https://user-images.githubusercontent.com/3757525/139392575-e2462137-1d61-4110-8b76-8d3017f9d0de.JPG" width="30"> e `"Read the Docs"` <img src="https://user-images.githubusercontent.com/3757525/139450435-d49f2bc7-d785-4cc9-b182-e16730b7d6a8.png" width="30"> per progetti di documentazione"
 
     === "Material for MKDocs"
 
