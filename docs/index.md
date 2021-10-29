@@ -16,7 +16,7 @@ hide:
 - la cultura digitale e la cittadinanza digitale.
 
 ## Cosa è questo progetto
-<img src="https://cirospat.readthedocs.io/it/latest/_images/index-cirospat_1.jpeg" width="160">
+<img src="https://cirospat.readthedocs.io/it/latest/_images/index-cirospat_1.jpeg" width="155">
 
 Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ciro Spataro
 
@@ -27,7 +27,8 @@ Coltivo la passione per la documentazione delle attività, questo è il motivo p
 
 ## Come è costruito questo progetto (Material for MkDocs)
 
-![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
+<img src="https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png" width="130">
+
 
 Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
