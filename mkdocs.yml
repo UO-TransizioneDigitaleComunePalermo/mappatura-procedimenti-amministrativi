@@ -163,6 +163,7 @@ nav:
     - Risorse | conoscenza:
         - Tutorial manuali e corsi: risorse-conoscenza/tutorial-manuali-corsi.md
         - MarkDown (linguaggio): risorse-conoscenza/markdown.md
+        - Read the Docs vs Material for MKDocs: risorse-conoscenza/readthedocs-vs-material_mkdocs.md
         - Mappe: risorse-conoscenza/mappe.md
         - Catalogo webinar opendata: risorse-conoscenza/catalogo-webinar-opendata.md
         - Accesso Civico: risorse-conoscenza/accesso-civico.md
