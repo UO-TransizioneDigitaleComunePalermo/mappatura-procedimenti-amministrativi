@@ -1,10 +1,8 @@
 # MarkDown
 
-Questo progetto è costruito su pagine in linguaggio `MarkDown`
+**Questo progetto è costruito su pagine in linguaggio `MarkDown` `.MD`**
 
-Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`
-
-??? Note "Siti per comprendere la sintassi del linguaggio `MarkDown`"
+!!! Note "Siti per comprendere la sintassi del linguaggio `MarkDown`"
     - [https://dillinger.io](https://dillinger.io)
     - [https://pandoc.org/try](https://pandoc.org/try) (editor)
     - [https://stackedit.io/app#](https://stackedit.io/app#)
