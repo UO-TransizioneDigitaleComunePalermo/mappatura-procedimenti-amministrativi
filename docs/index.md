@@ -7,7 +7,8 @@ hide:
 # Profilo di Ciro Spataro
 <img src="https://raw.githubusercontent.com/cirospat/cirospataro/main/docs/img/cirospataro.jpg" width="300">
 
-<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo aggiornamento"> 
+<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo aggiornamento">  
+[![gh-deploy](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml)
 
 ## Ambiti principali di impegno
 - i dati che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
