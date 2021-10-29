@@ -5,15 +5,15 @@ hide:
 ---
 
 # Profilo di Ciro Spataro
-![](img/cirospataro.jpg) 
+<img src="https://raw.githubusercontent.com/cirospat/cirospataro/main/docs/img/cirospataro.jpg" width="260">
 
 <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo aggiornamento"> 
 
 ## Ambiti principali di impegno
-- i `dati` che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
-- l’innovazione di `processo` e di `servizio`;
-- le `competenze digitali` dei dirigenti e dipendenti della Pubblica Amministrazione;
-- la `cultura digitale` e la `cittadinanza digitale`.
+- i dati che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
+- l’innovazione di processo e di servizio;
+- le competenze digitali dei dirigenti e dipendenti della Pubblica Amministrazione;
+- la cultura digitale e la cittadinanza digitale.
 
 ## Cosa è questo progetto
 <img src="https://cirospat.readthedocs.io/it/latest/_images/index-cirospat_1.jpeg" width="160">
