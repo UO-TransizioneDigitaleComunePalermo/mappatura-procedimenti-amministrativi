@@ -1,5 +1,7 @@
 ---
 title: Ciro Spataro 
+hide:
+  - navigation
 ---
 
 # Profilo di Ciro Spataro
