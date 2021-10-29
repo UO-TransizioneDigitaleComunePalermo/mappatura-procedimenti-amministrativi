@@ -5,7 +5,7 @@
 
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png) 
 
-&#169; licenza CC BY
+licenza CC BY
 
 # Ciro Spataro 
 Profilo di Ciro Spataro
