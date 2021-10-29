@@ -22,10 +22,10 @@ Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ci
 
 Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo. 
 
-✏️ Coltivo la passione per la documentazione delle attività, questo è il motivo principale per il quale ho costruito questo portale.
+Coltivo la passione per la documentazione delle attività, questo è il motivo principale per il quale ho costruito questo portale.
 
 
-## Come è costruito questo progetto (`Material for MkDocs`)
+## Come è costruito questo progetto (Material for MkDocs)
 
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
 
@@ -85,12 +85,12 @@ Template classici per progetti di documentazione online sono:
     
 
 ??? Note "strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione"
-    - **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
-    - **Disqus** per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
-    - **Strumento di generazione dei contenuti del progetto in formato PDF**, indicato in ogni pagina con il simbolo della stampante posizionato in alto a destra
-    - **feed RSS** per avere un link per gli aggiornamenti automatici dei contenuti del progetto di documentazione. L'istruzione per inserire l'integrazione del feed RSS viene data nel file `mkdocs.yml`.
+    - [**Addthis**](https://www.addthis.com/) per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
+    - [**Disqus**](https://disqus.com/) per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
+    - [**Strumento di generazione dei contenuti del progetto in formato PDF**](https://cirospat.github.io/cirospataro/print_page/), indicato in ogni pagina con il simbolo della stampante posizionato in alto a destra
+    - [**feed RSS**](https://guts.github.io/mkdocs-rss-plugin/) per avere un link per gli aggiornamenti automatici dei contenuti del progetto di documentazione. L'istruzione per inserire l'integrazione del feed RSS viene data nel file `mkdocs.yml`
 
 
 
 ## Credits
-Questo progetto è stato realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano) e [**@aborruso**](https://github.com/aborruso) della community di [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento ❤️ per la pazienza e la voglia di condivere conoscenza e professionalità :slight_smile:
+Questo progetto è stato realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano) e [**@aborruso**](https://github.com/aborruso) della community di [#OpenDataSicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento ❤️ per la pazienza costante e la voglia di condivere conoscenza e professionalità :slight_smile:
