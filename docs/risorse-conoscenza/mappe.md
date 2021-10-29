@@ -11,7 +11,7 @@
 
 
 ## Catalogo mappe elaborate da Ciro Spataro
-[Catalogo](https://cirospat.github.io/maps) di mappe soprattuto su Palermo.
+[Catalogodi mappe](https://cirospat.github.io/maps) soprattuto su Palermo.
 
 
 
