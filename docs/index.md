@@ -90,6 +90,4 @@ Sono stati utilizzati alcuni strumenti per arricchire l'esperienza di fruzione d
 
 
 ## Credits
-
-!!! Note "credits"
-    Progetto realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) di [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento per la pazienza e la voglia di condivere conoscenza e professionalità :slight_smile:
+Questo progetto è stato realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano) e [**@aborruso**](https://github.com/aborruso) della community di [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento per la pazienza e la voglia di condivere conoscenza e professionalità :slight_smile:
