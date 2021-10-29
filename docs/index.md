@@ -4,13 +4,10 @@ hide:
   - navigation
 ---
 
-
-<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo aggiornamento"> 
-
-
 # Profilo di Ciro Spataro
 ![](img/cirospataro.jpg) 
 
+<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo aggiornamento"> 
 
 ## Ambiti principali di impegno
 - i `dati` che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
@@ -23,24 +20,24 @@ hide:
 
 **Una raccolta di risorse sull'attività professionale e di `civick hacking` di Ciro Spataro**
 
-Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
+Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo. Coltivo la passione per la documentazione delle attività, questo è il motivo principale per il quale ho costruito questo portale.
 
 
 ## Come è costruito questo progetto (`Material for MkDocs`)
 
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
 
-Il progetto di documentazione è stato creato con lo strumeno [MKDocs Material](https://squidfunk.github.io/mkdocs-material/getting-started/).
+Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
 Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`.
 
-![](https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png) Le pagine di queso progetto di documentazione vengono compilate su [GitHub ghpages](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions).
+![](https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png) Le pagine di questo progetto di documentazione vengono compilate su [GitHub ghpages](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions).
 
 Il link al codice sorgente di questo progetto è [https://github.com/cirospat/cirospataro](https://github.com/cirospat/cirospataro)
 
 
 
-!!! note "Differenze tra `"Material for MKDocs"` e `"Read the Docs"` per progetti di documentazione"
+!!! note "Alcune differenze tra `"Material for MKDocs"` e `"Read the Docs"` per progetti di documentazione online"
 
     === "Material for MKDocs"
 
