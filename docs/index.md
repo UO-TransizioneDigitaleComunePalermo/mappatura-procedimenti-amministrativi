@@ -38,6 +38,26 @@ Le pagine di queso progetto di documentazione vengono compilate su ![](https://r
 
 Il link al codice del progetto è [https://github.com/cirospat/cirospataro](https://github.com/cirospat/cirospataro)
 
+
+
+!!! note "Differenze = Material for MKDocs | Read the docs"
+
+    === "Material for MKDocs"
+
+        `Material for MKDocs` 
+
+        Material for MKdocs si presenta con un architetuttura semplice per la costruzione del progetto di documentazione.         
+        Innanzitutto si basa sul linguaggio `MD` markdown, semplice per sintassi. Tuttavia Material for MKDocs presenta una maggiore facilità nella cnfigurazione dei parametri. La guida [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/) copre in maniera dettagliata ogni aspetto per l'installazione e la personalizzazione grafica del progetto di documentazione. Material for MKDocs si presenta in una forma più elegante rispetto a Read the Docs. SUu Material for MKDocs è possibile avere una sidebar verticale laterale a destra (oltre a quello genrale di sinistra) che indica il menù della pagina che stiamo vsualizzando (TOC) e ciò risulta molto comodo per comprendere l'andamento della lettura nel contesto della paginan visualizzata. Da continuare
+        
+
+    === "Read the docs"
+
+        `Read the docs`
+
+        Read the docs si basa sul linguaggio `RST` (restructured text) dalla sintassi più complessa rispetto a `md`. Anche il linguaggio `MD` può essere utilizzato dando idonee istruzioni sul file `conf.py`. Il progetto grafico creato su Read the Docs presenta un layout più "scarno rispetto a quello di Material for MKDocs, solo una sidebar verticalel a sinistra per il menù e sottomenù dell'indice dei contenuti. Da continuare
+
+
+
 !!! Note "credits"
     Progetto realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) di [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento per la pazienza e la voglia di condivere conoscenza e professionalità :slight_smile:
     
