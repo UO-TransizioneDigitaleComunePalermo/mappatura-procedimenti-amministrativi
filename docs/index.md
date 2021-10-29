@@ -40,9 +40,9 @@ Il progetto di documentazione è stato creato con lo strumento [**Material for M
 
 Il link al codice sorgente di questo progetto è [**github.com/cirospat/cirospataro**](https://github.com/cirospat/cirospataro)
 
+Template classici per progetti di documentazione online sono **Read the Docs** e **Material for MKDocs**.
 
-
-!!! note "Alcune differenze tra `"Material for MKDocs"` e `"Read the Docs"` per progetti di documentazione online"
+!!! note "Alcune differenze tra `"Material for MKDocs"` e `"Read the Docs"` per progetti di documentazione"
 
     === "Material for MKDocs"
 
@@ -57,9 +57,7 @@ Il link al codice sorgente di questo progetto è [**github.com/cirospat/cirospat
         La guida [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/) è realizzata in maniera perfetta, molto completa, copre in maniera dettagliata ogni aspetto per l'installazione e la personalizzazione grafica del progetto di documentazione, con esempi di codice da usare nella configurazione dei file :slight_smile:
         
         `Material for MKDocs` dal punto di vista grafico si presenta in una forma più elegante rispetto a `Read the Docs`. Su `Material for MKDocs` è possibile avere una sidebar verticale laterale a destra (oltre a quello genrale di sinistra) che indica il menù della pagina che stiamo visualizzando (TOC) e ciò risulta molto comodo per comprendere l'andamento della lettura nel contesto della pagina visualizzata :slight_smile:
-        
-        Da continuare ........... 
-        
+         
 
     === "Read the Docs"
 
@@ -73,7 +71,6 @@ Il link al codice sorgente di questo progetto è [**github.com/cirospat/cirospat
         
         Con `Read the Docs`, prima si lavora su **Github** per la configurazione del codice sorgente e per la creazione dei contenuti da esporre nel progetto di documentazione, poi si crea il profilo su **readthedocs.org** e si crea il progetto specifico creando la relazione (tramite l'URL) con il progetto contenente il codice sorgente su Github. Quindi la compilazione del progetto su pagine HTML avviene su readthedocs.org. Siamo - così - in presenza di 2 ambienti web sui quali operare, a differenza di `Material for MKDocs` in cui si opera solo su **Github** che provvede ad effettuare anche le compilazioni. Questo aspetto gioca indubbiamente a favore di `Material for MKDocs` :neutral_face:
         
-        Da continuare .............
 
     
 
