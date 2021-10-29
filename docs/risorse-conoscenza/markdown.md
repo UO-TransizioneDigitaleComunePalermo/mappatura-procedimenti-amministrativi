@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # MarkDown
 
 **Questo progetto è costruito su pagine in linguaggio `MarkDown` `.MD`**
