@@ -7,7 +7,7 @@ hide:
 # Profilo di Ciro Spataro
 <img src="https://raw.githubusercontent.com/cirospat/cirospataro/main/docs/img/cirospataro.jpg" width="300">
 
-<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo aggiornamento"> [![gh-deploy](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml)
+<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo aggiornamento"> 
 
 ## Ambiti principali di impegno
 - i dati che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
@@ -43,7 +43,7 @@ Il progetto di documentazione è stato creato con lo strumento [**Material for M
     - [https://markdown-it.github.io](https://markdown-it.github.io) (editor)
     
 
-<img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png"width="30"> Le pagine di questo progetto di documentazione vengono compilate su [**GitHub ghpages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
+[![gh-deploy](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub ghpages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
 <img src="https://img.shields.io/badge/GitHub-for_code_setting-red.svg?style=popout&logo=GitHub&logoColor=orange"> Il link al codice sorgente di questo progetto è [**github.com/cirospat/cirospataro**](https://github.com/cirospat/cirospataro)
 
