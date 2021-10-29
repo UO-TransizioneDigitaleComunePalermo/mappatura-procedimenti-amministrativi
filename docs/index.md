@@ -31,7 +31,7 @@ Il progetto di documentazione è stato creato con lo strumento [**Material for M
 
 Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`
 
-??? Note "siti per comprendere la sintassi del linguaggio `Markdown`"
+??? Note "siti per comprendere la sintassi del linguaggio `MarkDown`"
     - <https://dillinger.io/> 
     - <https://pandoc.org/try/> 
     - <https://stackedit.io/app#>
