@@ -32,9 +32,14 @@ Il progetto di documentazione è stato creato con lo strumento [**Material for M
 <img src="https://user-images.githubusercontent.com/3757525/139418771-47eced7b-f60c-4834-8200-544b40c21b00.png" width="35"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`
 
 ??? Note "siti per comprendere la sintassi del linguaggio `MarkDown`"
-    - <https://dillinger.io/> 
-    - <https://pandoc.org/try/> 
-    - <https://stackedit.io/app#>
+    - https://dillinger.io 
+    - https://pandoc.org/try (editor)
+    - https://stackedit.io/app#
+    - https://www.markdownguide.org/basic-syntax
+    - https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
+    - https://markdown-guide.readthedocs.io/en/latest
+    - https://markdown-it.github.io (editor
+    
 
 ![](https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub ghpages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
