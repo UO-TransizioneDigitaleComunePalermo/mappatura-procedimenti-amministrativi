@@ -63,7 +63,9 @@ Template classici per progetti di documentazione online sono:
         
         Innanzitutto si basa sul linguaggio `MD` markdown, semplice per sintassi :slight_smile: 
         
-        `Material for MKDocs` presenta una maggiore facilità nella configurazione dei parametri del codice su Github :slight_smile:
+        Presenta una maggiore facilità nella configurazione dei parametri del codice su Github :slight_smile:
+        
+        Compila le pagine web direttamente su **Github** (gh-pages), quindi codice e compilazione sono ospitati sullo stesso ambiente :slight_smile:
         
         La guida [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/) è realizzata in maniera perfetta, molto completa, copre in maniera dettagliata ogni aspetto per l'installazione e la personalizzazione grafica del progetto di documentazione, con esempi di codice da usare nella configurazione dei file :slight_smile:
         
@@ -80,7 +82,7 @@ Template classici per progetti di documentazione online sono:
         
         Il progetto grafico creato su `Read the Docs` presenta un layout più "scarno" rispetto a quello di `Material for MKDocs`, ad esempio c'è solo una sidebar verticale a sinistra per visualizzare il menù e i sottomenù dell'indice dei contenuti  :neutral_face: 
         
-        Con `Read the Docs`, prima si lavora su **Github** per la configurazione del codice sorgente e per la creazione dei contenuti da esporre nel progetto di documentazione, poi si crea il profilo su **readthedocs.org** e si crea il progetto specifico creando la relazione (tramite l'URL) con il progetto contenente il codice sorgente su Github. Quindi la compilazione del progetto su pagine HTML avviene su readthedocs.org. Siamo - così - in presenza di 2 ambienti web sui quali operare, a differenza di `Material for MKDocs` in cui si opera solo su **Github** che provvede ad effettuare anche le compilazioni. Questo aspetto gioca indubbiamente a favore di `Material for MKDocs` :neutral_face:
+        Con `Read the Docs`, prima si lavora su **Github** per la configurazione del codice sorgente e per la creazione dei contenuti da esporre nel progetto di documentazione, poi si crea il profilo su **readthedocs.org** e si crea il progetto specifico creando la relazione (tramite l'URL) con il progetto contenente il codice sorgente su **Github**. Quindi la compilazione del progetto su pagine HTML avviene su readthedocs.org. Siamo - così - in presenza di 2 ambienti web sui quali operare, a differenza di `Material for MKDocs` in cui si opera solo su **Github** che provvede ad effettuare anche le compilazioni. Questo aspetto gioca indubbiamente a favore di `Material for MKDocs` :neutral_face:
         
 
     
