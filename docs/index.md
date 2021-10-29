@@ -68,9 +68,9 @@ Il link al codice del progetto è [https://github.com/cirospat/cirospataro](http
         
         Anche il linguaggio `MD` può essere utilizzato dando idonee istruzioni sul file `conf.py`✅. 
         
-        Il progetto grafico creato su `Read the Docs` presenta un layout più "scarno rispetto a quello di `Material for MKDocs`, solo una sidebar verticale a sinistra per il menù e sottomenù dell'indice dei contenuti ❌. 
+        Il progetto grafico creato su `Read the Docs` presenta un layout più "scarno" rispetto a quello di `Material for MKDocs`, c'è solo una sidebar verticale a sinistra per visualizzare il menù e i sottomenù dell'indice dei contenuti ❌. 
         
-        Con `Read the Docs`, prima si lavora su Github per la configurazione del codice sorgente e per la creazione dei contenuti da esporre nel progetto di documentazione, poi si crea il profilo su readthedocs.org e si crea il progetto creando la relazione (tramite l'URL) con il progetto con il codice sorgente su Github. Quindi la compilazione del progetto su pagine HTML avviene su readthedocs.org. Siamo - così - in presenza di due ambienti web sui quali operare a differenza di `Material for MKDocs` in cui si opera soloo su Github. Questo aspetto gioca indubbiamente a favore di `Material for MKDocs` ❌.
+        Con `Read the Docs`, prima si lavora su Github per la configurazione del codice sorgente e per la creazione dei contenuti da esporre nel progetto di documentazione, poi si crea il profilo su readthedocs.org e si crea il progetto specifico creando la relazione (tramite l'URL) con il progetto contenente il codice sorgente su Github. Quindi la compilazione del progetto su pagine HTML avviene su readthedocs.org. Siamo - così - in presenza di 2 ambienti web sui quali operare, a differenza di `Material for MKDocs` in cui si opera solo su Github che provvede ad effettuare anche le compilazioni. Questo aspetto gioca indubbiamente a favore di `Material for MKDocs` ❌.
         
         Da continuare :slight_smile:
 
