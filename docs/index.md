@@ -43,7 +43,7 @@ Il progetto di documentazione è stato creato con lo strumento [**Material for M
 
 <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png"width="30"> Le pagine di questo progetto di documentazione vengono compilate su [**GitHub ghpages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
-Il link al codice sorgente di questo progetto è [**github.com/cirospat/cirospataro**](https://github.com/cirospat/cirospataro)
+<img src="https://img.shields.io/badge/GitHub-for_code_setting-red.svg?style=popout&logo=GitHub&logoColor=orange"> Il link al codice sorgente di questo progetto è [**github.com/cirospat/cirospataro**](https://github.com/cirospat/cirospataro)
 
 Template classici per progetti di documentazione online sono **Read the Docs** e **Material for MKDocs**.
 
