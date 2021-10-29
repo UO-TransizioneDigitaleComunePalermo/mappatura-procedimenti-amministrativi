@@ -152,7 +152,9 @@ extra_css:
 ## Page tree 
 # ogni file .md corrisponde ad una pagina web 
 nav:
-    - Home: index.md
+    - Home: 
+        - index.md
+        - risorse-conoscenza/markdown.md
     
     - Profilo:
         - Profilo work: profilo/profilo.md
