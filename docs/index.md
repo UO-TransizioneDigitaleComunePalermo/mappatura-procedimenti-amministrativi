@@ -31,6 +31,11 @@ Il progetto di documentazione è stato creato con lo strumento [**Material for M
 
 Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`.
 
+??? Note "siti per comprendere la sintassi del linguaggio `Markdown`"
+    - <https://dillinger.io/> 
+    - <https://pandoc.org/try/> 
+    - <https://stackedit.io/app#>
+
 ![](https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub ghpages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions).
 
 Il link al codice sorgente di questo progetto è [**https://github.com/cirospat/cirospataro**](https://github.com/cirospat/cirospataro)
