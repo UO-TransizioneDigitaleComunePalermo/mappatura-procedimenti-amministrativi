@@ -26,7 +26,7 @@ hide:
 Descrivo le principali attività in cui sono impegnato per lavoro e per passione civica. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l’ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
-## Come è costruito questo progetto
+## Come è costruito questo progetto (`Material for MkDocs`)
 
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
 
@@ -40,18 +40,19 @@ Il link al codice del progetto è [https://github.com/cirospat/cirospataro](http
 
 
 
+
 !!! note "Differenze = Material for MKDocs | Read the docs"
 
     === "Material for MKDocs"
 
         `Material for MKDocs` 
 
-        Material for MKDocs si presenta con un architetuttura semplice per la costruzione del progetto di documentazione.         
-        Innanzitutto si basa sul linguaggio `MD` markdown, semplice per sintassi. Tuttavia Material for MKDocs presenta una maggiore facilità nella cnfigurazione dei parametri.
+        Material for MKDocs si presenta con un architetuttura semplice per la costruzione del progetto di documentazione✅.         
+        Innanzitutto si basa sul linguaggio `MD` markdown, semplice per sintassi ✅. `Material for MKDocs` presenta una maggiore facilità nella configurazione dei parametri del codice ✅.
         
-        La guida [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/) copre in maniera dettagliata ogni aspetto per l'installazione e la personalizzazione grafica del progetto di documentazione. 
+        La guida [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/) copre in maniera dettagliata ogni aspetto per l'installazione e la personalizzazione grafica del progetto di documentazione ✅. 
         
-        Material for MKDocs si presenta in una forma più elegante rispetto a Read the Docs. SUu Material for MKDocs è possibile avere una sidebar verticale laterale a destra (oltre a quello genrale di sinistra) che indica il menù della pagina che stiamo vsualizzando (TOC) e ciò risulta molto comodo per comprendere l'andamento della lettura nel contesto della paginan visualizzata. 
+        `Material for MKDocs` si presenta in una forma più elegante rispetto a `Read the Docs`. Su `Material for MKDocs` è possibile avere una sidebar verticale laterale a destra (oltre a quello genrale di sinistra) che indica il menù della pagina che stiamo vsualizzando (TOC) e ciò risulta molto comodo per comprendere l'andamento della lettura nel contesto della paginan visualizzata. 
         
         Da continuare  :slight_smile:
         
@@ -60,18 +61,17 @@ Il link al codice del progetto è [https://github.com/cirospat/cirospataro](http
 
         `Read the docs`
 
-        Read the docs si basa sul linguaggio `RST` (restructured text) dalla sintassi più complessa rispetto a `md`. Anche il linguaggio `MD` può essere utilizzato dando idonee istruzioni sul file `conf.py`. 
+        `Read the docs` si basa sul linguaggio `RST` (restructured text) dalla sintassi più complessa rispetto a `md`❌. Anche il linguaggio `MD` può essere utilizzato dando idonee istruzioni sul file `conf.py`✅. 
         
-        Il progetto grafico creato su Read the Docs presenta un layout più "scarno rispetto a quello di Material for MKDocs, solo una sidebar verticalel a sinistra per il menù e sottomenù dell'indice dei contenuti. 
+        Il progetto grafico creato su `Read the Docs` presenta un layout più "scarno rispetto a quello di `Material for MKDocs`, solo una sidebar verticale a sinistra per il menù e sottomenù dell'indice dei contenuti ❌. 
+        
+        Con `Read the Docs`, prima si lavora su Github per la configurazione del codice sorgente e per la creazione dei contenuti da esporre nel progetto di documentazione, poi si crea il profilo su readthedocs.org e si crea il progetto creando la relazione (tramite l'URL) con il progetto Github. Quindi la compilazione del progetto su pagine HTML avviene su readthedocs.org. Siamo - così - in presenza di due ambienti web sui quali operare a differenza di `Material for MKDocs` in cui si opera soloo su Github. Questo aspetto gioca indubbiamente a favore di `Material for MKDocs` ❌.
         
         Da continuare :slight_smile:
 
-
-
-!!! Note "credits"
-    Progetto realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) di [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento per la pazienza e la voglia di condivere conoscenza e professionalità :slight_smile:
     
-
+    
+    
 
 ## Strumenti integrati in questo progetto
 Sono stati utilizzati alcuni strumenti per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione
@@ -83,3 +83,8 @@ Sono stati utilizzati alcuni strumenti per arricchire l'esperienza di fruzione d
     - **feed RSS** per avere un link per gli aggiornamenti automatici dei contenuti del progetto di documentazione. L'istruzione per inserire l'integrazione dell feed RSS viene data nel file `mkdocs.yml`.
 
 
+
+## Credits
+
+!!! Note "credits"
+    Progetto realizzato con il prezioso supporto tecnico di [**@gbvitrano**](https://github.com/gbvitrano), [**@aborruso**](https://github.com/aborruso) di [#opendatasicilia](https://github.com/opendatasicilia) a cui va un caro ringraziamento per la pazienza e la voglia di condivere conoscenza e professionalità :slight_smile:
