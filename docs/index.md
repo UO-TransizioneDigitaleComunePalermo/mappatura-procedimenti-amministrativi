@@ -41,31 +41,36 @@ Il link al codice del progetto è [https://github.com/cirospat/cirospataro](http
 
 
 
-!!! note "Differenze tra `Material for MKDocs` e `Read the docs`"
+!!! note "Differenze tra `Material for MKDocs` e `Read the Docs`"
 
     === "Material for MKDocs"
 
         `Material for MKDocs` 
 
-        Material for MKDocs si presenta con un architetuttura semplice per la costruzione del progetto di documentazione✅.         
-        Innanzitutto si basa sul linguaggio `MD` markdown, semplice per sintassi ✅. `Material for MKDocs` presenta una maggiore facilità nella configurazione dei parametri del codice ✅.
+        `Material for MKDocs` si presenta con un architetuttura semplice per la costruzione del progetto di documentazione✅.
         
-        La guida [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/) copre in maniera dettagliata ogni aspetto per l'installazione e la personalizzazione grafica del progetto di documentazione ✅. 
+        Innanzitutto si basa sul linguaggio `MD` markdown, semplice per sintassi ✅. 
         
-        `Material for MKDocs` si presenta in una forma più elegante rispetto a `Read the Docs`. Su `Material for MKDocs` è possibile avere una sidebar verticale laterale a destra (oltre a quello genrale di sinistra) che indica il menù della pagina che stiamo vsualizzando (TOC) e ciò risulta molto comodo per comprendere l'andamento della lettura nel contesto della paginan visualizzata. 
+        `Material for MKDocs` presenta una maggiore facilità nella configurazione dei parametri del codice su Github ✅.
+        
+        La guida [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/) è realizzata in maniera perfetta, molto completa, copre in maniera dettagliata ogni aspetto per l'installazione e la personalizzazione grafica del progetto di documentazione, con esempi di codice da usare nella configurazione dei file ✅. 
+        
+        `Material for MKDocs` dal punto di vista grafico si presenta in una forma più elegante rispetto a `Read the Docs`. Su `Material for MKDocs` è possibile avere una sidebar verticale laterale a destra (oltre a quello genrale di sinistra) che indica il menù della pagina che stiamo visualizzando (TOC) e ciò risulta molto comodo per comprendere l'andamento della lettura nel contesto della pagina visualizzata✅. 
         
         Da continuare  :slight_smile:
         
 
-    === "Read the docs"
+    === "Read the Docs"
 
-        `Read the docs`
+        `Read the Docs`
 
-        `Read the docs` si basa sul linguaggio `RST` (restructured text) dalla sintassi più complessa rispetto a `md`❌. Anche il linguaggio `MD` può essere utilizzato dando idonee istruzioni sul file `conf.py`✅. 
+        `Read the docs` si basa sul linguaggio `RST` (restructured text) dalla sintassi più complessa rispetto a `md`❌. 
+        
+        Anche il linguaggio `MD` può essere utilizzato dando idonee istruzioni sul file `conf.py`✅. 
         
         Il progetto grafico creato su `Read the Docs` presenta un layout più "scarno rispetto a quello di `Material for MKDocs`, solo una sidebar verticale a sinistra per il menù e sottomenù dell'indice dei contenuti ❌. 
         
-        Con `Read the Docs`, prima si lavora su Github per la configurazione del codice sorgente e per la creazione dei contenuti da esporre nel progetto di documentazione, poi si crea il profilo su readthedocs.org e si crea il progetto creando la relazione (tramite l'URL) con il progetto Github. Quindi la compilazione del progetto su pagine HTML avviene su readthedocs.org. Siamo - così - in presenza di due ambienti web sui quali operare a differenza di `Material for MKDocs` in cui si opera soloo su Github. Questo aspetto gioca indubbiamente a favore di `Material for MKDocs` ❌.
+        Con `Read the Docs`, prima si lavora su Github per la configurazione del codice sorgente e per la creazione dei contenuti da esporre nel progetto di documentazione, poi si crea il profilo su readthedocs.org e si crea il progetto creando la relazione (tramite l'URL) con il progetto con il codice sorgente su Github. Quindi la compilazione del progetto su pagine HTML avviene su readthedocs.org. Siamo - così - in presenza di due ambienti web sui quali operare a differenza di `Material for MKDocs` in cui si opera soloo su Github. Questo aspetto gioca indubbiamente a favore di `Material for MKDocs` ❌.
         
         Da continuare :slight_smile:
 
