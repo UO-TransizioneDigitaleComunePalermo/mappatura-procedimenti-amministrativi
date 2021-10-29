@@ -32,17 +32,7 @@ Coltivo la passione per la documentazione delle attività, questo è il motivo p
 
 Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
-Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`
-
-??? Note "Siti per comprendere la sintassi del linguaggio `MarkDown`"
-    - [https://dillinger.io](https://dillinger.io)
-    - [https://pandoc.org/try](https://pandoc.org/try) (editor)
-    - [https://stackedit.io/app#](https://stackedit.io/app#)
-    - [https://www.markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax)
-    - [https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
-    - [https://markdown-guide.readthedocs.io/en/latest](https://markdown-guide.readthedocs.io/en/latest)
-    - [https://markdown-it.github.io](https://markdown-it.github.io) (editor)
-    
+Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio [**MarkDown**](https://cirospat.github.io/cirospataro/risorse-conoscenza/markdown/) `.MD`
 
 [![gh-deploy](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub ghpages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
