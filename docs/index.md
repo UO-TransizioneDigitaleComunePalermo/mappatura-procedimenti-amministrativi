@@ -32,7 +32,7 @@ Coltivo la passione per la documentazione delle attività, questo è il motivo p
 
 Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
-<img src="https://user-images.githubusercontent.com/3757525/139418771-47eced7b-f60c-4834-8200-544b40c21b00.png" width="30"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`
+<img src="https://user-images.githubusercontent.com/3757525/139418771-47eced7b-f60c-4834-8200-544b40c21b00.png" width="25"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`
 
 ??? Note "siti per comprendere la sintassi del linguaggio `MarkDown`"
     - [https://dillinger.io](https://dillinger.io)
