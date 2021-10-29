@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+---
+
+
 # `Read the Docs` vs `Material for MKDocs`
 
 Template classici per progetti di documentazione online sono:
