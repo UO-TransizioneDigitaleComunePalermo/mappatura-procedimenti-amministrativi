@@ -5,7 +5,7 @@ hide:
 ---
 
 # Profilo di Ciro Spataro
-<img src="https://raw.githubusercontent.com/cirospat/cirospataro/main/docs/img/cirospataro.jpg" width="260">
+<img src="https://raw.githubusercontent.com/cirospat/cirospataro/main/docs/img/cirospataro.jpg" width="300">
 
 <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo aggiornamento"> 
 
