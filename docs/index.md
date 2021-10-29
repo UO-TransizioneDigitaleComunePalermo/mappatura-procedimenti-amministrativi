@@ -47,8 +47,8 @@ Il progetto di documentazione è stato creato con lo strumento [**Material for M
 
 Template classici per progetti di documentazione online sono:
 
-- **Read the Docs** <img src="https://user-images.githubusercontent.com/3757525/139450435-d49f2bc7-d785-4cc9-b182-e16730b7d6a8.png" width="28">
-- **Material for MKDocs** <img src="https://user-images.githubusercontent.com/3757525/139392575-e2462137-1d61-4110-8b76-8d3017f9d0de.JPG" width="28">
+- **[Read the Docs**](https://docs.readthedocs.io/en/stable/index.html) <img src="https://user-images.githubusercontent.com/3757525/139450435-d49f2bc7-d785-4cc9-b182-e16730b7d6a8.png" width="28">
+- **[Material for MKDocs**](https://squidfunk.github.io/mkdocs-material) <img src="https://user-images.githubusercontent.com/3757525/139392575-e2462137-1d61-4110-8b76-8d3017f9d0de.JPG" width="28">
 
 !!! note "Alcune differenze tra `"Material for MKDocs"` e `"Read the Docs"` per progetti di documentazione"
 
