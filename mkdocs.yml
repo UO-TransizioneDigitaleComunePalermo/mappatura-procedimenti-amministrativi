@@ -53,6 +53,7 @@ theme:
     - navigation.top
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.sections      #prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections)
     - navigation.instant
     - search.suggest
     - search.highlight
