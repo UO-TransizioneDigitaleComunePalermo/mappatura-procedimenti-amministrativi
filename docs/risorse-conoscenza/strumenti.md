@@ -21,13 +21,13 @@ Questa è una pagina "scomposta" per collezionare utilità a fini di sviluppo e 
 😄 🐍  
 
 
-
-   <img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs">
+<img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs">
 
 
 ```
 Covid19: risorse 
 ```
+
 * Dennis Angemi: [Infografica Google Datastudio di Dennis](https://datastudio.google.com/u/0/reporting/cbe9dfa7-2c81-4204-9918-fb00e8ce8b09/page/0sn7B)
 * ODS Totò Fiandaca e GB Vitrano: [zone rosse Sicilia](https://bl.ocks.org/gbvitrano/raw/664ac98fd51590d48290b70709a4ea48/)
 * Andrea Borruso: [dashboard](https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/)
@@ -62,12 +62,12 @@ Covid19: risorse
 
 ### Visualizzatore Google per file pdf online
 
-Inserire prima dell'url dove si trova il file pdf online il seguente prefisso:  ``https://docs.google.com/viewer?url=``
+Inserire prima dell'url dove si trova il file pdf online il seguente prefisso:  `https://docs.google.com/viewer?url=`
 
 
 ## Visionare un google doc come una pagina web - preview
 
-Alla fine del link url della pagina di google doc inserire ``/preview``
+Alla fine del link url della pagina di google doc inserire `/preview`
 
 
 ## Partizioni  del PC
@@ -87,17 +87,17 @@ Per sapere se nel computer sono presenti delle partizioni nascoste **Diskpart**,
 
 Premiamo sulla tastiera del computer i tasti **Windows** (è il tasto con il logo di Windows) e **R** contemporaneamente.
 
-Si aprirà la finestra **Esegui** (→ [cos’è il comando Esegui di Windows](https://www.memexcomputer.it/comando-esegui-di-windows/)).
+Si aprirà la finestra **Esegui** → [cos’è il comando Esegui di Windows](https://www.memexcomputer.it/comando-esegui-di-windows/).
 
-Nella casella **Apri:** digitiamo ``diskpart``
+Nella casella **Apri:** digitiamo `diskpart`
 
 Facciamo clic su **OK**.
 
 Si aprirà la finestra **Controllo** dell’account utente → [cos’è il Controllo Account Utente di Windows](https://www.memexcomputer.it/cos-e-il-controllo-account-utente-di-windows/) facciamo clic su **Si** o su Continua.
 
-Si aprirà il **Prompt dei comandi **di Windows.
+Si aprirà il **Prompt dei comandi** di Windows.
 
-Adesso nel prompt dei comandi, subito dopo ``DISKPART`` digitiamo:
+Adesso nel prompt dei comandi, subito dopo `DISKPART` digitiamo:
 
 `list volume`
 
@@ -112,15 +112,15 @@ Per poter accedere a una partizione nascosta e visualizzarne il contenuto dobbia
 
 Identifichiamo la partizione che vogliamo rendere visibile.
 
-Digitiamo ``select volume`` seguito dal **numero** del volume corrispondente alla partizione nascosta.
+Digitiamo `select volume` seguito dal **numero** del volume corrispondente alla partizione nascosta.
 
-Ad esempio: ``select volume 3``
+Ad esempio: `select volume 3`
 
 Premiamo il tasto **Invio** sulla tastiera del computer.
 
-Adesso digitiamo   ``assign letter`` seguito dalla **lettera di unità** che vogliamo assegnare alla partizione nascosta.
+Adesso digitiamo   `assign letter` seguito dalla **lettera di unità** che vogliamo assegnare alla partizione nascosta.
 
-Ad esempio: ``assign letter E``
+Ad esempio: `assign letter E`
 
 **Importante**: è possibile assegnare una qualsiasi lettera di unità tra quelle disponibili.
 
@@ -128,9 +128,9 @@ Per rendere visibile la partizione in Windows premiamo il tasto **Invio** sulla 
 
 Se l’operazione ha avuto esito positivo verrà visualizzato il messaggio:
 
-``Assegnazione della lettera di unità o del punto di montaggio completata``.
+`Assegnazione della lettera di unità o del punto di montaggio completata`.
 
-Per chiudere diskpart digitiamo: ``exit``
+Per chiudere diskpart digitiamo: `exit`
 
 Premiamo il tasto **Invio**.
 
@@ -519,7 +519,7 @@ immagine singola (non wordart)
 * [http://egdisegno.studiovitrano.it/catasto_pa_1887](http://egdisegno.studiovitrano.it/catasto_pa_1887) (catasto centro storico 1887 con cerchio)
 * [http://egdisegno.studiovitrano.it/variante_generale/prg_2015.html](http://egdisegno.studiovitrano.it/variante_generale/prg_2015.html) (PRG scehma masima su PRG 2004 con cerchio)
 * [http://github.gbvitrano.it/ppc](http://github.gbvitrano.it/ppc)   [http://siciliahub.github.io/mappe/ppc](http://siciliahub.github.io/mappe/ppc)   (Piano protezione civile Palermo)
-* [https://siciliahub.github.io/mappe/palermo_hub/index.html](https://siciliahub.github.io/mappe/palermo_hub/index.html)  (stile petrusino)
+* [https://siciliahub.github.io/mappe/palermo_hub/index.html](https://siciliahub.github.io/mappe/palermo_hub/index.html)  stile petrusino
 * [https://siciliahub.github.io/palermohub/index.html](https://siciliahub.github.io/palermohub/index.html)  (stile petrusino, ultimo gen 2018) - hub di diverse mappe di Palermo a cura di GBVitrano iniziato gli ultimi giorni di dic. del 2017
 
 
@@ -559,7 +559,7 @@ The [TEXT()](https://support.google.com/docs/answer/3094139?hl=en) function conv
 
 The formula:    `= TEXT( NOW() , "hh:mm am/pm" )    will output the time just fine!`
 
-The output of this formula is a date in the desired format:
+The output of this formula is a date in the desired format: 
 
 `2000-01-01`
 
@@ -607,7 +607,7 @@ Substitute the TODAY() function into our formula:
    </td>
    <td>`=if(A2="";"";TEXT(DATEVALUE(A2);"yyyy-mm-dd"))`
    </td>
-   <td>`=query("select * where (B > date '"&text(TODAY();"yyyy-mm-dd")&"' OR R = '') ";1)`
+   <td>=query("select * where (B > date '"&text(TODAY();"yyyy-mm-dd")&"' OR R = '') ";1)
    </td>
   </tr>
 </table>
@@ -643,7 +643,7 @@ Combine the IMAGE and HYPERLINK functions to create clickable images
 
 ### CODICE DA USARE PER MAPPE UMAP
 
-video embedding = <code> {{{[https://www.youtube.com/embed/_______|250](https://www.youtube.com/embed/_______|250)}}} </code>
+video embedding = <code> {{{[https://www.youtube.com/embed/............|250](https://www.youtube.com/embed/.............|250)}}} </code>
 
 link con testo = `[[[http://example.com](http://example.com/)|testo del link]]` 
 
