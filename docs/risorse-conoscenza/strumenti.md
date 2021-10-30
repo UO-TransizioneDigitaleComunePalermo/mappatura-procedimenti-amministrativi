@@ -643,11 +643,11 @@ Combine the IMAGE and HYPERLINK functions to create clickable images
 
 ### CODICE DA USARE PER MAPPE UMAP
 
-`video embedding = {{{[https://www.youtube.com/embed/_______|250](https://www.youtube.com/embed/_______|250)}}}`
+video embedding = `{{{[https://www.youtube.com/embed/_______|250](https://www.youtube.com/embed/_______|250)}}}`
 
 link con testo = `[[[http://example.com](http://example.com/)|testo del link]]` 
 
-immagine = `{{[http://immagine.url.it](http://immagine.url.it/)|larghezza}}` Immagine 
+immagine = `{{[http://immagine.url.it](http://immagine.url.it/)|larghezza}}` 
 
 link a url con icona cliccabile = [[[http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90](http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90)}}]]
 
