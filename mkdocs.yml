@@ -9,7 +9,7 @@ site_description: Profilo di Ciro Spataro
 # edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <a href="https://cirospat.github.io/cirospataro/risorse-conoscenza/strumenti/" target="_blank"><b>Strumenti</b></a>  <br>  <img src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo_aggiornamento"> <img src="https://img.shields.io/github/license/cirospat/cirospataro">
+copyright: <img src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo_aggiornamento"> <img src="https://img.shields.io/github/license/cirospat/cirospataro"> <br> <a href="https://cirospat.github.io/cirospataro/risorse-conoscenza/strumenti/" target="_blank"><b>Strumenti</b></a>
 
 ## Social Media
 extra:
