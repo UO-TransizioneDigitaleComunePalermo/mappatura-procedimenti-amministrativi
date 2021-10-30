@@ -49,18 +49,15 @@ Covid19: risorse
 ## Come si usa il programma Visual Studio Code per lavorare con i repository del proprio account GitHub
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EmzgUnN39gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> /iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EmzgUnN39gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 [Link al video didattico a cura di Totò Fiandaca](https://youtu.be/EmzgUnN39gc)
 
+   
+## PDF 
 
-## Trovare la pagina esatta in un file "PDF" online
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: Definition &darr;&darr; outside of definition list. Missing preceding term(s)? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-`:guilabel:``trovare la pagina esatta in un pdf online```: nel web è [www.example.com/myfile.pdf#page=4](http://www.example.com/myfile.pdf#page=4) cioè dopo :class:`.pdf` digitare :class:`.#page=4` dove dopo :class:`=` si scrive il numero della pagina che si vuole venga visualizzata direttamente all'apertura del file ``pdf`` online
+### Trovare la pagina esatta in un file "PDF" online
+`trovare la pagina esatta in un pdf online`: nel web è [www.example.com/myfile.pdf#page=4](http://www.example.com/myfile.pdf#page=4) cioè dopo `.pdf` digitare `.#page=4` dove dopo `=` si scrive il numero della pagina che si vuole venga visualizzata direttamente all'apertura del file `pdf` online
 
 
 ### Visualizzatore Google per file pdf online
@@ -68,23 +65,23 @@ Covid19: risorse
 Inserire prima dell'url dove si trova il file pdf online il seguente prefisso:  ``https://docs.google.com/viewer?url=``
 
 
-### Visionare un google doc come una pagina web - preview
+## Visionare un google doc come una pagina web - preview
 
 Alla fine del link url della pagina di google doc inserire ``/preview``
 
 
+## Partizioni  del PC
+
 ### Visualizzare le partizioni nascoste del PC
 
-[[link articolo fonte](https://www.memexcomputer.it/visualizzare-le-partizioni-nascoste-del-pc/)]
+[link articolo fonte](https://www.memexcomputer.it/visualizzare-le-partizioni-nascoste-del-pc/)
 
 Se una partizione non è visibile in questo PC o Computer e in Esplora file significa che la lettera di unità che la identifica è stata rimossa. Windows assegna una lettera di unità differente a ogni periferica di memoria di massa collegata al computer (disco rigido, singoli volumi e partizioni, lettore DVD) per poterla identificare in modo univoco. Se la lettera di unità viene rimossa la partizione verrà nascosta.
 
-Vediamo come visualizzare le partizioni nascoste del PC.
-
-La guida che segue può essere utilizzata in tutti i computer con sistema operativo Windows 10, Windows 8.1/8, Windows 7 e Windows Vista.
+Vediamo come visualizzare le partizioni nascoste del PC. La guida che segue può essere utilizzata in tutti i computer con sistema operativo Windows 10, Windows 8.1/8, Windows 7 e Windows Vista.
 
 
-#### Come trovare una partizione nascosta in Windows
+### Come trovare una partizione nascosta in Windows
 
 Per sapere se nel computer sono presenti delle partizioni nascoste **Diskpart**, uno strumento disponibile in tutti i sistemi operativi Microsoft che può essere utilizzato per gestire i dischi, le partizioni e i volumi di Windows.
 
@@ -96,20 +93,20 @@ Nella casella **Apri:** digitiamo ``diskpart``
 
 Facciamo clic su **OK**.
 
-Si aprirà la finestra **Controllo** dell’account utente (→ [cos’è il Controllo Account Utente di Windows](https://www.memexcomputer.it/cos-e-il-controllo-account-utente-di-windows/)) facciamo clic su **Si** o su Continua.
+Si aprirà la finestra **Controllo** dell’account utente → [cos’è il Controllo Account Utente di Windows](https://www.memexcomputer.it/cos-e-il-controllo-account-utente-di-windows/) facciamo clic su **Si** o su Continua.
 
 Si aprirà il **Prompt dei comandi **di Windows.
 
 Adesso nel prompt dei comandi, subito dopo ``DISKPART`` digitiamo:
 
-``list volume``
+`list volume`
 
 Premiamo il tasto **Invio** sulla tastiera del computer.
 
-Nella colonna ``Volume`` saranno visualizzate tutte le partizioni del PC. In questo elenco, oltre alle partizioni visibili in **Questo PC** o **Computer** e in **Esplora file**, saranno elencate anche le partizioni nascoste nascoste.
+Nella colonna `Volume` saranno visualizzate tutte le partizioni del PC. In questo elenco, oltre alle partizioni visibili in **Questo PC** o **Computer** e in **Esplora file**, saranno elencate anche le partizioni nascoste nascoste.
 
 
-#### Come visualizzare il contenuto di una partizione nascosta
+### Come visualizzare il contenuto di una partizione nascosta
 
 Per poter accedere a una partizione nascosta e visualizzarne il contenuto dobbiamo assegnarle una lettera di unità.
 
@@ -142,7 +139,7 @@ Infine chiudiamo il prompt dei comandi.
 A questo punto la partizione sarà visibile in **Questo PC** o **Computer** e in **Esplora file**.
 
 
-#### Nascondere la partizione
+### Nascondere la partizione
 
 Per nascondere nuovamente la partizione dobbiamo rimuovere la lettera di unità. Per sapere come fare leggiamo → [come nascondere una partizione](https://www.memexcomputer.it/nascondere-una-partizione-in-windows/).
 
@@ -150,7 +147,7 @@ Per nascondere nuovamente la partizione dobbiamo rimuovere la lettera di unità.
 ---
 
 
-### TOOL UTILI A VARI SCOPI
+## TOOL UTILI A VARI SCOPI
 
 
 <table>
@@ -470,72 +467,30 @@ con plugin per chrome
 |
 
 
-### IMMAGINI DI "WORDART" DA INCORPORARE IN PAGINE HTML
+## IMMAGINI DI "WORDART" DA INCORPORARE IN PAGINE HTML
 
-
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td>&lt;div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/ugd9zzbwpv1n" data-wordart-show-attribution>&lt;/div>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td>&lt;div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99">&lt;/div>
-   </td>
-  </tr>
-</table>
-
+<div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/ugd9zzbwpv1n" data-wordart-show-attribution > </div>
+   
+<div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99" > </div>
 
 immagine singola (non wordart)
 
-
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>&lt;img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" /> Art by Lønfeldt</code>
-   </td>
-  </tr>
-</table>
+<img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" > </img>
 
 
-|
 
 
-### LICENZE OPEN DATA SELECTOR SU GITHUB
+## LICENZE OPEN DATA SELECTOR SU GITHUB
 
 [https://ufal.github.io/public-license-selector/?fbclid=IwAR2EwpY-ak045kx8l5wwBERj3v1SeGalJnnh-KPG6WIhs8G6tAeZb707xGs](https://ufal.github.io/public-license-selector/?fbclid=IwAR2EwpY-ak045kx8l5wwBERj3v1SeGalJnnh-KPG6WIhs8G6tAeZb707xGs) 
 
 (grazie a Maurizio Napolitano)
 
-|
 
-
-### CATALOGO DI TUTTE LE MAPPE DI CIRO SPATARO E DI GB VITRANO
-
-[https://docs.google.com/spreadsheets/d/1auVqTh1aeJ1c2DuYUWI1UX0p8OHtupApFEjCXWsmxbA](https://docs.google.com/spreadsheets/d/1auVqTh1aeJ1c2DuYUWI1UX0p8OHtupApFEjCXWsmxbA) 
-
-
----
+## MAP world
 
 
 ### MAPPE PALERMO
-
-
 
 * [https://www.google.com/maps/d/u/0/?hl=it&authuser=0&action=open](https://www.google.com/maps/d/u/0/?hl=it&authuser=0&action=open) my google maps
 * [https://www.facebook.com/mappedipalermo/](https://www.facebook.com/mappedipalermo/) (pagina FB con mappe su Palermo)
@@ -550,12 +505,9 @@ immagine singola (non wordart)
 * [http://u.osmfr.org/m/198624/](http://u.osmfr.org/m/198624/) Palermo airbnb gen_2018 (Gianni Vitrano)
 
 
----
 
 
 ### MAPPE PALERMO STORICA EFFETTO LENTE INGRANDIMENTO E ALTRE MAPPE INTERESSANTI
-
-
 
 * [http://gbvitrano.it/qgis/pa_carto/](http://gbvitrano.it/qgis/pa_carto/) (GBVitrano Palermo IGM 1:25000)
 * [http://github.gbvitrano.it/atlante_ctc_pa/index.html](http://github.gbvitrano.it/atlante_ctc_pa/index.html) carta tecnica comune Palermo
@@ -571,33 +523,25 @@ immagine singola (non wordart)
 * [https://siciliahub.github.io/palermohub/index.html](https://siciliahub.github.io/palermohub/index.html)  (stile petrusino, ultimo gen 2018) - hub di diverse mappe di Palermo a cura di GBVitrano iniziato gli ultimi giorni di dic. del 2017
 
 
----
-
-
 ### SERVIZI DI WEBMAPPING ALTERNATIVI A UMAP
 
-[https://maphub.net/](https://l.facebook.com/l.php?u=https%3A%2F%2Fmaphub.net%2F&h=ATNg797_CAp5QX8MdtGE2t5QmsZ4zCHG2T6FXg3PFgptOklmzkPnVWpvAhUj6J_DatUI2UTyOL0IFdbo5lPnKtZ8KmtpnHmJUjSgRaflW44uMERy5ZR_RWyvClQEIEJnV1Dmr7IS) (che preferisco) 
+* [https://maphub.net/](https://l.facebook.com/l.php?u=https%3A%2F%2Fmaphub.net%2F&h=ATNg797_CAp5QX8MdtGE2t5QmsZ4zCHG2T6FXg3PFgptOklmzkPnVWpvAhUj6J_DatUI2UTyOL0IFdbo5lPnKtZ8KmtpnHmJUjSgRaflW44uMERy5ZR_RWyvClQEIEJnV1Dmr7IS) (che preferisco) 
+* [https://crowdmap.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Fcrowdmap.com%2F&h=ATPxCiw6g584R_YPauk3WAaUXxblQ4If-KRQxUpzp1sOELRXRgZuD4mgqqJHJvTNWGzBDJ3x-Q-iwQpKDdjq4fCC8JIjWft_F4JUE5Y23UpSLJ55YxOIi7EMHMV2g3pKAASCHOjN) (intramontabile) 
+* [https://www.mapsmarker.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mapsmarker.com%2F&h=ATPouIz1_8mZonVbTHhYY9OwCeTfZmXSD-9hdJOjGNRfZroByLW72KZ3niNiREDAGi3lLTWW8LG-cCr3R3d3zTQB2QUIJIU2ldiPtc7frt75xiTK56So9_K906Bi_008XjlTFI3S) (questo però è un plugin per wordpress) 
+* [http://www.maptiler.com/geoeditor/](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.maptiler.com%2Fgeoeditor%2F&h=ATOIEGdaqbjrDIB4OnZk4GRogoAV7FbenrYuwjgPw3Z10gquAPZYyeXp7DhsN6uqevc_Q_qJjKOXVqhpT2WsM7jiJgCAwZ17llK4NceigsM6vYQjuJ0ObYICn2JHQsujpveAB_3F) (a pagamento)
+* [https://www.doogal.co.uk/LatLong.php](https://www.doogal.co.uk/LatLong.php) **Lat/long finderSearch for an address**
 
-[https://crowdmap.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Fcrowdmap.com%2F&h=ATPxCiw6g584R_YPauk3WAaUXxblQ4If-KRQxUpzp1sOELRXRgZuD4mgqqJHJvTNWGzBDJ3x-Q-iwQpKDdjq4fCC8JIjWft_F4JUE5Y23UpSLJ55YxOIi7EMHMV2g3pKAASCHOjN) (intramontabile) 
-
-[https://www.mapsmarker.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mapsmarker.com%2F&h=ATPouIz1_8mZonVbTHhYY9OwCeTfZmXSD-9hdJOjGNRfZroByLW72KZ3niNiREDAGi3lLTWW8LG-cCr3R3d3zTQB2QUIJIU2ldiPtc7frt75xiTK56So9_K906Bi_008XjlTFI3S) (questo però è un plugin per wordpress) 
-
-[http://www.maptiler.com/geoeditor/](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.maptiler.com%2Fgeoeditor%2F&h=ATOIEGdaqbjrDIB4OnZk4GRogoAV7FbenrYuwjgPw3Z10gquAPZYyeXp7DhsN6uqevc_Q_qJjKOXVqhpT2WsM7jiJgCAwZ17llK4NceigsM6vYQjuJ0ObYICn2JHQsujpveAB_3F) (a pagamento)
-
-[https://www.doogal.co.uk/LatLong.php](https://www.doogal.co.uk/LatLong.php) **Lat/long finderSearch for an address**
-
-
-
-* Enter a latitude/longitude
-* Lat/lng in deg min sec
-* Enter a UK grid reference
-* UK Northing/Easting
-* Plus code
-* what3words
+   * Enter a latitude/longitude 
+   * Lat/lng in deg min sec
+   * Enter a UK grid reference
+   * UK Northing/Easting 
+   * Plus code 
+   * what3words
 
 
----
 
+
+## Mondo GOOGLE SPREADSHEET 
 
 ### FILTRI CON "DATE" NELLE FUNZIONI DI RICERCA (QUERY) DA USARE NEI GOOGLE SPREADSHEET
 
@@ -607,47 +551,18 @@ Usare il formato YYYY-MM-DD.
 
 The [TEXT()](https://support.google.com/docs/answer/3094139?hl=en) function converts it to the required format for the Query formula by specifying a format of "yyyy-mm-dd":
 
-
-<table>
-  <tr>
-   <td><code>.. code::</code>
-   </td>
-  </tr>
-  <tr>
-   <td>=TEXT(DATEVALUE("1/1/2000"),"yyyy-mm-dd")
-   </td>
-  </tr>
-</table>
+`=TEXT(DATEVALUE("1/1/2000"),"yyyy-mm-dd")`
+   
 
 
+`= TEXT( NOW() , "hh:mm am/pm" )`
 
-<table>
-  <tr>
-   <td><code>.. code::</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>= TEXT( NOW() , "hh:mm am/pm" )</code>
-<p>
-<code>The formula:    = TEXT( NOW() , "hh:mm am/pm" )    will output the time just fine!</code>
-   </td>
-  </tr>
-</table>
-
+The formula:    `= TEXT( NOW() , "hh:mm am/pm" )    will output the time just fine!`
 
 The output of this formula is a date in the desired format:
 
+`2000-01-01`
 
-<table>
-  <tr>
-   <td>.. code::
-   </td>
-  </tr>
-  <tr>
-   <td>2000-01-01
-   </td>
-  </tr>
-</table>
 
 
 **Using today’s date as a filter**
@@ -655,25 +570,14 @@ The output of this formula is a date in the desired format:
 Substitute the TODAY() function into our formula:
 
 
-<table>
-  <tr>
-   <td>.. code::
-   </td>
-  </tr>
-  <tr>
-   <td>=QUERY(Data!$A$1:$H$136,"select C, B where B > date '"&TEXT(TODAY(),"yyyy-mm-dd")&"'",1)
-   </td>
-  </tr>
-</table>
-
-
+`=QUERY(Data!$A$1:$H$136,"select C, B where B > date '"&TEXT(TODAY(),"yyyy-mm-dd")&"'",1)`
+  
 **Vedi anche le Query**
 
 [https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/](https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/)
 
 
 #### Query di Andrea Borruso
-
 
 <table>
   <tr>
@@ -701,16 +605,13 @@ Substitute the TODAY() function into our formula:
    </td>
    <td>05/12/2019
    </td>
-   <td><code>``=if(A2="";"";TEXT(DATEVALUE(A2);"yyyy-mm-dd"))``</code>
+   <td>`=if(A2="";"";TEXT(DATEVALUE(A2);"yyyy-mm-dd"))`
    </td>
-   <td><code>``=query("select * where (B > date '"&text(TODAY();"yyyy-mm-dd")&"' OR R = '') ";1)``</code>
+   <td>`=query("select * where (B > date '"&text(TODAY();"yyyy-mm-dd")&"' OR R = '') ";1)`
    </td>
   </tr>
 </table>
 
-
-
----
 
 
 ### IMMAGINI DA INSERIRE DENTRO GOOGLE DRIVE SPREADSHEET
@@ -718,21 +619,12 @@ Substitute the TODAY() function into our formula:
 Combine the IMAGE and HYPERLINK functions to create clickable images
 
 
-<table>
-  <tr>
-   <td>.. code::
-   </td>
-  </tr>
-  <tr>
-   <td><code>=HYPERLINK( "<a href="https://www.google.com/">https://www.google.com/</a>" , IMAGE( "<a href="https://www.google.com/favicon.ico">https://www.google.com/favicon.ico</a>" ) )</code>
-   </td>
-  </tr>
-</table>
-
+`=HYPERLINK( "<a href="https://www.google.com/">https://www.google.com/</a>" , IMAGE( "<a href="https://www.google.com/favicon.ico">https://www.google.com/favicon.ico</a>" ) )`
 
 
 ---
 
+## Mondo UMAP
 
 ### SFONDI TILES PER MAPPE UMAP
 
@@ -746,10 +638,7 @@ Combine the IMAGE and HYPERLINK functions to create clickable images
 * [https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yZGFpIiwiYSI6ImtCWWpvY00ifQ.E9g3YhLqDFGkdXx7pKnCWw](https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yZGFpIiwiYSI6ImtCWWpvY00ifQ.E9g3YhLqDFGkdXx7pKnCWw) (con nomi strade)
 * SERVIZIO ONLINE CREAZIONE DI TILES DA IMMAGINI  Mapwarper [http://mapwarper.net/](http://mapwarper.net/) 
 * [mappa antica del mondo](http://umap.openstreetmap.fr/it/map/lete-numerique-de-louis-chadourne_228928#6/41.714/9.426) tile: https://api.mapbox.com/styles/v1/rplln/cjix2cv5l83yz2rmne9icvusx/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoicnBsbG4iLCJhIjoiY2ppeDI5ZTByMDVtMzN1cDRxZWlzamwzcyJ9.Yn6OjT0SStL2tffNloZrdg
-* 
 
-
----
 
 
 ### CODICE DA USARE PER MAPPE UMAP
@@ -773,7 +662,7 @@ POST IMAGE DA LINKARE SU UMAP: [http://postimages.org/](http://postimages.org/)
 Icone mappe [https://mapicons.mapsmarker.com](https://mapicons.mapsmarker.com) ccbysa
 
 
-#### TUTORIAL PER COLLEGARE GOOGLE DRIVE SPREADSHEET A UMAP
+### TUTORIAL PER COLLEGARE GOOGLE DRIVE SPREADSHEET A UMAP
 
 Video breve per alimentare in modo facile uMap da un foglio elettronico su Google Drive, by Andrea Borruso [https://www.youtube.com/watch?v=YKZc84WtTd4](https://www.youtube.com/watch?v=YKZc84WtTd4)
 
@@ -781,125 +670,45 @@ Tutorial per fare mappe alimentate da google spreadsheet = [https://docs.google.
 
 DB x UMAP con output in csv =
 
-
-<table>
-  <tr>
-   <td><code>.. code::</code>
-   </td>
-  </tr>
-  <tr>
-   <td>https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT%20B%2CC%2CD%2CE%2CF%2CG%2CH%20WHERE%20G%20Contains%20%27.%27&key=
-   </td>
-  </tr>
-</table>
+`https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT%20B%2CC%2CD%2CE%2CF%2CG%2CH%20WHERE%20G%20Contains%20%27.%27&key=`
 
 
-| 
 
+### Esempio dataset google spreadsheet relazionato a uMap
 
-#### [DATASET XML](https://docs.google.com/spreadsheets/d/1laR9p_Ua0BPCJee5BbHvV7S-tjbmHxhLksUdKnZEW0M/edit#gid=0) e [MAPPA](http://umap.openstreetmap.fr/it/map/avvisi-polizia-municipale-sulla-mobilita-di-palerm_135416) UMAP AVVISI POLIZIA MUNICIPALE PA - VISUALIZZARE MAPPE CON INFO SU DATA ODIERNA
+[DATASET XML](https://docs.google.com/spreadsheets/d/1laR9p_Ua0BPCJee5BbHvV7S-tjbmHxhLksUdKnZEW0M/edit#gid=0) e [MAPPA](http://umap.openstreetmap.fr/it/map/avvisi-polizia-municipale-sulla-mobilita-di-palerm_135416) UMAP AVVISI POLIZIA MUNICIPALE PA - VISUALIZZARE MAPPE CON INFO SU DATA ODIERNA
+
 
 **Da un foglio Google ad una mappa uMap in cui vengono visualizzati solo gli avvisi della data odierna**.
 
+`=IMPORTXML("<a href="https://www.comune.palermo.it/feed/rss_pm.xml","//item">https://www.comune.palermo.it/feed/rss_pm.xml","//item</a>")` 
 
-<table>
-  <tr>
-   <td><code>.. code::</code>
-   </td>
-  </tr>
-  <tr>
-   <td>=IMPORTXML("<a href="https://www.comune.palermo.it/feed/rss_pm.xml","//item">https://www.comune.palermo.it/feed/rss_pm.xml","//item</a>") 
-<p>
-TRUE:   =if(G2="","",REGEXMATCH(G2,"[a-zA-Z]{3}, "&TEXT(DAY(TODAY()),"00")))
-   </td>
-  </tr>
-</table>
-
+`TRUE:   =if(G2="","",REGEXMATCH(G2,"[a-zA-Z]{3}, "&TEXT(DAY(TODAY()),"00")))`
 
 La query per Umap è =
 
 
-<table>
-  <tr>
-   <td><code>.. code::</code>
-   </td>
-  </tr>
-  <tr>
-   <td>https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT%20A%2CB%2CC%2CG%2CH%2CI%20WHERE%20H%20Contains%20%27.%27%20AND%20K%20Contains%20%27true%27&key=1nalX173WMBzIl7kWrMb52CG5MvRuyLqhvR7hCMk7CIM  
-<p>
+`https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT%20A%2CB%2CC%2CG%2CH%2CI%20WHERE%20H%20Contains%20%27.%27%20AND%20K%20Contains%20%27true%27&key=1nalX173WMBzIl7kWrMb52CG5MvRuyLqhvR7hCMk7CIM`
+
 (db GBVitrano)
-   </td>
-  </tr>
-</table>
 
+`https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT%20A%2CB%2CC%2CG%2CH%2CI%20WHERE%20H%20Contains%20%27.%27%20AND%20K%20Contains%20%27true%27&key=1laR9p_Ua0BPCJee5BbHvV7S-tjbmHxhLksUdKnZEW0M`
 
-
-<table>
-  <tr>
-   <td><code>.. code::</code>
-   </td>
-  </tr>
-  <tr>
-   <td>https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT%20A%2CB%2CC%2CG%2CH%2CI%20WHERE%20H%20Contains%20%27.%27%20AND%20K%20Contains%20%27true%27&key=1laR9p_Ua0BPCJee5BbHvV7S-tjbmHxhLksUdKnZEW0M 
-<p>
 (db Andrea Borruso)
-   </td>
-  </tr>
-</table>
-
 
 
 ---
 
 
-### GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE 
-
-
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td>&lt;p>&lt;span style="background-color: <code>#6462d1</code>; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet&lt;/span>&lt;/p>
-   </td>
-  </tr>
-</table>
-
+## GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE 
 
 ⇒ [Awesome Table](https://chrome.google.com/webstore/detail/geocode-by-awesome-table/cnhboknahecjdnlkjnlodacdjelippfg) plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
 **⇒ Nominatim Openstreetmap** API che usa la seguente formula: 
 
-
-<table>
-  <tr>
-   <td><code>.. code::</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>=JOIN(",", ImportXML(CONCATENATE("http://nominatim.openstreetmap.org/search/?format=xml&q=",A2), "//place[1]/@lat | //place[1]/@lon"))</code>
-   </td>
-  </tr>
-</table>
-
+`=JOIN(",", ImportXML(CONCATENATE("http://nominatim.openstreetmap.org/search/?format=xml&q=",A2), "//place[1]/@lat | //place[1]/@lon"))`
 
 dove A2 è la colonna dove è contenuto l'indirizzo. [Un esempio è qui](https://docs.google.com/spreadsheets/d/1y01HJEl5RQeSKbzA9TRyNdmHCaac7kNRjYgj3nH7oHo/edit#gid=652519043).
-
-
-<table>
-  <tr>
-   <td><code>ϕ HTML</code>
-   </td>
-  </tr>
-  <tr>
-   <td>&lt;p>&lt;span style="background-color: <code>#105618</code>; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder&lt;/span>&lt;/p>
-   </td>
-  </tr>
-</table>
-
-
-
 
 * [http://geocoder.ondata.it/](http://geocoder.ondata.it/) con Openstreetmap tramite OnData
 * [http://dati.comune.galatone.le.it/geocoder/](http://dati.comune.galatone.le.it/geocoder/)  con Openstreetmap
@@ -919,48 +728,22 @@ dove A2 è la colonna dove è contenuto l'indirizzo. [Un esempio è qui](https:/
 ---
 
 
-### SENSORE PER RILEVAMENTO POLVERI SOTTILI COLLEGATO AD UNA RETE ONLINE E DATI SU MAPPA
-
-
-
-* [http://bit.ly/tutorialkitpolverisottili](http://bit.ly/tutorialkitpolverisottili) (tutorial) - 
-* [http://bit.ly/pm10pa](http://bit.ly/pm10pa) (mappa con grafici e dati su sensore mio)
-
-
----
-
-
-### GIT GUIDE
+## GIT GUIDE
 
 just a simple guide for getting started with git. [http://rogerdudler.github.io/git-guide](http://rogerdudler.github.io/git-guide/)
 
-
 ---
 
+## REPOSITORY DATA CIRO SPATARO
 
-### REPOSITORY DATA CIRO SPATARO
-
-[data.world/cirospat](https://data.world/cirospat/) 
-
-[archive.org/details/@ciro_spataro](https://archive.org/details/@ciro_spataro) 
-
-
----
-
-
-### MACHINE LEARNING E ARTIFICIAL INTELLIGENCE - FORMAZIONE
-
-[https://google.qwiklabs.com/quests/32](https://google.qwiklabs.com/quests/32) un articolo per capire un po
-
-[https://www.elementsofai.it/](https://www.elementsofai.it/) corso online strutturato bene per utenti con nozioni zero di intelligenza artificiale
+* [data.world/cirospat](https://data.world/cirospat/) 
+* [archive.org/details/@ciro_spataro](https://archive.org/details/@ciro_spataro) 
 
 
 ---
 
 
-### CSV EDITOR
-
-
+## CSV EDITOR
 
 * [http://comma-chameleon.io/](http://comma-chameleon.io/)  download
 * [https://ethercalc.org/](https://ethercalc.org/) editor online sulla falsa riga di Google spreadsheet
@@ -969,9 +752,7 @@ just a simple guide for getting started with git. [http://rogerdudler.github.io/
 ---
 
 
-### EDITOR ONLINE PER LAVORI CONDIVISI
-
-
+## EDITOR ONLINE PER LAVORI CONDIVISI
 
 * [https://htmlg.com/html-editor/](https://htmlg.com/html-editor/) 
 * [https://www.editpad.org/](https://www.editpad.org/)
@@ -983,7 +764,7 @@ just a simple guide for getting started with git. [http://rogerdudler.github.io/
 ---
 
 
-### QUERY PER XML (RSS FEED) E FEEDBURNER
+## QUERY PER XML (RSS FEED) E FEEDBURNER
 
 .xml?query=cad&newscount=25
 
@@ -993,9 +774,8 @@ newscount= il numero delle news da visualizzare come output della query
 
 [http://www.ilquotidianodellapa.it/_aree/feed_advanced.html](http://www.ilquotidianodellapa.it/_aree/feed_advanced.html)
 
+
 **Generatore di Feed:** 
-
-
 
 * **[https://feedburner.google.com/fb/a/myfeeds](https://feedburner.google.com/fb/a/myfeeds)** il mio genratore di feed RSS
 * **[Feed43](https://feed43.com/) **-** **[vedi tutorial di Andrea Borruso](https://groups.google.com/forum/#!topic/opendatasicilia/mj4rOt3VUNg) per costruire Feed per gli eventi Feltrinelli di Palermo
@@ -1004,10 +784,9 @@ newscount= il numero delle news da visualizzare come output della query
 ---
 
 
-### BADGE IMG SHIELDS
+## BADGE IMG SHIELDS
 
 [https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs](https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs)
-
 
 ---
 
@@ -1021,7 +800,6 @@ newscount= il numero delle news da visualizzare come output della query
 
 
 ### CARDS
-
 [https://getbootstrap.com/docs/4.0/components/card/#border](https://getbootstrap.com/docs/4.0/components/card/#border)
 
 
@@ -1029,10 +807,7 @@ newscount= il numero delle news da visualizzare come output della query
 
 
 ### UNIRE PIÙ PDF
-
 [https://www.aranzulla.it/come-unire-due-pdf-923476.html](https://www.aranzulla.it/come-unire-due-pdf-923476.html)
-
-
 
 * PDFTK Builder [http://angusj.com/pdftkb/#pdftkbuilder](http://angusj.com/pdftkb/#pdftkbuilder) 
 * Online2PDF [http://online2pdf.com/](http://online2pdf.com/) 
@@ -1048,18 +823,10 @@ newscount= il numero delle news da visualizzare come output della query
 ---
 
 
-### CAROUSEL
-
+## CAROUSEL
 [https://getbootstrap.com/docs/4.0/components/carousel/](https://getbootstrap.com/docs/4.0/components/carousel/)
 
-|
-
-
-### FRECCIE
-
-←  ↑  →  ↓  ↖   ↗   ↘   ↙ 
-
-|
+---
 
 
 ### DIRECTIVES PER "READ THE DOCS"
@@ -1067,8 +834,7 @@ newscount= il numero delle news da visualizzare come output della query
 
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: Definition &darr;&darr; outside of definition list. Missing preceding term(s)? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-:guilabel:`Queste ed altre indicazioni per Read the Docs si tovano anche a` [https://schema-tipo.readthedocs.io/](https://schema-tipo.readthedocs.io/) 
+Queste ed altre indicazioni per Read the Docs si tovano anche a [https://schema-tipo.readthedocs.io/](https://schema-tipo.readthedocs.io/) 
 
 
 <table>
@@ -1101,8 +867,8 @@ si scrive così: ``:download:`Questo link è per il download &lt;[https://readth
 
 si scrive così: ``.. centered:: Questo è un testo centrato.``
 
-**Lista di elementi dentro un riquadro ↓**
 
+**Lista di elementi dentro un riquadro ↓**
 
 ```
 :Author: David Goodger
@@ -1121,7 +887,6 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 
 **Lista di elementi senza riquadro ↓**
-
 
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: Definition &darr;&darr; outside of definition list. Missing preceding term(s)? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
