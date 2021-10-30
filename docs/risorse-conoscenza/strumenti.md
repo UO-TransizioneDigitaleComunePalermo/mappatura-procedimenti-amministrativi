@@ -643,17 +643,17 @@ Combine the IMAGE and HYPERLINK functions to create clickable images
 
 ### CODICE DA USARE PER MAPPE UMAP
 
-video embedding = {{{[https://www.youtube.com/embed/_______|250](https://www.youtube.com/embed/_______|250)}}}
+`video embedding = {{{[https://www.youtube.com/embed/_______|250](https://www.youtube.com/embed/_______|250)}}}`
 
-link con testo = [[[http://example.com](http://example.com/)|testo del link]] 
+link con testo = `[[[http://example.com](http://example.com/)|testo del link]]` 
 
-immagine = {{[http://immagine.url.it](http://immagine.url.it/)|larghezza}} Immagine 
+immagine = `{{[http://immagine.url.it](http://immagine.url.it/)|larghezza}}` Immagine 
 
 link a url con icona cliccabile = [[[http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90](http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90)}}]]
 
 ICONE MAPPE = [http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/](http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/) 
 
-GOOGLEMAPS = &lt;iframe width='100%' height='500' src="http....   ">&lt;/iframe>
+GOOGLEMAPS = `<iframe width='100%' height='500' src="http....   ">&lt;/iframe>`
 
 URL ENCODER E DECODER = [http://meyerweb.com/eric/tools/dencoder/](http://meyerweb.com/eric/tools/dencoder/) 
 
