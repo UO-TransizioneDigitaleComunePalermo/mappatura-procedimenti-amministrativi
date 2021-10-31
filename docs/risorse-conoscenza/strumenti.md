@@ -1,3 +1,9 @@
+---
+hide:
+   - navigation
+---
+
+
 # Strumenti 
 
 - Strumenti per realizzare progetti di documentazione online 
