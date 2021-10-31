@@ -7,7 +7,7 @@ hide:
 
 # Strumenti 
 
-- Strumenti per realizzare progetti di documentazione online 
+- strumenti per realizzare progetti di documentazione online 
 - strumenti per lavorare con mappe
 - strumenti per lavorare con fogli di lavoro (Google spreadsheet)
 - altri strumenti utili a vari scopi
