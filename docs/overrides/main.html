@@ -1,6 +1,14 @@
 <!-- Elements added to main will be displayed on all pages -->
 {% extends "base.html" %}
 
+
+{% block announce %}
+  <!-- Add announcement here, including arbitrary HTML -->
+<b>News</b>: questa è una prova di announcement, vediamo come spunta 
+{% endblock %}
+
+
+
 {% block libs %}
  <!-- Qui Script header) --> 
  <link href="{{ config.site_url}}stylesheets/jquery-eu-cookie-law-popup.css" rel="stylesheet" type="text/css"/>
