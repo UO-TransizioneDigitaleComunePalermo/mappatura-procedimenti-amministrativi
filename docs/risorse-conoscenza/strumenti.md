@@ -643,7 +643,7 @@ Combine the IMAGE and HYPERLINK functions to create clickable images
 
 ### CODICE DA USARE PER MAPPE UMAP
 
-- video embedding = <code> {{{https://www.youtube.com/embed/............|250}}} </code>
+- video embedding = `{{{https://www.youtube.com/embed/url-del-video|250}}}`
 - link con testo = `[[http://example.com](http://example.com/)|testo del link]]` 
 - immagine = `{{http://immagine.url.it|larghezza}}` 
 - link a url con icona cliccabile = [[http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90}}]]
