@@ -1,7 +1,7 @@
 # Lavoro Agile - Smart Working
 In questa sezione vengono illustrate le norme emanate in occasione dell’emergenza **coronavirus** del marzo 2020 e le azioni poste in essere per realizzare il **lavoro agile** al Comune di Palermo.
 
-## Le attività del comune di Palermo:
+## Le attività del comune di Palermo
 
 :arrow_forward: Con una Direttiva del Segretario Generale del 12 marzo 2020 è stato avviato il lavoro agile per tutti i dipendenti la cui prestazione lavorativa può essere svolta da remoto.
 
