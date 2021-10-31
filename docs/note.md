@@ -1,6 +1,6 @@
 # Note varie
 
-## annotation in code block**
+## annotation in code block
 
 [https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-a-title](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-a-title)
 
