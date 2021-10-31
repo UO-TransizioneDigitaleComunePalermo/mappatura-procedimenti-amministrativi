@@ -1,6 +1,7 @@
 # Note varie
+Pagina di appunti per capire impostazioni di configurazione del progetto di documentazione
 
-## annotation in code block
+## Annotation in code block
 
 [https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-a-title](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-a-title)
 
@@ -15,7 +16,6 @@ theme:
     text__, images, ... basically anything that can be expressed in Markdown.
 
 
----
 
 ## Adding a title in code block
 
