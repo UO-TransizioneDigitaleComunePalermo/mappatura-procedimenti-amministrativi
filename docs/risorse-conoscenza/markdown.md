@@ -9,7 +9,7 @@ hide:
 
 Siti per comprendere la sintassi del linguaggio `MarkDown`
 
-- [https://dillinger.io](https://dillinger.io)
+- [https://dillinger.io](https://dillinger.io) (editor)
 - [https://pandoc.org/try](https://pandoc.org/try) (editor) 
 - [https://stackedit.io/app#](https://stackedit.io/app#)   
 - [https://www.markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax) 
