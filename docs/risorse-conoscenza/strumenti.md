@@ -11,7 +11,7 @@ hide:
 - strumenti per lavorare con fogli di lavoro (Google spreadsheet)
 - altri strumenti utili a vari scopi
 
-![](https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/sviluppo.png) Questa è una pagina "scomposta" per collezionare utilità a fini di sviluppo e creatività digitale. La pagina doc sorgente è a questo [link](https://docs.google.com/document/d/1UBNgDirj7I4cCSZSSLqbygu3U4SM8IoeW0M22HcOBPI).
+![](https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/sviluppo.png) **Questa è una pagina "scomposta" per collezionare utilità a fini di sviluppo e creatività digitale. La pagina doc sorgente è a questo** [**link**](https://docs.google.com/document/d/1UBNgDirj7I4cCSZSSLqbygu3U4SM8IoeW0M22HcOBPI).
 
 ---
 
