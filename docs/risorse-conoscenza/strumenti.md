@@ -26,7 +26,8 @@ hide:
 ## Editor HTML
 <iframe width="100%" height="600px" frameBorder="0" src="https://html5-editor.net/"></iframe>
 
----
+## enoji
+[https://github.com/ikatyang/emoji-cheat-sheet#symbols](https://github.com/ikatyang/emoji-cheat-sheet#symbols)
 
 
 
