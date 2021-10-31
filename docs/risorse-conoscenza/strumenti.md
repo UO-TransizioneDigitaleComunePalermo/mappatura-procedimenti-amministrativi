@@ -643,23 +643,15 @@ Combine the IMAGE and HYPERLINK functions to create clickable images
 
 ### CODICE DA USARE PER MAPPE UMAP
 
-video embedding = <code> {{{[https://www.youtube.com/embed/............|250](https://www.youtube.com/embed/.............|250)}}} </code>
-
-link con testo = `[[[http://example.com](http://example.com/)|testo del link]]` 
-
-immagine = `{{[http://immagine.url.it](http://immagine.url.it/)|larghezza}}` 
-
-link a url con icona cliccabile = [[[http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90](http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90)}}]]
-
-ICONE MAPPE = [http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/](http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/) 
-
-GOOGLEMAPS = `<iframe width='100%' height='500' src="http....   ">&lt;/iframe>`
-
-URL ENCODER E DECODER = [http://meyerweb.com/eric/tools/dencoder/](http://meyerweb.com/eric/tools/dencoder/) 
-
-POST IMAGE DA LINKARE SU UMAP: [http://postimages.org/](http://postimages.org/) 
-
-Icone mappe [https://mapicons.mapsmarker.com](https://mapicons.mapsmarker.com) ccbysa
+- video embedding = <code> {{{https://www.youtube.com/embed/............|250}}} </code>
+- link con testo = `[[http://example.com](http://example.com/)|testo del link]]` 
+- immagine = `{{http://immagine.url.it|larghezza}}` 
+- link a url con icona cliccabile = [[http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90}}]]
+- ICONE MAPPE = [http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/](http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/) 
+- GOOGLEMAPS = `<iframe width='100%' height='500' src="http....   ">&lt;/iframe>`
+- URL ENCODER E DECODER = [http://meyerweb.com/eric/tools/dencoder/](http://meyerweb.com/eric/tools/dencoder/) 
+- POST IMAGE DA LINKARE SU UMAP: [http://postimages.org/](http://postimages.org/) 
+- Icone mappe [https://mapicons.mapsmarker.com](https://mapicons.mapsmarker.com) ccbysa
 
 
 ### TUTORIAL PER COLLEGARE GOOGLE DRIVE SPREADSHEET A UMAP
