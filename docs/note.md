@@ -26,3 +26,17 @@ def bubble_sort(items):
             if items[j] > items[j + 1]:
                 items[j], items[j + 1] = items[j + 1], items[j]
 ```
+
+
+## Add announcement
+![](https://user-images.githubusercontent.com/3757525/139603760-edc4a47f-b19e-4be7-b684-633cf4c4cebc.png)
+
+Il seguente codice è posizionato dal rigo 5 a 8 del file `main.html`
+
+```
+<!-- Add announcement here, including arbitrary HTML (https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) -->
+{% block announce %}
+<span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;"><b>Importante news</b>:</span>
+questa è una <strong><span style="color: #ff0000;">prova</span></strong> di announcement nell'header sopra il titolo, ed è posizionata dal rigo 5 a 8 del file <code> main.html </code> 
+{% endblock %}
+```
