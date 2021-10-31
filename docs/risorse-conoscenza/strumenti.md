@@ -6,7 +6,6 @@ hide:
 
 
 # Strumenti 
-
 - strumenti per realizzare progetti di documentazione online 
 - strumenti per lavorare con mappe
 - strumenti per lavorare con fogli di lavoro (Google spreadsheet)
@@ -18,3 +17,10 @@ hide:
 
 <h2><span style="color: #0000ff;">iframe di cirospat/<a href="https://cirospat.readthedocs.io/it/latest/developer.html" target="_blank" rel="noopener" style="color: #0000ff;"><strong>developer</strong></a></span></h2> <br></br>
 <iframe width="100%" height="700px" frameBorder="0" src="https://cirospat.readthedocs.io/it/latest/developer.html"></iframe>
+
+---
+
+## Editor HTML
+<iframe width="100%" height="700px" frameBorder="0" src="https://htmleditor.tools/"></iframe>
+
+
