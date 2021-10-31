@@ -38,7 +38,8 @@ Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio [**Ma
 
 <img src="https://img.shields.io/badge/GitHub-for_code_setting-red.svg?style=popout&logo=GitHub&logoColor=orange"> Il link al codice sorgente di questo progetto è [**github.com/cirospat/cirospataro**](https://github.com/cirospat/cirospataro)
 
-Template classici per progetti di documentazione online sono: [**Read the Docs** e **Material for MKDocs**](https://cirospat.github.io/cirospataro/risorse-conoscenza/readthedocs-vs-material_mkdocs/) 
+<img src="https://img.shields.io/badge/Read_the_Docs-for_publishing_online-blue.svg?style=popout&logo=Read%20the%20Docs" /> <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" />
+ Template classici per progetti di documentazione online sono: [**Read the Docs** e **Material for MKDocs**](https://cirospat.github.io/cirospataro/risorse-conoscenza/readthedocs-vs-material_mkdocs/) 
 
 ??? Note "strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione"
     - [**Addthis**](https://www.addthis.com/) per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
