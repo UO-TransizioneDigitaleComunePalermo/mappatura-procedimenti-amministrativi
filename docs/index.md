@@ -30,16 +30,15 @@ Coltivo la passione per la documentazione delle attività, questo è il motivo p
 <img src="https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png" width="130">
 
 
-Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/getting-started/)
+Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
 
 Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio [**MarkDown**](https://cirospat.github.io/cirospataro/risorse-conoscenza/markdown/) `.MD`
 
-[![gh-deploy](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub ghpages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
+[![gh-deploy](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub gh-pages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
 <img src="https://img.shields.io/badge/GitHub-for_code_setting-red.svg?style=popout&logo=GitHub&logoColor=orange"> Il link al codice sorgente di questo progetto è [**github.com/cirospat/cirospataro**](https://github.com/cirospat/cirospataro)
 
-<img src="https://img.shields.io/badge/Read_the_Docs-for_publishing_online-blue.svg?style=popout&logo=Read%20the%20Docs" /> <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" />
- Template classici per progetti di documentazione online sono: [**Read the Docs** e **Material for MKDocs**](https://cirospat.github.io/cirospataro/risorse-conoscenza/readthedocs-vs-material_mkdocs/) 
+<img src="https://img.shields.io/badge/Read_the_Docs-for_publishing_online-blue.svg?style=popout&logo=Read%20the%20Docs" /> <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> Template diffusi per progetti di documentazione online sono: [**Read the Docs** e **Material for MKDocs**](https://cirospat.github.io/cirospataro/risorse-conoscenza/readthedocs-vs-material_mkdocs/) 
 
 ??? Note "strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione"
     - [**Addthis**](https://www.addthis.com/) per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
