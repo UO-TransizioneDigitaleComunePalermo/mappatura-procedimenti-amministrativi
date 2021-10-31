@@ -33,7 +33,7 @@ def bubble_sort(items):
 
 Il seguente codice è posizionato dal rigo 5 a 8 del file `main.html`
 
-```
+``` py title="Add announcement"
 
 <!-- Add announcement here, including arbitrary HTML (https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) -->
 {% block announce %}
