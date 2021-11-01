@@ -40,3 +40,5 @@ Il seguente codice è posizionato nel file `docs/override/main.html`
 <span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;"><b>Importante news</b>:</span> questa è una <strong><span style="color: #ff0000;">prova</span></strong> di announcement nell'header sopra il titolo, ed è posizionata dal rigo 5 a 8 del file <code> main.html </code>
 {% endblock %}
 ```
+
+<iframe width="100%" height="1000px" frameBorder="0" src="https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L36"></iframe> 
