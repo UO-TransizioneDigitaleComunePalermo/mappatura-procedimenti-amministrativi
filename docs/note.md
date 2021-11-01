@@ -34,7 +34,7 @@ def bubble_sort(items):
 
 ![](https://user-images.githubusercontent.com/3757525/139603760-edc4a47f-b19e-4be7-b684-633cf4c4cebc.png)
 
-Il seguente codice è posizionato nel file `docs/override/main.html` e comincia da questa riga: [**https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L40**](https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L40)
+Il seguente codice è posizionato nel file `docs/override/main.html` e comincia da questa riga: [**https://github.com/cirospat/cirospataro/blob/6b0d3108872bccf7c803955b15256037ca84a129/docs/overrides/main.html#L5**](https://github.com/cirospat/cirospataro/blob/6b0d3108872bccf7c803955b15256037ca84a129/docs/overrides/main.html#L5)
 
 ``` html   
 <!-- Add announcement here, including arbitrary HTML (https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) -->
