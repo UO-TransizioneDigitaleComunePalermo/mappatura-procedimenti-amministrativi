@@ -1,7 +1,7 @@
 # Note varie
 Pagina di appunti per capire impostazioni di configurazione del progetto di documentazione
 
-## Annotation in code block (annotazioni mel blocco del codice)
+## Annotation in code block (annotazioni nel blocco del codice)
 
 [https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-a-title](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-a-title)
 
@@ -17,7 +17,7 @@ theme:
 
 
 
-## Adding a title in code block
+## Adding a title in code block (aggiungi un titolo al blocco del codice)
 
 ``` py title="bubble_sort.py"
 def bubble_sort(items):
@@ -28,7 +28,7 @@ def bubble_sort(items):
 ```
 
 
-## Add announcement
+## Add announcement (aggiungi un annuncio nell'header, nella parte superiore del menù e del titolo progetto)
 ![](https://user-images.githubusercontent.com/3757525/139603760-edc4a47f-b19e-4be7-b684-633cf4c4cebc.png)
 
 Il seguente codice è posizionato nel file `docs/override/main.html`
