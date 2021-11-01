@@ -34,7 +34,7 @@ def bubble_sort(items):
 
 ![](https://user-images.githubusercontent.com/3757525/139603760-edc4a47f-b19e-4be7-b684-633cf4c4cebc.png)
 
-Il seguente codice è posizionato nel file `docs/override/main.html` e comincia da questa riga: [**https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L36**](https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L36)
+Il seguente codice è posizionato nel file `docs/override/main.html` e comincia da questa riga: [**https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L40**](https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L40)
 
 ``` py
    {% extends "base.html" %}
