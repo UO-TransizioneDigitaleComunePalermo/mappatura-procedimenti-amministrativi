@@ -168,9 +168,13 @@ div.doc-contents:not(.first) {
 /*mod. altezza footer prev/next*/
 .md-footer__link {padding-bottom: .1rem!important; padding-top: .2rem!important; }
 
-   /* cambia colore al footer e a page next/pre*/
+/* cambia colore al footer e a page next/pre*/
 .md-footer { background-color:var(--md-default-bg-color); color: var(--md-default-fg-color);}
 .md-footer-meta {    background-color: var(--md-footer-bg-color);}
+
+
+/* cambia colore al header nero sopra il menù cioè = announcement bar  */
+.md-banner { background-color: #363636;!important; }
 
 
 /* Content area width (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width) */
