@@ -1,7 +1,7 @@
 # Note varie
 Pagina di appunti per capire impostazioni di configurazione del progetto di documentazione
 
-## Annotation in code block
+## Annotation in code block (annotazioni mel blocco del codice)
 
 [https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-a-title](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-a-title)
 
@@ -35,7 +35,9 @@ Il seguente codice è posizionato dal rigo 5 a 8 del file `docs/override/main.ht
 
 ``` python linenums="1"
 
-<!-- Add announcement here, including arbitrary HTML (https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) -->
+<!-- Add announcement here, including arbitrary HTML 
+(https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) -->
+
 {% block announce %}
 <span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;"><b>Importante news</b>:</span>
 questa è una <strong><span style="color: #ff0000;">prova</span></strong> di announcement nell'header sopra il titolo, 
