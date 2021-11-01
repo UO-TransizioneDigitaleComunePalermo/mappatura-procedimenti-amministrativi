@@ -40,7 +40,7 @@ Il seguente codice è posizionato nel file `docs/override/main.html` e comincia 
     <!-- Add announcement here, including arbitrary HTML 
     (https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) -->
     {% block announce %}
-    <span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;"><b>Importante</b>:</span> questa è una <strong><span style="color:        #ff0000;">prova</span></strong> di announcement nell'header sopra il titolo, ed è posizionata nel file <code> main.html </code>
+    <span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;"><b>Importante</b>:</span> questa è una <strong><span style="color:        #ff0000;">prova</span></strong> di announcement nell'header sopra il titolo, ed è posizionata nel file docs/override/main.html 
     {% endblock %}
 ```
 
