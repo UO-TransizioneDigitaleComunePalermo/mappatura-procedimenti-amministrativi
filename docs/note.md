@@ -31,7 +31,7 @@ def bubble_sort(items):
 ## Add announcement
 ![](https://user-images.githubusercontent.com/3757525/139603760-edc4a47f-b19e-4be7-b684-633cf4c4cebc.png)
 
-Il seguente codice è posizionato dal rigo 5 a 8 del file `main.html`
+Il seguente codice è posizionato dal rigo 5 a 8 del file `docs/override/main.html`
 
 ``` python linenums="1"
 
