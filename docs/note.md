@@ -37,6 +37,8 @@ def bubble_sort(items):
 Il seguente codice è posizionato nel file `docs/override/main.html` e comincia da questa riga: [**https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L36**](https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L36)
 
 ``` py
+   {% extends "base.html" %}
+   
    <!-- Add announcement here, including arbitrary HTML 
    (https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) -->
    {% block announce %}
