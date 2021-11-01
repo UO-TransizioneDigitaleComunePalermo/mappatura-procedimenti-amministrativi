@@ -31,7 +31,7 @@ def bubble_sort(items):
 ## Add announcement (aggiungi un annuncio nell'header, nella parte superiore del menù e del titolo progetto)
 ![](https://user-images.githubusercontent.com/3757525/139603760-edc4a47f-b19e-4be7-b684-633cf4c4cebc.png)
 
-Il seguente codice è posizionato nel file `docs/override/main.html`
+Il seguente codice è posizionato nel file `docs/override/main.html` e comincia da questa riga: [**https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L36**](https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L36)
 
 ``` html
 <!-- Add announcement here, including arbitrary HTML 
@@ -41,4 +41,4 @@ Il seguente codice è posizionato nel file `docs/override/main.html`
 {% endblock %}
 ```
 
-<iframe width="100%" height="1000px" frameBorder="0" src="https://github.com/cirospat/cirospataro/blob/main/docs/note.md?plain=1#L36"></iframe> 
+
