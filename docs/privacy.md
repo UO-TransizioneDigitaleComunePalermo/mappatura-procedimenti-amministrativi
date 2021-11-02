@@ -1,3 +1,8 @@
+---
+hide:
+     - navigation
+---
+
 
 # Informativa privacy estesa
 
