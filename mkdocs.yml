@@ -5,7 +5,7 @@ site_description: Profilo di Ciro Spataro
 
 ## Repository
 # repo_name: ciro spataro
-# repo_url: https://github.com/cirospat/cirospataro/
+repo_url: https://github.com/cirospat/cirospataro/
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
