@@ -8,8 +8,8 @@ hide:
 
 Template classici per progetti di documentazione online sono:
 
-- [**Read the Docs**](https://docs.readthedocs.io/en/stable/index.html) 
-- [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material) 
+- <img src="https://img.shields.io/badge/Read_the_Docs-for_publishing_online-blue.svg?style=popout&logo=Read%20the%20Docs" /> [**Read the Docs**](https://docs.readthedocs.io/en/stable/index.html)  
+- <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material) 
 
 !!! note "Alcune differenze tra `"Material for MKDocs"` e `"Read the Docs"` per progetti di documentazione"
 
