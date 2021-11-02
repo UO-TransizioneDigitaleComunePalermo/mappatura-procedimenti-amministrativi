@@ -1,3 +1,9 @@
+---
+hide:
+     - navigation
+---
+
+
 # Note varie
 Pagina di appunti per capire impostazioni di configurazione del progetto di documentazione
 
