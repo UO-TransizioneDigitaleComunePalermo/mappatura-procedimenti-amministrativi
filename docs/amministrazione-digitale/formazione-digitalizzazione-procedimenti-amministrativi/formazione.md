@@ -61,11 +61,17 @@ Nella DEMATERIALIZZAZIONE si opera con il **data entry**, cioè la compilazione 
 ### Documento informatico e Protocollo informatico 
 Nella digitalizzazione di un ente pubblico assume una rilevante importanza il documento informatico.
 
-Il documento informatico è: 
-**la memorizzazione su supporto informatico in formato digitale nativo delle informazioni derivanti da processi informatici dell’ente, o dalla presentazione telematica di dati attraverso moduli resi disponibili online all’utente, da compilare sulla pagina web**.
+!!! note "Documento informatico e Protocollo informatico"
 
-Il protocollo informatico è:
-**un applicativo nel quale vengono tracciati e metadatati i documenti (in formato digitale) che l’ente produce. Il protocollo deve essere integrato informaticamente con gli applicativi gestionali dell’ente nei quali si creano, si firmano digitalmente e si conservano i documenti informatici**.
+    === "Documento informatico"
+
+        Il documento informatico è: **la memorizzazione su supporto informatico in formato digitale nativo delle informazioni derivanti da processi informatici dell’ente, o dalla presentazione telematica di dati attraverso moduli resi disponibili online all’utente, da compilare sulla pagina web**.
+        
+        
+    === "Protocollo informatico"
+
+        Il protocollo informatico è: **un applicativo nel quale vengono tracciati e metadatati i documenti (in formato digitale) che l’ente produce. Il protocollo deve essere integrato informaticamente con gli applicativi gestionali dell’ente nei quali si creano, si firmano digitalmente e si conservano i documenti informatici**.
+
 
 ### Smaterializzazione 
 La SMATERIALIZZAZIONE è l'attività che si effettua per riportare un documento cartaceo ad un formato digitale (es. formato PDF), così da inserirlo nel “fascicolo” digitale del procedimento amministrativo specifico.  In questo caso il fascicolo sarà composto da:
@@ -73,6 +79,7 @@ La SMATERIALIZZAZIONE è l'attività che si effettua per riportare un documento 
 **documenti amministrativi nativi digitali + documenti informatici frutto di scansione.**
 
 Nella SMATERIALIZZAZIONE si opera con la scansione, cioè l’acquisizione dell’immagine del documento cartaceo.  Il documento scansionato è una vera e propria “fotografia” del documento cartaceo. Non è possibile estrapolare informaticamente dati da un documento scansionato (a meno che non si usano programmi di OCR in grado di leggere testo e riportarlo in un formato di testo di tipo "aperto").
+
 
 ### Era il 12 Agosto 2016 ...
 
@@ -82,7 +89,7 @@ Si trascurava il fatto che naturalmente i documenti cartacei avrebbero potuto an
 
 La data del 12 agosto fu sospesa dal d.lgs. 179/2016, che disponeva l’aggiornamento delle regole tecniche entro quattro mesi dall’entrata in vigore dello stesso decreto.
 
-> L'art. 40 del CAD (Formazione di documenti informatici) prevede che 1. *Le pubbliche amministrazioni formano gli originali dei propri documenti, inclusi quelli inerenti ad albi, elenchi e pubblici registri, con mezzi informatici secondo le disposizioni di cui al presente codice e le ((Linee guida))*
+> **L'art. 40 del CAD (Formazione di documenti informatici)** prevede che 1. *Le pubbliche amministrazioni formano gli originali dei propri documenti, inclusi quelli inerenti ad albi, elenchi e pubblici registri, con mezzi informatici secondo le disposizioni di cui al presente codice e le ((Linee guida))*
 
 ### Cosa decide di fare il Comune di Palermo?
 Palermo, a differenza della gran parte degli altri Comuni, facendo tesoro di quanto contenuto nell’art. 61 del Dlgs. 179/2016 che prevedeva che le regole tecniche vigenti nelle materie del Codice dell’amministrazione digitale restassero efficaci fino all’adozione del nuovo decreto, ha deciso di iniziare un graduale passaggio al digitale, e di rendere nativi digitali tutti quegli atti che abbiano come destinatario un soggetto esterno all’Amministrazione.
@@ -108,12 +115,12 @@ E' stata effetuata una capillare attività di sensibilizzazione e formazione sul
 - n. 17 Libri Firma NON Dirigenziali relativi a Consiglio Comunale, Giunta, Commissioni Consiliari (7), Consigli di Circoscrizione(8)
 - n. 107 Libri Firma Dirigenziali complessivamente realizzati anche a seguito delle due riorganizzazioni dell’Amministrazione.
 
-**Cambia il modo di lavorare al Comune di Palermo: la carta comincia a scomparire dagli uffici.**
+`Cambia il modo di lavorare al Comune di Palermo: la carta comincia a scomparire dagli uffici`.
 
 
 **Dal 2 Gennaio 2019 tutte le Determinazioni Dirigenziali del Comune di Palermo diventano digitali**
 
-Il Segretario Generale in una riunione dei primi di Novembre 2018 insieme all’allora Dirigente dell’Innovazione impone a tutti gli Uffici l’utilizzo della nuova piattaforma per la gestione delle Determinazioni dirigenziali. Viene abilitato “di default” tutto il personale di Categoria D, in qualità di responsabile endoprocedimentale, al caricamento in piattaforma dei dati di una determinazione. Vengono organizzate n. 13 sessioni massive di formazione per l’addestramento all’uso del software del personale e dei Dirigenti interessati.
+Il Segretario Generale in una riunione dei primi di Novembre 2018, insieme all’allora Dirigente del Servizio Innovazione, impone a tutti gli Uffici l’utilizzo della nuova piattaforma per la gestione delle Determinazioni dirigenziali. Viene abilitato “di default” tutto il personale di Categoria D, in qualità di responsabile endoprocedimentale, al caricamento in piattaforma dei dati di una determinazione. Vengono organizzate n. 13 sessioni massive di formazione per l’addestramento all’uso del software del personale e dei Dirigenti interessati.
 
 Estrema cura viene riposta nella metadatazione della Determinazione, così come avvenuto per la procedura "Protocollo-Libro Firma Digitale". Un flusso grafico evidenzia lo stato della Determinazione nell'applicativo.
 
@@ -146,6 +153,7 @@ Può essere fornito un **supporto al backend (lato personale PA)** che trova una
 ### Nella digitalizzazione bisogna pensare per dati e non per formati PDF
 Oggi spesso pensiamo la documentazione della PA come formati **PDF** che derivano da formati WORD/ODT ai quali abbiamo lavorato precedentemente.
 Dimentichiamo di lavorare principalmente per documenti **PDF**.
+
 Dobbiamo lavorare per compilazione di campi in un applicativo, come quando compriamo un biglietto aereo online o usiamo piattaforme di acquisti online. 
 La compilazione (editing) di campi in un applicativo genera automaticamente diversi formati: **XML** - **JSON** - **ODT** - **DOCX** e solo alla fine il formato PDF per la finalità di essere firmato digitalmente.
 
