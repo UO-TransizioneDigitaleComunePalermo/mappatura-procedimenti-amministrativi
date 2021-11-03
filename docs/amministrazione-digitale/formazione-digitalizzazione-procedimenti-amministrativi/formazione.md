@@ -12,13 +12,13 @@ Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di t
 
 Indice pagine:
 
-- Casi d’uso di digitalizzazione in ambito comunale
+- [Casi d’uso di digitalizzazione in ambito comunale](#casi-di-uso-di-digitalizzazione-in-ambito-comunale) 
 - Presentazione elementi minimi (metadati) di una determinazione dirigenziale
 - L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale (mappatura procedimento amministrativo)
 - Le dimensioni e i metadati che identificano un procedimento amministrativo
 - L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale
 - Un esempio di catalogo dei procedimenti amministratvi
-- Chi siamo e perchè lo facciamo
+- [Chi siamo e perchè lo facciamo](#chi-siamo)
 
 
 ---
