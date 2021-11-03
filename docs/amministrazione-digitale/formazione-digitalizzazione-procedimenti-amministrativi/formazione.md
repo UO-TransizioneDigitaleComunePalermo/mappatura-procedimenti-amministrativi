@@ -16,7 +16,7 @@ Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di t
 !!! Note "strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione"
     - Caso d’uso: il documento digitale; presentazione Piattaforma informatica Libro Firma per la gestione delle note in uscita dall’ente (corrispondenza) e percorso/esperienza del Comune di Palermo 
     - Caso d’uso: Determine e Delibere Digitali; presentazione Piattaforma per la gestione delle Determinazioni Dirigenziali e delle Deliberazioni e percorso/esperienza del Comune di Palermo 
-    `- Lancio esercitazione: a partire da una/due determinazioni dirigenziali reali, individuare gli elementi minimi (metadati) da considerare per la loro digitalizzazione tramite una soluzione informatica - presentazione modalità di consegna compito ed eventuale divisione dei partecipanti in gruppi di lavoro`
+    - `Lancio esercitazione: a partire da una/due determinazioni dirigenziali reali, individuare gli elementi minimi (metadati) da considerare per la loro digitalizzazione tramite una soluzione informatica - presentazione modalità di consegna compito ed eventuale divisione dei partecipanti in gruppi di lavoro`
 
 Articolo 15 del Codice Amministrazione Digitale (CAD): “razionalizzare e semplificare” 
 
@@ -24,12 +24,12 @@ Articolo 15 del Codice Amministrazione Digitale (CAD): “razionalizzare e sempl
 
 **Razionalizzare e semplificare**:
 
-- da un adempimento → (Codice Amministrazione Digitale) 
-- ad un'opportunità → (nuovo modo di lavorare e far fruire i servizi pubblici)
+- **da un adempimento → (Codice Amministrazione Digitale)** 
+- **ad un'opportunità → (nuovo modo di lavorare e far fruire i servizi pubblici)**
 
 ### La cronistoria delle attività realizzate dal Comune di Palermo, impegnato da anni nella transizione al digitale, come prevista dal CAD (d.lgs. n. 82/2005 e succ. modifiche/integrazioni). 
 
-STEP:  
+Step:  
 
 - il primo passo compiuto in tal senso ha visto nel 2017 la digitalizzazione di tutti i documenti dell'Amministrazione destinati a soggetti esterni (note), 
 - nel 2019 la digitalizzazione delle Determinazioni Dirigenziali, 
@@ -52,9 +52,9 @@ I processi amministrativi sono caratterizzati dalla presenza di documenti ammini
 La DEMATERIALIZZAZIONE è l’attività di produzione, gestione e conservazione dei documenti informatici, che viene svolta attraverso l’uso di applicativi. 
 I documenti informatici:
 
-1) nascono digitali, 
-2) sono parte integrante dei procedimenti amministrativi specifici dell’ente, gestiti con applicativo specifico,  
-3) sono collegati al registro di protocollo informatico dell’ente.
+1. nascono digitali,  
+2. sono parte integrante dei procedimenti amministrativi specifici dell’ente, gestiti con applicativo specifico,  
+3. sono collegati al registro di protocollo informatico dell’ente.
 
 Nella DEMATERIALIZZAZIONE si opera con il **data entry**, cioè la compilazione di testo in campi di un applicativo (software). I dati inseriti nel software finiscono in un database strutturato dal quale si possono fare sia estrazioni specifiche (ricerche) per parole chiave, che report periodici. Dal database possono essere generati automaticamente documenti amministrativi informatici da inviare al cittadino che ha effettuato richieste di servizio
 
@@ -98,9 +98,9 @@ Sarebbe stato più corretto partire dalla digitalizzazione dei vari processi int
 
 **A febbraio del 2017 nasce la Procedura informatica "Protocollo-Libro Firma Digitale"** per la firma di note con rilevanza esterna. La procedura si compone di 3 fasi:
 
-1) **Prima Fase**: è la fase della Richiesta Avanzata. Il soggetto Responsabile della U.O., o il responsabile del procedimento nel caso di UU.OO. complesse, od un loro incaricato, provvede a caricare nella procedura il documento da veicolare in formato PDF. 
-2) **Seconda Fase**: è la fase della Predisposizione alla Firma. Il soggetto che ha effettuato la richiesta avanzata, riceverà una e-mail che lo informerà del corretto caricamento dell’atto. A questo punto si collegherà all’applicativo Libro Firma e stabilirà le “policy di firma” sottoponendo il documento al Dirigente (o ai Dirigenti) responsabili. 
-3) **Terza Fase**: è la fase della Firma Digitale. Il Dirigente responsabile (o i Dirigenti nel caso di documento sottoposto a firma doppia) provvede a firmare digitalmente il documento collegandosi all’applicativo Libro Firma, ed in automatico il documento stesso verrà numerato al protocollo informatico ed archiviato digitalmente nello stesso. Una e-mail automatica informerà il richiedente (colui che nella prima fase ha caricato il documento sulla piattaforma) dell’avvenuto completamento della procedura e del numero e data di protocollo rilasciato.
+1. **Prima Fase**: è la fase della Richiesta Avanzata. Il soggetto Responsabile della U.O., o il responsabile del procedimento nel caso di UU.OO. complesse, od un loro incaricato, provvede a caricare nella procedura il documento da veicolare in formato PDF. 
+2. **Seconda Fase**: è la fase della Predisposizione alla Firma. Il soggetto che ha effettuato la richiesta avanzata, riceverà una e-mail che lo informerà del corretto caricamento dell’atto. A questo punto si collegherà all’applicativo Libro Firma e stabilirà le “policy di firma” sottoponendo il documento al Dirigente (o ai Dirigenti) responsabili. 
+3. **Terza Fase**: è la fase della Firma Digitale. Il Dirigente responsabile (o i Dirigenti nel caso di documento sottoposto a firma doppia) provvede a firmare digitalmente il documento collegandosi all’applicativo Libro Firma, ed in automatico il documento stesso verrà numerato al protocollo informatico ed archiviato digitalmente nello stesso. Una e-mail automatica informerà il richiedente (colui che nella prima fase ha caricato il documento sulla piattaforma) dell’avvenuto completamento della procedura e del numero e data di protocollo rilasciato.
 
 La Procedura informatica "Protocollo-Libro Firma Digitale" serve a:
 
