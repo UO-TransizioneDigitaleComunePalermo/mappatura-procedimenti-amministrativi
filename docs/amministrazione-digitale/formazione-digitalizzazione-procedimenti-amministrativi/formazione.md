@@ -13,7 +13,7 @@ Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di t
 
 28/09/21
 
-??? Note "strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione"
+!!! Note "strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione"
     - Caso d’uso: il documento digitale; presentazione Piattaforma informatica Libro Firma per la gestione delle note in uscita dall’ente (corrispondenza) e percorso/esperienza del Comune di Palermo 
     - Caso d’uso: Determine e Delibere Digitali; presentazione Piattaforma per la gestione delle Determinazioni Dirigenziali e delle Deliberazioni e percorso/esperienza del Comune di Palermo 
     - Lancio esercitazione: a partire da una/due determinazioni dirigenziali reali, individuare gli elementi minimi (metadati) da considerare per la loro digitalizzazione tramite una soluzione informatica - presentazione modalità di consegna compito ed eventuale divisione dei partecipanti in gruppi di lavoro
