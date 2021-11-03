@@ -13,11 +13,13 @@ Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di t
 Indice pagine:
 
 - [Casi d’uso di digitalizzazione in ambito comunale](#casi-di-uso-di-digitalizzazione-in-ambito-comunale) 
-- Presentazione elementi minimi (metadati) di una determinazione dirigenziale
-- L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale (mappatura procedimento amministrativo)
-- Le dimensioni e i metadati che identificano un procedimento amministrativo
-- L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale
-- Un esempio di catalogo dei procedimenti amministratvi
+- [Presentazione elementi minimi (metadati) di una determinazione dirigenziale](#presentazione-elementi-minimi-metadati-di-una-determinazione-dirigenziale)
+- [L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale](#esperienza-e-strumenti-in-un-caso-reale-di-analisi-dei-procedimenti-amministrativi)
+- [Mappatura di procedimento amministrativo](#mappatura-di-procedimento-amministrativo)
+- [Le dimensioni e i metadati che identificano un procedimento amministrativo](#le-dimensioni-e-i-metadati-che-identificano-un-procedimento-amministrativo)
+- [L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale](#l’esperienza-di-metadatazione-dei-procedimenti-amministrativi-partendo-da-un-caso-reale)  
+- [Un esempio di catalogo dei procedimenti amministratvi](#presentazione-di-un-esempio-di-catalogo-dei-procedimenti-amministrativi)
+- [Linkografia essenziale](#linkografia-essenziale)
 - [Chi siamo e perchè lo facciamo](#chi-siamo)
 
 
@@ -157,9 +159,13 @@ Il 3° step rappresenta il tempo in cui può essere effettuata la “reingegneri
 
 ### Il supporto dell’Intelligenza Artificiale nella gestione digitale di procedimenti amministrativi e servizi
 L'Intelligenza Artificiale (algoritmi dentro i software) può dare un enorme supporto nella gestione quotidiana di procedimenti e servizi.
+
 Dall'analisi e interpretazione “semantica” del testo dei documenti generati dai procedimenti amministrativi (norme, termini specifici ripetuti) può nascere un sistema utile al personale dell’Ente nella **ricerca multicriterio** in un documento o in un archivio.
+
 Si può disporre di un auto controllo della gestione del procedimento e disporre di **avvisi di scadenze**.
+
 Può essere fornito all'utente (cittadino) un **servizio di ricerca multicriterio e di assistenza virtuale** che aiuta nella richiesta di servizi.
+
 Può essere fornito un **supporto al backend (lato personale PA)** che trova una facilitazione nella gestione del processo (documenti - dati) che interessa i vari procedimenti amministrativi.
 
 ### Nella digitalizzazione bisogna pensare per dati e non per formati PDF
@@ -169,14 +175,14 @@ Dimentichiamo di lavorare principalmente per documenti **PDF**.
 Dobbiamo lavorare per compilazione di campi in un applicativo, come quando compriamo un biglietto aereo online o usiamo piattaforme di acquisti online. 
 La compilazione (editing) di campi in un applicativo genera automaticamente diversi formati: **XML** - **JSON** - **ODT** - **DOCX** e solo alla fine il formato PDF per la finalità di "essere firmato digitalmente".
 
-### Quando si realizzano servizi online (e digitalizzazione di procedimenti amministrativi) nella PA si pensa a:
+### Quando si realizzano servizi online (e digitalizzazione di procedimenti amministrativi) nella PA si pensa a
 
 - Digital first, tutto nella PA nasce in formato digitale.
 - Once only, la PA chiede un dato una sola volta al cittadino e se una PA ha bisogno di informazioni che detiene un altra PA, non usa il cittadino come garzone per il trasferimento del documento, ma i dati vengono scambiati tramite interoperabilità degli applicativi informatici.
 - Cloud first, i servizi delle PA sono gestiti nativamente su servizi cloud.
 - Interoperabile by design, le PA, nella realizzazione di piattaforme applicative, pensano all’interoperabilità dei software e delle banche dati, per lo scambio dati tra lo stesso ente o tra enti diversi.
 
-### 5 livelli di interazione dei servizi online
+### I 5 livelli di interazione dei servizi online
 
 | **1** | **2** | **3** | **4** | **5** |
 |---|---|---|---|---|
@@ -188,30 +194,12 @@ L’art. 69  del CAD prevede che le PA che siano titolari di soluzioni e program
 
 A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del software [https://developers.italia.it/it/software](https://developers.italia.it/it/software) dove ogni PA deve verificare la presenza di programmi che soddisfano le proprie esigenze, e questa attività deve avvenire prima di rivolgersi al mercato privato.
 
-### Linkografia essenziale
-- [CAD - Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html)
-- [Piano Triennale per l’informatica nella Pubblica Amministrazione 2020 - 2022](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html)
-- [Linee guida su acquisizione e riuso di software per le PA](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/index.html)
-- [Catalogo del software open source a disposizione della PA (AGID + Team Trasformazione Digitale)](https://developers.italia.it/it/software)
-- [Linee guida AGID per lo sviluppo del software sicuro nella PA](https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro)
-- [Linee guida del modello di interoperabilità per la PA](https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/bozza/index.html)
-- [Linee guida al linguaggio della PA](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html)
-- [Linee guida di design per i servizi digitali della PA](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html)
-- [Linee guida per la promozione dei servizi digitali](https://docs.italia.it/italia/designers-italia/lg-comunicazione-docs/it/stabile/index.html)
-- [La carta dei principi per la condotta tecnologica nel procurement della PA](https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io/it/latest/)
-- [Linee guida sull’accessibilità degli strumenti informatici](https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html)
-- [Linee guida per l’erogazione del servizio pubblico wi-fi free](https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/bozza/index.html)
-- [Linee guida AGID sulla sicurezza nel procurement ICT](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122261_725_1.html)
-- [Il modello cloud della PA: come acquisire servizi cloud qualificati](https://cloud.italia.it/marketplace/) -  [Il manuale di abilitazione al cloud](https://docs.italia.it/italia/manuale-di-abilitazione-al-cloud/manuale-di-abilitazione-al-cloud-docs/it/bozza/index.html)
-- [La Strategia nazionale e il Piano operativo per le competenze digitali](https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf)
-- [Linee guida sulla formazione, gestione e conservazione dei documenti informatici](https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html)
-
 
 
 ---
 
 
-## {--Analisi dei risultati dell’esercitazione e--} presentazione elementi minimi (metadati) di una determinazione dirigenziale
+## Presentazione elementi minimi (metadati) di una determinazione dirigenziale
 > [https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing](https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing)
 
 5/10/21
@@ -222,7 +210,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 
 ---
 
-## L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale” {--e lancio dell’esercitazione--} (Mappatura procedimento amministrativo) 
+## Esperienza e strumenti in un caso reale di analisi dei procedimenti amministrativi
 > [https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing](https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing)
 
 19/10/21 
@@ -236,7 +224,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 
 ---
 
-## {--Analisi dei risultati dell’esercitazione e--} mappatura di un procedimento amministrativo
+## Mappatura di procedimento amministrativo
 > [https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing](https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing)
 
 26/10/21
@@ -258,7 +246,8 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 
 ---
 
-## L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale, {--e lancio esercitazione--} (metadatazione di un procedimento)
+## L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale
+
 > [https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing](https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing)
 
 16/11/21
@@ -270,7 +259,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 
 ---
 
-## {--Analisi dei risultati dell’esercitazione di--} metadatazione di un procedimento amministrativo e presentazione di un esempio di catalogo dei procedimenti
+## Presentazione di un esempio di catalogo dei procedimenti amministrativi
 > [https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing](https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing)
 
 23/11/21
@@ -279,6 +268,26 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 - ~~Condivisione con i partecipanti e sessione di confronto con domande e risposte~~
 - Presentazione contenuti minimi per la metadatazione di un procedimento amministrativo 
 - Presentazione del catalogo dei procedimenti del Comune di Palermo come strumento fondamentale per il personale della PA, per i cittadini e soprattutto per la costruzione della piattaforma digitale
+
+
+## Linkografia essenziale
+- [CAD - Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html)
+- [Piano Triennale per l’informatica nella Pubblica Amministrazione 2020 - 2022](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html)
+- [Linee guida su acquisizione e riuso di software per le PA](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/index.html)
+- [Catalogo del software open source a disposizione della PA (AGID + Team Trasformazione Digitale)](https://developers.italia.it/it/software)
+- [Linee guida AGID per lo sviluppo del software sicuro nella PA](https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro)
+- [Linee guida del modello di interoperabilità per la PA](https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/bozza/index.html)
+- [Linee guida al linguaggio della PA](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html)
+- [Linee guida di design per i servizi digitali della PA](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html)
+- [Linee guida per la promozione dei servizi digitali](https://docs.italia.it/italia/designers-italia/lg-comunicazione-docs/it/stabile/index.html)
+- [La carta dei principi per la condotta tecnologica nel procurement della PA](https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io/it/latest/)
+- [Linee guida sull’accessibilità degli strumenti informatici](https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html)
+- [Linee guida per l’erogazione del servizio pubblico wi-fi free](https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/bozza/index.html)
+- [Linee guida AGID sulla sicurezza nel procurement ICT](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122261_725_1.html)
+- [Il modello cloud della PA: come acquisire servizi cloud qualificati](https://cloud.italia.it/marketplace/) -  [Il manuale di abilitazione al cloud](https://docs.italia.it/italia/manuale-di-abilitazione-al-cloud/manuale-di-abilitazione-al-cloud-docs/it/bozza/index.html)
+- [La Strategia nazionale e il Piano operativo per le competenze digitali](https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf)
+- [Linee guida sulla formazione, gestione e conservazione dei documenti informatici](https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html)
+
 
 ## Chi siamo
 A supportare il Comune di Palermo nel processo di mappatura/analisi e digitalizzazione dei procedimenti amministrativi, e necessaria formazione, siamo anche:
