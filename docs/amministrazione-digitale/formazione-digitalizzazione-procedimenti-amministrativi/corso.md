@@ -1,7 +1,10 @@
 # L’analisi dei procedimenti amministrativi in un Ente Locale e i passi per la digitalizzazione
 
 Il Percorso formativo mira a presentare obiettivi e strumenti per avviare una mappatura dei procedimenti svolti da una Pubblica Amministrazione locale, con particolare riferimento all’ente Comune, realizzare un’analisi dei processi in ottica di semplificazione degli stessi, al fine di creare le precondizioni per una reingegnerizzazione degli stessi e la digitalizzazione dei servizi.
-L'attività formativa è stata progettata partendo dal percorso realizzato dall’Amministrazione comunale di Palermo, impegnata da anni nella transizione al digitale, come prevista dal Codice dell’Amministrazione Digitale (Decreto legislativo n. 82/2005 e successive modifiche).  Il primo passo compiuto in tal senso ha visto nel 2017 la digitalizzazione di tutti i documenti dell'Amministrazione destinati a soggetti esterni alla medesima, per poi proseguire il percorso all’inizio del 2019 con la transizione in digitale delle determinazioni dirigenziali, seguite 2 anni dopo dalle Delibere di Giunta comunale. Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di tutti gli uffici, a seguito dell’analisi dei medesimi svolta dal personale degli uffici tra la fine del 2020 ed il primo semestre del 2021.
+
+L'attività formativa è stata progettata partendo dal percorso realizzato dall’Amministrazione comunale di Palermo, impegnata da anni nella transizione al digitale, come prevista dal Codice dell’Amministrazione Digitale (Decreto legislativo n. 82/2005 e successive modifiche).  Il primo passo compiuto in tal senso ha visto nel 2017 la digitalizzazione di tutti i documenti dell'Amministrazione destinati a soggetti esterni alla medesima, per poi proseguire il percorso all’inizio del 2019 con la transizione in digitale delle determinazioni dirigenziali, seguite 2 anni dopo dalle Delibere di Giunta comunale. 
+
+Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di tutti gli uffici, a seguito dell’analisi dei medesimi svolta dal personale degli uffici tra la fine del 2020 ed il primo semestre del 2021.
 
 ## Casi d’uso di digitalizzazione in ambito comunale con lancio esercitazione
 https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do/edit#slide=id.p1
