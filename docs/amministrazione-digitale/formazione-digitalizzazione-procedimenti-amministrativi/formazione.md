@@ -17,7 +17,7 @@ Indice pagine:
 - [L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale](#esperienza-e-strumenti-in-un-caso-reale-di-analisi-dei-procedimenti-amministrativi)
 - [Mappatura di procedimento amministrativo](#mappatura-di-procedimento-amministrativo)
 - [Le dimensioni e i metadati che identificano un procedimento amministrativo](#le-dimensioni-e-i-metadati-che-identificano-un-procedimento-amministrativo)
-- [L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale](#l’esperienza-di-metadatazione-dei-procedimenti-amministrativi-partendo-da-un-caso-reale)  
+- [L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale](#esperienza-di-metadatazione-dei-procedimenti-amministrativi-partendo-da-un-caso-reale)  
 - [Un esempio di catalogo dei procedimenti amministratvi](#presentazione-di-un-esempio-di-catalogo-dei-procedimenti-amministrativi)
 - [Linkografia essenziale](#linkografia-essenziale)
 - [Chi siamo e perchè lo facciamo](#chi-siamo)
@@ -246,7 +246,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 
 ---
 
-## L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale
+## Esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale
 
 > [https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing](https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing)
 
