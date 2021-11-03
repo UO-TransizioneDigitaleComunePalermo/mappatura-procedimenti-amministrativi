@@ -1,10 +1,25 @@
 # L’analisi dei procedimenti amministrativi in un Ente Locale e i passi per la digitalizzazione
 
-Il Percorso formativo mira a presentare obiettivi e strumenti per avviare una mappatura dei procedimenti svolti da una Pubblica Amministrazione locale, con particolare riferimento all’ente Comune, realizzare un’analisi dei processi in ottica di semplificazione degli stessi, al fine di creare le precondizioni per una reingegnerizzazione degli stessi e la digitalizzazione dei servizi.
+Questo documento di tipo formativo mira a presentare obiettivi e strumenti per avviare una mappatura dei procedimenti svolti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune", realizzare un’analisi dei procedimenti in ottica di semplificazione, al fine di creare le precondizioni per una reingegnerizzazione degli stessi e la relativa digitalizzazione.
 
-L'attività formativa è stata progettata partendo dal percorso realizzato dall’Amministrazione comunale di Palermo, impegnata da anni nella transizione al digitale, come prevista dal Codice dell’Amministrazione Digitale (Decreto legislativo n. 82/2005 e successive modifiche).  Il primo passo compiuto in tal senso ha visto nel 2017 la digitalizzazione di tutti i documenti dell'Amministrazione destinati a soggetti esterni alla medesima, per poi proseguire il percorso all’inizio del 2019 con la transizione in digitale delle determinazioni dirigenziali, seguite 2 anni dopo dalle Delibere di Giunta comunale. 
+Il documento è stato progettato partendo dal percorso realizzato dall’Amministrazione comunale di Palermo, impegnata da anni nella transizione al digitale, come prevista dal Codice dell’Amministrazione Digitale (Decreto legislativo n. 82/2005 e successive modifiche).  
+
+Il primo passo compiuto in tal senso ha visto nel 2017 la digitalizzazione di tutti i documenti dell'Amministrazione destinati a soggetti esterni alla medesima, per poi proseguire il percorso all’inizio del 2019 con la transizione in digitale delle Determinazioni dirigenziali, seguite, 2 anni dopo, dalle Deliberazioni di Giunta comunale. 
 
 Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di tutti gli uffici, a seguito dell’analisi dei medesimi svolta dal personale degli uffici tra la fine del 2020 ed il primo semestre del 2021.
+
+---
+
+Indice pagine:
+
+1. Casi d’uso di digitalizzazione in ambito comunale 
+2. Presentazione elementi minimi (metadati) di una determinazione dirigenziale
+3. L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale (mappatura procedimento amministrativo)
+4. Le dimensioni e i metadati che identificano un procedimento amministrativo
+5. L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale
+6. Presentazione di un esempio di catalogo dei procedimenti amministratvi
+7. Chi siamo e perchè lo facciamo
+
 
 ---
 
@@ -25,7 +40,7 @@ Articolo 15 del Codice Amministrazione Digitale (CAD): “razionalizzare e sempl
 **Razionalizzare e semplificare**:
 
 - **da un adempimento → (Codice Amministrazione Digitale)** 
-- **ad un'opportunità → (nuovo modo di lavorare e far fruire i servizi pubblici)**
+- **ad un'opportunità → (nuovo modo di lavorare e far fruire ai cittadini i servizi pubblici)**
 
 ### La cronistoria delle attività realizzate dal Comune di Palermo, impegnato da anni nella transizione al digitale, come prevista dal CAD (d.lgs. n. 82/2005 e succ. modifiche/integrazioni). 
 
@@ -35,12 +50,11 @@ Step:
 - nel 2019 la digitalizzazione delle Determinazioni Dirigenziali, 
 - nel 2021 la digitalizzazione delle Deliberazioni di Giunta. 
 
-La sfida più grande in corso è quella di digitalizzare i procedimenti amministrativi degli uffici. 
-Dal 2020 tutte le UO degli uffici hanno effettuato l’analisi dei procedimenti che serve per:
+La sfida più grande in corso è quella di digitalizzare i procedimenti amministrativi degli uffici. Dal 2020 tutte le UO degli uffici hanno effettuato l’analisi dei procedimenti che serve per:
 
-- catalogarli tutti in un elenco ben preciso,
+- catalogarli tutti in un elenco ben definito,
 - definire gli step operativi per procedimento con ordine temporale delle azioni, 
-- definire i metadati di ogni procedimento per individuare gli applicativi informatici che possono pienamente soddisfare ogni singola necessità di gestione del procedimento stesso
+- definire i metadati di ogni procedimento per individuare gli applicativi informatici che possono pienamente soddisfare ogni singola necessità di gestione del procedimento stesso.
 
 ### Dematerializzazione
 Il Codice dell’Amministrazione Digitale (CAD) prevede la **DEMATERIALIZZAZIONE** dei processi amministrativi degli enti pubblici. 
@@ -49,14 +63,14 @@ I processi amministrativi sono caratterizzati dalla presenza di documenti ammini
 - pubblicazione online (amministrazione trasparente, albo pretorio, open data);
 - invio ad altri enti o al cittadino (certificato, attestazione, autorizzazione,..) via email/PEC/applicativo informatico.
 
-La DEMATERIALIZZAZIONE è l’attività di produzione, gestione e conservazione dei documenti informatici, che viene svolta attraverso l’uso di applicativi. 
+La Dematerializzazione è l’attività di produzione, gestione e conservazione dei documenti informatici, che viene svolta attraverso l’uso di applicativi informatici. 
 I documenti informatici:
 
 1. nascono digitali,  
 2. sono parte integrante dei procedimenti amministrativi specifici dell’ente, gestiti con applicativo specifico,  
 3. sono collegati al registro di protocollo informatico dell’ente.
 
-Nella DEMATERIALIZZAZIONE si opera con il **data entry**, cioè la compilazione di testo in campi di un applicativo (software). I dati inseriti nel software finiscono in un database strutturato dal quale si possono fare sia estrazioni specifiche (ricerche) per parole chiave, che report periodici. Dal database possono essere generati automaticamente documenti amministrativi informatici da inviare al cittadino che ha effettuato richieste di servizio
+Nella Dematerializzazione si opera con il **data entry**, cioè la compilazione di testo in campi di un applicativo (software). I dati inseriti nel software finiscono in un database strutturato dal quale si possono fare sia estrazioni specifiche (ricerche) per parole chiave, che report periodici. Dal database possono essere generati automaticamente documenti amministrativi informatici da inviare al cittadino che ha effettuato richieste di servizio
 
 ### Documento informatico e Protocollo informatico 
 Nella digitalizzazione di un ente pubblico assume una rilevante importanza il documento informatico.
@@ -78,7 +92,7 @@ La SMATERIALIZZAZIONE è l'attività che si effettua per riportare un documento 
 
 **documenti amministrativi nativi digitali + documenti informatici frutto di scansione.**
 
-Nella SMATERIALIZZAZIONE si opera con la scansione, cioè l’acquisizione dell’immagine del documento cartaceo.  Il documento scansionato è una vera e propria “fotografia” del documento cartaceo. Non è possibile estrapolare informaticamente dati da un documento scansionato (a meno che non si usano programmi di OCR in grado di leggere testo e riportarlo in un formato di testo di tipo "aperto").
+Nella Smaterializzazione si opera con la scansione, cioè l’acquisizione dell’immagine del documento cartaceo.  Il documento scansionato è una vera e propria “fotografia” del documento cartaceo. Non è possibile estrapolare informaticamente dati da un documento scansionato (a meno che non si usano programmi di OCR in grado di leggere testo e riportarlo in un formato di testo di tipo "aperto").
 
 
 ### Era il 12 Agosto 2016 ...
@@ -87,12 +101,12 @@ Il 12 agosto 2016 doveva essere la data dello switch-off definitivo della produz
 
 Si trascurava il fatto che naturalmente i documenti cartacei avrebbero potuto ancora essere consegnati dai cittadini per le loro istanze, comunicazioni ecc., in quanto l’obbligo riguardava soltanto i documenti scritti da una P.A. **Meglio parlare allora di un sistema “misto”** di documenti prodotti e ricevuti perché il cittadino sprovvisto, ad esempio, di posta elettronica per ricevere comunicazioni dalla PA., avrebbe comunque ricevuto a casa un documento cartaceo, sebbene l’originale fosse stato digitale fin dall’origine...
 
-La data del 12 agosto fu sospesa dal d.lgs. 179/2016, che disponeva l’aggiornamento delle regole tecniche entro quattro mesi dall’entrata in vigore dello stesso decreto.
+La data del 12 agosto fu sospesa dal d.lgs. 179/2016, che disponeva l’aggiornamento delle "regole tecniche" entro quattro mesi dall’entrata in vigore dello stesso decreto.
 
 > **L'art. 40 del CAD (Formazione di documenti informatici)** prevede che 1. *Le pubbliche amministrazioni formano gli originali dei propri documenti, inclusi quelli inerenti ad albi, elenchi e pubblici registri, con mezzi informatici secondo le disposizioni di cui al presente codice e le ((Linee guida))*
 
 ### Cosa decide di fare il Comune di Palermo?
-Palermo, a differenza della gran parte degli altri Comuni, facendo tesoro di quanto contenuto nell’art. 61 del Dlgs. 179/2016 che prevedeva che le regole tecniche vigenti nelle materie del Codice dell’amministrazione digitale restassero efficaci fino all’adozione del nuovo decreto, ha deciso di iniziare un graduale passaggio al digitale, e di rendere nativi digitali tutti quegli atti che abbiano come destinatario un soggetto esterno all’Amministrazione.
+Palermo, facendo tesoro di quanto contenuto nell’art. 61 del Dlgs. 179/2016 che prevedeva che le regole tecniche vigenti nelle materie del Codice dell’amministrazione digitale restassero efficaci fino all’adozione del nuovo decreto, ha deciso di iniziare un graduale passaggio al digitale, e di rendere nativi digitali tutti quegli atti che abbiano come destinatario un soggetto esterno all’Amministrazione.
 
 Sarebbe stato più corretto partire dalla digitalizzazione dei vari processi interni all’Amministrazione, ma stante la difficoltà e i tempi necessari per un’analisi del genere, si è deciso di **partire dal basso** con la digitalizzazione e sottoscrizione digitale dei documenti informatici di rilevanza esterna secondo quanto previsto dall’art. 34 del CAD.
 
@@ -115,7 +129,7 @@ E' stata effetuata una capillare attività di sensibilizzazione e formazione sul
 - n. 17 Libri Firma NON Dirigenziali relativi a Consiglio Comunale, Giunta, Commissioni Consiliari (7), Consigli di Circoscrizione(8)
 - n. 107 Libri Firma Dirigenziali complessivamente realizzati anche a seguito delle due riorganizzazioni dell’Amministrazione.
 
-`Cambia il modo di lavorare al Comune di Palermo: la carta comincia a scomparire dagli uffici`.
+Cambia il modo di lavorare al Comune di Palermo: la carta comincia a scomparire dagli uffici.
 
 
 **Dal 2 Gennaio 2019 tutte le Determinazioni Dirigenziali del Comune di Palermo diventano digitali**
@@ -135,13 +149,13 @@ La reingegnerizzazione è un attività di negoziazione tra:
 
 con l’obiettivo di velocizzare e ottimizzare la gestione dei procedimenti. 
 
-La reingegnerizzazione va attuata dopo alcuni **step**:
+La **reingegnerizzazione** va attuata dopo alcuni **step**:
 
 1. **analisi dettagliata dei procedimenti** condotta negli uffici responsabili dei procedimenti (es. usare un formato tabellare può aiutare); 
 2. **mappatura dei singoli procedimenti individuati**. Definire un catalogo finale (elenco) dei procedimenti consultabile online anche dai cittadini così da fornire informazioni dettagliate (es. sui servizi di interesse della collettività - obbligo d.lgs. 33/2013); 
 3. **valutazione congiunta delle attività che generano “sprechi” di lavoro**.
 
-Il 3° step rappresenta il tempo in cui può essere effettuata la “reingegnerizzazione” tenendo conto delle modifiche da apportare per un ottimale gestione del procedimento amministrativo nella nuova **modalità digitale**.
+Il 3° step rappresenta il tempo in cui può essere effettuata la “reingegnerizzazione” tenendo conto delle modifiche da apportare ai procedimenti per un ottimale gestione del procedimento stesso nella nuova **modalità digitale**.
 
 ### Il supporto dell’Intelligenza Artificiale nella gestione digitale di procedimenti amministrativi e servizi
 L'Intelligenza Artificiale (algoritmi dentro i software) può dare un enorme supporto nella gestione quotidiana di procedimenti e servizi.
@@ -155,7 +169,7 @@ Oggi spesso pensiamo la documentazione della PA come formati **PDF** che derivan
 Dimentichiamo di lavorare principalmente per documenti **PDF**.
 
 Dobbiamo lavorare per compilazione di campi in un applicativo, come quando compriamo un biglietto aereo online o usiamo piattaforme di acquisti online. 
-La compilazione (editing) di campi in un applicativo genera automaticamente diversi formati: **XML** - **JSON** - **ODT** - **DOCX** e solo alla fine il formato PDF per la finalità di essere firmato digitalmente.
+La compilazione (editing) di campi in un applicativo genera automaticamente diversi formati: **XML** - **JSON** - **ODT** - **DOCX** e solo alla fine il formato PDF per la finalità di "essere firmato digitalmente".
 
 ### Quando si realizzano servizi online (e digitalizzazione di procedimenti amministrativi) nella PA si pensa a:
 
@@ -224,13 +238,13 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 
 ---
 
-## `Analisi dei risultati dell’esercitazione e` mappatura di un procedimento amministrativo
+## {--Analisi dei risultati dell’esercitazione e--}` mappatura di un procedimento amministrativo
 > [https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing](https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing)
 
 26/10/21
 
-- `Analisi dei risultati delle esercitazioni svolte dai partecipanti, con eventuale presentazione da parte dei gruppi` 
-- `Condivisione con i partecipanti e sessione di confronto con domande e risposte` 
+- --Analisi dei risultati delle esercitazioni svolte dai partecipanti, con eventuale presentazione da parte dei gruppi-- 
+- --Condivisione con i partecipanti e sessione di confronto con domande e risposte-- 
 - Presentazione contenuti minimi per la mappatura di un procedimento amministrativo
 
 ---
