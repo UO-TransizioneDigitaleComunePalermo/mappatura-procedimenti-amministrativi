@@ -9,7 +9,7 @@ Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di t
 ---
 
 ## Casi d’uso di digitalizzazione in ambito comunale (con lancio esercitazione)
-> https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do/edit#slide=id.p1
+> [https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do](https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do)
 
 28/09/21
 
@@ -192,7 +192,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 
 
 ## Analisi dei risultati dell’esercitazione e presentazione elementi minimi (metadati) di una determinazione dirigenziale
-> https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing
+> [https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing](https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing)
 
 5/10/21
 
@@ -203,7 +203,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 ---
 
 ## L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale” e lancio dell’esercitazione (Mappatura procedimento amministrativo) 
-> https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing
+> [https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing](https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing)
 
 19/10/21 
 
@@ -217,7 +217,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 ---
 
 ## Analisi dei risultati dell’esercitazione e mappatura di un procedimento amministrativo
-> https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing
+> [https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing](https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing)
 
 26/10/21
 
@@ -228,7 +228,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 ---
 
 ## Le dimensioni e i metadati che identificano un procedimento amministrativo 
-> https://drive.google.com/drive/folders/1E-PRhGHVv9yfKDkalNgi6CWkW5xfVKsm?usp=sharing
+> [https://drive.google.com/drive/folders/1E-PRhGHVv9yfKDkalNgi6CWkW5xfVKsm?usp=sharing](https://drive.google.com/drive/folders/1E-PRhGHVv9yfKDkalNgi6CWkW5xfVKsm?usp=sharing)
 
 9/11/21
 
@@ -239,7 +239,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 ---
 
 ## L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale, e lancio esercitazione (metadatazione di un procedimento)
-> https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing
+> [https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing](https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing)
 
 16/11/21
 
@@ -251,7 +251,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 ---
 
 ## Analisi dei risultati dell’esercitazione di metadatazione di un procedimento amministrativo e presentazione di un esempio di catalogo dei procedimenti
-> https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing
+> [https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing](https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing)
 
 23/11/21
 
@@ -260,7 +260,13 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 - Presentazione contenuti minimi per la metadatazione di un procedimento amministrativo 
 - Presentazione del catalogo dei procedimenti del Comune di Palermo come strumento fondamentale per il personale della PA, per i cittadini e soprattutto per la costruzione della piattaforma digitale
 
+## Chi siamo
+A supportare il Comune di Palermo nel processo di mappatura/analisi e digitalizzazione dei procedimenti amministrativi e necessaria formazione, siamo:
 
+- **Ciro Spataro** | c.spatarro@comune.palermo.it | 0917409340
+- **Sergio Schimicci** | s.schimicci@comune.palermo.it | 0917407336
+
+del Servizio Innovazione - Settore Servizi Direzione Generale
 
 
 
