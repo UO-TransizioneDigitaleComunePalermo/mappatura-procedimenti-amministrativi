@@ -76,14 +76,13 @@ Nella Dematerializzazione si opera con il **data entry**, cioè la compilazione 
 ### Documento informatico e Protocollo informatico 
 Nella digitalizzazione di un ente pubblico assume una rilevante importanza il documento informatico.
 
-    === "Documento informatico"
+=== "Documento informatico"
 
-        Il documento informatico è: **la memorizzazione su supporto informatico in formato digitale nativo delle informazioni derivanti da processi informatici dell’ente, o dalla presentazione telematica di dati attraverso moduli resi disponibili online all’utente, da compilare sulla pagina web**.
-        
-        
-    === "Protocollo informatico"
+    Il documento informatico è: **la memorizzazione su supporto informatico in formato digitale nativo delle informazioni derivanti da processi informatici dell’ente, o dalla presentazione telematica di dati attraverso moduli resi disponibili online all’utente, da compilare sulla pagina web**.
+             
+=== "Protocollo informatico"
 
-        Il protocollo informatico è: **un applicativo nel quale vengono tracciati e metadatati i documenti (in formato digitale) che l’ente produce. Il protocollo deve essere integrato informaticamente con gli applicativi gestionali dell’ente nei quali si creano, si firmano digitalmente e si conservano i documenti informatici**.
+    Il protocollo informatico è: **un applicativo nel quale vengono tracciati e metadatati i documenti (in formato digitale) che l’ente produce. Il protocollo deve essere integrato informaticamente con gli applicativi gestionali dell’ente nei quali si creano, si firmano digitalmente e si conservano i documenti informatici**.
 
 
 ### Smaterializzazione 
