@@ -42,7 +42,7 @@ def bubble_sort(items):
 
 Il seguente codice è posizionato nel file `docs/override/main.html` e comincia da questa riga: [**https://github.com/cirospat/cirospataro/blob/6b0d3108872bccf7c803955b15256037ca84a129/docs/overrides/main.html#L5**](https://github.com/cirospat/cirospataro/blob/6b0d3108872bccf7c803955b15256037ca84a129/docs/overrides/main.html#L5)
 
-``` html   
+``` markdown   
 <!-- Add announcement here, including arbitrary HTML (https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) -->
 {% block announce %}
    <span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;"><b>Importante</b>:</span> questa è una <strong><span style="color: #ff0000;">prova</span></strong> di announcement nell'header sopra il titolo, ed è posizionata nel file docs/override/main.html 
