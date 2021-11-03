@@ -20,20 +20,24 @@ Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di t
 
 Articolo 15 del Codice Amministrazione Digitale (CAD): “razionalizzare e semplificare” 
 
-> Articolo 15, comma 2: *... le pubbliche amministrazioni provvedono in particolare a razionalizzare e semplificare i procedimenti amministrativi, le attività gestionali, i documenti, la modulistica, le modalità di accesso e di presentazione delle istanze da parte dei cittadini e delle imprese, assicurando che l’utilizzo delle tecnologie dell’informazione e della comunicazione avvenga in conformità alle prescrizioni tecnologiche definite nelle regole tecniche di cui all’articolo 71.*
+> **Articolo 15, comma 2**: *... le pubbliche amministrazioni provvedono in particolare a razionalizzare e semplificare i procedimenti amministrativi, le attività gestionali, i documenti, la modulistica, le modalità di accesso e di presentazione delle istanze da parte dei cittadini e delle imprese, assicurando che l’utilizzo delle tecnologie dell’informazione e della comunicazione avvenga in conformità alle prescrizioni tecnologiche definite nelle regole tecniche di cui all’articolo 71.*
 
 **Razionalizzare e semplificare**:
+
 - da un adempimento → (Codice Amministrazione Digitale) 
 - ad un'opportunità → (nuovo modo di lavorare e far fruire i servizi pubblici)
 
 ### La cronistoria delle attività realizzate dal Comune di Palermo, impegnato da anni nella transizione al digitale, come prevista dal CAD (d.lgs. n. 82/2005 e succ. modifiche/integrazioni). 
+
 STEP:  
+
 - il primo passo compiuto in tal senso ha visto nel 2017 la digitalizzazione di tutti i documenti dell'Amministrazione destinati a soggetti esterni (note), 
 - nel 2019 la digitalizzazione delle Determinazioni Dirigenziali, 
 - nel 2021 la digitalizzazione delle Deliberazioni di Giunta. 
 
 La sfida più grande in corso è quella di digitalizzare i procedimenti amministrativi degli uffici. 
 Dal 2020 tutte le UO degli uffici hanno effettuato l’analisi dei procedimenti che serve per:
+
 - catalogarli tutti in un elenco ben preciso,
 - definire gli step operativi per procedimento con ordine temporale delle azioni, 
 - definire i metadati di ogni procedimento per individuare gli applicativi informatici che possono pienamente soddisfare ogni singola necessità di gestione del procedimento stesso
@@ -41,10 +45,13 @@ Dal 2020 tutte le UO degli uffici hanno effettuato l’analisi dei procedimenti 
 ### Dematerializzazione
 Il Codice dell’Amministrazione Digitale (CAD) prevede la **DEMATERIALIZZAZIONE** dei processi amministrativi degli enti pubblici. 
 I processi amministrativi sono caratterizzati dalla presenza di documenti amministrativi che hanno una nascita, cioè la formazione del documento, e hanno una fine, quale ad es.:
+
 - pubblicazione online (amministrazione trasparente, albo pretorio, open data);
 - invio ad altri enti o al cittadino (certificato, attestazione, autorizzazione,..) via email/PEC/applicativo informatico.
 
-La DEMATERIALIZZAZIONE è l’attività di produzione, gestione e conservazione dei documenti informatici, che viene svolta attraverso l’uso di applicativi. I documenti informatici 
+La DEMATERIALIZZAZIONE è l’attività di produzione, gestione e conservazione dei documenti informatici, che viene svolta attraverso l’uso di applicativi. 
+I documenti informatici:
+
 1) nascono digitali, 
 2) sono parte integrante dei procedimenti amministrativi specifici dell’ente, gestiti con applicativo specifico,  
 3) sono collegati al registro di protocollo informatico dell’ente.
@@ -77,23 +84,26 @@ La data del 12 agosto fu sospesa dal d.lgs. 179/2016, che disponeva l’aggiorna
 
 > L'art. 40 del CAD (Formazione di documenti informatici) prevede che 1. *Le pubbliche amministrazioni formano gli originali dei propri documenti, inclusi quelli inerenti ad albi, elenchi e pubblici registri, con mezzi informatici secondo le disposizioni di cui al presente codice e le ((Linee guida))*
 
-### Cosa decide di fare il Comune di Palermo???
+### Cosa decide di fare il Comune di Palermo?
 Palermo, a differenza della gran parte degli altri Comuni, facendo tesoro di quanto contenuto nell’art. 61 del Dlgs. 179/2016 che prevedeva che le regole tecniche vigenti nelle materie del Codice dell’amministrazione digitale restassero efficaci fino all’adozione del nuovo decreto, ha deciso di iniziare un graduale passaggio al digitale, e di rendere nativi digitali tutti quegli atti che abbiano come destinatario un soggetto esterno all’Amministrazione.
 
 Sarebbe stato più corretto partire dalla digitalizzazione dei vari processi interni all’Amministrazione, ma stante la difficoltà e i tempi necessari per un’analisi del genere, si è deciso di **partire dal basso** con la digitalizzazione e sottoscrizione digitale dei documenti informatici di rilevanza esterna secondo quanto previsto dall’art. 34 del CAD.
 
 **A febbraio del 2017 nasce la Procedura informatica "Protocollo-Libro Firma Digitale"** per la firma di note con rilevanza esterna. La procedura si compone di 3 fasi:
+
 1) **Prima Fase**: è la fase della Richiesta Avanzata. Il soggetto Responsabile della U.O., o il responsabile del procedimento nel caso di UU.OO. complesse, od un loro incaricato, provvede a caricare nella procedura il documento da veicolare in formato PDF. 
 2) **Seconda Fase**: è la fase della Predisposizione alla Firma. Il soggetto che ha effettuato la richiesta avanzata, riceverà una e-mail che lo informerà del corretto caricamento dell’atto. A questo punto si collegherà all’applicativo Libro Firma e stabilirà le “policy di firma” sottoponendo il documento al Dirigente (o ai Dirigenti) responsabili. 
 3) **Terza Fase**: è la fase della Firma Digitale. Il Dirigente responsabile (o i Dirigenti nel caso di documento sottoposto a firma doppia) provvede a firmare digitalmente il documento collegandosi all’applicativo Libro Firma, ed in automatico il documento stesso verrà numerato al protocollo informatico ed archiviato digitalmente nello stesso. Una e-mail automatica informerà il richiedente (colui che nella prima fase ha caricato il documento sulla piattaforma) dell’avvenuto completamento della procedura e del numero e data di protocollo rilasciato.
 
 La Procedura informatica "Protocollo-Libro Firma Digitale" serve a:
+
 - metadatare adeguatamente il documento amministrativo nel protocollo informatico,
 - firmare digitalmente il documento amministrativo,
 - assegnare un numero e una data di protocollo al documento amministrativo,
 - conservare digitalmente a norma il documento amministrativo.
 
 E' stata effetuata una capillare attività di sensibilizzazione e formazione sulla procedura "Protocollo-Libro Firma Digitale". Dal 1 febbraio 2017 al 31 Dicembre 2020 viene effettuata la formazione sul digitale e l’addestramento all’utilizzo della procedura che si conclude con i seguenti numeri:
+
 - n. 1.575 dipendenti formati ed abilitati 
 - n. 17 Libri Firma NON Dirigenziali relativi a Consiglio Comunale, Giunta, Commissioni Consiliari (7), Consigli di Circoscrizione(8)
 - n. 107 Libri Firma Dirigenziali complessivamente realizzati anche a seguito delle due riorganizzazioni dell’Amministrazione.
@@ -112,12 +122,14 @@ Estrema cura viene riposta nella metadatazione della Determinazione, così come 
 ### Reingegnerizzazione prima della digitalizzazione
 
 La reingegnerizzazione è un attività di negoziazione tra:
+
 - esigenze e prassi operative consolidate nel tempo negli uffici;
 - necessità di evitare sprechi/ridondanze nella gestione dei procedimenti;
 
 con l’obiettivo di velocizzare e ottimizzare la gestione dei procedimenti. 
 
 La reingegnerizzazione va attuata dopo alcuni step:
+
 1) analisi dettagliata dei procedimenti condotta negli uffici responsabili dei procedimenti (es. usare un formato tabellare può aiutare); 
 2) mappatura dei singoli procedimenti individuati. Definire un catalogo finale (elenco) dei procedimenti consultabile online anche dai cittadini così da fornire informazioni dettagliate (es. sui servizi di interesse della collettività - obbligo d.lgs. 33/2013) 
 3) valutazione congiunta delle attività che generano “sprechi” di lavoro.
@@ -138,13 +150,13 @@ Dobbiamo lavorare per compilazione di campi in un applicativo, come quando compr
 La compilazione (editing) di campi in un applicativo genera automaticamente diversi formati: **XML** - **JSON** - **ODT** - **DOCX** e solo alla fine il formato PDF per la finalità di essere firmato digitalmente.
 
 ### Quando si realizzano servizi online (e digitalizzazione di procedimenti amministrativi) nella PA si pensa a:
+
 - Digital first, tutto nella PA nasce in formato digitale.
 - Once only, la PA chiede un dato una sola volta al cittadino e se una PA ha bisogno di informazioni che detiene un altra PA, non usa il cittadino come garzone per il trasferimento del documento, ma i dati vengono scambiati tramite interoperabilità degli applicativi informatici.
 - Cloud first, i servizi delle PA sono gestiti nativamente su servizi cloud.
 - Interoperabile by design, le PA, nella realizzazione di piattaforme applicative, pensano all’interoperabilità dei software e delle banche dati, per lo scambio dati tra lo stesso ente o tra enti diversi.
 
 ### 5 livelli di interazione dei servizi online
-
 
 | **1** | **2** | **3** | **4** | **5** |
 |---|---|---|---|---|
@@ -177,6 +189,7 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 
 
 ---
+
 
 ## Analisi dei risultati dell’esercitazione e presentazione elementi minimi (metadati) di una determinazione dirigenziale
 > https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing
