@@ -12,18 +12,19 @@ Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di t
 
 Indice pagine:
 
-1. Casi d’uso di digitalizzazione in ambito comunale 
+1. Casi d’uso di digitalizzazione in ambito comunale
 2. Presentazione elementi minimi (metadati) di una determinazione dirigenziale
 3. L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale (mappatura procedimento amministrativo)
 4. Le dimensioni e i metadati che identificano un procedimento amministrativo
 5. L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale
-6. Presentazione di un esempio di catalogo dei procedimenti amministratvi
+6. Un esempio di catalogo dei procedimenti amministratvi
 7. Chi siamo e perchè lo facciamo
 
 
 ---
 
-## Casi d’uso di digitalizzazione in ambito comunale `(con lancio esercitazione)`
+## Casi d’uso di digitalizzazione in ambito comunale
+
 > [https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do](https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do)
 
 28/09/21
@@ -31,7 +32,7 @@ Indice pagine:
 !!! Note "strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione"
     - Caso d’uso: il documento digitale; presentazione Piattaforma informatica Libro Firma per la gestione delle note in uscita dall’ente (corrispondenza) e percorso/esperienza del Comune di Palermo 
     - Caso d’uso: Determine e Delibere Digitali; presentazione Piattaforma per la gestione delle Determinazioni Dirigenziali e delle Deliberazioni e percorso/esperienza del Comune di Palermo 
-    - `Lancio esercitazione: a partire da una/due determinazioni dirigenziali reali, individuare gli elementi minimi (metadati) da considerare per la loro digitalizzazione tramite una soluzione informatica - presentazione modalità di consegna compito ed eventuale divisione dei partecipanti in gruppi di lavoro`
+    - ~~Lancio esercitazione: a partire da una/due determinazioni dirigenziali reali, individuare gli elementi minimi (metadati) da considerare per la loro digitalizzazione tramite una soluzione informatica - presentazione modalità di consegna compito ed eventuale divisione dei partecipanti in gruppi di lavoro~~
 
 Articolo 15 del Codice Amministrazione Digitale (CAD): “razionalizzare e semplificare” 
 
@@ -74,8 +75,6 @@ Nella Dematerializzazione si opera con il **data entry**, cioè la compilazione 
 
 ### Documento informatico e Protocollo informatico 
 Nella digitalizzazione di un ente pubblico assume una rilevante importanza il documento informatico.
-
-!!! note "Documento informatico e Protocollo informatico"
 
     === "Documento informatico"
 
