@@ -213,38 +213,38 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 ---
 
 
-## `Analisi dei risultati dell’esercitazione e` presentazione elementi minimi (metadati) di una determinazione dirigenziale
+## {--Analisi dei risultati dell’esercitazione e--} presentazione elementi minimi (metadati) di una determinazione dirigenziale
 > [https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing](https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing)
 
 5/10/21
 
-- `Analisi dei risultati delle esercitazioni svolte dai partecipanti`
-- `Condivisione con i partecipanti e sessione di confronto con domande e risposte` 
+- ~~Analisi dei risultati delle esercitazioni svolte dai partecipanti~~
+- ~~Condivisione con i partecipanti e sessione di confronto con domande e risposte~~
 - Presentazione elementi minimi (metadati) di una determinazione dirigenziale
 
 ---
 
-## L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale” `e lancio dell’esercitazione` (Mappatura procedimento amministrativo) 
+## L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale” {--e lancio dell’esercitazione--} (Mappatura procedimento amministrativo) 
 > [https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing](https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing)
 
 19/10/21 
 
 - Illustrazione del percorso realizzato al Comune di Palermo per la realizzazione dell’analisi dei procedimenti 
-- Illustrazione delle diverse casistiche di procedimenti, ponendo attenzione alla distinzione tra procedimenti ed endoprocedimenti e a singole attività che eventualmente possono far parte del procedimento. Si parte dalla definizione giuridica di procedimento amministrativo e si procede con l’individuazione di uno-due procedimenti a titolo di esempio per la compilazione della scheda “step dei procedimenti amministrativi”. `L’interazione con i partecipanti si renderà estremamente utile ai fini della corretta comprensione degli step che caratterizzano il ciclo di vita del procedimento amministrativo.` Si porrà adeguata attenzione alla differenza tra i procedimenti attivati d’ufficio e i procedimenti attivati da iniziativa di parte di un cittadino/cliente. 
+- Illustrazione delle diverse casistiche di procedimenti, ponendo attenzione alla distinzione tra procedimenti ed endoprocedimenti e a singole attività che eventualmente possono far parte del procedimento. Si parte dalla definizione giuridica di procedimento amministrativo e si procede con l’individuazione di uno-due procedimenti a titolo di esempio per la compilazione della scheda “step dei procedimenti amministrativi”. ~~L’interazione con i partecipanti si renderà estremamente utile ai fini della corretta comprensione degli step che caratterizzano il ciclo di vita del procedimento amministrativo.~~ Si porrà adeguata attenzione alla differenza tra i procedimenti attivati d’ufficio e i procedimenti attivati da iniziativa di parte di un cittadino/cliente. 
 - presentazione della scheda con obiettivi dei dirigenti da Piano della performance (e penalizzazioni su retribuzione di risultato) 
 - presentazione del modello di scheda tabellare per la redazione/mappatura dei procedimenti, che i responsabili dei procedimenti amministrativi devono compilare insieme al Dirigente di riferimento 
 - presentazione della metodologia di monitoraggio per la compilazione e raccolta delle schede compilate dai referenti degli uffici
-- `lancio dell’esercitazione:` compilazione `(in gruppo o individualmente)` di una scheda di mappatura di un procedimento amministrativo  o più tipologie di procedimenti
+- ~~lancio dell’esercitazione:~~ compilazione ~~(in gruppo o individualmente)~~ di una scheda di mappatura di un procedimento amministrativo  o più tipologie di procedimenti
 
 ---
 
-## {--Analisi dei risultati dell’esercitazione e--}` mappatura di un procedimento amministrativo
+## {--Analisi dei risultati dell’esercitazione e--} mappatura di un procedimento amministrativo
 > [https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing](https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing)
 
 26/10/21
 
-- --Analisi dei risultati delle esercitazioni svolte dai partecipanti, con eventuale presentazione da parte dei gruppi-- 
-- --Condivisione con i partecipanti e sessione di confronto con domande e risposte-- 
+- ~~Analisi dei risultati delle esercitazioni svolte dai partecipanti, con eventuale presentazione da parte dei gruppi~~
+- ~~Condivisione con i partecipanti e sessione di confronto con domande e risposte~~
 - Presentazione contenuti minimi per la mappatura di un procedimento amministrativo
 
 ---
@@ -260,25 +260,25 @@ A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del softw
 
 ---
 
-## L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale, `e lancio esercitazione` (metadatazione di un procedimento)
+## L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale, {--e lancio esercitazione--} (metadatazione di un procedimento)
 > [https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing](https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing)
 
 16/11/21
 
 - Illustrazione dell’esperienza di metadatazione svolta al Comune di Palermo e dei suoi obiettivi (es. catalogo dei procedimenti) 
 - Presentazione della scheda relativa ai metadati dei procedimenti amministrativi utilizzata dal Comune di Palermo, presentando e sottolineando l’importanza di ogni specifica voce 
-- `Compilazione con i partecipanti della scheda metadati per un procedimento (es. uno di quelli mappati in esercitazione Modulo 2)` 
-- `Lancio esercitazione:` compilazione `(in gruppo o individualmente)` di una scheda di metadatazione di un procedimento amministrativo o più procedimenti (a partire da format di scheda excel utilizzata nel Comune e compilata dagli Uffici).
+- ~~Compilazione con i partecipanti della scheda metadati per un procedimento (es. uno di quelli mappati in esercitazione Modulo 2)~~
+- ~~Lancio esercitazione:` compilazione `(in gruppo o individualmente)` di una scheda di metadatazione di un procedimento amministrativo o più procedimenti (a partire da format di scheda excel utilizzata nel Comune e compilata dagli Uffici)~~
 
 ---
 
-## `Analisi dei risultati dell’esercitazione di` metadatazione di un procedimento amministrativo e presentazione di un esempio di catalogo dei procedimenti
+## {--Analisi dei risultati dell’esercitazione di--} metadatazione di un procedimento amministrativo e presentazione di un esempio di catalogo dei procedimenti
 > [https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing](https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing)
 
 23/11/21
 
-- `Analisi dei risultati delle esercitazioni svolte dai partecipanti, con eventuale presentazione da parte dei gruppi`  
-- `Condivisione con i partecipanti e sessione di confronto con domande e risposte` 
+- ~~Analisi dei risultati delle esercitazioni svolte dai partecipanti, con eventuale presentazione da parte dei gruppi~~
+- ~~Condivisione con i partecipanti e sessione di confronto con domande e risposte~~
 - Presentazione contenuti minimi per la metadatazione di un procedimento amministrativo 
 - Presentazione del catalogo dei procedimenti del Comune di Palermo come strumento fondamentale per il personale della PA, per i cittadini e soprattutto per la costruzione della piattaforma digitale
 
@@ -290,5 +290,6 @@ A supportare il Comune di Palermo nel processo di mappatura/analisi e digitalizz
 
 del Servizio Innovazione - Settore Servizi Direzione Generale
 
-
+### Perchè lo facciamo
+Abbiamo creato questo documento di tipo formativo perchè riteniamo utile condividere con colleghi di altre amministrazioni pubbliche il lavoro svolto per la mappatura, metadatazione e analisi dei procedimenti amministrativi. 
 
