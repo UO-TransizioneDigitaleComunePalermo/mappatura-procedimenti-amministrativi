@@ -7,7 +7,7 @@ L'attività formativa è stata progettata partendo dal percorso realizzato dall�
 Attualmente è in corso la digitalizzazione dei procedimenti amministrativi di tutti gli uffici, a seguito dell’analisi dei medesimi svolta dal personale degli uffici tra la fine del 2020 ed il primo semestre del 2021.
 
 ## Casi d’uso di digitalizzazione in ambito comunale con lancio esercitazione
-https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do/edit#slide=id.p1
+> https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do/edit#slide=id.p1
 
 28/09/21
 
@@ -16,7 +16,7 @@ https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh
 - Lancio esercitazione: a partire da una/due determinazioni dirigenziali reali, individuare gli elementi minimi (metadati) da considerare per la loro digitalizzazione tramite una soluzione informatica - presentazione modalità di consegna compito ed eventuale divisione dei partecipanti in gruppi di lavoro
 
 ## Analisi dei risultati dell’esercitazione e presentazione elementi minimi (metadati) di una determinazione dirigenziale
-https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing
+> https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing
 
 5/10/21
 
@@ -26,7 +26,7 @@ https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sha
 
 
 ## L’analisi dei procedimenti amministrativi: l’esperienza e gli strumenti in un caso reale” e lancio dell’esercitazione (Mappatura procedimento amministrativo) 
-https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing
+> https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing
 
 19/10/21 
 
@@ -38,7 +38,7 @@ https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sha
 - lancio dell’esercitazione: compilazione (in gruppo o individualmente) di una scheda di mappatura di un procedimento amministrativo  o più tipologie di procedimenti
 
 ## Analisi dei risultati dell’esercitazione e mappatura di un procedimento amministrativo
-https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing
+> https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing
 
 26/10/21
 
@@ -47,7 +47,7 @@ https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sha
 - Presentazione contenuti minimi per la mappatura di un procedimento amministrativo
 
 ## Le dimensioni e i metadati che identificano un procedimento amministrativo 
-https://drive.google.com/drive/folders/1E-PRhGHVv9yfKDkalNgi6CWkW5xfVKsm?usp=sharing
+> https://drive.google.com/drive/folders/1E-PRhGHVv9yfKDkalNgi6CWkW5xfVKsm?usp=sharing
 
 9/11/21
 
@@ -56,7 +56,7 @@ https://drive.google.com/drive/folders/1E-PRhGHVv9yfKDkalNgi6CWkW5xfVKsm?usp=sha
 - Benefici della metadatazione dei procedimenti: es. cataloghi servizi, miglioramento informazioni per cittadini/imprese, knowledge base interna all’ente, interventi su portale di accesso ai servizi.
 
 ## L’esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale, e lancio esercitazione (metadatazione di un procedimento)
-https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing
+> https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing
 
 16/11/21
 
@@ -66,7 +66,7 @@ https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sha
 - Lancio esercitazione: compilazione (in gruppo o individualmente) di una scheda di metadatazione di un procedimento amministrativo o più procedimenti (a partire da format di scheda excel utilizzata nel Comune e compilata dagli Uffici).
 
 ## Analisi dei risultati dell’esercitazione di metadatazione di un procedimento amministrativo e presentazione di un esempio di catalogo dei procedimenti
-https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing
+> https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing
 
 23/11/21
 
