@@ -49,4 +49,18 @@ Il seguente codice è posizionato nel file `docs/override/main.html` e comincia 
 {% endblock %}
 ```
 
+## Table
 
+```yaml table
+data: cars.csv
+width: 600
+order:
+  - [3, 'desc']
+columns:
+  - data: type
+  - data: brand
+  - data: model
+  - data: price
+  - data: kmpl
+  - data: bhp
+```
