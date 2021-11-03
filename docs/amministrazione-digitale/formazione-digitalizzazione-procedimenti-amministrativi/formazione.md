@@ -137,9 +137,9 @@ con l’obiettivo di velocizzare e ottimizzare la gestione dei procedimenti.
 
 La reingegnerizzazione va attuata dopo alcuni step:
 
-1) **analisi dettagliata dei procedimenti** condotta negli uffici responsabili dei procedimenti (es. usare un formato tabellare può aiutare); 
-2) **mappatura dei singoli procedimenti individuati**. Definire un catalogo finale (elenco) dei procedimenti consultabile online anche dai cittadini così da fornire informazioni dettagliate (es. sui servizi di interesse della collettività - obbligo d.lgs. 33/2013); 
-3) **valutazione congiunta delle attività che generano “sprechi” di lavoro**.
+1. **analisi dettagliata dei procedimenti** condotta negli uffici responsabili dei procedimenti (es. usare un formato tabellare può aiutare); 
+2. **mappatura dei singoli procedimenti individuati**. Definire un catalogo finale (elenco) dei procedimenti consultabile online anche dai cittadini così da fornire informazioni dettagliate (es. sui servizi di interesse della collettività - obbligo d.lgs. 33/2013); 
+3. **valutazione congiunta delle attività che generano “sprechi” di lavoro**.
 
 Il 3° step rappresenta il tempo in cui può essere effettuata la “reingegnerizzazione” tenendo conto delle modifiche da apportare per un ottimale gestione del procedimento amministrativo nella nuova **modalità digitale**.
 
