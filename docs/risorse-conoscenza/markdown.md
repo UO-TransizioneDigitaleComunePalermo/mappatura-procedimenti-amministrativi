@@ -18,3 +18,9 @@ Siti per comprendere la sintassi del linguaggio `MarkDown`
 - [https://markdown-it.github.io](https://markdown-it.github.io) (editor)
 - [https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-table](https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-table) (creare tabelle)
 - [https://github.com/ikatyang/emoji-cheat-sheet#symbols](https://github.com/ikatyang/emoji-cheat-sheet#symbols) (emoji per `.md`)
+
+
+## Sintassi markdown
+Fonte: [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+<iframe src="https://www.markdownguide.org/basic-syntax/" height=500" > </iframe>
+
