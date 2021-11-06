@@ -21,5 +21,9 @@ Siti per comprendere la sintassi del linguaggio `MarkDown`
 - [https://github.com/ikatyang/emoji-cheat-sheet#symbols](https://github.com/ikatyang/emoji-cheat-sheet#symbols) (emoji per `.md`)
 
 
+## Note
 
+Il carattere `^` si ottiene digitandosulla tastiera `Alt` e `094`.
+
+Il carattere `^` serve per [inserire le note a margine](https://squidfunk.github.io/mkdocs-material/reference/footnotes/) sul progetto Material for Markdown.
 
