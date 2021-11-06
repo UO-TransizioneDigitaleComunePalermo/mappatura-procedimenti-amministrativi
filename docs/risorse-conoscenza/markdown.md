@@ -44,7 +44,7 @@ Il carattere <code> ` </code> serve per far visualizzare <code>codice</code>. Pu
 ```
 
 
-### Carattere ~
+### Carattere `~`
 Il carattere `~` si ottiene digitandosulla tastiera `Alt` e `126`.
 
 Serve per editare testo cancellato, in questo caso di deve replicare due volte davanti e dopo la parola o frase da deletare:
