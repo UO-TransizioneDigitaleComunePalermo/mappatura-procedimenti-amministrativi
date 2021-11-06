@@ -24,11 +24,13 @@ Siti per comprendere la sintassi del linguaggio `MarkDown`
 
 ## Caratteri particolari
 
+
 ### Carattere `^`
 
 Il carattere `^` si ottiene digitandosulla tastiera `Alt` e `094`.
 
 Il carattere `^` serve per [inserire le note a margine](https://squidfunk.github.io/mkdocs-material/reference/footnotes/) sul progetto Material for Markdown.
+
 
 
 ###  Carattere <code>`</code>
@@ -51,5 +53,7 @@ Serve per editare testo cancellato, in questo caso di deve replicare due volte d
 ```
 cancello questo ~~testo~~
 ```
+
 e si vedrà cosi: cancello questo ~~testo~~
+
 
