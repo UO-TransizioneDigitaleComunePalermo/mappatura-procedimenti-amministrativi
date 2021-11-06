@@ -32,12 +32,12 @@ Il carattere `^` serve per [inserire le note a margine](https://squidfunk.github
 
 ###  Carattere <code>`</code>
  
-Il carattere <code> ` </code>  si ottiene digitando sulla tastiera <code>Alt</code> e <code>96</code>. Si inserisce prima e dopo il codice che si vuole evidenziare.
+Il carattere <code> ` </code>  si ottiene digitando sulla tastiera <code>Alt</code> e <code>96</code>. Si inserisce prima e dopo il codice che si vuole evidenziare:
 ```
 ` ... `
 ```
 
-Il carattere <code> ` </code> serve per far visualizzare <code>codice</code>. Puo essere sotituito da 
+Il carattere <code> ` </code> serve per far visualizzare <code>codice</code>. Puo essere sotituito da: 
 ```
 <code> ....  </code>
 ```
