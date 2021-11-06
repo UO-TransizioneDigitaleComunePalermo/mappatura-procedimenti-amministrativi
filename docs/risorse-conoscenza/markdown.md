@@ -21,9 +21,22 @@ Siti per comprendere la sintassi del linguaggio `MarkDown`
 - [https://github.com/ikatyang/emoji-cheat-sheet#symbols](https://github.com/ikatyang/emoji-cheat-sheet#symbols) (emoji per `.md`)
 
 
-## Note
+## Caratteri particolari
+
+### Carattere `^`
 
 Il carattere `^` si ottiene digitandosulla tastiera `Alt` e `094`.
 
 Il carattere `^` serve per [inserire le note a margine](https://squidfunk.github.io/mkdocs-material/reference/footnotes/) sul progetto Material for Markdown.
 
+###  Carattere <code>`</code>
+ 
+Il carattere <code> ` </code>  si ottiene digitandosulla tastiera <code>Alt</code> e <code>96</code>. Si inserisce prima e dopo il codice che si vuole evidenziare.
+```
+` ... `
+```
+
+Il carattere <code> ` </code> serve per far visualizzare <code>codice</code>. Puo essere sotituito da 
+```
+<code> ....  </code>
+```
