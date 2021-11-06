@@ -30,6 +30,7 @@ Il carattere `^` si ottiene digitandosulla tastiera `Alt` e `094`.
 
 Il carattere `^` serve per [inserire le note a margine](https://squidfunk.github.io/mkdocs-material/reference/footnotes/) sul progetto Material for Markdown.
 
+
 ###  Carattere <code>`</code>
  
 Il carattere <code> ` </code>  si ottiene digitando sulla tastiera <code>Alt</code> e <code>96</code>. Si inserisce prima e dopo il codice che si vuole evidenziare:
@@ -41,3 +42,14 @@ Il carattere <code> ` </code> serve per far visualizzare <code>codice</code>. Pu
 ```
 <code> ....  </code>
 ```
+
+
+### Carattere ~
+Il carattere `~` si ottiene digitandosulla tastiera `Alt` e `126`.
+
+Serve per editare testo cancellato, in questo caso di deve replicare due volte davanti e dopo la parola o frase da deletare:
+```
+cancello questo ~~testo~~
+```
+e si vedrà cosi: cancello questo ~~testo~~
+
