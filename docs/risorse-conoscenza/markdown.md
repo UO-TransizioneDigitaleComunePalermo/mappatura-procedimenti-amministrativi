@@ -73,4 +73,6 @@ evidenzia questo ==testo==
 ### Markdown Here Markdown Support
 Fonte: [https://www.markdownguide.org/tools/markdown-here/](https://www.markdownguide.org/tools/markdown-here/)
 
+[Markdown here](https://markdown-here.com/) è un estensione per usare markdown nelle email di Gmail e altri servizi.
+
 
