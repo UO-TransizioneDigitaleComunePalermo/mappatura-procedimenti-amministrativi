@@ -77,8 +77,11 @@ Fonte: [https://www.markdownguide.org/tools/markdown-here/](https://www.markdown
 
 
 ### Button
+Per creare un bottone come questo:
 
-[Go to cirospat](https://cirospat.readthedocs.io){ .md-button .md-button--primary }
+[Go to cirospat](https://cirospat.readthedocs.io){ .md-button }
+
+bisogna editare questo codice:
 ```
-[Go to cirospat](https://cirospat.readthedocs.io){ .md-button .md-button--primary }
+[Go to cirospat](https://cirospat.readthedocs.io){ .md-button }
 ```
