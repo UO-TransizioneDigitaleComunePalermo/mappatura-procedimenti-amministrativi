@@ -76,8 +76,8 @@ Fonte: [https://www.markdownguide.org/tools/markdown-here/](https://www.markdown
 [Markdown here](https://markdown-here.com/) è un estensione per usare markdown nelle email di Gmail e altri servizi.
 
 
-### Button
-Per creare un bottone come questo:
+## Button
+Per creare un bottone come questo, che rimanda ad un link:
 
 [Go to cirospat](https://cirospat.readthedocs.io){ .md-button .md-button--primary }
 
