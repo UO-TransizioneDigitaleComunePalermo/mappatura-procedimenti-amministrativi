@@ -31,6 +31,37 @@ Il carattere `^` si ottiene digitandosulla tastiera `Alt` e `094`.
 
 Il carattere `^` serve per [inserire le note a margine](https://squidfunk.github.io/mkdocs-material/reference/footnotes/) sul progetto Material for Markdown.
 
+!!! Note "Nota"
+    on multiple lines = paragraphs can be written on the next line and must be indented by four spaces.
+
+Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
+
+[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+[^2]:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+
+```
+[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+```
+
+```
+[^2]:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+```
+
+[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[^2]:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
 
 
 ###  Carattere <code>`</code>
