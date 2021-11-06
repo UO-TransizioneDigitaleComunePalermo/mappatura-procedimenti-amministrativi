@@ -22,7 +22,7 @@ Siti per comprendere la sintassi del linguaggio `MarkDown`
 - [https://github.com/ikatyang/emoji-cheat-sheet#symbols](https://github.com/ikatyang/emoji-cheat-sheet#symbols) (emoji per `.md`)
 
 
-## Caratteri particolari
+## Caratteri per particolari funzioni su markdown
 
 
 ### Carattere `^`
