@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# MarkDown
+# Markdown
 Markdown è un linguaggio di markup leggero che puoi utilizzare per aggiungere elementi di formattazione a documenti di testo in chiaro. Creato da John Gruber nel 2004, Markdown è oggi uno dei linguaggi di markup più popolari al mondo.
 
 **Questo progetto è costruito su pagine in linguaggio `MarkDown` `.MD`**
