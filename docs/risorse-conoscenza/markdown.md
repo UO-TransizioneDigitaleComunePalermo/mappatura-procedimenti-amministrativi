@@ -54,6 +54,18 @@ Serve per editare testo cancellato, in questo caso di deve replicare due volte d
 cancello questo ~~testo~~
 ```
 
-e si vedrà cosi: cancello questo ~~testo~~
+e si vedrà cosi: 
 
+cancello questo ~~testo~~
+
+
+### Carattere `==`
+Il carattere == (doppio uguale) serve per colorare di giallo una parola o frase. Si inserisce prima e dopo la frase:
+```
+evidenzia questo ==testo==
+```
+
+e si vedrà cosi:
+
+evidenzia questo ==testo==
 
