@@ -116,3 +116,14 @@ bisogna editare questo codice:
 ```
 [Go to cirospat](https://cirospat.readthedocs.io){ .md-button .md-button--primary }
 ```
+
+
+## flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
