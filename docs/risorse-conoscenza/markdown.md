@@ -118,7 +118,8 @@ bisogna editare questo codice:
 ```
 
 
-## flow chart:
+## Flow chart:
+Sintassi:
 
 ```mermaid
 graph LR
@@ -127,3 +128,12 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+output:
+
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+
