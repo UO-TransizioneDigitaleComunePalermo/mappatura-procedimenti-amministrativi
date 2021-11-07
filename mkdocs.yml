@@ -1,16 +1,16 @@
 ## Project information
 site_name: Mappatura dei procedimenti amministrativi per la digitalizzazione
-site_url: https://cirospat.github.io/cirospataro/
-site_description: Profilo di Ciro Spataro
+site_url: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/
+site_description: Mappatura dei procedimenti amministrativi per la digitalizzazione
 
 ## Repository
 # repo_name: ciro spataro
-repo_url: https://github.com/cirospat/cirospataro/
+repo_url: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <img src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo_aggiornamento"> 
-           <img src="https://img.shields.io/github/license/cirospat/cirospataro"> <br> 
+copyright: <img src="https://img.shields.io/github/last-commit/uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi.svg?&label=ultimo_aggiornamento"> 
+           <img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi"> <br> 
            
 
 ## Social Media
@@ -19,7 +19,7 @@ extra:
   disqus: mkdocs
   social:
     - icon: fontawesome/solid/home
-      link: https://cirospat.github.io/cirospataro/
+      link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi
       name: Home Page
     - icon: fontawesome/brands/twitter
       link: http://twitter.com/cirospat
@@ -37,7 +37,7 @@ extra:
       link: mailto:cirospat@gmail.com
       name: mail to cirospat@gmail.com
     - icon: fontawesome/solid/file-pdf
-      link: https://cirospat.github.io/cirospataro/print_page/
+      link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/print_page/
       name: Scarica il documento in formato PDF
   # analytics:
   # provider: google
@@ -158,8 +158,8 @@ extra_css:
 nav:
     - Home: index.md
          
-    - Profilo:
-        - Profilo work: profilo/profilo.md
+    - Chi siamo:
+        - Chi siamo: profilo/profilo.md
         - Social profile: profilo/social-profile.md
         - Opendatasicilia & communities: profilo/opendatasicilia-communities.md
         - CV: profilo/cv.md
