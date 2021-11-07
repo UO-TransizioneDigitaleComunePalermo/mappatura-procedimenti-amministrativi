@@ -1,14 +1,14 @@
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/cirospataro.svg?&label=ultimo_aggiornamento">
-![GitHub](https://img.shields.io/github/license/cirospat/cirospataro)
+<img alt="undefined" src="https://img.shields.io/github/last-commit/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi.svg?&label=ultimo_aggiornamento">
+![GitHub](https://img.shields.io/github/license/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi)
 
 
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png) 
 
 licenza CC BY
 
-# Ciro Spataro 
-Profilo di Ciro Spataro
+# UO-TransizioneDigitaleComunePalermo | mappatura dei procedimenti amministrativi
+
 
 ## Come è costruito questo progetto (Material for MkDocs)
 
@@ -18,9 +18,9 @@ Profilo di Ciro Spataro
 
 <img src="https://img.shields.io/badge/MarkDown-for_page_editing-blue.svg?style=popout"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio [**MarkDown**](https://cirospat.github.io/cirospataro/risorse-conoscenza/markdown/) `.MD`
 
-[![gh-deploy](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub gh-pages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
+[![gh-deploy](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/cirospat/cirospataro/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub gh-pages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
-<img src="https://img.shields.io/badge/GitHub-for_code_setting-blue.svg?style=popout&logo=GitHub"> Il link al codice sorgente di questo progetto è [**github.com/cirospat/cirospataro**](https://github.com/cirospat/cirospataro)
+<img src="https://img.shields.io/badge/GitHub-for_code_setting-blue.svg?style=popout&logo=GitHub"> Il link al codice sorgente di questo progetto è [**github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi)
 
 
 ### Strumenti integrati nel progetto
