@@ -52,7 +52,7 @@ Ultimata la compilazione della scheda il referente dell'UO informa via email il 
 
 Il Servizio Innovazione provvede a verificare il contenuto delle schede compilate e inserite nella cartella Drive dell'Area/Settore, e nel caso risultino mancanti informazioni importanti contatta il referente del procedimento amministrativo indicato nella stessa scheda. 
 
-Ultimata l’attività di controllo e censimento delle schede il Servizio Innovazione provvede a costruire un [catalogo/elenco dei procedimenti dell’ente](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/7-catalogo-procedimenti/) da condividere con il personale comunale e da rendere disponibile per la pubblica consultazione, così da facilitare i cittadini nella comprensione dei servizi di interesse.
+Ultimata l’attività di controllo e censimento delle schede il Servizio Innovazione provvede a costruire un [**catalogo/elenco dei procedimenti dell’ente**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/7-catalogo-procedimenti/) da condividere con il personale comunale e da rendere disponibile per la pubblica consultazione, così da facilitare i cittadini nella comprensione dei servizi di interesse.
 
 ## Metodologia per il monitoraggio di compilazione delle schede sui procedimenti
 ![](https://user-images.githubusercontent.com/3757525/140102164-f8de2de7-a44c-4e0d-af72-d93ddda718a7.png)
