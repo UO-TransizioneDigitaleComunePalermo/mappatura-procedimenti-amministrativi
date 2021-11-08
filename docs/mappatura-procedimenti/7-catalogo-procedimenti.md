@@ -14,4 +14,4 @@ hide:
 
 Presentazione del catalogo dei procedimenti del Comune di Palermo come strumento fondamentale per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione
 
-<iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height=700 > </iframe>
+<iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height=700; width=1000; > </iframe>
