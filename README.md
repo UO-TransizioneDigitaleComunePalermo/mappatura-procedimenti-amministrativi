@@ -5,7 +5,7 @@
 
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width=300 /> ![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png) 
 
-`licenza aperta Creative Commons BY (attribuzione)`
+Contenuti rilasciati con `licenza aperta Creative Commons BY (attribuzione)`
 
 # UO-TransizioneDigitaleComunePalermo 
 
@@ -14,8 +14,6 @@ Scrivere testo di presentazione del progetto
 
 
 ## Come è costruito questo progetto (Material for MkDocs)
-
-<img src="https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png" width="130">
 
 <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
 
