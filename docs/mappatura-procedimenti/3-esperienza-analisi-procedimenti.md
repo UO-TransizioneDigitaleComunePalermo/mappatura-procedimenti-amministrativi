@@ -26,21 +26,29 @@ A seguito della nota n. 1319949 del 18.11.2020 del Segretario Generale, il Servi
 
 La scheda è composta da **2 fogli tabellari**:  
 
-- uno per la descrizione dei **metadati** 
-- e uno per la descrizione degli **step operativi** del procedimento amministrativo.
+- uno per la descrizione dei [**metadati**](https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=0) 
+- e uno per la descrizione degli [**step operativi** del procedimento amministrativo](https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=1645990221).
 
 ![](https://user-images.githubusercontent.com/3757525/140100623-0313b8e7-c52f-48ad-b122-ca5ad23187ba.png)
 ![](https://user-images.githubusercontent.com/3757525/140100837-d37bd864-bce3-43dd-b5f8-21e09eb63754.png)
+
+**Richiesta ai dirigenti di compilare le schede**
 
 Viene chiesto ai Dirigenti di impartire direttive alle UU.OO. del proprio Servizio/Settore per avviare tempestivamente la compilazione delle schede e il relativo caricamento nella cartella di Google  Drive dell'Area di appartenenza. Prima del caricamento delle schede sulla cartella di Google Drive da parte dei referenti delle UU.OO. responsabili di procedimenti amministrativi, si chiede ai Dirigenti di verificare l'esattezza e completezza delle informazioni riportate nelle stesse schede. 
 
 L'esattezza e completezza delle informazioni è necessaria, in un secondo momento, per costruire le funzioni operative di una piattaforma informatica di gestione documentale trasversale a tutti gli uffici, in grado di soddisfare le esigenze delle varie UU.OO. nella gestione dei procedimenti amministrativi di competenza.
 
+**Descrivere gli step oeprativi anche per endo procedimenti**
+
 E' buona prassi descrivere le fasi del procedimento per macro fasi, riducendo il numero delle fasi nei casi di procedimenti complessi e di inserire nel campo “note aggiuntive” eventuali dettagli utili a comprendere le complessità delle stesse macro fasi descritte relative al procedimento amministrativo.
+
+**Comunicare la compilazione delle schede**
 
 Ultimata la compilazione della scheda il referente dell'UO informa via email il proprio Dirigente e il referente dell'Area/Settore dell'avvenuta compilazione e del relativo inserimento (caricamento) nella cartella Drive dell'Area/Settore di appartenenza.
 
 ![](https://user-images.githubusercontent.com/3757525/140100136-c1e67724-519c-415d-ae73-95cdc0f7d1d1.png)
+
+**Un ufficio centrale controlla il contenuto delle schede**
 
 Il Servizio Innovazione provvede a verificare il contenuto delle schede compilate e inserite nella cartella Drive dell'Area/Settore, e nel caso risultino mancanti informazioni importanti contatta il referente del procedimento amministrativo indicato nella stessa scheda. Ultimata l’attività di controllo e censimento delle schede il Servizio Innovazione provvede a costruire un catalogo/elenco dei procedimenti dell’ente da condividere con il Segretario Generale che ha assegnato ai Dirigenti l’obiettivo di redigere l’analisi dei procedimenti amministrativi.
 
