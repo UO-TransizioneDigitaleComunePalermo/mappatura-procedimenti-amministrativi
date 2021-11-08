@@ -28,7 +28,7 @@ $.fn.euCookieLawPopup = (function() {
 	///////////////////////////////////////////////////////////////////////////////////////////////
 	// PARAMETERS (MODIFY THIS PART) //////////////////////////////////////////////////////////////
 	_self.params = {
-		cookiePolicyUrl : 'https://cirospat.github.io/cirospataro/privacy/',
+		cookiePolicyUrl : 'https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/privacy/',
 		popupPosition : 'top',
 		colorStyle : 'default',
 		compactStyle : false,
