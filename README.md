@@ -20,7 +20,7 @@ Scrivere testo di presentazione del progetto
 
 <img src="https://img.shields.io/badge/MarkDown-for_page_editing-blue.svg?style=popout"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio [**MarkDown**](https://cirospat.github.io/cirospataro/risorse-conoscenza/markdown/) `.MD`
 
-[![gh-deploy](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub gh-pages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
+[![gh-deploy](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml/badge.svg)](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub gh-pages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
 <img src="https://img.shields.io/badge/GitHub-for_code_setting-blue.svg?style=popout&logo=GitHub"> Il link al codice sorgente di questo progetto è [**github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi)
 
