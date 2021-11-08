@@ -2,7 +2,8 @@
 <img alt="undefined" src="https://img.shields.io/github/last-commit/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi.svg?&label=ultimo_aggiornamento">
 ![GitHub](https://img.shields.io/github/license/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi)
 
-![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png) 
+
+<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width=300 /> ![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png) 
 
 `licenza aperta Creative Commons BY (attribuzione)`
 
