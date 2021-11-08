@@ -50,20 +50,9 @@ Ultimata la compilazione della scheda il referente dell'UO informa via email il 
 
 **Un ufficio centrale controlla il contenuto delle schede**
 
-Il Servizio Innovazione provvede a verificare il contenuto delle schede compilate e inserite nella cartella Drive dell'Area/Settore, e nel caso risultino mancanti informazioni importanti contatta il referente del procedimento amministrativo indicato nella stessa scheda. Ultimata l’attività di controllo e censimento delle schede il Servizio Innovazione provvede a costruire un catalogo/elenco dei procedimenti dell’ente da condividere con il Segretario Generale che ha assegnato ai Dirigenti l’obiettivo di redigere l’analisi dei procedimenti amministrativi.
+Il Servizio Innovazione provvede a verificare il contenuto delle schede compilate e inserite nella cartella Drive dell'Area/Settore, e nel caso risultino mancanti informazioni importanti contatta il referente del procedimento amministrativo indicato nella stessa scheda. 
 
-![](https://user-images.githubusercontent.com/3757525/140087947-18b88336-9fe4-4a44-a1bb-f3dc4b3c4724.png)
-
-
-## Art. 12 CAD  - Norme generali per l'uso delle tecnologie dell'informazione e delle comunicazioni nell'azione amministrativa
-[Art. 12 CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_I-sezione_III-articolo_12.html)
-> 1. *Le pubbliche amministrazioni nell'organizzare  autonomamente  la propria attivita' utilizzano le tecnologie dell'informazione e  della comunicazione per la realizzazione  degli  obiettivi  di  efficienza, efficacia, economicita', imparzialita', trasparenza,  semplificazione e partecipazione nel rispetto dei principi di uguaglianza  e  di  non discriminazione, nonche' per l'effettivo riconoscimento  dei  diritti dei  cittadini  e  delle  imprese  di  cui  al  presente  Codice   in conformita'  agli  obiettivi  indicati  nel   Piano   triennale   per l'informatica nella  pubblica  amministrazione  di  cui  all'articolo 14-bis, comma 2, lettera b)*.
-
-
-## Art. 41 CAD - Procedimento e fascicolo informatico
-[Art. 41 CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_III-sezione_II-articolo_41.html)
-> 1.  *Le  pubbliche   amministrazioni   gestiscono   i   procedimenti amministrativi utilizzando le tecnologie  dell'informazione  e  della comunicazione.  Per  ciascun  procedimento  amministrativo  di   loro competenza,   esse    forniscono    gli    opportuni    servizi    di interoperabilita' ((o integrazione)), ai  sensi  di  quanto  previsto ((dagli articoli 12 e 64-bis))*.
-
+Ultimata l’attività di controllo e censimento delle schede il Servizio Innovazione provvede a costruire un [catalogo/elenco dei procedimenti dell’ente](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/7-catalogo-procedimenti/) da condividere con il personale comunale e da rendere disponibile per la pubblica consultazione, così da facilitare i cittadini nella comprensione dei servizi di interesse.
 
 ## Metodologia per il monitoraggio di compilazione delle schede sui procedimenti
 ![](https://user-images.githubusercontent.com/3757525/140102164-f8de2de7-a44c-4e0d-af72-d93ddda718a7.png)
@@ -84,5 +73,18 @@ la formula di sopra serve per generare la **barra rossa di andamento**
 =COUNTIF(A5:A,TRUE)/COUNTA(B5:B)
 ```
 la formula di sopra serve per generare la **% di andamento**
+
+
+
+## Art. 12 CAD  - Norme generali per l'uso delle tecnologie dell'informazione e delle comunicazioni nell'azione amministrativa
+[Art. 12 CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_I-sezione_III-articolo_12.html)
+> 1. *Le pubbliche amministrazioni nell'organizzare  autonomamente  la propria attivita' utilizzano le tecnologie dell'informazione e  della comunicazione per la realizzazione  degli  obiettivi  di  efficienza, efficacia, economicita', imparzialita', trasparenza,  semplificazione e partecipazione nel rispetto dei principi di uguaglianza  e  di  non discriminazione, nonche' per l'effettivo riconoscimento  dei  diritti dei  cittadini  e  delle  imprese  di  cui  al  presente  Codice   in conformita'  agli  obiettivi  indicati  nel   Piano   triennale   per l'informatica nella  pubblica  amministrazione  di  cui  all'articolo 14-bis, comma 2, lettera b)*.
+
+
+## Art. 41 CAD - Procedimento e fascicolo informatico
+[Art. 41 CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_III-sezione_II-articolo_41.html)
+> 1.  *Le  pubbliche   amministrazioni   gestiscono   i   procedimenti amministrativi utilizzando le tecnologie  dell'informazione  e  della comunicazione.  Per  ciascun  procedimento  amministrativo  di   loro competenza,   esse    forniscono    gli    opportuni    servizi    di interoperabilita' ((o integrazione)), ai  sensi  di  quanto  previsto ((dagli articoli 12 e 64-bis))*.
+
+
 
 
