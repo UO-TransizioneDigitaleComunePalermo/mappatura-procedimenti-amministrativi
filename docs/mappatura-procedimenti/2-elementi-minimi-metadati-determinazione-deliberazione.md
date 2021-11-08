@@ -6,7 +6,7 @@ hide:
 
 # Presentazione elementi minimi (metadati) di una determinazione dirigenziale e deliberazione di Giunta comunale
 
-!!! Note "nota"
+!!! Note "Nota"
     [https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing](https://drive.google.com/drive/folders/1PvA8ZbW6FvpxU7sSY8o4G8fM-2GiCr8l?usp=sharing)
     
     webinar 5/10/21
