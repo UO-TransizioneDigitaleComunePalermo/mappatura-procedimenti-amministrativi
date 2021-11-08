@@ -7,6 +7,8 @@ hide:
 # Chi siamo
 
 ## Chi siamo
+![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png)
+
 A supportare il Comune di Palermo nel processo di mappatura/analisi e digitalizzazione dei procedimenti amministrativi, e necessaria formazione al personale, siamo anche:
 
 - **Ciro Spataro** | [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) | 0917407340
