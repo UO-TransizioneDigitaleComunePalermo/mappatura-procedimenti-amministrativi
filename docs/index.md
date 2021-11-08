@@ -15,21 +15,6 @@ Il documento è stato progettato partendo dal percorso operativo realizzato dall
 
 ---
 
-
-## Chi siamo
-A supportare il Comune di Palermo nel processo di mappatura/analisi e digitalizzazione dei procedimenti amministrativi, e necessaria formazione, siamo anche:
-
-- **Ciro Spataro** | c.spatarro@comune.palermo.it | 0917409340
-- **Sergio Schimicci** | s.schimicci@comune.palermo.it | 0917407336
-
-del Servizio Innovazione - Settore Servizi Direzione Generale
-
-
-## Perchè lo facciamo
-Abbiamo creato questo documento di tipo formativo perchè riteniamo utile condividere con colleghi di altre amministrazioni pubbliche il lavoro svolto per la mappatura, metadatazione e analisi dei procedimenti amministrativi. 
-
-
-
 ## Come è costruito questo progetto (Material for MkDocs)
 
 <img src="https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png" width="130">
