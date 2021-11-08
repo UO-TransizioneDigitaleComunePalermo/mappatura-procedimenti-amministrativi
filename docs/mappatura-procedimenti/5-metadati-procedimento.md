@@ -1,7 +1,9 @@
 # Mappatura di procedimento amministrativo attraverso i metadati
-> [https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing](https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing)
 
-26/10/21
+!!! Nota "Nota"
+    [https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing](https://drive.google.com/drive/folders/1bxf1mEeNuh0oBEPfbCBi5KOQ0asBPCi_?usp=sharing)
+
+    webinar 26/10/21
 
 
 Per la mappatura di un procedimento amministrativo è necessario costruire una scheda di metadati associati al procedimento stesso. La metadatazione del procedimento serve per costruire l'architettura degli applicativi informatici che gestiranno in modalità interamente digitale il procedimento stesso. 
