@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+---
+
+
 # Chi siamo
 
 ## Chi siamo
