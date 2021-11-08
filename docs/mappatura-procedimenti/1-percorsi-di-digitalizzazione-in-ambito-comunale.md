@@ -1,8 +1,9 @@
 # Percorsi di digitalizzazione in ambito comunale
 
-> [https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do](https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do)
+!!! Note "Nota"
+    [https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do](https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do)
 
-28/09/21
+    webinar 28/09/21
 
 ## Articolo 15 del Codice Amministrazione Digitale (CAD): “razionalizzare e semplificare” 
 
