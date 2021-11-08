@@ -17,7 +17,7 @@ Il documento è stato progettato partendo dal percorso operativo realizzato dall
 
 ## Come è costruito questo progetto (Material for MkDocs)
 
-<img src="https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png" width="130">
+<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width="330">
 
 
 <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
