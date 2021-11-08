@@ -1,7 +1,9 @@
 # Esperienza e strumenti in un caso reale di analisi dei procedimenti amministrativi
-> [https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing](https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing)
 
-19/10/21 
+!!! Note "Nota"
+    [https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing](https://drive.google.com/drive/folders/1OdAV27s5ym-SOu7Chp8YPP_cqV_pd9nl?usp=sharing)
+
+    webinar 19/10/21 
 
 - Illustrazione del percorso realizzato al Comune di Palermo per la realizzazione dell’analisi dei procedimenti 
 - Illustrazione delle diverse casistiche di procedimenti, ponendo attenzione alla distinzione tra procedimenti ed endoprocedimenti e a singole attività che eventualmente possono far parte del procedimento. 
