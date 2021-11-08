@@ -78,11 +78,3 @@ la formula di sopra serve per generare la **barra rossa di andamento**
 la formula di sopra serve per generare la **% di andamento**
 
 
-
-
-
-
-
-
-
-~
