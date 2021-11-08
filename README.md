@@ -1,13 +1,15 @@
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 <img alt="undefined" src="https://img.shields.io/github/last-commit/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi.svg?&label=ultimo_aggiornamento">
-![GitHub](https://img.shields.io/github/license/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi)
 
 
-<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width=300 /> ![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png) 
 
-Contenuti rilasciati con `licenza aperta Creative Commons BY (attribuzione)`
+# Mappatura e analisi dei procedimenti amministrativi
+<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width=350 /> 
 
-# UO-TransizioneDigitaleComunePalermo 
+
+
+## UO-TransizioneDigitaleComunePalermo 
+![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png) 
 
 ## Mappatura dei procedimenti amministrativi
 Scrivere testo di presentazione del progetto
@@ -28,4 +30,10 @@ Scrivere testo di presentazione del progetto
 - **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
 - **Disqus** per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
 - **Strumento di generazione dei contenuti del progetto in formato PDF**, indicato in ogni pagina con il simbolo della stampante posizionato in alto a destra
+
+
+## Licenza
+Contenuti rilasciati con `licenza aperta Creative Commons BY (attribuzione)`
+
+![GitHub](https://img.shields.io/github/license/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi)
 
