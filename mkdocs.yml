@@ -4,7 +4,7 @@ site_url: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-proced
 site_description: Mappatura dei procedimenti amministrativi per la digitalizzazione
 
 ## Repository
-# repo_name: ciro spataro
+repo_name: mappatura-procedimenti-amministrativi
 repo_url: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi
 edit_uri: edit/main/docs/ #disables edit button
 
