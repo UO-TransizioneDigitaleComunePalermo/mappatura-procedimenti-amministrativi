@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+---
+
+
 # Linkografia essenziale per la digitalizzazione dei procedimenti amministrativi e dei relativi servizi all'utenza
 
 Di seguito si riportano i link ai principali documenti, redatti dall'Agenzia per l'Italia Digitale e dal Ministero per l'Innovazione Tecnologica e la digitalizzazione, per la digitalizzazione dei procedimenti amministrativi e dei relativi servizi all'utenza.
