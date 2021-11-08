@@ -155,10 +155,10 @@ nav:
     - Focus giuridico:
         - Focus giuridico sui procedimenti: mappatura-procedimenti/4-focus-giuridico-procedimenti.md
                    
-    - Metadati minimi determina|delibera:
+    - Metadati determina|delibera:
         - Metadati minimi determina e delibera: mappatura-procedimenti/2-elementi-minimi-metadati-determinazione-deliberazione.md
       
-    - Mappatura e analisi dei procedimenti:
+    - Mappatura|analisi dei procedimenti:
         - Percorsi di digitalizzazione in ambito comuale: mappatura-procedimenti/1-percorsi-di-digitalizzazione-in-ambito-comunale.md
         - L'analisi dei procedimenti nel Piano della Performance: mappatura-procedimenti/3-esperienza-analisi-procedimenti.md
         - I metadati nella mappatura dei procedimenti: 5-metadati-procedimento.md
@@ -166,11 +166,11 @@ nav:
         - Dalla mappatura al catalogo: mappatura-procedimenti/7-catalogo-procedimenti.md
         - Uno schema di metadati usato nella mappatura: mappatura-procedimenti/8-schema-metadati-procedimento.md
         
-    - Linkografia essenziale:
+    - Linkografia:
         - Linkografia essenziale: mappatura-procedimenti/9-linkografia-essenziale.md
             
     - Chi siamo:
         - Chi siamo: mappatura-procedimenti/10-chi-siamo.md
      
-    - Privacy | cookies: 
+    - Privacy|cookies: 
         - Privacy | cookies: privacy.md
