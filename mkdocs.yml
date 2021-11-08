@@ -24,18 +24,12 @@ extra:
     - icon: fontawesome/brands/twitter
       link: http://twitter.com/cirospat
       name: account twitter
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/ciro.spataro.3
-      name: facebook
     - icon: fontawesome/brands/github
       link: https://github.com/cirospat/cirospataro
       name: Repoisitory GitHub
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/opendatasicilia
-      name: gruppo Telegram
     - icon: fontawesome/solid/envelope
-      link: mailto:cirospat@gmail.com
-      name: mail to cirospat@gmail.com
+      link: mailto:c.spataro@comune.palermo.it
+      name: mail to c.spataro@comune.palermo.it
     - icon: fontawesome/solid/file-pdf
       link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/print_page/
       name: Scarica il documento in formato PDF
@@ -79,10 +73,10 @@ theme:
   font:
     text: Lato
     code: Roboto Mono
-  favicon: img/logo2.png
+  favicon: img/logo1.png
   icon:
     repo: fontawesome/brands/github
-  logo: img/logo2.png
+  logo: img/logo1.png
 
 ## Plugins
 plugins:
@@ -158,34 +152,25 @@ extra_css:
 nav:
     - Home: index.md
          
-    - Chi siamo:
-        - Chi siamo: profilo/profilo.md
-        - Social profile: profilo/social-profile.md
-        - Opendatasicilia & communities: profilo/opendatasicilia-communities.md
-        - CV: profilo/cv.md
-            
-    - Risorse | conoscenza:
-        - Tutorial manuali e corsi: risorse-conoscenza/tutorial-manuali-corsi.md
-        - Markdown (linguaggio): risorse-conoscenza/markdown.md
-        - Read the Docs vs Material for MKDocs: risorse-conoscenza/readthedocs-vs-material_mkdocs.md
-        - Mappe: risorse-conoscenza/mappe.md
-        - Catalogo webinar opendata: risorse-conoscenza/catalogo-webinar-opendata.md
-        - Accesso Civico: risorse-conoscenza/accesso-civico.md
-        - Accessibilità: risorse-conoscenza/accessibilita.md
-            
-    - Comune Palermo:
-        - Open data e innovazione: comune-palermo/opendata-innovazione.md
-        - Catalogo servizi online: comune-palermo/catalogo-servizi-online.md
-        - Attuazione C.A.D.: comune-palermo/attuazione-cad.md
-        - Lavoro Agile: comune-palermo/lavoro-agile.md
-        - Piano triennale informatica: comune-palermo/piano-triennale-informatica.md
-            
-    - Amministrazione digitale:
-        - Fondamentali per la PA digitale: amministrazione-digitale/fondamentali-pa-digitale.md
-        - Responsabile transizione digitale: amministrazione-digitale/rtd.md
-        - Competenze digitali dipendenti: amministrazione-digitale/competenze-digitali-dipendenti.md
-        - Competenze digitali cittadini: amministrazione-digitale/competenze-digitali-cittadini.md
-        - Vocabolari controllati e ontologie: amministrazione-digitale/vocabolaricontrollati-ontologie.md
+    - Focus giuridico:
+        - Focus giuridico sui procedimenti: mappatura-procedimenti/4-focus-giuridico-procedimenti.md
+                   
+    - Metadati minimi determina|delibera:
+        - Metadati minimi determina e delibera: mappatura-procedimenti/2-elementi-minimi-metadati-determinazione-deliberazione.md
+      
+    - Mappatura e analisi dei procedimenti:
+        - Percorsi di digitalizzazione in ambito comuale: mappatura-procedimenti/1-percorsi-di-digitalizzazione-in-ambito-comunale.md
+        - L'analisi dei procedimenti nel Piano della Performance: mappatura-procedimenti/3-esperienza-analisi-procedimenti.md
+        - I metadati nella mappatura dei procedimenti: 5-metadati-procedimento.md
+        - Un esperienza di mappatura con metadati: mappatura-procedimenti/6-esperienza-metadatazione-procedimento.md
+        - Dalla mappatura al catalogo: mappatura-procedimenti/7-catalogo-procedimenti.md
+        - Uno schema di metadati usato nella mappatura: mappatura-procedimenti/8-schema-metadati-procedimento.md
         
+    - Linkografia essenziale:
+        - Linkografia essenziale: mappatura-procedimenti/9-linkografia-essenziale.md
+            
+    - Chi siamo:
+        - Chi siamo: mappatura-procedimenti/10-chi-siamo.md
+     
     - Privacy | cookies: 
         - Privacy | cookies: privacy.md
