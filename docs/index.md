@@ -10,7 +10,7 @@ hide:
 
 Questo documento di tipo formativo ha lo scopo di illustrare un metodo e degli strumenti semplici per avviare la mappatura e analisi dei procedimenti amministrativi gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune".
 
-Realizzare un’analisi dei procedimenti in ottica di semplificazione, al fine di creare le precondizioni per una reingegnerizzazione degli stessi e la relativa digitalizzazione.
+Realizzare un’analisi dei procedimenti in ottica di semplificazione, al fine di creare le pre-condizioni per una reingegnerizzazione degli stessi e la relativa digitalizzazione.
 
 Il documento è stato progettato partendo dal percorso operativo realizzato dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione al digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (Decreto legislativo n. 82/2005 e successive modifiche).  
 
