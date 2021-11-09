@@ -154,19 +154,19 @@ nav:
          
     - Focus giuridico:
         - Focus giuridico sui procedimenti: mappatura-procedimenti/4-focus-giuridico-procedimenti.md
-                   
-    - Metadati determinazione | deliberazione:
-        - Metadati minimi determina e delibera: mappatura-procedimenti/2-elementi-minimi-metadati-determinazione-deliberazione.md
-      
-    - Mappatura | analisi dei procedimenti:
+     
+    - Mappatura e analisi dei procedimenti:
         - Percorsi di digitalizzazione in ambito comuale: mappatura-procedimenti/1-percorsi-di-digitalizzazione-in-ambito-comunale.md
-        - L'analisi dei procedimenti nel Piano della Performance: mappatura-procedimenti/3-esperienza-analisi-procedimenti.md
+        - L'analisi dei procedimenti nel Piano della Performance: mappatura-procedimenti/3-esperienza-analisi-procedimenti.md 
+     
+    - Metadati dei procedimenti:
         - I metadati nella mappatura dei procedimenti: mappatura-procedimenti/5-metadati-procedimento.md
         - Un esperienza di mappatura con metadati: mappatura-procedimenti/6-esperienza-metadatazione-procedimento.md
-        - Uno schema di metadati usato nella mappatura: mappatura-procedimenti/8-schema-metadati-procedimento.md
-        
+        - Metadati minimi di determinazioni e deliberazioni: mappatura-procedimenti/2-elementi-minimi-metadati-determinazione-deliberazione.md
+        - Uno schema di metadati usato nella mappatura dei procedimenti: mappatura-procedimenti/8-schema-metadati-procedimento.md
+   
     - Cataologo dei procedimenti:
-        - Dalla mappatura al catalogo: mappatura-procedimenti/7-catalogo-procedimenti.md 
+        - Dalla mappatura al catalogo dei procedimenti: mappatura-procedimenti/7-catalogo-procedimenti.md 
     
     - Linkografia:
         - Linkografia essenziale: mappatura-procedimenti/9-linkografia-essenziale.md
