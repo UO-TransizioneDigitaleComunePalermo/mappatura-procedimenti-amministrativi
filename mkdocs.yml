@@ -161,9 +161,9 @@ nav:
      
     - Metadati dei procedimenti:
         - I metadati nella mappatura dei procedimenti: mappatura-procedimenti/5-metadati-procedimento.md
-        - Un esperienza di mappatura con metadati: mappatura-procedimenti/6-esperienza-metadatazione-procedimento.md
         - Metadati minimi di determinazioni e deliberazioni: mappatura-procedimenti/2-elementi-minimi-metadati-determinazione-deliberazione.md
         - Uno schema di metadati usato nella mappatura dei procedimenti: mappatura-procedimenti/8-schema-metadati-procedimento.md
+        - Un esperienza di mappatura con metadati: mappatura-procedimenti/6-esperienza-metadatazione-procedimento.md
    
     - Cataologo dei procedimenti:
         - Dalla mappatura al catalogo dei procedimenti: mappatura-procedimenti/7-catalogo-procedimenti.md 
@@ -174,5 +174,5 @@ nav:
     - Chi siamo:
         - Chi siamo: mappatura-procedimenti/10-chi-siamo.md
      
-    - Privacy | cookies: 
-        - Privacy | cookies: privacy.md
+    - Privacy e cookies: 
+        - Privacy e cookies: privacy.md
