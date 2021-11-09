@@ -186,3 +186,11 @@ I **vantaggi** sono:
 - **metadato Tempo di conservazione**  (Tempo di conservazione dell’aggregazione desunto dal Piano di conservazione formalmente integrato al Piano di classificazione. Espresso in numero di anni..)
 - **metadato Note** (Eventuali indicazioni aggiuntive utili ad indicare situazioni particolari)
 
+
+!!! Note "Credits"
+    I crediti per alcuni contenuti di questa pagina sono:
+    
+    Fiorella Foscarini. Firenze, 17 giugno 2007 https://docplayer.it/11946830-I-metadati-per-la-gestione-e-conservazione-dei-documenti-elettronici-fiorella-foscarini-firenze-17-giugno-2007.html 
+    
+    Prof. Simone Carletti https://docenti.unimc.it/simone.carletti, a.a. 2014-15 https://docenti.unimc.it/simone.carletti/teaching/2014/13911/files/xml-e-i-metadati-per-la-gestione-dei-depositi-digitali 
+
