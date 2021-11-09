@@ -25,7 +25,7 @@ Il documento è stato progettato partendo dal percorso operativo realizzato dall
 
 [![gh-deploy](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub gh-pages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
-<img src="https://img.shields.io/badge/GitHub-for_code_setting-blue.svg?style=popout&logo=GitHub"> Il link al codice sorgente di questo progetto è [**github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi**](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi)
+<img src="https://img.shields.io/badge/GitHub-for_code_setting-blue.svg?style=popout&logo=GitHub"> Il link al codice sorgente di questo progetto è su [**GitHub**](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi)
 
 
 ??? Note "strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione"
