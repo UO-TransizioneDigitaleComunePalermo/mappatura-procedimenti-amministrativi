@@ -28,7 +28,7 @@ Il documento è stato progettato partendo dal percorso operativo realizzato dall
 <img src="https://img.shields.io/badge/GitHub-for_code_setting-blue.svg?style=popout&logo=GitHub"> Il link al codice sorgente di questo progetto è su [**GitHub**](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi)
 
 
-??? Note "strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto di documentazione"
+??? Note "Altri strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto"
     - [**Addthis**](https://www.addthis.com/) per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
     - [**Disqus**](https://disqus.com/) per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
     - [**Strumento di generazione dei contenuti del progetto in formato PDF**](https://cirospat.github.io/cirospataro/print_page/), indicato in ogni pagina con il simbolo della stampante posizionato in alto a destra
