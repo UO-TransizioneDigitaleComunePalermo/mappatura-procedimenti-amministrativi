@@ -34,3 +34,9 @@ Il documento è stato progettato partendo dal percorso operativo realizzato dall
     - [**Strumento di generazione dei contenuti del progetto in formato PDF**](https://cirospat.github.io/cirospataro/print_page/), indicato in ogni pagina con il simbolo della stampante posizionato in alto a destra
 
 
+## Contenuti rilasciati con licenza CC BY
+I contenuti di questo progetto di documentazione sono rilasciati con licenza aperta [**Creative Commons CC BY 4.0 Int**](https://creativecommons.org/licenses/by/4.0/deed.it).
+
+Chiunque può riusare i contenuti di questo progetto alla sola condizione di citare gli autori.
+
+<img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi">
