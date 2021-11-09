@@ -6,7 +6,7 @@ hide:
 ---
 
 # L’analisi dei procedimenti amministrativi in un Ente Locale per la digitalizzazione
-<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width="330">
+<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width="270">
 
 Questo documento di tipo formativo ha lo scopo di illustrare un metodo e degli strumenti semplici per avviare la mappatura e analisi dei procedimenti amministrativi gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune".
 
@@ -17,11 +17,11 @@ Il documento è stato progettato partendo dal percorso operativo realizzato dall
 
 ---
 
-## Come è costruito questo progetto (Material for MkDocs)
+## Come è costruito questo progetto di documentazione (Material for MkDocs)
 
 <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
 
-<img src="https://img.shields.io/badge/MarkDown-for_page_editing-blue.svg?style=popout"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** `.MD`
+<img src="https://img.shields.io/badge/MarkDown-for_page_editing-blue.svg?style=popout"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown**
 
 [![gh-deploy](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub gh-pages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
