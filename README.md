@@ -36,3 +36,6 @@ Contenuti rilasciati con `licenza aperta Creative Commons BY (attribuzione)`
 
 ![GitHub](https://img.shields.io/github/license/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi)
 
+---
+
+Site map `XML`: [https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/sitemap.xml](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/sitemap.xml)
