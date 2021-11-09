@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 
 # Presentazione elementi minimi (metadati) di una determinazione dirigenziale e deliberazione di Giunta comunale
 
