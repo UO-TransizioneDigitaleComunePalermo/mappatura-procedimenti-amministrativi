@@ -37,6 +37,9 @@ Il documento è stato progettato partendo dal percorso operativo realizzato dall
 ## Contenuti rilasciati con licenza CC BY
 I contenuti di questo progetto di documentazione sono rilasciati con licenza aperta [**Creative Commons CC BY 4.0 Int**](https://creativecommons.org/licenses/by/4.0/deed.it).
 
-Chiunque può riusare i contenuti di questo progetto alla sola condizione di citare gli autori.
+Tu sei libero di:
+- Condividere — riprodurre, distribuire, comunicare al pubblico, esporre in pubblico, rappresentare, eseguire e recitare questo materiale con qualsiasi mezzo e formato 
+- Modificare — remixare, trasformare il materiale e basarti su di esso per le tue opere
+per qualsiasi fine, anche commerciale.
 
 <img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi">
