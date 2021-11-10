@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-# L’analisi dei procedimenti amministrativi in un Ente Locale per la digitalizzazione
+# L’analisi dei procedimenti amministrativi per la digitalizzazione in un Ente Locale 
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width="270">
 
 Questo documento di tipo formativo ha lo scopo di illustrare un metodo e degli strumenti semplici per avviare la mappatura e analisi dei procedimenti amministrativi gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune".
