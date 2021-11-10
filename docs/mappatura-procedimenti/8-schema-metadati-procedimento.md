@@ -1,14 +1,21 @@
 # Architettura dello schema per descrivere i metadati minimi che identificano un procedimento amministrativo
+Di seguito viene proposto uno schema di metadati minimi per identificare un procedimento amministrativo. Lo schema vuole avere l'obiettivo di orientare il personale della Pubblica Amministrazione, soprattutto dell'ente comunale, nell'attività di assegnare proprietà quanto più dettagliate e specifiche al procedimento amministrativo.
+
+I metadati individuati sono 30 e sono applicabili a qualsiasi procedimento amministrativo.
 
 | **==Denominazione dei metadati per descrivere le informazioni relative al procedimento amministrativo==** | **==Risposte==** | **==Note che si ritengono utili inserire per illustrare al meglio le informazioni sul procedimento amministrativo==** |
-|-----|-----|-----|
+|:-----|:-----|:-----|
 | individuare la denominazione per ogni metadato per il quale si richiede al compilatore di inserire informazioni | dare al compilatore questo campo per descrivere le informazioni relative al metadato associato (colonna precedente) | dare al compilatore questo campo per inserire eventuali informazioni ad approfondimento del precedente campo “Risposte” |
 
-Si tratta di uno schema semplice per la compilazione, alla portata di tutti. E' essenziale fornire uno schema semplice da compilare, piuttosto che uno schema "professionale" per mappare e modellare/ottimizzare i processi, in quanto uno schema complesso comporta la conoscenza completa dello stesso da parte di tutti i soggetti che nella PA sono coinvolti nella gestione delle fasi del peocedimento amministrativo.
+Si tratta di uno schema semplice per la compilazione, alla portata di tutti in una pubblica amministrazione. 
+
+E' essenziale fornire uno schema semplice da compilare, piuttosto che uno schema "professionale" per mappare e modellare/ottimizzare i processi, in quanto uno schema complesso comporta la conoscenza completa dello stesso da parte di tutti i soggetti che nella PA sono coinvolti nella gestione delle fasi del peocedimento amministrativo.
+
+Uno schema tabellare semplice come quello proposto, ha visto al Comune di Palermo, la partecipazione di tutte le UO responsabili di procedimenti amministrativi e non è stato incontrato alcun problema di rilievo nella compilazione delle schede.
 
 
 ## Esempio di schema di metadati per identificare un procedimento amministrativo di un ente comunale
-Quello che segue è un esempio di schema, abbastanza semplice ma allo stesso tempo esaustivo per la comprensione del procedimento ai fini di una digitalizzazione.
+Quello che segue è un esempio di schema, abbastanza semplice ma allo stesso tempo esaustivo per la comprensione del procedimento ai fini della digitalizzazione.
 
 | ==ID metadato== | ==**METADATI per descrivere le informazioni relative al procedimento amministrativo**== | 
 |---------|----------------|
@@ -46,4 +53,12 @@ Quello che segue è un esempio di schema, abbastanza semplice ma allo stesso tem
 !!! Nota "Importante"
     Più sarà accurata la compilazione e la tipologia di metadati, più sarà facile costruire una piattaforma informatica di gestione dei vari procedimenti amministrativi che, sebbene diversi tra di loro, avranno comunque e sempre un metodo di gestione univoco che non disorienterà il cittadino, ma anzi lo rassicurerà perché nella presentazione di un’istanza, ad esempio, costui si troverà sempre davanti alla stessa struttura del procedimento che ha seguito per ottenere l’erogazione di un altro servizio.
 
-Metadatando ogni singolo procedimento amministrativo è possibile costruire un catalogo da condividere all’interno dell’ente e pubblicare anche sul sito web istituzionale per facilitare l’accesso dei cittadini ai servizi pubblici.
+Metadatando dettagliatamente ogni singolo procedimento amministrativo è possibile costruire un catalogo da condividere all’interno dell’ente, e pubblicare anche sul sito web istituzionale per facilitare l’accesso dei cittadini ai servizi pubblici e la relativa comprensione. 
+
+## Metadatazione necessaria per la costruzione e implementazione del software gestionale 
+Il catalogo con l'elenco dei procedimenti e le schede dettagliate contenente la metadatazione, possono costituire un allegato tecnico al capitolato speciale di appalto che una pubblica amministrazione può (e deve) rendere alle Aziende interessate alla fornitura di programmi applicativi in grado di gestire in modalità esclusivamente digitale la gestione dei procedimenti amministrativi dell'ente richiedente. 
+
+In questo caso le aziende avranno del materiale tecnico preziosissimo per comprendere la metadatazione dei procedimenti (con le proprietà specifiche) utile a realizzare l'interoperabilità tra applicativi informatici diversi che necesitano di essere in diretta relazione per la gestione del procedimento stesso (es: accesso ad altre banche dati dello stesso ente per verifiche - interazione con altri appplicativi informatici necessaria al processamento di attività necessarie alla gestione del procedimento).
+
+Un requisito fondamentale del software individuato per gestire i procedimenti in modalità digitale è rappresentato dal fatto che l'utilizzatore (ente pubblico), nella figura del Responsable del sistema di gestione documentale, deve poter arricchire la sezione dei metadati dei procedimenti, in autonomia dall'Azienda fornitrice.  In pratica il software, attraverso l'utilizzo di policy prestabilite, deve consentire di aumentare la classe dei metadati nel tempo, ciò in considerazione del fatto che nuove norme possono prevedere cambiamenti nella gestione di procedimenti - e servizi pubblici correlati - già consolidati nel tempo. Le pubbliche amministrazioni devono poter gestire in autonomia l'implementazione delle classi di metadati all'interno degli applicativi gestionali in uso. La tecnologia disponibile al 2021 consente ai software di poter intervenire nell'implementazione delle classi dei metadati degli applicativi gestionali, senza fare ricorso alla software house che ha sviluppato il programma.
+
