@@ -2,7 +2,6 @@
 title: Analisi e mappatura dei procedimenti amministrativi 
 hide:
   - navigation
-  - toc
 ---
 
 # L’analisi dei procedimenti amministrativi in un Ente Locale per la digitalizzazione
