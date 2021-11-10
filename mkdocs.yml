@@ -60,7 +60,7 @@ theme:
   palette:
     - scheme: default
       primary: blue grey           # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
-      accent: #9cb551              # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
+      accent: amber              # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
