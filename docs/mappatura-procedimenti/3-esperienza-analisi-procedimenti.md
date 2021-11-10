@@ -15,10 +15,20 @@
 ---
 
 
-## Il Piano della Performance contiene gli obiettivi funzionali alla transizione digitale dell'ente
+## Il Piano della Performance e gli obiettivi funzionali alla transizione digitale dell'ente
 ![](https://user-images.githubusercontent.com/3757525/140095966-d8be3903-96e3-4c4a-930f-54059f3173dd.png)
 
 Con nota n. 1319949 del 18.11.2020 del Segretario Generale vengono assegnati ai Dirigenti gli obiettivi di redigere le schede con la descrizione e analisi dei procedimenti amministrativi di competenza, da completare entro il 31 dicembre 2021.
+
+
+!!! Note "Il Piano della Performance provvisorio 2021 (Deliberazione G.C. 137 del 26.05.2021)"
+    contiene anche gli obiettivi dirigenziali di attuazione del Piano triennale per l'Informatica e per la transizione digitale:
+
+    - Adozione di un’unica interfaccia per i servizi da digitalizzare con particolare riferimento ai servizi a domanda individuale.
+    - Attuazione del Registro degli affidamenti diretti sul Portale INTRACOM.
+    - Implementazione dello SPID ai servizi online ed estensione dei servizi di pagamento mediante PagoPA.
+    - Reingegnreizzazione del Sito WEB nella logica della centralità del cittadino nell'erogazione dei servizi digitali.
+
 
 **L’analisi dei procedimenti amministrativi è necessaria per la corretta digitalizzazione degli stessi**.
 
