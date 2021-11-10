@@ -44,6 +44,23 @@
 }
 
 
+
+/* regolare colore della dell'header con titolo progetto. Prova 10 nov 2021  */
+.md-header {
+    background-color: #cfcfcf;
+    box-shadow: 0 0 .2rem transparent,0 .2rem .4rem transparent;
+    color: var(--md-primary-bg-color);
+    left: 0;
+    position: -webkit-sticky;
+    position: sticky;
+    right: 0;
+    top: 0;
+    z-index: 3;
+}
+
+
+
+
 /* navigation bar active color*/
 .md-nav__item .md-nav__link--active {
     font-weight: bold !important;
