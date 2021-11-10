@@ -6,7 +6,7 @@ Per inserire una barra sopra l'header.
 
 Il 10.11.2021 ho eliminato dal file override/main.html:
 
-```
+```markdown
 <!-- 
 Add announcement here, including arbitrary HTML (https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) 
 {% block announce %}
