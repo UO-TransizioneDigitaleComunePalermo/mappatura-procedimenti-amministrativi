@@ -177,8 +177,8 @@ div.doc-contents:not(.first) {
 .md-banner { background-color: #2a2369;!important; }  */
 
 
-/* cambia colore al header nero sopra il menù cioè = announcement bar (cambiato 9 nov 2021) */
-.md-announce { background-color: #eaeaea;!important; }
+/* cambia colore al header nero sopra il menù cioè = announcement bar (cambiato 9 nov 2021) 
+.md-announce { background-color: #eaeaea;!important; } */
 
 
 /* Content area width (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width) */
