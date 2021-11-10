@@ -13,7 +13,8 @@ L'[**Articolo 15 del CAD, comma 2**](https://docs.italia.it/italia/piano-trienna
 **Razionalizzare e semplificare**:
 
 - **da un adempimento → (Codice Amministrazione Digitale)** 
-- **ad un'opportunità → (nuovo modo di lavorare e far fruire ai cittadini i servizi pubblici)**
+- **ad un'opportunità → (nuovo modo di lavorare dentro la PA e di far fruire i servizi pubblici ai cittadini)**
+
 
 ## Cronistoria delle attività realizzate dal Comune di Palermo relative a percorsi di digitalizzazione
 Il Comune di Palermo è impegnato da anni nella transizione al digitale, come previsto dal CAD (d.lgs. n. 82/2005 e succ. modifiche/integrazioni). 
@@ -29,6 +30,7 @@ La sfida più grande in corso è quella relativa alla digitalizzazione dei proce
 - catalogarli tutti in un elenco ben definito,
 - definire gli step operativi per ogni procedimento con ordine temporale delle azioni, 
 - definire i metadati di ogni procedimento per individuare gli applicativi informatici che possono pienamente soddisfare ogni singola necessità di gestione del procedimento stesso.
+
 
 ## Dematerializzazione
 Il [**Codice dell’Amministrazione Digitale**](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (CAD) prevede la **dematerializzazione** dei processi amministrativi degli enti pubblici. 
@@ -66,7 +68,7 @@ Nella digitalizzazione di un ente pubblico assume una rilevante importanza il **
 ## Smaterializzazione 
 ![](https://user-images.githubusercontent.com/3757525/140087536-9109f4a8-9767-4393-a2f0-54f0b7a78be8.png)
 
-La smaterializzazione è l'attività che si effettua per riportare un documento esistente in forma cartaceo ad un formato digitale (es. formato `PDF`), così da inserirlo nel “fascicolo” digitale del procedimento amministrativo specifico.  In questo caso il fascicolo sarà composto da:
+La smaterializzazione è l'attività che si effettua per riportare un documento esistente in forma cartaceo ad un formato digitale (es. formato `PDF`), così da inserirlo nel “fascicolo” digitale del procedimento amministrativo specifico.  In questo caso il **fascicolo sarà composto da**:
 
 **documenti amministrativi nativi digitali + documenti informatici frutto di scansione.**
 
@@ -106,7 +108,7 @@ La Procedura informatica "Protocollo-Libro Firma Digitale" serve a:
 - assegnare un numero e una data di protocollo al documento amministrativo,
 - conservare digitalmente a norma il documento amministrativo.
 
-E' stata effetuata una capillare attività di sensibilizzazione e formazione sulla procedura "Protocollo-Libro Firma Digitale". Dal 1 febbraio 2017 al 31 Dicembre 2020 viene effettuata la formazione sul digitale e l’addestramento all’utilizzo della procedura che si conclude con i seguenti numeri:
+E' stata effetuata una capillare **attività di sensibilizzazione e formazione** sulla procedura "Protocollo-Libro Firma Digitale". Dal 1 febbraio 2017 al 31 Dicembre 2020 viene effettuata la formazione sul digitale e l’addestramento all’utilizzo della procedura che si conclude con i seguenti numeri:
 
 - n. 1.575 dipendenti formati ed abilitati 
 - n. 17 Libri Firma NON Dirigenziali relativi a Consiglio Comunale, Giunta, Commissioni Consiliari (7), Consigli di Circoscrizione(8)
@@ -167,7 +169,7 @@ La compilazione (editing) di campi in un applicativo genera automaticamente dive
 
 
 
-## Quando si realizzano servizi online (e digitalizzazione di procedimenti amministrativi) nella PA si pensa a
+## Quando si realizzano servizi online (e digitalizzazione di relativi procedimenti amministrativi) nella PA si pensa a
 
 - **Digital first**, tutto nella PA nasce in formato digitale.
 - **Once only**, la PA chiede un dato una sola volta al cittadino e se una PA ha bisogno di informazioni che detiene un altra PA, non usa il cittadino come garzone per il trasferimento del documento, ma i dati vengono scambiati tramite interoperabilità degli applicativi informatici.
@@ -176,6 +178,7 @@ La compilazione (editing) di campi in un applicativo genera automaticamente dive
 
 
 ## I 5 livelli di interazione dei servizi online
+A tutti i servizi online sono correlati procedimenti amministrativi specifici. Il cittadino interagisce con la pubblica amministrazione nella fase di richiesta, attesa e ricezione del servizio richiesto. La PA deve tendere al 5° livello sei servizi online al fine di consentire al cittadino di essere informato sull'intero ciclo di vita del procedimento che permetterà l'erogazione del servizio.
 
 | **1** | **2** | **3** | **4** | **5** |
 |---|---|---|---|---|
@@ -187,6 +190,6 @@ Sono fornite all’utente informazioni sul procedimento amministrativo (es. fina
 L’art. [69  del CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) prevede che 
 > *le PA che siano titolari di soluzioni e programmi informatici realizzati su specifiche indicazioni del committente pubblico, hanno l’obbligo di rendere disponibile il relativo codice sorgente, completo della documentazione e rilasciato in repertorio pubblico sotto licenza aperta, in uso gratuito ad altre pubbliche amministrazioni o ai soggetti giuridici che intendano adattarli alle proprie esigenze, salvo motivate ragioni di ordine e sicurezza pubblica, difesa nazionale e consultazioni elettorali*. 
 
-A tal fine l’AGID ha reso disponibile un catalogo del riuso gratuito del software [https://developers.italia.it/it/software](https://developers.italia.it/it/software) dove ogni PA deve verificare la presenza di programmi che soddisfano le proprie esigenze, e questa attività deve avvenire prima di rivolgersi al mercato privato.
+A tal fine l’[AGID](https://www.agid.gov.it/) ha reso disponibile un catalogo del riuso gratuito del software [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software) dove ogni PA deve verificare la presenza di programmi che soddisfano le proprie esigenze, e questa attività deve avvenire prima di rivolgersi al mercato privato.
 
 ---
