@@ -1,4 +1,10 @@
-eliminato dal file override/main.html:
+# Setting vari - prove
+Questo file "note" contiene varie prove effettuate nei setting del codice.
+
+## {% block announce %}
+Per inserire una barra sopra l'header.
+
+Il 10.11.2021 ho eliminato dal file override/main.html:
 
 ```
 <!-- 
