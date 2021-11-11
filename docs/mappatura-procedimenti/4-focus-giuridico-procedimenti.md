@@ -1,7 +1,5 @@
 ---
 title: Focus giuridico sul "procedimento amministrativo" 
-hide:
-  - navigation
 ---
 
 
