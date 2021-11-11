@@ -9,7 +9,7 @@ hide:
 ## Chi siamo
 ![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png)
 
-A supportare il Comune di Palermo nel processo di mappatura/analisi e digitalizzazione dei procedimenti amministrativi, e necessaria formazione al personale, siamo anche:
+A supportare il Comune di Palermo nel processo di mappatura e analisi per la digitalizzazione dei procedimenti amministrativi, e necessaria formazione al personale, siamo anche:
 
 - **Ciro Spataro** | [`CV`](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/preview) | [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) | 0917407340
 - **Sergio Schimicci** | `CV` | [s.schimicci@comune.palermo.it](mailto:s.schimicci@comune.palermo.it) | 0917407336
@@ -26,4 +26,4 @@ Abbiamo voluto semplificare quanto più possibile il percorso da fare per giunge
 Intendiamo mettere, con piacere, a disposizione di altri colleghi i risultati di questa esperienza.
 
 !!! Nota "Nota"
-    Il Comune di Palermo gestisce i sistemi informativi e provvede alla digitalizzazione di procedimenti e servizi attraverso la Società interamente in house "SISPI SpA".
+    Il Comune di Palermo gestisce i sistemi informativi e provvede alla digitalizzazione di procedimenti e servizi attraverso la Società interamente in house "SISPI SpA" specializzata per l'informatica.
