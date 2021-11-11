@@ -8,26 +8,30 @@ Gli articoli vengono illustrati anche nella diverse pagine di questo progetto di
 
 [**Art. 12 del CAD**](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_I-sezione_III-articolo_12.html) prevede che:
 > 1  
+> 
 > *Le pubbliche amministrazioni nell'organizzare  autonomamente  la propria attivita' utilizzano le tecnologie dell'informazione e  della comunicazione per la realizzazione  degli  obiettivi  di  efficienza, efficacia, economicita', imparzialita', trasparenza,  semplificazione e partecipazione nel rispetto dei principi di uguaglianza  e  di  non discriminazione, nonche' per l'effettivo riconoscimento  dei  diritti dei  cittadini  e  delle  imprese  di  cui  al  presente  Codice   in conformita'  agli  obiettivi  indicati  nel   Piano   triennale   per l'informatica nella  pubblica  amministrazione  di  cui  all'articolo 14-bis, comma 2, lettera b)*.
 
 ↓
 
-**Le PA sono tenute ad usare le tecnologie ICT nell'organizzazione e gestione delle attività istituzionali**. **E lo fanno conformemente agli obiettivi operativi previsti dal [Piano Triennale per l'Informatica nella PA](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html)**
+`1`- **Le PA sono tenute ad usare le tecnologie ICT nell'organizzazione e gestione delle attività istituzionali**. **E lo fanno conformemente agli obiettivi operativi previsti dal [Piano Triennale per l'Informatica nella PA](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html)**
 
 
 > 1-bis 
+> 
 > *Gli organi di Governo nell'esercizio delle funzioni di indirizzo politico ed in particolare nell'emanazione delle direttive generali per l'attività amministrativa e per la gestione ai sensi del comma 1 dell’articolo 14 del decreto legislativo 30 marzo 2001, n. 165, e le amministrazioni pubbliche nella redazione del piano di performance di cui all'articolo 10 del decreto legislativo 27 ottobre 2009, n. 150, dettano disposizioni per l'attuazione delle disposizioni del presente Codice*.
 
 ↓
 
-**Le PA in fase di redazione dei Piani per la Performance inseriscono obiettivi dirigenziali per l'attuazione del CAD, cioè di transizione digitale**
+`1-bis`- **Le PA in fase di redazione dei Piani per la Performance inseriscono obiettivi dirigenziali per l'attuazione del CAD, cioè di transizione digitale**
 
 > 1-ter 
+> 
 > *I dirigenti rispondono dell’osservanza ed attuazione delle disposizioni di cui al presente Codice ai sensi e nei limiti degli articoli 21 e 55 del decreto legislativo 30 marzo 2001, n. 165, ferme restando le eventuali responsabilità penali, civili e contabili previste dalle norme vigenti. L’attuazione delle disposizioni del presente Codice è comunque rilevante ai fini della misurazione e valutazione della performance organizzativa ed individuale dei dirigenti*.
 
 ↓
 
-**L'attuazione dei contenuti del CAD, previsti nei Piani della Performance, è in diretta relazione alla misurazione e valutazione della performance organizzativa e indiduale dei dirigenti. I premi di produttività dei dirigenti risentono del livello di raggiungimento degli obiettivi di transizione digitale, ognuno secondo le competenze rivestite in seno alla PA presso la quale presta servizio**.
+`1-ter`- **L'attuazione dei contenuti del CAD, previsti nei Piani della Performance, è in diretta relazione alla misurazione e valutazione della performance organizzativa e indiduale dei dirigenti. I premi di produttività dei dirigenti risentono del livello di raggiungimento degli obiettivi di transizione digitale, ognuno secondo le competenze rivestite in seno alla PA presso la quale presta servizio**.
+
 ---
 
 
@@ -38,7 +42,7 @@ L'[**Art. 15 del CAD, comma 2**](https://docs.italia.it/italia/piano-triennale-i
 
 ↓
 
-**Viene inserito nel CAD il principio di "razionalizzare" e "semplificare" i proceidmenti amministrativi**:
+**Viene instrodotto nel CAD il principio di "razionalizzare" e "semplificare" i proceidmenti amministrativi**:
 
 - **da un adempimento → (previsto dal CAD)**
 - **si passa ad un'opportunità → (nuovo modo di lavorare dentro la PA e conseguentemente nuovo modo di far fruire i servizi pubblici ai cittadini attraverso l'uso delle tecnologie della comunicazione e dell'informazione)**
@@ -63,6 +67,7 @@ L'[**Art. 15 del CAD, comma 2**](https://docs.italia.it/italia/piano-triennale-i
 
 [**Art. 41 del CAD**](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_III-sezione_II-articolo_41.html) prevede che:
 > 1
+> 
 > *Le  pubbliche amministrazioni gestiscono i procedimenti amministrativi utilizzando le tecnologie  dell'informazione  e  della comunicazione.  Per  ciascun  procedimento  amministrativo  di   loro competenza, esse forniscono gli opportuni servizi di interoperabilita' ((o integrazione)), ai sensi di quanto previsto ((dagli articoli 12 e 64-bis))*.
 
 ↓
