@@ -12,6 +12,8 @@
 ![](https://user-images.githubusercontent.com/3757525/140091925-e05ae644-3ba5-4962-b081-7de2e9ae7dcb.png)
 ![](https://user-images.githubusercontent.com/3757525/140092545-3b1dce7e-0ad1-4e28-88b4-42862e3665eb.png)
 
+`elenco metadati minimi della determinazione dirigenziale`:
+
 - data inserimento determinazione nell'applicativo gestionale (che generalmente viene generata automaticamente dall'applicativo)
 - numero determinazione
 - data determinazione
@@ -32,6 +34,8 @@
 
 ![](https://user-images.githubusercontent.com/42996217/141310385-537399a8-b98c-44c8-8ea7-bb228ecec6e8.png)
 ![](https://user-images.githubusercontent.com/42996217/141310437-cca4ce4d-f4b2-414d-a307-ba82f281ce88.png)
+
+`elenco metadati minimi della deliberazione di Giunta comunale`:
 
 - data inserimento deliberazione nell'applicativo gestionale (che generalmente viene generata automaticamente dall'applicativo)
 - numero proposta deliberazione
