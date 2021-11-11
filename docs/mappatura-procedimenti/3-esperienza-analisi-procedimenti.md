@@ -109,5 +109,4 @@ Al riguardo è possibile consultare i [**Requisiti funzionali, non funzionali e 
 ![](https://user-images.githubusercontent.com/42996217/141288038-5132a1d1-7d6f-4964-a1c4-65e89e821703.png)
 
 !!! Note "Il SGPA è" 
-    un sistema informatico la cui architettura è basata su componenti software aggregati per servizi organizzati su tre macro livelli funzionali, `Front End`, `BackEnd` e
-`Datalayer`, con compiti e responsabilità chiare e distinte, progettati nel rispetto dei migliori standard dell’ingegneria del software.
+    un sistema informatico la cui architettura è basata su componenti software aggregati per servizi organizzati su tre macro livelli funzionali, `Front End`, `BackEnd` e `Datalayer`, con compiti e responsabilità chiare e distinte, progettati nel rispetto dei migliori standard dell’ingegneria del software.
