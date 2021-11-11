@@ -9,7 +9,7 @@
 
 ## Procedimento: "*Autorizzazione benefici Legge n. 104/1992*"
 
-|==ID metadato==| ==Denominazione metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
+|==ID metadato==| ==Denominazione del metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
 |:---|:--------------------------------------|:-----------------|:-----|
 |1|Nome del procedimento amministrativo | ACQUISIZIONE DEL SERVIZIO DI REFEZIONE SCOLASTICA E DEL SERVIZIO DI FORMAZIONE ALIMENTARISTI |    |
 |2|Descrizione del procedimento amministrativo | Autorizzazione alla fruizione ai dipendenti afferenti il Settore dei benefici L. 104/92 |   |
