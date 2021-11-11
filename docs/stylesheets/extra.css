@@ -210,5 +210,5 @@ div.doc-contents:not(.first) {
 
 /* Content area width (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width) */
 .md-grid {
-  max-width: 1220px; 
+  max-width: 1200px; 
 }
