@@ -8,16 +8,16 @@ hide:
 # L’analisi dei procedimenti amministrativi per la digitalizzazione in un Ente Locale 
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width="270">
 
-Questo documento di tipo formativo ha lo scopo di illustrare un metodo e degli strumenti semplici per avviare la mappatura e analisi dei procedimenti amministrativi gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune".
+Questo documento ha lo scopo di illustrare un metodo e un set di strumenti semplici per avviare la mappatura e analisi dei procedimenti amministrativi gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune".
 
-Realizzare un’analisi dei procedimenti in ottica di semplificazione, al fine di creare le pre-condizioni per una reingegnerizzazione degli stessi e la relativa digitalizzazione.
+Realizzare un’analisi dei procedimenti in ottica di semplificazione, al fine di creare le pre-condizioni per la reingegnerizzazione degli stessi e la relativa digitalizzazione.
 
 Il documento è stato progettato partendo dal percorso operativo realizzato dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione al digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (Decreto legislativo n. 82/2005 e successive modifiche).  
 
 
 ---
 
-## Come è costruito questo progetto di documentazione (Material for MkDocs)
+## Come è costruito questo progetto di documentazione 
 
 <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
 
@@ -34,7 +34,7 @@ Il documento è stato progettato partendo dal percorso operativo realizzato dall
     - [**Strumento di generazione dei contenuti del progetto in formato PDF**](https://cirospat.github.io/cirospataro/print_page/), indicato in ogni pagina con il simbolo della stampante posizionato in alto a destra
 
 
-## Contenuti del progetto rilasciati con licenza CC BY
+## I contenuti di questo progetto sono rilasciati rilasciati con licenza aperta 
 <img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi">
 
 I contenuti di questo progetto di documentazione sono rilasciati con licenza aperta [**Creative Commons CC BY 4.0 Int**](https://creativecommons.org/licenses/by/4.0/deed.it).
