@@ -28,7 +28,7 @@
 - pareri interni alla determinazione
 
 
-## Elementi minimi (metadati) di una deliberazione di Giunta comunale
+## Metadati minimi di una deliberazione di Giunta comunale
 
 ![](https://user-images.githubusercontent.com/42996217/141310385-537399a8-b98c-44c8-8ea7-bb228ecec6e8.png)
 ![](https://user-images.githubusercontent.com/42996217/141310437-cca4ce4d-f4b2-414d-a307-ba82f281ce88.png)
