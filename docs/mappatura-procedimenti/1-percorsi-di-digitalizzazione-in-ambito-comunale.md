@@ -1,9 +1,5 @@
 # Percorsi di digitalizzazione in ambito comunale
-
-!!! Note "Nota"
-    [https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do](https://docs.google.com/presentation/d/12cJRFZ6yXq22Zce7OOzo8EgFDEqu6_GoZdCRyvSh0Do)
-
-    webinar 28/09/21
+In questa pagina viene illustrato in sintesi il percorso di digitalizzazione documentale del Comuen di Palermo.
 
 ## Articolo 15 del Codice Amministrazione Digitale (CAD): “razionalizzare e semplificare” 
 
