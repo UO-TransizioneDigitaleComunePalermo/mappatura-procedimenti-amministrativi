@@ -187,7 +187,7 @@ Sono fornite all’utente informazioni sul procedimento amministrativo (es. fina
 
 
 ## La PA alla ricerca del software
-L’art. [69  del CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) prevede che 
+L’art. [69  del CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_VI-articolo_69.html) prevede che 
 > *le PA che siano titolari di soluzioni e programmi informatici realizzati su specifiche indicazioni del committente pubblico, hanno l’obbligo di rendere disponibile il relativo codice sorgente, completo della documentazione e rilasciato in repertorio pubblico sotto licenza aperta, in uso gratuito ad altre pubbliche amministrazioni o ai soggetti giuridici che intendano adattarli alle proprie esigenze, salvo motivate ragioni di ordine e sicurezza pubblica, difesa nazionale e consultazioni elettorali*. 
 
 A tal fine l’[AGID](https://www.agid.gov.it/) ha reso disponibile un catalogo del riuso gratuito del software [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software) dove ogni PA deve verificare la presenza di programmi che soddisfano le proprie esigenze, e questa attività deve avvenire prima di rivolgersi al mercato privato.
