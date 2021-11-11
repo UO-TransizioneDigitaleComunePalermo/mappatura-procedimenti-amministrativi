@@ -40,8 +40,8 @@ La scheda è composta da **2 fogli tabellari**:
 - uno per la descrizione dei [**metadati**](https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=0) 
 - e uno per la descrizione degli [**step operativi** del procedimento amministrativo](https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=1645990221).
 
-<iframe src="https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=0" height="1000"; width="100%"; frameborder="0"; > </iframe>
-<iframe src="https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=1645990221" height="1000"; width="100%"; frameborder="0"; > </iframe>
+<iframe src="https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=0" height="1000"; width="70%"; frameborder="0"; > </iframe>
+<iframe src="https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=1645990221" height="1000"; width="70%"; frameborder="0"; > </iframe>
 
 ![](https://user-images.githubusercontent.com/3757525/140100623-0313b8e7-c52f-48ad-b122-ca5ad23187ba.png)
 ![](https://user-images.githubusercontent.com/3757525/140100837-d37bd864-bce3-43dd-b5f8-21e09eb63754.png)
