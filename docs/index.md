@@ -1,4 +1,5 @@
 ---
+title: `Mappatura dei procedimenti amministrativi per la digitalizzazione`
 hide:
   - navigation
   - toc
