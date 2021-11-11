@@ -27,6 +27,8 @@ Con nota n. 1319949 del 18.11.2020 del Segretario Generale vengono assegnati ai 
     - Attuazione del Registro degli affidamenti diretti sul Portale INTRACOM.
     - Implementazione dello SPID ai servizi online ed estensione dei servizi di pagamento mediante PagoPA.
     - Reingegnerizzazione del Sito WEB nella logica della centralità del cittadino nell'erogazione dei servizi digitali.
+    
+Consulta il [Piano della Performance 2021](https://drive.google.com/file/d/1Nl3MLPJku-e7m2uJxy86pQl5-6-LUYjz/view).
 
 
 **L’analisi dei procedimenti amministrativi è necessaria per la corretta digitalizzazione degli stessi**.
