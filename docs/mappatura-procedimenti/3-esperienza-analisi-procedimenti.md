@@ -97,5 +97,15 @@ la formula di sopra serve per generare la **% di andamento**
 > 1.  *Le  pubbliche   amministrazioni   gestiscono   i   procedimenti amministrativi utilizzando le tecnologie  dell'informazione  e  della comunicazione.  Per  ciascun  procedimento  amministrativo  di   loro competenza,   esse    forniscono    gli    opportuni    servizi    di interoperabilita' ((o integrazione)), ai  sensi  di  quanto  previsto ((dagli articoli 12 e 64-bis))*.
 
 
+## Focus dell'AGID sul "SGPA" - Sistema di Gestione dei Procedimenti Amministrativi
+L'AGID sottolinea che [la gestione documentale dei procedimenti amministrativi garantisce la corretta amministrazione dei documenti dalla produzione alla conservazione](https://www.agid.gov.it/it/piattaforme/sistema-gestione-procedimenti-amministrativi).
 
+*Il Sistema di gestione dei procedimenti amministrativi nazionali è realizzato attraverso la definizione, a carico di AgID, delle regole di interoperabilità dei flussi documentali che le Pubbliche amministrazioni implementano per aderire al sistema*.
 
+*Le amministrazioni implementano le API (application programming interface) per la partecipazione al Sistema di gestione dei procedimenti amministrativi.*.
+
+Al riguardo è possibile consultare i [Requisiti funzionali, non funzionali e di progetto del Sistema di gestione dei procedimenti amministrativi](https://www.agid.gov.it/sites/default/files/repository_files/catalogo_pac/scheda_descrittiva_di_pto_agid_requisiti_sgpa_v1.0.pdf).
+
+!!! Note "Il SGPA è" 
+    un sistema informatico la cui architettura è basata su componenti software aggregati per servizi organizzati su tre macro livelli funzionali, `Front End`, `BackEnd` e
+`Datalayer`, con compiti e responsabilità chiare e distinte, progettati nel rispetto dei migliori standard dell’ingegneria del software.
