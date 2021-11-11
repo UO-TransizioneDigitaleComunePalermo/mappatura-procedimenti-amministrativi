@@ -42,7 +42,7 @@ L'[**Art. 15 del CAD, comma 2**](https://docs.italia.it/italia/piano-triennale-i
 
 ↓
 
-**Viene instrodotto nel CAD il principio di "razionalizzare" e "semplificare" i proceidmenti amministrativi**:
+**Viene introdotto nel CAD il principio di "razionalizzare" e "semplificare" i procedimenti amministrativi**:
 
 - **da un adempimento → (previsto dal CAD)**
 - **si passa ad un'opportunità → (nuovo modo di lavorare dentro la PA e conseguentemente nuovo modo di far fruire i servizi pubblici ai cittadini attraverso l'uso delle tecnologie della comunicazione e dell'informazione)**
