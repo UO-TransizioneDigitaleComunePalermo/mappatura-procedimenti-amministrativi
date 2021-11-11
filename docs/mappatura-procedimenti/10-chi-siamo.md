@@ -11,8 +11,8 @@ hide:
 
 A supportare il Comune di Palermo nel processo di mappatura/analisi e digitalizzazione dei procedimenti amministrativi, e necessaria formazione al personale, siamo anche:
 
-- **Ciro Spataro** | [CV](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/preview) | [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) | 0917407340
-- **Sergio Schimicci** | CV | [s.schimicci@comune.palermo.it](mailto:s.schimicci@comune.palermo.it) | 0917407336
+- **Ciro Spataro** | [`CV`](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/preview) | [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) | 0917407340
+- **Sergio Schimicci** | `CV` | [s.schimicci@comune.palermo.it](mailto:s.schimicci@comune.palermo.it) | 0917407336
 
 del Servizio Innovazione - Settore Servizi Direzione Generale
 
