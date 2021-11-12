@@ -23,7 +23,10 @@ extra:
       name: Home Page
     - icon: fontawesome/brands/twitter
       link: http://twitter.com/cirospat
-      name: account twitter
+      name: account Twitter
+    - icon: fontawesome/brands/medium
+      link: https://cirospat.medium.com/
+      name: account Medium
     - icon: fontawesome/brands/github
       link: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi
       name: Repoisitory GitHub
