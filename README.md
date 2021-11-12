@@ -6,7 +6,6 @@
 # Mappatura e analisi dei procedimenti amministrativi
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width=350 /> 
 
-Scrivere testo di presentazione del progetto
 
 
 ## UO-TransizioneDigitaleComunePalermo 
