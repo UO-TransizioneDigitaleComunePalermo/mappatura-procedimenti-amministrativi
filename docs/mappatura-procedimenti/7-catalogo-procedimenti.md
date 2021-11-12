@@ -55,14 +55,14 @@ L'URL `https://docs.google.com/spreadsheets/d/e/2PACX-1vQfrJ2qTTIIkX5Pf0Q4dxijhI
 
 !!! Note "Gli strumenti principali usati per realizzare questa visualizzazione sono 4"
 
-    - [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online;
-    - [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate;
-    - [**GDrive Sheet**](https://www.google.com/sheets/about/), per raccogliere e distribuire i dati che fanno da sorgente;
-    - [**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online.
+    - [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
+    - [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate
+    - [**GDrive Sheet**](https://www.google.com/sheets/about/), per raccogliere e distribuire i dati che fanno da sorgente (bisogna dotarsi di un account)
+    - [**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online (bisogna dotarsi di un account)
 
 
 ### Clonare il progetto esistente come modello da replicare per un nuovo catalogo
-La realizzazione del progetto su GitHub è possibile clonando il progetto già realizzato ↓
+La realizzazione del progetto su GitHub è possibile clonando il [progetto già realizzato](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo) e dando un nuovo titolo nella sezione "Repository Name" ↓
 
 ![clona il repository GitHub](https://user-images.githubusercontent.com/42996217/141466142-53cf9edb-6b6b-4df3-8795-ac6da2da9b0f.png)
 
