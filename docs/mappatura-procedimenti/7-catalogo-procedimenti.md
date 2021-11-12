@@ -37,7 +37,11 @@ Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https:/
 
 <img src="https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png" width=900 > </img>
 
-Il file creato precedentemente in formato tabellare su Google Drive con l'elenco dei procedimenti e i link alle schede di dettaglio, viene reso (nelle impostazioni) *condiviso in maniera tale che chiunque abbia il link lo può visualizzare*. Sul progetto da creare su GitHub si fa riferimento al link del foglio di Google Drive, specificatamente nel file `index.html`:
+Il file creato precedentemente in formato tabellare su Google Drive con l'elenco dei procedimenti e i link alle schede di dettaglio, viene reso (nelle impostazioni) *condiviso in maniera tale che chiunque abbia il link lo può visualizzare*. 
+
+![](https://user-images.githubusercontent.com/42996217/141465351-5d7ec9f7-bfb3-408f-985b-d5f7f1aa290b.png)
+
+Sul progetto da creare su GitHub si fa riferimento al link del foglio di Google Drive, specificatamente nel file `index.html` bisogna dare le seguenti istruzioni:
 ```
 <link rel="exhibit/data" 
     type="text/csv"
