@@ -82,7 +82,7 @@ L'elenco dei procedimenti redatto servirà per costruire un interfaccia di catal
 
 Considerato l'alto numero di procedimenti e l'articolata organizzazione dell'Amministrazione comunale di Palermo, viene costruita su Google spreadsheet (fogli su Google Drive) una scheda per il monitoraggio delle attività in corso.
 
-Una funzione sui fogli tabellari Google spreadsheet consente di fissare risultati attesi e ogni volta che si raggiunge un risultato, flaggando la casella accanto quella con il risultato atteso è possibile avere un andamento del lavoro per `%`.
+Una funzione sui fogli tabellari Google spreadsheet consente di fissare risultati attesi e ogni volta che si raggiunge un risultato, flaggando la casella accanto quella con il risultato atteso è possibile visualizzare un andamento del lavoro per `%`, comodo per il monitoraggio.
 
 Nel file [**https://docs.google.com/spreadsheets/d/1rEKcFH5NGqXr9KIHNHa6voSWBXnsljz4kOsmz91VDPE**](https://docs.google.com/spreadsheets/d/1rEKcFH5NGqXr9KIHNHa6voSWBXnsljz4kOsmz91VDPE) 
 sono riportate le formule da inserire dentro due celle, in particolare per generare gli effetti dell’**andamento progressivo del lavoro**
