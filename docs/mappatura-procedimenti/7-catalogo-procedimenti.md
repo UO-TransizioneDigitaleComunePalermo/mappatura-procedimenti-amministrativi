@@ -29,7 +29,7 @@ Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate
 
 ---
 
-## Creare un interfaccia grafica per consultare il catalogo
+## Creare un interfaccia grafica per consultare il catalogo online
 Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo) è possibile creare un interfaccia di catalogo molto intuitiva per la consultazione online.
 
 <img src="https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png" width=900 > </img>
