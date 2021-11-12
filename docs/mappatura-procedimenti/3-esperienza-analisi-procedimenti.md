@@ -15,6 +15,16 @@ Il percorso di compilazione viene monitorato da un Ufficio centrale (il Servizio
 
 Con nota n. 1319949 del 18.11.2020 del Segretario Generale (*Integrazione Piano della Performance e Obiettivi Dirigenziali anno 2020*) vengono assegnati ai Dirigenti gli obiettivi di redigere le schede per la descrizione e analisi dei procedimenti amministrativi di competenza, da completare entro il 31 dicembre 2021.
 
+
+=== "DESCRIZIONE OBIETTIVO"
+
+    *Redazione dell’analisi dei processi amministrativi relativi ai procedimenti ascritti alla competenza dei Servizi dirigenziali finalizzati al lavoro di digitalizzazione degli stessi processi*
+    
+=== "INDICATORE OBIETTIVO"
+
+    *Trasmissione al Servizio Innovazione entro il 31/12/2020 di Foglio di Lavoro formato Excel riportante la descrizione delle fasi di processo di lavoro gestito relativo al procedimento amministrativo ascritto al servizio*
+
+
 ### L’analisi dei procedimenti amministrativi è necessaria per la corretta digitalizzazione degli stessi
 
 A seguito della nota n. 1319949 del 18.11.2020 del Segretario Generale, il Servizio Innovazione predispone una **scheda tabellare** per facilitare la compilazione delle informazioni sull’analisi dei procedimenti. La scheda viene condivisa via email a tutti i dirigenti. Il Servizio Innovazione presta supporto ai colleghi degli uffici per la compilazione delle schede.
