@@ -17,7 +17,7 @@ hide:
 Conclusa la compilazione delle schede da parte dei responsabili dei procedimenti, un ufficio centrale provvede a raccogliere tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato tabellare) che li elenca tutti (i procedimenti).
 
 ## Creare un database in formato tabellare con l'elenco dei procedimenti
-Si procede con la creazione di un file in formato tabellare su Google Drive, con la seguente schema dati:
+Si procede con la creazione di un file in formato tabellare su Google Drive, con il seguente "schema dati":
 
 |==area==|==settore==|==servizio==|==denominazione procedimento==|==lavoro agile==|==email responsabile procedimento==|==telefono info==|==link scheda==|==rif==|
 |----|-------|--------|--------------------------|------------|-------------------------------|-------------|-----------|---|
