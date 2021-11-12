@@ -80,6 +80,76 @@
 |29|  Se è prevista la consultazione di banche dati dell'amministrazione comunale (o di altri enti pubblici) per la gestione del procedimento, descrivere il nome della banca dati. Se sono più banche dati da consultare usare il trattino - di separazione | MAIA - SUPER@EDI |  |
 |30|  Il procedimento può essere gestito anche in modalità di lavoro agile, perchè, ad esempio, non è necessario consultare atti cartacei che si trovano in ufficio o per altri motivi che non rendono necessaria la presenza quotidiana in ufficio? (si,no) | si | Il procedimento, essendo gestito sul portale super@edi, è perfettamente gestibile in lavoro agile. L’unica criticità è la gestione dei provvedimenti, ad oggi ancora cartacei residualmente, che necessitano la presenza in ufficio per la stampa e trasmissione. Problematica che potrebbe essere risolta con l’adozione dell'applicativo Libro Firma |
 
+---
+
+## Procedimento "*Avviso iscrizioni scuole d’infanzia*"
+
+|==ID metadato==| ==Denominazione del metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
+|:---|:--------------------------------------|:-----------------|:-----|
+|1| Nome del procedimento amministrativo | avviso iscrizioni scuole infanzia |  |
+|2| Descrizione del procedimento amministrativo | redazione e pubblicazione, nel mese di gennaio, della modalità e requisiti di accesso per iscrizione minore scuole infanzia comunali|  |
+|3|  Nome dell'Area comunale competente | Area dell'educazione, formazione e politiche giovanili |  |
+|4| Nome del Settore comunale competente e del Servizio Se non è previsto il Settore scrivere il nome del Servizio di appartenenza | Area dell'educazione,formazione e politiche giovanili - Servizio Attività rivolte alla Scuola dell' infanzia |  |
+|5|  Nome dell'Unità Organizzativa responsabile dell'istruttoria | UO Gestione amm.va 0/6 |  |
+|6|  Responsabile del procedimento (nome, cognome) | Nome Cognome |  |
+|7|  Email del responsabile del procedimento | nomecognome@comune.palermo.it |  |
+|8|  Indirizzo di posta dell'Ufficio al quale rivolgersi per ricevere informazioni sul procedimento su appuntamento o secondo giorni di ricevimento | servizinfanzia@comune.palermo.it |  |
+|9|  Email alla quale rivolgersi per informazioni sul procedimento (in caso di più email usare il carattere trattino - di separazione) | nomecognome@comune.palermo.it |  |
+|10|  Telefono/i al/i quale/i rivolgersi per informazioni sul procedimento (in caso di più telefoni usare il carattere trattino - di separazione) | 091/7404342 - 4343 - 4356 |  |
+|11|  Ufficio/Servizio/Settore competente all'adozione del procedimento finale (se previsto ed è diverso dall'Ufficio responsabile dell'avvio dell'istruttoria). Se non è previsto scrivere: "Lo stesso ufficio che avvia l'istruttoria" | lo stesso ufficio che avvia istruttoria | Le UDE (Unità Didattiche Educative) istruiscono la gestione amministrativa delle richieste d'iscrizione |
+|12|  Modalità di accesso al procedimento. Esempio: richiesta via email o tramite applicativo informatico alla U.O. competente | Portale della Scuola del Comune di Palermo - sito istituzionale comune di Palermo (home page - sezione scadenze) | Pubblicazione Avviso e circolare esplicativa |
+|13|  Termine di conclusione del procedimento in giorni | 90 gg | termine del procedimento di revisione |
+|14|  Il provvedimento può essere sostituito da una dichiarazione dell'interessato, ovvero il procedimento può concludersi con il silenzio assenso dell'amministrazione? (si,no) | NO | Emissione dell'Avviso iscrizioni nei tempi indicati dalla circolare MIUR |
+|15|  Link di accesso al servizio on line per l'avvio del procedimento (se ad oggi è previsto il relativo servizio online) | portalescuola.comune.palermo.it |  |
+|16|  Modalità per l'effettuazione dei pagamenti se sono previsti pagamenti. Esempio: iban, c/c postale, PagoPA, bancomat,.. Se non è previsto pagamento scrivere: "Non è previsto pagamento" | non è previsto pagamento |  |
+|17|  Potere sostitutivo da attivare in caso di inerzia. Titolare del potere sostitutivo in caso di inerzia è: | Capo Area |  |
+|18|  Il procedimento amministrativo è correlato ad un servizio pubblico da erogare al cittadino/azienda (si,no) | si | L'iscrizione del minore alla scuola dell'infanzia, si attiva il procedimento la cui gestione istruttoria è demandata alle UDE (Unità Didattiche Educative) |
+|19|  Se il procedimento amministrativo è correlato ad un servizio pubblico da erogare al cittadino/azienda, scrivere il nome del servizio da erogare all'utenza. In caso negativo scrivere: "non è correlato ad un servizio pubblico da erogare" | frequenza di un minore alla scuola d'infanzia |  |
+|20|  Se esiste modulistica da utilizzare per la gestione del procedimento amministrativo, digitare il link della pagina web del sito istituzionale dove è scaricabile. Se la modulistica è solo su Intracom scrivere: "Intracom" | Portale della scuola |  |
+|21|  Elenco delle norme che regolamentano la gestione del procedimento amministrativo (separate dal carattere trattino -). Ad es.: Decreto legislativo 33/2013 - Decreto legislativo 50/2016 - e così via | Regolamento scuole infanzia Comune di Palermo, Deliberazione di C.C. n.750 del 26/11/2010 e integrato con Deliberazione di C.C. 371 del 23/08/2012 | |
+|22|  Scrivere il nome dell'applicativo gestionale (se esiste) per gestire le fasi del processo relativo al procedimento in esame. Se non esiste scrivi "non esiste applicativo" | Portale della scuola iscrizione online |  |
+|23|  E' prevista la firma digitale del dirigente in qualche atto da produrre (es. determinazione, nota) per gestire il procedimento amministrativo? (si,no) | si | Per emissione Determinazione Dirigenziale graduatorie |
+|24|  E' prevista la firma digitale della P.O. (o RUP o l'altra figura competente) che ha avuto l'apposita delega? (si,no) | no |  |
+|25|  E' prevista la firma digitale di più responsabili? (si,no) | no | 
+|26|  E' prevista l'assegnazione all'interno della U.O. a diversi operatori? (si,no) | si |  |
+|27|  E' prevista la compilazione del provvedimento su una modulistica standardizzata, che possa essere successivamente controllata e firmata dal/dai responsabili incaricati?
+(si,no) | no |
+|28|  E' prevista la consultazione di banche dati dell'amministrazione comunale per la gestione del procedimento? (si,no) | si |  |
+|29|  Se è prevista la consultazione di banche dati dell'amministrazione comunale (o di altri enti pubblici) per la gestione del procedimento, descrivere il nome della banca dati. Se sono più banche dati da consultare usare il trattino - di separazione | si | a priori della redazione dell'Avviso , consultazione banca dati personale scolastico collocato a riposo c/o Risorse Umane |
+|30|  Il procedimento può essere gestito anche in modalità di lavoro agile, perchè, ad esempio, non è necessario consultare atti cartacei che si trovano in ufficio o per altri motivi che non rendono necessaria la presenza quotidiana in ufficio? (si,no) | si | perché non è necessario consultare atti che richiedono la presenza giornaliera | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
 
 
 
