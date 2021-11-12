@@ -14,7 +14,17 @@ Conclusa la compilazione delle schede (metadati + fasi operative) da parte dei r
 ## Creare un database in formato tabellare con l'elenco dei procedimenti
 Si procede con la creazione di un file in formato tabellare su Google Drive. 
 
-Il file contiene i principali metadati che permettono l'individuazione del tipo di procedimento, i contatti del responsabile (nome_cognome, email, telefono), il servizio/ufficio responsabile, l'informazione se il procedimento è gestibile in modalità "lavoro agile" (utile per la costruzione del POLA), un numero identificativo, ed il link alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative".
+Il file contiene i principali metadati che permettono:
+
+- `l'individuazione del tipo di procedimento`, 
+- `i contatti del responsabile` 
+  - `nome_cognome`, 
+  - `email`, 
+  - `telefono`, 
+- `il servizio/ufficio responsabile`, 
+- `l'informazione se il procedimento è gestibile in modalità "lavoro agile" (utile per la costruzione del POLA)`, 
+- `un numero identificativo progressivo`, 
+- `ed il link alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"`.
 
 Il database ha il seguente "schema dati":
 
