@@ -52,9 +52,11 @@ Viene chiesto ai Dirigenti di impartire direttive alle UU.OO. del proprio Serviz
 
 L'esattezza e completezza delle informazioni è necessaria, in un secondo momento, per costruire le funzioni operative di una piattaforma informatica di gestione documentale trasversale a tutti gli uffici, in grado di soddisfare le esigenze delle varie UU.OO. nella gestione dei procedimenti amministrativi di competenza.
 
-### Descrivere gli step oeprativi anche per endo-procedimenti
+### Descrivere le fasi operative anche per endo-procedimenti
 
 E' buona prassi descrivere le fasi del procedimento per macro fasi, riducendo il numero delle fasi nei casi di procedimenti complessi e di inserire nel campo "note aggiuntive" eventuali dettagli utili a comprendere le complessità delle stesse macro fasi descritte relative al procedimento amministrativo. Gli endo-procedimenti possono essere così tracciati nel campo "note aggiuntive".
+
+Per la compilazione della scheda sulle "fasi dei procedimenti" vedi la [relativa pagina](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/12-step-operativi/).
 
 ### Comunicare la compilazione delle schede
 
