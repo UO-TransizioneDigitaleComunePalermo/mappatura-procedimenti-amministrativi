@@ -12,7 +12,7 @@ Questo documento ha lo scopo di illustrare un metodo e un set di strumenti sempl
 
 Realizzare un’analisi dei procedimenti in ottica di semplificazione, al fine di creare le pre-condizioni per la reingegnerizzazione degli stessi e la relativa digitalizzazione.
 
-Il documento è stato progettato partendo dal percorso operativo realizzato dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione al digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (Decreto legislativo n. 82/2005 e successive modifiche).  
+Il documento è stato progettato seguendo il percorso operativo realizzato dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione al digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (Decreto legislativo n. 82/2005 e successive modifiche). Vengono descritte le azioni realizzate nel tempo dal personale comunale, che hanno portato alla redazione di un catalogo contenenti gli step operativi e i metadati dei procedimenti. E' stato tracciato un passo importante del Comune di Palermo necessario per la corretta digitalizzazione dei procedimenti amministrativi.
 
 
 ---
