@@ -1,3 +1,10 @@
+---
+hide:
+    - navigation
+    - toc
+---
+
+
 # Illustrazione della scheda sulle fasi operative del procedimento amministrativo
 
 In questa pagina viene descritto come utilizzare (compilare) la scheda relativa alla descrizione degli "step operativi" che in ordine cronologico caratterizzano la gestione del procedimento amministrativo.
