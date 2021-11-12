@@ -1,4 +1,4 @@
-# Illustrazione della scheda sugli stepoperativi del procedimento amministrativo
+# Illustrazione della scheda sulle fasi operative del procedimento amministrativo
 
 In questa pagina viene descritto come utilizzare (compilare) la scheda relativa alla descrizione degli "step operativi" che in ordine cronologico caratterizzano la gestione del procedimento amministrativo.
 
@@ -10,9 +10,9 @@ La scheda utilizzata è la seguente:
 
 Il 3° campo serve per inserire Note che si ritengono utili per illustrare, quanto più dettagliatemete possibile, le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni o endo-procedimenti necessari al perfezionamento del procedimento amministrativo.
 
-La scheda "**step operativi**" accompagna la scheda dei "**metadati**" del procedimento amministrativo. Entrambe le schede vengono compilate nello stesso tempo dai responsabili di procedimenti. Esse sono nello stesso file excel su Google Drive, distinte in due fogli di lavoro.
+La scheda "**fasi operative**" accompagna la scheda dei "**metadati**" del procedimento amministrativo. Entrambe le schede vengono compilate nello stesso tempo dai responsabili di procedimenti. Esse sono nello stesso file excel su Google Drive, distinte in due fogli di lavoro.
 
-## Esempio di compilazione 
+## Esempi di compilazione della scheda "fasi operative"
 
 **Procedimento "Abbattimento alberature sottoposte a vincoli"**
 
