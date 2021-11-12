@@ -50,6 +50,18 @@ Sul progetto da creare su GitHub si fa riferimento al link del foglio di Google 
 
 L'URL `https://docs.google.com/spreadsheets/d/e/2PACX-1vQfrJ2qTTIIkX5Pf0Q4dxijhIA9R3XtocGEvhPsNA3Hd-OnhTgkYEqNJltvVeTdQrsXAsnrDX2_09lK/pub?output=csv` è la fonte dati da cui il progetto GitHub genera l'interfaccia di consultazione dei procedimenti amministrativi.
 
+!!! Note "Gli strumenti principali usati per realizzare questa visualizzazione sono 4"
+
+    - [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo;
+    - [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate;
+    - [**GDrive Sheet**](https://www.google.com/sheets/about/), per raccogliere e distribuire i dati che fanno da sorgente;
+    - [**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono questa visualizzazione.
+
+
+La realizzazione del progetto su GitHub è possibile clonando il progetto già realizzato ↓
+
+![clona il repository GitHub](https://user-images.githubusercontent.com/42996217/141466142-53cf9edb-6b6b-4df3-8795-ac6da2da9b0f.png)
+
 
 
 ## Presentazione del catalogo
