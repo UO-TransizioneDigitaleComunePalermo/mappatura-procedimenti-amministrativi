@@ -8,11 +8,15 @@ hide:
 
 # Come costruire un esempio di catalogo dei procedimenti amministrativi
 
-Conclusa la compilazione delle schede da parte dei responsabili dei procedimenti, un ufficio centrale provvede a raccogliere tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato tabellare) che li elenca tutti (i procedimenti).
+Conclusa la compilazione delle schede (metadati + fasi operative) da parte dei responsabili dei procedimenti, un ufficio centrale provvede a raccogliere tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato tabellare) che li elenca tutti.
 
 
 ## Creare un database in formato tabellare con l'elenco dei procedimenti
-Si procede con la creazione di un file in formato tabellare su Google Drive, con il seguente "schema dati":
+Si procede con la creazione di un file in formato tabellare su Google Drive. 
+
+Il file contiene i principali metadati che permettono l'individuazione del tipo di procedimento, i contatti del responsabile (nome_cognome, email, telefono), il servizio/ufficio responsabile, l'informazione se il procedimento è gestibile in modalità "lavoro agile" (utile per la costruzione del POLA), un numero identificativo, ed il link alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative".
+
+Il database ha il seguente "schema dati":
 
 |==area==|==settore==|==servizio==|==denominazione procedimento==|==lavoro agile==|==email responsabile procedimento==|==telefono info==|==link scheda==|==rif==|
 |----|-------|--------|--------------------------|------------|-------------------------------|-------------|-----------|---|
