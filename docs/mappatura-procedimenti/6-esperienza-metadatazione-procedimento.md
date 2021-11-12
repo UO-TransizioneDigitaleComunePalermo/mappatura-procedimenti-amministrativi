@@ -12,7 +12,7 @@
 |==ID metadato==| ==Denominazione del metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
 |:---|:--------------------------------------|:-----------------|:-----|
 |1|Nome del procedimento amministrativo | ACQUISIZIONE DEL SERVIZIO DI REFEZIONE SCOLASTICA E DEL SERVIZIO DI FORMAZIONE ALIMENTARISTI |    |
-|2|Descrizione del procedimento amministrativo | Autorizzazione alla fruizione ai dipendenti afferenti il Settore dei benefici L. 104/92 |   |
+|2|Descrizione del procedimento amministrativo | Autorizzazione alla fruizione ai dipendenti afferenti il Settore dei benefici L. 104/1992 |   |
 |3|Nome dell'Area comunale competente|Area della Cittadinanza|  |
 |4|Nome del Settore comunale competente e del Servizio Se non è previsto il Settore scrivere il nome del Servizio di appartenenza| Settore della Cittadinanza solidale- Staff responsabile di Settore|  |
 |5|Nome dell'Unità Organizzativa responsabile dell'istruttoria| U.O. Direzione, affari generali e gestione del personale|  |
