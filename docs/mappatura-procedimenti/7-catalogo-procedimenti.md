@@ -44,4 +44,4 @@ Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https:/
 
 Presentazione del [**catalogo dei procedimenti del Comune di Palermo**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) come strumento fondamentale di conoscenza per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione dei procedimenti amministrativi.
 
-<iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="82500"; width="100%"; frameborder="0"; > </iframe>
+<iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="83000"; width="100%"; frameborder="0"; > </iframe>
