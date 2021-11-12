@@ -37,10 +37,18 @@ Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https:/
 
 <img src="https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png" width=900 > </img>
 
----
+Il file creato precedentemente in formato tabellare su Google Drive con l'elenco dei procedimenti e i link alle schede di dettaglio, viene reso (nelle impostazioni) *condiviso in maniera tale che chiunque abbia il link lo può visualizzare*. Sul progetto da creare su GitHub si fa riferimento al link del foglio di Google Drive, specificatamente nel file `index.html`:
+```
+<link rel="exhibit/data" 
+    type="text/csv"
+    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQfrJ2qTTIIkX5Pf0Q4dxijhIA9R3XtocGEvhPsNA3Hd-OnhTgkYEqNJltvVeTdQrsXAsnrDX2_09lK/pub?output=csv" />
+```
+
+L'URL `https://docs.google.com/spreadsheets/d/e/2PACX-1vQfrJ2qTTIIkX5Pf0Q4dxijhIA9R3XtocGEvhPsNA3Hd-OnhTgkYEqNJltvVeTdQrsXAsnrDX2_09lK/pub?output=csv` è la fonte dati da cui il progetto GitHub genera l'interfaccia di consultazione dei procedimenti amministrativi.
 
 
-## Il catalogo
+
+## Presentazione del catalogo
 
 Presentazione del [**catalogo dei procedimenti del Comune di Palermo**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) come strumento fondamentale di conoscenza per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione dei procedimenti amministrativi.
 
