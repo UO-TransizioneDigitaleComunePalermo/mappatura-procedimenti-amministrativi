@@ -24,7 +24,7 @@ La scheda "**fasi operative**" accompagna la scheda dei "**metadati**" del proce
 
 ## Esempi di compilazione della scheda "fasi operative"
 
-**Procedimento "Abbattimento alberature sottoposte a vincoli"**
+**Procedimento "*Abbattimento alberature sottoposte a vincoli*"**
 
 | **==Ordine progressivo delle fasi del procedimento==** | **==Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo==** | **==Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo==** |
 |:-----|:-----|:-----|
@@ -37,7 +37,7 @@ La scheda "**fasi operative**" accompagna la scheda dei "**metadati**" del proce
 
 ---
 
-**Procedimento: "Parere di conformità Urbanistica  ai sensi dell'art.5 L.R. 12 del 12/07/2011."**
+**Procedimento: "*Parere di conformità Urbanistica  ai sensi dell'art.5 L.R. 12 del 12/07/2011*"**
 
 | **==Ordine progressivo delle fasi del procedimento==** | **==Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo==** | **==Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo==** |
 |:-----|:-----|:-----|
