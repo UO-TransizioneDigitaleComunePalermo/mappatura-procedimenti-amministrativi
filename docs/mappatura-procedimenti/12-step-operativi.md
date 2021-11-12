@@ -32,7 +32,7 @@ La scheda "**fasi operative**" accompagna la scheda dei "**metadati**" del proce
 |fase 2| Verifica fito-statica/sanitaria dell’esemplare in esame, secondo la metodologia V.T.A. (Visual Tree Assessment). Da richiedere al proprietario, se trattasi di albero in proprietà privata, da commissionare alla Ditta aggiudicataria della gara in atto, se trattasi di albero su suolo pubblico|  |
 |fase 3| Acquisizione V.T.A ed inoltro richiesta alla Soprintendenza competente|  |
 |fase 4| Acquisizione dalla Soprintendenza del N.O. o Diniego all'abbattimento con eventuali prescrizioni|  | 
-|fase 5| In caso positivo(fase 4), si procede all'abbattimento se pubblico o se ne da comunicazione con atto formale all'interessato, se privato | |
+|fase 5| In caso positivo (fase 4), si procede all'abbattimento se pubblico o se ne da comunicazione con atto formale all'interessato, se privato | |
 |fase 6| Conclusione del Procedimento|  |
 
 ---
