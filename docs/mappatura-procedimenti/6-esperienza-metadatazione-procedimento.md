@@ -111,8 +111,7 @@
 |24|  E' prevista la firma digitale della P.O. (o RUP o l'altra figura competente) che ha avuto l'apposita delega? `(si,no)` | no |  |
 |25|  E' prevista la firma digitale di più responsabili? `(si,no)` | no | 
 |26|  E' prevista l'assegnazione all'interno della U.O. a diversi operatori? `(si,no)` | si |  |
-|27|  E' prevista la compilazione del provvedimento su una modulistica standardizzata, che possa essere successivamente controllata e firmata dal/dai responsabili incaricati?
-`(si,no)` | no |
+|27|  E' prevista la compilazione del provvedimento su una modulistica standardizzata, che possa essere successivamente controllata e firmata dal/dai responsabili incaricati? `(si,no)` | no |
 |28|  E' prevista la consultazione di banche dati dell'amministrazione comunale per la gestione del procedimento? `(si,no)` | si |  |
 |29|  Se è prevista la consultazione di banche dati dell'amministrazione comunale (o di altri enti pubblici) per la gestione del procedimento, descrivere il nome della banca dati. Se sono più banche dati da consultare usare il trattino - di separazione | si | a priori della redazione dell'Avviso , consultazione banca dati personale scolastico collocato a riposo c/o Risorse Umane |
 |30|  Il procedimento può essere gestito anche in modalità di lavoro agile, perchè, ad esempio, non è necessario consultare atti cartacei che si trovano in ufficio o per altri motivi che non rendono necessaria la presenza quotidiana in ufficio? `(si,no)` | si | perché non è necessario consultare atti che richiedono la presenza giornaliera | 
