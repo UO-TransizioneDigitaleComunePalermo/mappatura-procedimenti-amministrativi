@@ -13,9 +13,12 @@ La scheda utilizzata è la seguente:
 
 | **==Ordine progressivo delle fasi del procedimento==** | **==Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo==** | **==Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo==** |
 |:-----|:-----|:-----|
-| ........... | .............. | ........... |
+| fase 1 | .............. | ........... |
+| fase 2 | .............. | ........... |
+| fase 3 | .............. | ........... |
+| fase 4 | .............. | ........... |
 
-Il 3° campo serve per inserire Note che si ritengono utili per illustrare, quanto più dettagliatemete possibile, le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni o endo-procedimenti necessari al perfezionamento del procedimento amministrativo.
+Il 3° campo serve per inserire **Note** che si ritengono utili per illustrare, quanto più dettagliatemete possibile, le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni o endo-procedimenti necessari al perfezionamento del procedimento amministrativo.
 
 La scheda "**fasi operative**" accompagna la scheda dei "**metadati**" del procedimento amministrativo. Entrambe le schede vengono compilate nello stesso tempo dai responsabili di procedimenti. Esse sono nello stesso file excel su Google Drive, distinte in due fogli di lavoro.
 
