@@ -70,7 +70,7 @@ Ultimata l’attività di controllo e censimento delle schede il Servizio Innova
 |area|settore|servizio|denominaz. procedimento|lavoro agile|email resp procedimento|telefono info|link scheda|rif|
 |--- |-------|--------|--------------------------|------------|-----------------------|-------------|-----------|---|
 
-Il campo `link scheda` contiene il link (URL) al file che contiene sia i metadati che gli step operativi del procedimento amministrativo.
+Il campo `link scheda` contiene i link (URL) ai file tabellari contenente sia i metadati che gli step operativi dei vari procedimenti amministrativi, file che si trovano tutti dentro una cartella di Google Drive.
 
 ![](https://user-images.githubusercontent.com/3757525/140100136-c1e67724-519c-415d-ae73-95cdc0f7d1d1.png)
 
