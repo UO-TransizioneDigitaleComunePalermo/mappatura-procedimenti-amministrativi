@@ -1,10 +1,5 @@
 # Esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale
 
-!!! Note "Nota"
-    [https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing](https://drive.google.com/drive/folders/1t2wcAeuT-hiU-aIwQbKbDeYfnIe53bCp?usp=sharing)
-
-    webinar 16/11/21
-
 **Illustrazione dell’esperienza di metadatazione di alcuni procedimenti amministrativi, svolta al Comune di Palermo**
 
 ## Procedimento: "*Autorizzazione benefici Legge n. 104/1992*"
