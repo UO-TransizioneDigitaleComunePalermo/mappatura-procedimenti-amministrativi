@@ -1,6 +1,8 @@
 
 # Presentazione elementi minimi (metadati) di una determinazione dirigenziale e deliberazione di Giunta comunale
-In questa pagina vengono illustrati i metadati minimi che devono identificare una determinazione dirigenziale e una deliberazione di Giunta comunale al fine di strutturare adeguati applicativi informatici necessari alla gestione digitale di tali atti amministrativi.
+Le determinazioni e le deliberazioni sono gli atti amministrativi di maggiore produzione in un ente comunale.
+
+In questa pagina vengono illustrati i metadati minimi che devono identificare una determinazione dirigenziale e una deliberazione di Giunta comunale, al fine di strutturare adeguati applicativi informatici necessari alla gestione digitale di tali atti amministrativi.
 
 
 ## Metadati minimi di una determinazione dirigenziale
@@ -56,4 +58,3 @@ In questa pagina vengono illustrati i metadati minimi che devono identificare un
 - sindaco presente o assente
 - certificato di pubblicazione (data, nomi_cognomi dei firmatari)
 - dichiarazione di esecutività (immediata o non)
-- ............
