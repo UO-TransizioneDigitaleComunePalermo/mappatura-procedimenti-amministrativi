@@ -8,13 +8,8 @@ hide:
 
 # Come costruire un esempio di catalogo dei procedimenti amministrativi
 
-!!! Note "Nota"
-    [https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing](https://drive.google.com/drive/folders/1yak-YiRvK3AP4dfLIV6TNIZ6O--xX6kV?usp=sharing)
-    
-    webinar 23/11/21
-
-
 Conclusa la compilazione delle schede da parte dei responsabili dei procedimenti, un ufficio centrale provvede a raccogliere tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato tabellare) che li elenca tutti (i procedimenti).
+
 
 ## Creare un database in formato tabellare con l'elenco dei procedimenti
 Si procede con la creazione di un file in formato tabellare su Google Drive, con il seguente "schema dati":
