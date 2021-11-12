@@ -32,3 +32,5 @@ Intendiamo mettere, con piacere, a disposizione di altri colleghi i risultati di
     ![](https://user-images.githubusercontent.com/42996217/141452047-eedca94d-1712-4406-95ed-e324eb1a6a8e.png)
     
     Attraverso le risorse del PO FESR Sicilia 2014-2020, OT2 (agenda digitale), entro il 2023, vengono realizzati progetti [(Azioni 2.2.1 e 2.2.3)](https://www.euroinfosicilia.it/po-fesr-sicilia-2014-2020/obiettivi-tematici/agenda-digitale/) per gestire in modalità digitale la maggior parte dei principali procedimenti amministrativi, grazie al supporto tecnico operativo della Società in house per i sistemi informatici SISPI SpA. 
+    
+    ![](https://user-images.githubusercontent.com/42996217/141453786-77f1b2d3-54c7-437c-9c1a-170fab568a40.png)
