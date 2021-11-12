@@ -26,7 +26,7 @@ Abbiamo semplificato quanto più possibile il percorso da fare per giungere alla
 
 Intendiamo mettere, con piacere, a disposizione di altri colleghi i risultati di questa esperienza.
 
-!!! Nota "Nota"
+!!! Nota "Innovazione tecnologica e transizione digitale al Comune di Palermo"
     Il Comune di Palermo gestisce i sistemi informativi e provvede alla digitalizzazione di procedimenti e servizi attraverso la Società interamente in house [SISPI SpA](https://www.sispi.it/) specializzata per l'informatica. 
     
     ![](https://user-images.githubusercontent.com/42996217/141452047-eedca94d-1712-4406-95ed-e324eb1a6a8e.png)
