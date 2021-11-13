@@ -1,5 +1,5 @@
 # Percorsi di digitalizzazione in ambito comunale
-In questa pagina viene illustrato in sintesi il percorso di digitalizzazione documentale del Comuen di Palermo.
+In questa pagina viene illustrato in sintesi il percorso di digitalizzazione documentale del Comune di Palermo, coerentemente con le indicazioni dell CAD.
 
 ## Articolo 15 del Codice Amministrazione Digitale (CAD): “razionalizzare e semplificare” 
 
@@ -17,15 +17,17 @@ Il Comune di Palermo è impegnato da anni nella transizione al digitale, come pr
 
 I passi compiuti dall'Amministrazione comunale di Palermo per la digitalizzazione dei documenti sono stati:  
 
-- il primo passo compiuto in tal senso ha visto nel 2017 la digitalizzazione di tutti i documenti dell'Amministrazione destinati a soggetti esterni (note), 
+- nel 2017 la digitalizzazione di tutti i documenti dell'Amministrazione destinati a soggetti privati/pubblici esterni (note), 
 - nel 2019 la digitalizzazione delle Determinazioni Dirigenziali, 
-- nel 2021 la digitalizzazione delle Deliberazioni di Giunta. 
+- nel 2021 la digitalizzazione delle Deliberazioni di Giunta comunale. 
 
 La sfida più grande in corso è quella relativa alla digitalizzazione dei procedimenti amministrativi gestiti dal personale degli uffici. Dal 2020, a seguito di disposizioni del Segretario Generale, tutte le UO degli uffici, coordinate dai Dirigenti, hanno effettuato l’analisi dei procedimenti necessaria per:
 
 - catalogarli tutti in un elenco ben definito,
-- definire gli step operativi per ogni procedimento con ordine temporale delle azioni, 
-- definire i metadati di ogni procedimento per individuare gli applicativi informatici che possono pienamente soddisfare ogni singola necessità di gestione del procedimento stesso.
+- definire le fasi operative per ogni procedimento con ordine temporale delle azioni da compiere, 
+- definire una classe esaustiva di metadati per i procedimenti.
+
+Ciò al fine di individuare applicativi informatici in grado di soddisfare pienamente ogni singola necessità di gestione dei procedimenti gestiti nei vari Uffici dell'Amministrazione.
 
 
 ## Dematerializzazione
@@ -46,6 +48,7 @@ La dematerializzazione è l’attività di produzione, gestione e conservazione 
 ![](https://user-images.githubusercontent.com/3757525/140087374-9ef6d160-6aa0-44f4-8d5b-7f50e057eab8.png)
 
 Nella **dematerializzazione** si opera esclusivamente con il **data entry**, cioè la compilazione di testo in campi di un applicativo (software) e flag di campi in un menù precostruito. I dati inseriti nel software finiscono in un database strutturato, dal quale si possono fare sia estrazioni specifiche (ricerche) per parole chiave, che generare report periodici. Dal database possono essere generati automaticamente documenti amministrativi informatici da inviare al cittadino che ha effettuato richieste (richieste di servizi - accesso agli atti - ecc.). I documenti amministrativi informatici così generati possono essere firmati digitalmente dal dirigente/funzinario responsabile, nella stessa piattaforma informatica, prima di essere inviati al cittadino.
+
 
 ## Documento informatico e Protocollo informatico 
 ![](https://user-images.githubusercontent.com/3757525/140087680-d4f5c1e0-1ffc-4bdb-a846-9eb7fdeaed24.png)
@@ -71,6 +74,7 @@ La smaterializzazione è l'attività che si effettua per riportare un documento 
 Nella smaterializzazione si opera con la scansione, cioè l’acquisizione dell’immagine del documento cartaceo.  Il documento scansionato è una vera e propria “fotografia” del documento cartaceo. Non è possibile estrapolare "informaticamente" dati e informazioni da un documento scansionato (a meno che non si utilizzano efficaci programmi di OCR in grado di leggere testo e riportarlo in un formato di testo di tipo "aperto").
 
 Per anni si sono scansionati atti cartacei nella PA. Oggi la scansione è un attività da eseguire solo per riportare in formato digitale atti cartacei necessari da integrare in fascicoli in cui la produzione amministrativa è già nativa digitale (es. atti di decine di anni fa relativi a servizi di edilizia privata quali permessi di costruire, certificati di abitabilità/agibilità, ecc.).
+
 
 
 ## Era il 12 Agosto 2016 ...
@@ -162,8 +166,10 @@ Può essere fornito un **supporto al backend (lato personale PA)** che trova una
 Oggi spesso pensiamo la documentazione della PA come formati `PDF` che derivano da formati DOCX/ODT ai quali abbiamo lavorato precedentemente.
 Dimentichiamo di lavorare principalmente per documenti `PDF`.
 
-Dobbiamo lavorare per compilazione di campi in un applicativo, come quando compriamo un biglietto aereo online o usiamo piattaforme di acquisti online. 
+Dobbiamo lavorare per compilazione di campi in un applicativo, come quando compriamo un biglietto aereo online o usiamo piattaforme per acquisti online. 
 La compilazione (editing) di campi in un applicativo genera automaticamente diversi formati: `XML` - `JSON` - `ODT` e solo alla fine il formato `PDF` per la finalità di "essere firmato digitalmente" da un responsabile.
+
+Dobbiamo pensare al formato `PDF` come un formato da generare nell'applicativo informatico - a livello temporale - solo alla fine della gestione di un procedimento.
 
 
 
@@ -174,15 +180,17 @@ La compilazione (editing) di campi in un applicativo genera automaticamente dive
 - **Cloud first**, i servizi delle PA sono gestiti nativamente su servizi cloud.
 - **Interoperabile by design**, le PA, nella realizzazione di piattaforme applicative, pensano all’interoperabilità dei software e delle banche dati, per lo scambio dati tra lo stesso ente o tra enti diversi.
 
+Questi sono i requisiti indispensabili da indicare nei capitolati di appalto per la fornitura di applicativi informatici destinati a gestire procedimenti amministrativi e servizi pubblici online.
+
 
 ## I 5 livelli di interazione dei servizi online
 A tutti i servizi online sono correlati distinti e specifici procedimenti amministrativi. Il cittadino interagisce con la pubblica amministrazione nella fase di:
 
-- richiesta, 
-- attesa, 
-- e ricezione del servizio richiesto. 
+- richiesta del servizio, 
+- attesa dellerogazione del servizio rischieto, 
+- ricezione del servizio richiesto. 
 
-La PA deve tendere al raggiungimento del 5° livello dei servizi online, al fine di consentire al cittadino di essere informato sull'intero ciclo di vita del procedimento che permetterà l'erogazione del servizio.
+La PA deve tendere al raggiungimento del 5° livello dei servizi online, al fine di consentire al cittadino di essere informato - in tenpo reale - sull'intero ciclo di vita del procedimento che permetterà l'erogazione del servizio.
 
 | **1** | **2** | **3** | **4** | **5** |
 |---|---|---|---|---|
@@ -194,6 +202,8 @@ Sono fornite all’utente informazioni sul procedimento amministrativo (es. fina
 L’art. [69  del CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_VI-articolo_69.html) prevede che 
 > *le PA che siano titolari di soluzioni e programmi informatici realizzati su specifiche indicazioni del committente pubblico, hanno l’obbligo di rendere disponibile il relativo codice sorgente, completo della documentazione e rilasciato in repertorio pubblico sotto licenza aperta, in uso gratuito ad altre pubbliche amministrazioni o ai soggetti giuridici che intendano adattarli alle proprie esigenze, salvo motivate ragioni di ordine e sicurezza pubblica, difesa nazionale e consultazioni elettorali*. 
 
-A tal fine l’[AGID](https://www.agid.gov.it/) ha reso disponibile un catalogo del riuso gratuito del software [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software) dove ogni PA deve verificare la presenza di programmi che soddisfano le proprie esigenze, e questa attività deve avvenire prima di rivolgersi al mercato privato.
+A tal fine l’[AGID](https://www.agid.gov.it/) ha reso disponibile online un catalogo del riuso gratuito del software [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software), dove ogni PA deve verificare la presenza di programmi che soddisfano le proprie esigenze, e questa attività deve avvenire necessariamente prima di rivolgersi al mercato privato. I codici sorgenti del software presenti nel catalogo del riuso sono accompagnati da riferimenti (PA, nome, cognome, telefono, email,..) della PA erogatrice del software e della dcumentazione necessaria all'instalalzione dei programmi.
+
+Le PA che hanno acquisito software sono tenute a rilasciare codici sorgenti e relativa documentazione, accompagnati da una licenza aperta, sulla piattaforma [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software).
 
 ---
