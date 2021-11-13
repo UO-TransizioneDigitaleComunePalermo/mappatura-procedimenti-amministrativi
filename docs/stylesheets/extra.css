@@ -117,6 +117,20 @@ table {
       margin-bottom: 0; }
 
 
+/* regolare dimensioni carattere delle tabelle (prova 13 nov 2021)  */
+.md-typeset table:not([class]) {
+    background-color: var(--md-default-bg-color);
+    border: .05rem solid var(--md-typeset-table-color);
+    border-radius: .1rem;
+    display: inline-block;
+    font-size: .84rem !important;
+    max-width: 100%;
+    overflow: auto;
+    touch-action: auto;
+}
+
+
+
 /*Tabbed extension css*/
 .tabbed-set {
   display: flex;
