@@ -70,6 +70,8 @@ La smaterializzazione è l'attività che si effettua per riportare un documento 
 
 Nella smaterializzazione si opera con la scansione, cioè l’acquisizione dell’immagine del documento cartaceo.  Il documento scansionato è una vera e propria “fotografia” del documento cartaceo. Non è possibile estrapolare "informaticamente" dati e informazioni da un documento scansionato (a meno che non si utilizzano efficaci programmi di OCR in grado di leggere testo e riportarlo in un formato di testo di tipo "aperto").
 
+Per anni si sono scansionati atti cartacei nella PA. Oggi la scansione è un attività da eseguire solo per riportare in formato digitale atti cartacei necessari da integrare in fascicoli in cui la produzione amministrativa è già nativa digitale (es. atti di decine di anni fa relativi a servizi di edilizia privata quali permessi di costruire, certificati di abitabilità/agibilità, ecc.).
+
 
 ## Era il 12 Agosto 2016 ...
 
@@ -174,7 +176,13 @@ La compilazione (editing) di campi in un applicativo genera automaticamente dive
 
 
 ## I 5 livelli di interazione dei servizi online
-A tutti i servizi online sono correlati procedimenti amministrativi specifici. Il cittadino interagisce con la pubblica amministrazione nella fase di richiesta, attesa e ricezione del servizio richiesto. La PA deve tendere al 5° livello sei servizi online al fine di consentire al cittadino di essere informato sull'intero ciclo di vita del procedimento che permetterà l'erogazione del servizio.
+A tutti i servizi online sono correlati distinti e specifici procedimenti amministrativi. Il cittadino interagisce con la pubblica amministrazione nella fase di:
+
+- richiesta, 
+- attesa, 
+- e ricezione del servizio richiesto. 
+
+La PA deve tendere al raggiungimento del 5° livello dei servizi online, al fine di consentire al cittadino di essere informato sull'intero ciclo di vita del procedimento che permetterà l'erogazione del servizio.
 
 | **1** | **2** | **3** | **4** | **5** |
 |---|---|---|---|---|
