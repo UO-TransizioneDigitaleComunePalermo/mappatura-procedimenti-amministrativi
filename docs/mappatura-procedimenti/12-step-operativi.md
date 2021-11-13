@@ -1,8 +1,8 @@
 ---
 hide:
     - navigation
-    - toc
 ---
+
 
 
 # Illustrazione della scheda sulle fasi operative del procedimento amministrativo
