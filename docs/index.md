@@ -55,7 +55,7 @@ I contenuti di questo progetto di documentazione sono rilasciati con licenza ape
 [riferimento sul tutorial](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
 
 
-``` yaml
+``` { .yaml .annotate }
 theme:
   features:
     - content.code.annotate # (1)
