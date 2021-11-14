@@ -14,3 +14,16 @@ Il 10.11.2021 ho eliminato dal file override/main.html:
 
 `{% endblock %}`  
 
+
+### Code annotation
+riferimento: https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations
+
+
+``` yaml
+theme:
+  features:
+    - content.code.annotate # (1)
+```
+
+1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
+    text__, images, ... basically anything that can be expressed in Markdown.
