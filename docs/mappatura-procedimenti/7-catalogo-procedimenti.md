@@ -8,7 +8,7 @@ hide:
 
 # Come costruire un esempio di catalogo dei procedimenti amministrativi
 
-!!! info inline end
+!!! info inline
 
     :man_raising_hand: Per le schede [**metadati**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/6-esperienza-metadatazione-procedimento/) e [**fasi operative**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/12-step-operativi/) dei procedimenti, fai riferimento alle relative pagine trattate in questo progetto di documentazione.
 
