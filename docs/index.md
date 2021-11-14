@@ -59,7 +59,10 @@ I contenuti di questo progetto di documentazione sono rilasciati con licenza ape
 theme:
   features:
     - content.code.annotate # (1)
+    - content.code.annotate # (2)
+    - content.code.annotate # (1)
 ```
 
-1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
-    text__, images, ... basically anything that can be expressed in Markdown.
+1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted text__, images, ... basically anything that can be expressed in Markdown.
+2.  :man_raising_hand: prova 2
+3.  :man_raising_hand: prova 3
