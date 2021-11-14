@@ -8,7 +8,12 @@ hide:
 
 # Come costruire un esempio di catalogo dei procedimenti amministrativi
 
+!!! info inline end
+
+    Per le schede [metadati](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/6-esperienza-metadatazione-procedimento/) e [fasi oeprative](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/12-step-operativi/) fai rieferimento alle relative pagine trattate in questo progetto di documentazione.
+
 Conclusa la compilazione delle schede (metadati + fasi operative) da parte dei responsabili dei procedimenti, un ufficio centrale provvede a raccogliere tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato tabellare) che li elenca tutti.
+
 
 
 ## Creare un database in formato tabellare con l'elenco dei procedimenti
