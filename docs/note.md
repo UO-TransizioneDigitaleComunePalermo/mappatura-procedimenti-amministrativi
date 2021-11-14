@@ -19,7 +19,7 @@ Add announcement here, including arbitrary HTML (https://squidfunk.github.io/mkd
 riferimento: https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations
 
 
-``` yaml
+``` { .yaml .annotate }
 theme:
   features:
     - content.code.annotate # (1)
