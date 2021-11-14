@@ -2,17 +2,20 @@
 title: Mappatura dei procedimenti amministrativi per la digitalizzazione
 hide:
   - navigation
-  - toc
 ---
 
 # L’analisi dei procedimenti amministrativi per la digitalizzazione in un Ente Locale 
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width="270">
 
-Questo documento ha lo scopo di illustrare un metodo e un set di strumenti semplici per avviare la mappatura e analisi dei procedimenti amministrativi gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune".
+
+## Cosa è questo progetto di documentazione
+Questo progetto di documentazione ha lo scopo di illustrare un metodo e un set di strumenti semplici per avviare la mappatura e analisi dei procedimenti amministrativi gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune".
 
 Realizzare un’analisi dei procedimenti in ottica di semplificazione, al fine di creare le pre-condizioni per la reingegnerizzazione degli stessi e la relativa digitalizzazione.
 
-Il documento è stato progettato seguendo il percorso operativo realizzato dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione al digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (Decreto legislativo n. 82/2005 e successive modifiche). Vengono descritte le azioni realizzate nel tempo dal personale comunale, che hanno portato alla redazione di un catalogo contenenti gli step operativi e i metadati dei procedimenti. E' stato tracciato un passo importante del Comune di Palermo necessario per la corretta digitalizzazione dei procedimenti amministrativi.
+Il documento è stato progettato seguendo il percorso operativo condotto dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione al digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (Decreto legislativo n. 82/2005 e successive modifiche). 
+
+Vengono descritte le azioni realizzate nel tempo dal personale comunale, che hanno portato alla redazione di un catalogo contenente le **fasi operative** e i **metadati** dei procedimenti. E' stato tracciato un passo importante del Comune di Palermo, necessario per la corretta digitalizzazione dei procedimenti amministrativi.
 
 
 ---
@@ -33,6 +36,7 @@ Il documento è stato progettato seguendo il percorso operativo realizzato dall�
     - [**Disqus**](https://disqus.com/) per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
     - [**Strumento di generazione dei contenuti del progetto in formato PDF**](https://cirospat.github.io/cirospataro/print_page/), indicato in ogni pagina con il simbolo della stampante posizionato in alto a destra
 
+---
 
 ## I contenuti di questo progetto sono rilasciati rilasciati con licenza aperta 
 <img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi">
