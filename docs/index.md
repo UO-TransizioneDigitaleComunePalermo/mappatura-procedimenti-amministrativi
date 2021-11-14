@@ -49,20 +49,5 @@ I contenuti di questo progetto di documentazione sono rilasciati con licenza ape
 - Attribuzione — Devi riconoscere una menzione di paternità adeguata, fornire un link alla licenza e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile, ma non con modalità tali da suggerire che il licenziante avalli te o il tuo utilizzo del materiale. 
 - Divieto di restrizioni aggiuntive — Non puoi applicare termini legali o misure tecnologiche che impongano ad altri soggetti dei vincoli giuridici su quanto la licenza consente loro di fare.
 
----
-
-### Code annotation
-[riferimento sul tutorial](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
 
 
-``` { .yaml .annotate }
-theme:
-  features:
-    - content.code.annotate # (1)
-    - content.code.annotate # (2)
-    - content.code.annotate # (1)
-```
-
-1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted text__, images, ... basically anything that can be expressed in Markdown.
-2.  :man_raising_hand: prova 2
-3.  :man_raising_hand: prova 3
