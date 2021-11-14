@@ -9,12 +9,16 @@ hide:
 ## Chi siamo
 ![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png)
 
+<img src="https://img.shields.io/badge/Authors-Ciro_Spataro_e_Sergio_Schimicci-blue">
+
 A supportare il [Comune di Palermo](https://www.comune.palermo.it/) nel processo di mappatura e analisi per la digitalizzazione dei procedimenti amministrativi, e necessaria formazione al personale, siamo anche:
 
 - **Ciro Spataro** | [`CV`](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/preview) | [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) | 0917407340
 - **Sergio Schimicci** | `CV` | [s.schimicci@comune.palermo.it](mailto:s.schimicci@comune.palermo.it) | 0917407336
 
 del Servizio Innovazione - Settore Servizi Direzione Generale
+
+
 
 
 ## Perchè abbiamo costruito questo progetto di documentazione
