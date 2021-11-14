@@ -12,14 +12,21 @@ hide:
 
     :man_raising_hand: Per le schede [**metadati**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/6-esperienza-metadatazione-procedimento/) e [**fasi operative**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/12-step-operativi/) dei procedimenti, fai riferimento alle relative pagine trattate in questo progetto di documentazione.
 
-Conclusa la compilazione delle schede (metadati + fasi operative) da parte dei responsabili dei procedimenti, un ufficio centrale provvede a raccogliere tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato tabellare) che li elenca tutti.
+Conclusa la compilazione delle schede (**metadati** + **fasi operative**) da parte dei responsabili dei procedimenti, un ufficio centrale dell'Amministrazione provvede a 
+
+- collezionare 
+- e verificare 
+
+i contenuti di tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato excel) che li elenca tutti. Il database rappresenta la fonte dati che genererà il catalogo dei procedimenti amministrativi.
+
+Questa è una fase importante in quanto dal database costruito si accederà ai dati di tutti i procedimenti. Vediamo come creare il database.
 
 
 
 ## Creare un database in formato tabellare con l'elenco dei procedimenti
 Si procede con la creazione di un file in formato tabellare su Google Drive. 
 
-Il file contiene i principali metadati che permettono:
+Il file contiene i principali metadati dei procedimenti che permettono:
 
 - `l'individuazione del tipo di procedimento`, 
 - `i contatti del responsabile` 
@@ -41,7 +48,7 @@ Il database ha il seguente "schema dati":
 Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate dai responsabili del procedimento), si provvede a creare un catalogo che permetta, online, la consultazione facile con possibilità di effettuare ricerche multicriterio. 
 
 !!! Note "Importante"
-    **Il catalogo con la mappatura e le schede di analisi dei procedimenti può diventare un allegato del capitolato speciale di appalto che la PA può fornire alle aziende che parteciperanno alle attività di fornitura del software per la digitalizzazione dei procedimenti**. 
+    **Il catalogo con la mappatura e le schede di analisi dei procedimenti può diventare un allegato del capitolato speciale di appalto che la PA può fornire alle aziende che parteciperanno alla fornitura del software per la digitalizzazione dei procedimenti dell'ente pubblico**. 
     
     In questo modo la PA ha svolto il lavoro necessario affinchè le software house possano fornire un applicativo ideoneo a soddisfare al meglio i bisogni di digitalizzazione dei procedimenti della PA.
 
@@ -53,13 +60,15 @@ Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https:/
 
 <img src="https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png" width=900 > </img>
 
+[**`GitHub`**](https://github.com/) è un servizio online e gratuito di hosting per progetti software. 
+
 
 ### Usare il file excel Google Drive come "fonte dati" per il progetto su GitHub
-Il file creato precedentemente in formato tabellare su Google Drive con l'elenco dei procedimenti e i link alle schede di dettaglio, viene reso (nelle impostazioni) *condiviso in maniera tale che chiunque abbia il link lo può visualizzare*. 
+Il file creato precedentemente in formato tabellare su Google Drive con l'elenco dei procedimenti e i link alle schede di dettaglio, viene reso condivisibile (nelle impostazioni) in maniera tale che *chiunque navighi su internet e abbia questo link può visualizzare questo elemento*.
 
 ![](https://user-images.githubusercontent.com/42996217/141465351-5d7ec9f7-bfb3-408f-985b-d5f7f1aa290b.png)
 
-Sul progetto da creare su GitHub si fa riferimento al link del foglio excel di Google Drive, specificatamente nel file `index.html` bisogna dare le seguenti istruzioni:
+Sul progetto da creare su GitHub si fa riferimento al link del foglio excel di Google Drive, specificatamente nel file **`index.html`** bisogna dare le seguenti istruzioni:
 ```
 <link rel="exhibit/data" 
     type="text/csv"
@@ -68,7 +77,7 @@ Sul progetto da creare su GitHub si fa riferimento al link del foglio excel di G
 
 L'URL `https://docs.google.com/spreadsheets/d/e/2PACX-1vQfrJ2qTTIIkX5Pf0Q4dxijhIA9R3XtocGEvhPsNA3Hd-OnhTgkYEqNJltvVeTdQrsXAsnrDX2_09lK/pub?output=csv` è la fonte dati da cui il progetto GitHub genera l'interfaccia web di consultazione dei procedimenti amministrativi.
 
-!!! Note "Gli strumenti principali usati per realizzare questa visualizzazione sono 4"
+!!! Note "Gli strumenti principali usati per realizzare la visualizzazione del catalogo dei procedimenti sono 4"
 
     - [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
     - [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate
@@ -77,7 +86,7 @@ L'URL `https://docs.google.com/spreadsheets/d/e/2PACX-1vQfrJ2qTTIIkX5Pf0Q4dxijhI
 
 
 ### Clonare il progetto esistente come modello da replicare per un nuovo catalogo
-La realizzazione del progetto su GitHub è possibile clonando il [progetto già realizzato](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo) e dando un nuovo titolo nella sezione "Repository Name" ↓
+La realizzazione del progetto su GitHub è possibile clonando il [progetto già realizzato](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo) e dando un nuovo titolo nella sezione "**Repository Name**" ↓
 
 ![clona il repository GitHub](https://user-images.githubusercontent.com/42996217/141466142-53cf9edb-6b6b-4df3-8795-ac6da2da9b0f.png)
 
