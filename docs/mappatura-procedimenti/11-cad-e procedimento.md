@@ -84,6 +84,11 @@ L'[**Art. 15 del CAD, comma 2**](https://docs.italia.it/italia/piano-triennale-i
 
 ↓
 
-**Le PA, al fine di gestire procedimenti amministrativi e documenti in modalità esclusivamente digitali, necessitano di applicativi informatici. L'attività di reperimento degli applicativi informatici prevede che prima di rivolgersi al libero mercato le PA provvedano a consultare il [catalogo AGID del riuso](https://developers.italia.it/it/software), per verificare se esistono soluzioni precedentemente adottate da altre PA, così da potere essere riutilizzate gratuitamente. Solo dopo aver verificato che tali soluzioni non sono presenti nel catalogo AGID del riuso, e producendo apposita relazione attenstante l'assenza di quanto ricercato nel catalogo, le PA possono rivolgersi al libero mercato**.
+**Le PA, al fine di gestire procedimenti amministrativi e documenti in modalità esclusivamente digitali, necessitano di applicativi informatici. L'attività di reperimento degli applicativi informatici prevede che prima di rivolgersi al libero mercato le PA provvedano a consultare il [catalogo AGID del riuso](https://developers.italia.it/it/software), per verificare se esistono soluzioni precedentemente adottate da altre PA, così da potere essere riutilizzate gratuitamente**. 
 
-**Le PA che acquisiscono, o che hanno acquisito nel passato programmi informatici gestionali, hanno l'obbligo di di rendere disponibile 1) il codice sorgente del programma, 2) la necessaria documentazione esplicativa e 3) una licenza aperta che ne consenta il riuso gratuito da parte di altre PA**.
+**Solo dopo aver verificato che tali soluzioni non sono presenti nel catalogo AGID del riuso, e producendo apposita relazione attenstante l'assenza di quanto ricercato nel catalogo, le PA possono rivolgersi al libero mercato**.
+
+**Le PA che acquisiscono, o che hanno acquisito nel passato programmi informatici gestionali, hanno l'obbligo di di rendere disponibile**:
+1. **il codice sorgente del programma**; 
+2. **la necessaria documentazione esplicativa per l'installazione del programma**;
+3. **una licenza aperta che ne consenta il riuso gratuito da parte di altre PA**.
