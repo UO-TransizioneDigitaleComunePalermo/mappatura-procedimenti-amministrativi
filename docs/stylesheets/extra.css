@@ -34,6 +34,18 @@
 }
 
 
+/* Regolare font size del titolo nell'header */
+.md-header__title {
+    flex-grow: 1;
+    font-size: .8rem; !important;   /* di default era 9 */
+    height: 2.4rem;
+    line-height: 2.4rem;
+    margin-left: 1rem;
+    margin-right: .4rem;
+}
+
+
+
 
 /* regolare colore della navigation bar (sotto l'header con titolo progetto). Prova 10 nov 2021  */
 .md-tabs {
