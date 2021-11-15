@@ -18,7 +18,7 @@ Il 10.11.2021 ho eliminato dal file override/main.html:
 ```
 
 
-### Code annotation
+## Code annotation
 riferimento: https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations
 
 ``` { .yaml .annotate }
@@ -30,8 +30,8 @@ theme:
 1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted text__, images, ... basically anything that can be expressed in `Markdown`.
 
 
-## Catalogo
 
+## Catalogo
 ho tolto l'iframe dal file `mappatura-procedimenti/7-catalogo-procedimenti.md`
 
 <iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="83000"; width="100%"; frameborder="0"; > </iframe>
