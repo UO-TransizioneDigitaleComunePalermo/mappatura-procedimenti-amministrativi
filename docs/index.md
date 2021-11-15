@@ -1,5 +1,4 @@
 ---
-title: Procedimenti amministrativi per la digitalizzazione
 hide:
   - navigation
 ---
