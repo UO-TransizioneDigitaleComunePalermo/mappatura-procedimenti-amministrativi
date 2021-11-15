@@ -58,7 +58,7 @@ E' buona prassi descrivere le fasi del procedimento per macro fasi, riducendo il
 
 Gli endo-procedimenti possono essere così tracciati nel campo "note aggiuntive".
 
-Per la compilazione della scheda sulle "fasi dei procedimenti" vedi la [relativa pagina](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/12-step-operativi/).
+Per la compilazione della scheda sulle "fasi operative "dei procedimenti vedi la [relativa pagina](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/fasi-operative/).
 
 ### Comunicare la compilazione delle schede
 
@@ -69,7 +69,7 @@ Ultimata la compilazione della scheda il referente dell'UO informa via email il 
 
 Il Servizio Innovazione (uficio centrale che effettua il monitoraggio) provvede a verificare il contenuto delle schede compilate e inserite nella cartella Drive dell'Area/Settore, e nel caso risultino mancanti informazioni importanti contatta il referente del procedimento amministrativo (email - tel) indicato nella stessa scheda. 
 
-Ultimata l’attività di controllo e censimento delle schede, il Servizio Innovazione provvede a costruire un file tabellare contenente [**l'elenco dei procedimenti dell’ente**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/7-catalogo-procedimenti/) da condividere con il personale comunale e da rendere disponibile per la pubblica consultazione, così da facilitare i cittadini nella comprensione dei servizi di interesse. 
+Ultimata l’attività di controllo e censimento delle schede, il Servizio Innovazione provvede a costruire un file tabellare contenente [**l'elenco dei procedimenti dell’ente**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/) da condividere con il personale comunale e da rendere disponibile per la pubblica consultazione, così da facilitare i cittadini nella comprensione dei servizi di interesse. 
 
 L'elenco è costruito attraverso l'utilizzo di un file excel (su Google Drive) e lo "schema dati" è il seguente:
 
@@ -80,7 +80,7 @@ Il campo `link scheda` contiene i link (URL) ai file tabellari contenente sia i 
 
 ![](https://user-images.githubusercontent.com/3757525/140100136-c1e67724-519c-415d-ae73-95cdc0f7d1d1.png)
 
-L'elenco dei procedimenti redatto servirà per costruire un interfaccia di catalogo di facile consultazione, anche online, illustrata nella pagina [**Catalogo dei procedimenti amministrativi**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/7-catalogo-procedimenti/).
+L'elenco dei procedimenti redatto servirà per costruire un interfaccia di catalogo di facile consultazione, anche online, illustrata nella pagina [**Catalogo dei procedimenti amministrativi**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/).
 
 
 ### Metodologia per il monitoraggio di compilazione delle schede sui procedimenti
