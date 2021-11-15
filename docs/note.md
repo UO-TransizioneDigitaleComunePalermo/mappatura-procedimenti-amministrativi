@@ -28,3 +28,10 @@ theme:
 ```
 
 1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted text__, images, ... basically anything that can be expressed in `Markdown`.
+
+
+## Catalogo
+
+ho tolto l'iframe dal file `mappatura-procedimenti/7-catalogo-procedimenti.md`
+
+<iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="83000"; width="100%"; frameborder="0"; > </iframe>
