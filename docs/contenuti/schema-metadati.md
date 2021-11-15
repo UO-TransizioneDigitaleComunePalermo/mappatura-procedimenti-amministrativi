@@ -55,7 +55,7 @@ Quello che segue è un esempio di schema, abbastanza semplice ma allo stesso tem
 
 Metadatando dettagliatamente ogni singolo procedimento amministrativo è possibile costruire un catalogo da condividere all’interno dell’ente, e pubblicare anche sul sito web istituzionale per facilitare l’accesso dei cittadini ai servizi pubblici e la relativa comprensione. 
 
-## Metadatazione necessaria per la costruzione e implementazione del software gestionale 
+## Metadatazione necessaria per la costruzione del software gestionale 
 Il catalogo con l'elenco dei procedimenti e le schede dettagliate contenente la metadatazione, possono costituire un allegato tecnico al capitolato speciale di appalto che una pubblica amministrazione può (e deve) rendere alle Aziende interessate alla fornitura di programmi applicativi in grado di gestire in modalità esclusivamente digitale la gestione dei procedimenti amministrativi dell'ente richiedente. 
 
 In questo caso le aziende avranno del materiale tecnico preziosissimo per comprendere la metadatazione dei procedimenti (con le proprietà specifiche) utile a realizzare l'interoperabilità tra applicativi informatici diversi che necesitano di essere in diretta relazione per la gestione del procedimento stesso (es: accesso ad altre banche dati dello stesso ente per verifiche - interazione con altri appplicativi informatici necessaria al processamento di attività necessarie alla gestione del procedimento).
