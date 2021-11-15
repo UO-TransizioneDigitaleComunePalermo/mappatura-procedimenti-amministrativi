@@ -1,4 +1,4 @@
-# Esperienza di metadatazione dei procedimenti amministrativi partendo da un caso reale
+# Esperienza di metadatazione dei procedimenti amministrativi 
 
 **Illustrazione dell’esperienza di metadatazione di alcuni procedimenti amministrativi, svolta al Comune di Palermo**
 
