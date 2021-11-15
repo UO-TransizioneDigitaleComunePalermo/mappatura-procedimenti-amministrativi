@@ -10,11 +10,10 @@ Il 10.11.2021 ho eliminato dal file override/main.html:
 
 ``` mermaid
 flowchart LR
-1[{% extends "base.html" %}
-<!-- Add announcement here, including arbitrary HTML (https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) -->
-{% block announce %}
-<span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;">Mappatura e analisi dei procedimenti amministrativi ai fini della digitalizzazione</span>
-{% endblock %}]
+A[{% extends "base.html" %}] --> B [<!-- Add announcement here, including arbitrary HTML (https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar) -->]
+B --> C[{% block announce %}]
+C --> D [<span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;">Mappatura e analisi dei procedimenti amministrativi ai fini della digitalizzazione</span>]
+D --> E[{% endblock %}]
 ```
 
 
