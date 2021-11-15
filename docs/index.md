@@ -32,8 +32,7 @@ Il processo di lavoro, svolto in ordine temporale, è raffigurabile nel seguente
 `condivisione catalogo procedimenti`
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTlkV_KCafzcr8XQkxVTv46CzddLuUPzKwVsKQ3H_r7-5Ms9vciMYZC3dwnShYQCd0X3Oaa9RIl02zc/pub?start=false&loop=false&delayms=3000&slide=id.p" height="800"; width="100%"; frameborder="0"; > </iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTlkV_KCafzcr8XQkxVTv46CzddLuUPzKwVsKQ3H_r7-5Ms9vciMYZC3dwnShYQCd0X3Oaa9RIl02zc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
 
