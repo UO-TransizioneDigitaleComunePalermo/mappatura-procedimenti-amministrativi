@@ -1,4 +1,4 @@
-# Articoli del "CAD" che hanno refluenze dirette e indirette nel procedimento amministrativo
+# Articoli del "CAD" che hanno refluenze nel procedimento amministrativo
 Di seguito vengono elencati gli articoli del [Codice dell'Amministrazione Digitale (**CAD**)](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) che hanno una relazione diretta o indiretta con l'attività di digitalizzazione dei procedimenti amministrativi e dei relativi servizi all'utenza.
 
 Gli articoli vengono illustrati anche nelle diverse pagine di questo progetto di documentazione, inserite nel contesto degli argomenti trattati.
