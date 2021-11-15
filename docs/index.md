@@ -15,7 +15,7 @@ Questo progetto di documentazione ha lo scopo di illustrare un metodo e un set d
 
 Il documento è stato progettato seguendo il percorso operativo condotto dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione alla modalità digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (decreto legislativo n. 82/2005 e successive modifiche). 
 
-:office_worker: Vengono descritte le azioni realizzate dal personale comunale, che hanno portato alla redazione di un <span style="background-color: #eb0202; color: #ffffff; padding: 1px 4px; border-radius: 5px;"><b>catalogo</b></span> contenente le **`fasi operative`** e i **`metadati`** dei procedimenti. E' stato tracciato un passo importante dal Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
+:material-file-document-multiple-outline: Vengono descritte le azioni realizzate dal personale comunale, che hanno portato alla redazione di un <span style="background-color: #eb0202; color: #ffffff; padding: 1px 4px; border-radius: 5px;"><b>catalogo</b></span> contenente le **`fasi operative`** e i **`metadati`** dei procedimenti. E' stato tracciato un passo importante dal Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
 
 Il **processo di lavoro**, svolto in ordine temporale, è raffigurabile nel seguente schema:
 ``` mermaid
