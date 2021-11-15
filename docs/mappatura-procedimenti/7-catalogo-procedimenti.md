@@ -22,6 +22,42 @@ Questa è una fase importante in quanto dal database costruito si accederà ai d
 
 
 
+## Aggiornamento periodico delle schede | "versionamento"
+Un attività di fondamentale importanza è rappresentata dalla validazione delle schede nel tempo da parte dei responsabili dei procedimenti e dai dirigenti.
+
+I responsabili di procedimento e i dirigenti dovrebbero provvedere alla validazione dei contenuti delle schede dei procedimenti di competenza (dopo la prima versione), almeno con la seguente cadenza temporale:
+
+- semestrale ed in concomitanza con le scadenze degli obiettivi di U.O. e dirigenziali, se nessuna nuova norma interviene a modificare le fasi di gestione del procedimento amministrativo. In questo caso se nessuna modifica viene ritenuta necessaria da apportare alla modalità di gestione e dei metadati, si conferma e valida il contenuto delle schede compilate il semestre precedente;
+- nel momento preciso in cui nuova norma interviene a modificare le fasi di gestione e/o i metadati del procedimento amministrativo. 
+
+Nei casi di modifica delle schede nei semestri successivi alla data di redazione della prima versione delle schede (metadati e fasi operative) è necessario aggiungere un record "data_versione_scheda" sia alla scheda "**fasi operative**" che alla scheda "**metadati**", in maniera tale da avere sempre chiara la data di riferimento a partire dalla quale vigono le informazioni riportate nelle stesse schede. Il campo riportante la "data di versionamento" sarà il primo in ambedue le schede.
+
+
+**fasi operative** ↓
+| **==Ordine progressivo delle fasi del procedimento==** | **==Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo==** | **==Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo==** |
+|:-----|:-----|:-----|
+| **`data_versione_scheda`** | 30/06/2021 | *la versione del 30/06/2021 è stata redatta al fine di recepire le indicazioni della legge 1234/2021 che ha introddoto alcune modifiche sulla gestione del procedimento ........ e del relativo servizio all'utenza* |
+| fase 1 | .............. | ........... |
+| fase 2 | .............. | ........... |
+| fase 3 | .............. | ........... |
+
+
+
+**metadati** ↓
+|==ID metadato==| ==Denominazione del metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
+|:---|:--------------------------------------|:-----------------|:-----|
+|**`versione`**| **`data_versione_scheda`**| 30/06/2021 | *la versione del 30/06/2021 è stata redatta al fine di recepire le indicazioni della legge 1234/2021 che ha introddoto alcune modifiche sulla gestione del procedimento ........ e del relativo servizio all'utenza* |
+|1| Nome del procedimento amministrativo | ACQUISIZIONE DEL SERVIZIO DI REFEZIONE SCOLASTICA E DEL SERVIZIO DI FORMAZIONE ALIMENTARISTI |    |
+|2|Descrizione del procedimento amministrativo | Autorizzazione alla fruizione ai dipendenti afferenti il Settore dei benefici L. 104/1992 |   |
+|3|Nome dell'Area comunale competente|Area della Cittadinanza|  |
+|4|Nome del Settore comunale competente e del Servizio Se non è previsto il Settore scrivere il nome del Servizio di appartenenza| Settore della Cittadinanza solidale- Staff responsabile di Settore|  |
+|5| ..... | ..... | ...... |
+
+Tali informazioni di "versionamento" delle schede sono necessarie al fine di apportare le eventuali modifiche future all'applicativo informatico per la gestione dei procedimenti e anche per tenere traccia delle variazioni dei contenuti delle schede nel tempo.
+
+
+
+
 ## Creare un database in formato tabellare con l'elenco dei procedimenti
 Si procede con la creazione di un file in formato tabellare su Google Drive. 
 
