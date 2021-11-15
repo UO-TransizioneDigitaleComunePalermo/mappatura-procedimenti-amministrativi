@@ -38,12 +38,12 @@ Con nota n. 1319949 del 18.11.2020 del Segretario Generale (*Integrazione Piano 
 
 ### L’analisi dei procedimenti amministrativi è necessaria per la corretta digitalizzazione degli stessi
 
-A seguito della nota n. 1319949 del 18.11.2020 del Segretario Generale, il Servizio Innovazione predispone una **scheda tabellare** per facilitare la compilazione delle informazioni sull’analisi dei procedimenti. La scheda viene condivisa via email a tutti i dirigenti. Il Servizio Innovazione presta supporto ai colleghi degli uffici per la compilazione delle schede.
+A seguito della nota n. 1319949 del 18.11.2020 del Segretario Generale, il Servizio Innovazione predispone una **scheda in formato tabellare** per facilitare la compilazione delle informazioni sull’analisi dei procedimenti. La scheda viene condivisa via email a tutti i dirigenti. Il Servizio Innovazione presta supporto ai colleghi degli uffici per la compilazione delle schede.
 
-La scheda è composta da **2 fogli tabellari**:  
+La scheda è composta da **2 fogli in formato tabellare**:  
 
 - uno per la descrizione dei [**metadati**](https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=0) 
-- e uno per la descrizione degli [**step operativi** del procedimento amministrativo](https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=1645990221).
+- e uno per la descrizione delle [**fasi operative** del procedimento amministrativo](https://docs.google.com/spreadsheets/u/5/d/1XV_7czmMyndA1nJHRyRJC7rEgX_FspMl6NjVLpG-pmY/preview#gid=1645990221).
 
 
 ###  Richiesta ai dirigenti di compilazione delle schede
@@ -54,29 +54,33 @@ L'esattezza e completezza delle informazioni è necessaria, in un secondo moment
 
 ### Descrivere le fasi operative anche per endo-procedimenti
 
-E' buona prassi descrivere le fasi del procedimento per macro fasi, riducendo il numero delle fasi nei casi di procedimenti complessi e di inserire nel campo "note aggiuntive" eventuali dettagli utili a comprendere le complessità delle stesse macro fasi descritte relative al procedimento amministrativo. Gli endo-procedimenti possono essere così tracciati nel campo "note aggiuntive".
+E' buona prassi descrivere le fasi del procedimento per macro fasi, riducendo il numero delle fasi nei casi di procedimenti complessi e di inserire nel campo "note aggiuntive" eventuali dettagli utili a comprendere le complessità delle stesse macro fasi descritte relative al procedimento amministrativo. 
+
+Gli endo-procedimenti possono essere così tracciati nel campo "note aggiuntive".
 
 Per la compilazione della scheda sulle "fasi dei procedimenti" vedi la [relativa pagina](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/12-step-operativi/).
 
 ### Comunicare la compilazione delle schede
 
-Ultimata la compilazione della scheda il referente dell'UO informa via email il proprio Dirigente e il referente dell'Area/Settore dell'avvenuta compilazione e del relativo inserimento (caricamento) nella cartella Drive dell'Area/Settore di appartenenza.
+Ultimata la compilazione della scheda il referente dell'UO informa via email il proprio dirigente e il referente dell'Area/Settore dell'avvenuta compilazione e del relativo inserimento (caricamento) nella cartella Drive dell'Area/Settore di appartenenza.
 
 
 ### Un ufficio centrale controlla il contenuto delle schede
 
-Il Servizio Innovazione provvede a verificare il contenuto delle schede compilate e inserite nella cartella Drive dell'Area/Settore, e nel caso risultino mancanti informazioni importanti contatta il referente del procedimento amministrativo indicato nella stessa scheda. 
+Il Servizio Innovazione (uficio centrale che effettua il monitoraggio) provvede a verificare il contenuto delle schede compilate e inserite nella cartella Drive dell'Area/Settore, e nel caso risultino mancanti informazioni importanti contatta il referente del procedimento amministrativo (email - tel) indicato nella stessa scheda. 
 
-Ultimata l’attività di controllo e censimento delle schede il Servizio Innovazione provvede a costruire un file tabellare contenente [**l'elenco dei procedimenti dell’ente**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/7-catalogo-procedimenti/) da condividere con il personale comunale e da rendere disponibile per la pubblica consultazione, così da facilitare i cittadini nella comprensione dei servizi di interesse. L'elenco è costruito su un file excel (Google Drive) e lo schema dati è il seguente:
+Ultimata l’attività di controllo e censimento delle schede, il Servizio Innovazione provvede a costruire un file tabellare contenente [**l'elenco dei procedimenti dell’ente**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/7-catalogo-procedimenti/) da condividere con il personale comunale e da rendere disponibile per la pubblica consultazione, così da facilitare i cittadini nella comprensione dei servizi di interesse. 
 
-|area|settore|servizio|denominaz. procedimento|lavoro agile|email resp procedimento|telefono info|link scheda|rif|
+L'elenco è costruito attraverso l'utilizzo di un file excel (su Google Drive) e lo "schema dati" è il seguente:
+
+|area|settore|servizio|denominaz. procedimento|lavoro agile|email resp procedim.|telefono info|link scheda|rif|
 |--- |-------|--------|--------------------------|------------|-----------------------|-------------|-----------|---|
 
 Il campo `link scheda` contiene i link (URL) ai file tabellari contenente sia i metadati che gli step operativi dei vari procedimenti amministrativi, file che si trovano tutti dentro una cartella di Google Drive.
 
 ![](https://user-images.githubusercontent.com/3757525/140100136-c1e67724-519c-415d-ae73-95cdc0f7d1d1.png)
 
-L'elenco dei procedimenti redatto servirà per costruire un interfaccia di catalogo di facile consultazione, illustrata nella pagina [**Catalogo dei procedimenti amministrativi**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/7-catalogo-procedimenti/)
+L'elenco dei procedimenti redatto servirà per costruire un interfaccia di catalogo di facile consultazione, anche online, illustrata nella pagina [**Catalogo dei procedimenti amministrativi**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/mappatura-procedimenti/7-catalogo-procedimenti/).
 
 
 ### Metodologia per il monitoraggio di compilazione delle schede sui procedimenti
