@@ -6,7 +6,7 @@ hide:
 
 
 # Strumenti
-In questa pagina vengono illustrati gli strumenti utilizzati per documentare e costruire questo progetto.
+![](/docs/img/sviluppo.png)   In questa pagina vengono illustrati gli strumenti utilizzati per documentare e costruire questo progetto.
 
 
 
