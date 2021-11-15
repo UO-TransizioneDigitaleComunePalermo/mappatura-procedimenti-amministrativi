@@ -29,7 +29,7 @@ I responsabili di procedimento e i dirigenti dovrebbero provvedere alla validazi
 
 ``` mermaid
 flowchart LR
-    A[semestrale ed in concomitanza con le scadenze degli obiettivi di U.O. e dirigenziali, se nessuna nuova norma interviene a modificare le fasi di gestione del procedimento amministrativo. In questo caso se nessuna modifica viene ritenuta necessaria da apportare alla modalità di gestione e dei metadati, si conferma e valida il contenuto delle schede compilate il semestre precedente;]
+    A[semestrale ed in concomitanza con le scadenze degli obiettivi di Unità Organizzative e dirigenziali, se nessuna nuova norma interviene a modificare le fasi di gestione del procedimento amministrativo. In questo caso se nessuna modifica viene ritenuta necessaria da apportare alla modalità di gestione e dei metadati, si conferma e valida il contenuto delle schede compilate il semestre precedente;]
 ```
 
 ``` mermaid
