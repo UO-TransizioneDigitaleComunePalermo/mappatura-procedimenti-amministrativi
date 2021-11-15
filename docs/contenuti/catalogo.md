@@ -18,7 +18,7 @@ Conclusa la compilazione delle schede (**metadati** + **fasi operative**) da par
 
 i contenuti di tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato excel) che li elenca tutti. Il database rappresenta la fonte dati che genererà il catalogo dei procedimenti amministrativi.
 
-Questa è una fase importante in quanto dal database costruito si accederà ai dati di tutti i procedimenti. Vediamo come creare il database.
+:material-database-check-outline: Questa è una fase importante in quanto dal database costruito si accederà ai dati di tutti i procedimenti. Vediamo come creare il database.
 
 
 
