@@ -162,7 +162,7 @@ Può essere fornito un **supporto al backend (lato personale PA)** che trova una
 
 
 
-## Nella digitalizzazione bisogna pensare per dati e non per `PDF`
+## Nella digitalizzazione bisogna pensare per `dati` e non per `PDF`
 Oggi spesso pensiamo la documentazione della PA come formati `PDF` che derivano da formati DOCX/ODT ai quali abbiamo lavorato precedentemente.
 Dimentichiamo di lavorare principalmente per documenti `PDF`.
 
