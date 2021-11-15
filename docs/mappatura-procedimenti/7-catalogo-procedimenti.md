@@ -29,12 +29,12 @@ I responsabili di procedimento e i dirigenti dovrebbero provvedere alla validazi
 
 ``` mermaid
 flowchart LR
-semestrale ed in concomitanza con le scadenze degli obiettivi di U.O. e dirigenziali, se nessuna nuova norma interviene a modificare le fasi di gestione del procedimento amministrativo. In questo caso se nessuna modifica viene ritenuta necessaria da apportare alla modalità di gestione e dei metadati, si conferma e valida il contenuto delle schede compilate il semestre precedente;
+    semestrale ed in concomitanza con le scadenze degli obiettivi di U.O. e dirigenziali, se nessuna nuova norma interviene a modificare le fasi di gestione del procedimento amministrativo. In questo caso se nessuna modifica viene ritenuta necessaria da apportare alla modalità di gestione e dei metadati, si conferma e valida il contenuto delle schede compilate il semestre precedente;
 ```
 
 ``` mermaid
 flowchart LR
-nel momento preciso in cui nuova norma interviene a modificare le fasi di gestione e/o i metadati del procedimento amministrativo. 
+    nel momento preciso in cui nuova norma interviene a modificare le fasi di gestione e/o i metadati del procedimento amministrativo. 
 ```
 
 Nei casi di modifica delle schede nei semestri successivi alla data di redazione della prima versione delle schede (metadati e fasi operative) è necessario aggiungere un record "data_versione_scheda" sia alla scheda "**fasi operative**" che alla scheda "**metadati**", in maniera tale da avere sempre chiara la data di riferimento a partire dalla quale vigono le informazioni riportate nelle stesse schede. Il campo riportante la "data di versionamento" sarà il primo in ambedue le schede.
