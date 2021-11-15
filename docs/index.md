@@ -23,7 +23,11 @@ Il processo di lavoro, svolto in ordine temporale, è raffigurabile nel seguente
 
 ``` mermaid
 graph TD
-A[analisi procedimenti, obiettivo nel Piano Performance] --> B[redazione schede metadati e fasi operative] --> C[creazione database pocedimenti] --> D[check database pocedimenti] --> E[creazione catalogo pocedimenti] --> F[condivisione catalogo procedimenti]
+A[analisi procedimenti è stabilito come obiettivo nel Piano Performance] --> B[redazione schede metadati e fasi operative]
+B --> C[creazione database pocedimenti] 
+C --> D[check database pocedimenti] 
+D --> E[creazione catalogo pocedimenti] 
+E --> F[condivisione catalogo procedimenti]
 ```
 
 ---
