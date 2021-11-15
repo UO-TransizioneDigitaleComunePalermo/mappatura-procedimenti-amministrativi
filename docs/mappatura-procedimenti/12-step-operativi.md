@@ -7,7 +7,7 @@ hide:
 
 # Illustrazione della scheda sulle fasi operative del procedimento amministrativo
 
-In questa pagina viene descritto come utilizzare (compilare) la scheda relativa alla descrizione degli "step operativi" che in ordine cronologico caratterizzano la gestione del procedimento amministrativo.
+In questa pagina viene descritto come utilizzare (compilare) la scheda relativa alla descrizione delle "fasi operative" che in ordine cronologico caratterizzano la gestione del procedimento amministrativo, da parte del personale dell'ente pubblico.
 
 La scheda utilizzata è la seguente:
 
@@ -18,9 +18,10 @@ La scheda utilizzata è la seguente:
 | fase 3 | .............. | ........... |
 | fase 4 | .............. | ........... |
 
-Il 3° campo serve per inserire **Note** che si ritengono utili per illustrare, quanto più dettagliatemete possibile, le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni o endo-procedimenti necessari al perfezionamento del procedimento amministrativo.
+Il 3° campo serve per inserire **Note** che si ritengono utili ad illustrare, quanto più dettagliatemete possibile, le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni o endo-procedimenti necessari al perfezionamento del procedimento amministrativo.
 
-La scheda "**fasi operative**" accompagna la scheda dei "**metadati**" del procedimento amministrativo. Entrambe le schede vengono compilate nello stesso tempo dai responsabili di procedimenti. Esse sono nello stesso file excel su Google Drive, distinte in due fogli di lavoro.
+La scheda "**fasi operative**" accompagna la scheda dei "**metadati**" del procedimento amministrativo. Entrambe le schede vengono compilate nello stesso tempo dai responsabili di procedimenti. Esse sono nello stesso file excel su Google Drive, distinte in due fogli di lavoro. 
+
 
 ## Esempi di compilazione della scheda "fasi operative"
 Di seguito vengono riportati alcuni esempi di compilazione di schede relative alle fasi operative del procedimento amministrativo.
