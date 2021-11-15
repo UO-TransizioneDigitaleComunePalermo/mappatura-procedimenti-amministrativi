@@ -19,7 +19,17 @@ Vengono descritte le azioni realizzate dal personale comunale, che hanno portato
 
 Il processo di lavoro, svolto in ordine temporale, è raffigurabile nel seguente schema:
 
-`analisi procedimenti, obiettivo nel Piano Performance` → `redazione schede "metadati" e "fasi operative" procedimenti` → `creazione database procedimenti` → `check database procedimenti` → `creazione catalogo procedimenti` → `condivisione catalogo procedimenti`
+`analisi procedimenti, obiettivo nel Piano Performance (!)` ↙ 
+
+`redazione schede "metadati" e "fasi operative" procedimenti` ↙ 
+
+`creazione database procedimenti` ↙ 
+
+`check database procedimenti` ↙ 
+
+`creazione catalogo procedimenti` ↙ 
+
+`condivisione catalogo procedimenti`
 
 ---
 
