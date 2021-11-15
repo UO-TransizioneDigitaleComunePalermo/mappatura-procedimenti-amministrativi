@@ -6,12 +6,12 @@ hide:
 
 
 # Strumenti
-In questa pagina vengono illustrati gli strumenti utilizzati per documentare e costruire questo progetto
+In questa pagina vengono illustrati gli strumenti utilizzati per documentare e costruire questo progetto.
 
 
 
 ## Come è costruito questo progetto di documentazione 
-Questo progetto di documentazione è stato creato utilizzando i seguenti strumenti
+Questo progetto di documentazione è stato creato utilizzando i seguenti strumenti:
 
 <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
 
@@ -34,7 +34,7 @@ Gli strumenti utilizzati per arricchire l'esperienza dei contenuti di questo pro
 
 
 ## Strumenti per la creazione del catalogo
-I principali strumenti usati per realizzare la visualizzazione del [**catalogo**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/) dei procedimenti sono 4":
+I principali strumenti usati per realizzare la visualizzazione del [**catalogo**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/) dei procedimenti sono:
 
 - [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
 - [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate
