@@ -21,6 +21,11 @@ Il processo di lavoro, svolto in ordine temporale, è raffigurabile nel seguente
 ![](https://user-images.githubusercontent.com/42996217/141772469-f0b9b683-e3b4-4a26-96c7-693e70c686ac.png)
 
 
+``` mermaid
+graph TD
+A[analisi procedimenti, obiettivon nel Piano Performance (!)] --> B[redazione schede "metadati" e "fasi operative"] --> C[creazione database pocedimenti] --> D[check database pocedimenti] --> E[creazione catalogo pocedimenti] --> F[condivisione catalogo pocedimenti]
+```
+
 ---
 
 
