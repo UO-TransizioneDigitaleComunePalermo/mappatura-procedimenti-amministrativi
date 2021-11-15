@@ -17,6 +17,9 @@ Il documento è stato progettato seguendo il percorso operativo condotto dall’
 
 Vengono descritte le azioni realizzate dal personale comunale, che hanno portato alla redazione di un <span style="background-color: #1c9c3a; color: #ffffff; padding: 1px 4px; border-radius: 5px;"><b>catalogo</b></span> contenente le **`fasi operative`** e i **`metadati`** dei procedimenti. E' stato tracciato un passo importante dal Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
 
+Il processo di lavoro, svolto in ordine temporale, è raffigurabile nel seguente schema:
+
+`analisi procedimenti, obiettivo nel Piano Performance` → `redazione schede "metadati" e "fasi operative" procedimenti` → `creazione database procedimenti` → `check database procedimenti` → `creazione catalogo procedimenti` → `condivisione catalogo procedimenti`
 
 ---
 
