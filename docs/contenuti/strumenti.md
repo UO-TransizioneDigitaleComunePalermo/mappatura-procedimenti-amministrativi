@@ -13,7 +13,7 @@ In questa pagina vengono illustrati gli strumenti utilizzati per documentare e c
 <img src="https://img.shields.io/badge/GitHub-for_code_setting-blue.svg?style=popout&logo=GitHub"> Il link al codice sorgente di questo progetto è su [**GitHub**](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi)
 
 
-!!! Note "Altri strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto"
+## Strumenti utilizzati per arricchire l'esperienza di fruzione dei contenuti di questo progetto"
 
     - <img src="https://img.shields.io/badge/Addthis-for_sharing_contents-blue.svg?style=popout"> [**Addthis**](https://www.addthis.com/) per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. Il codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
     - <img src="https://img.shields.io/badge/Disqus-for_comments-blue.svg?style=popout"> [**Disqus**](https://disqus.com/) per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
@@ -21,7 +21,7 @@ In questa pagina vengono illustrati gli strumenti utilizzati per documentare e c
 
 
 
-!!! Note "Gli strumenti principali usati per realizzare la visualizzazione del **catalogo** dei procedimenti sono 4"
+## Strumenti principali usati per realizzare la visualizzazione del **catalogo** dei procedimenti sono 4"
 
     - [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
     - [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate
