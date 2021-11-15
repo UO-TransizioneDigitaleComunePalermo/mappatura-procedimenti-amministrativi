@@ -23,7 +23,7 @@ Questo progetto di documentazione è stato creato utilizzando i seguenti strumen
 
 
 
-## Strumenti per arricchire l'esperienza di consultazione 
+## Strumenti per consentire l'interazione 
 Gli strumenti utilizzati per arricchire l'esperienza dei contenuti di questo progetto sono:
 
 - <img src="https://img.shields.io/badge/Addthis-for_sharing_contents-blue.svg?style=popout"> [**Addthis**](https://www.addthis.com/) per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. Il codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
