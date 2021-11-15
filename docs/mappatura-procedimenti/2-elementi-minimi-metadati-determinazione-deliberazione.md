@@ -7,8 +7,8 @@ In questa pagina vengono illustrati i metadati minimi che devono identificare un
 
 ## Metadati minimi di una determinazione dirigenziale
 
-![](https://user-images.githubusercontent.com/3757525/140091925-e05ae644-3ba5-4962-b081-7de2e9ae7dcb.png)
-![](https://user-images.githubusercontent.com/3757525/140092545-3b1dce7e-0ad1-4e28-88b4-42862e3665eb.png)
+![](https://user-images.githubusercontent.com/42996217/141756265-dfd38aa4-6702-42e0-8b3f-8133ac02bc2e.png)
+![](https://user-images.githubusercontent.com/42996217/141756613-5538eca6-7144-4b33-a924-ed0be479992c.png)
 
 `elenco metadati minimi della determinazione dirigenziale`:
 
