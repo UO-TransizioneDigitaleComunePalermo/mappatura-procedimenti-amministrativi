@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Pprocedimenti amministrativi per la digitalizzazione
+# Procedimenti amministrativi per la digitalizzazione
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width="270">
 
 
