@@ -7,7 +7,7 @@ hide:
 
 # Illustrazione della scheda sulle fasi operative del procedimento amministrativo
 
-In questa pagina viene descritto come utilizzare (compilare) la scheda relativa alla descrizione delle "fasi operative" che in ordine cronologico caratterizzano la gestione del procedimento amministrativo, da parte del personale dell'ente pubblico.
+In questa pagina viene descritto come utilizzare (compilare) la scheda relativa alla descrizione delle "**fasi operative**" che in ordine cronologico caratterizzano la gestione del procedimento amministrativo, da parte del personale dell'ente pubblico.
 
 La scheda utilizzata è la seguente:
 
@@ -25,6 +25,7 @@ La scheda "**fasi operative**" accompagna la scheda dei "**metadati**" del proce
 
 ## Esempi di compilazione della scheda "fasi operative"
 Di seguito vengono riportati alcuni esempi di compilazione di schede relative alle fasi operative del procedimento amministrativo.
+
 
 ### Procedimento "*Abbattimento alberature sottoposte a vincoli*"
 
