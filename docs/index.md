@@ -25,8 +25,7 @@ B -->|compilazione schede da parte dei responsabili procedimenti| C([creazione d
 C -->|check da parte di un ufficio centrale| D([check database procedimenti]) 
 D -->|a cura di un ufficio centrale che colleziona le schede| E([creazione catalogo procedimenti]) 
 E -->|a cura di un ufficio centrale per divulgazione ad uffici| F([condivisione online catalogo procedimenti])
-style A fill:#e36666,stroke:#333,stroke-width:2px
+style A fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
 
-original = style A fill:#f9f,stroke:#333,stroke-width:2px
