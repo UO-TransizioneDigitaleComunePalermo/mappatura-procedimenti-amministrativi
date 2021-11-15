@@ -162,28 +162,28 @@ nav:
     - Home: index.md
          
     - Focus giuridico:
-        - Focus giuridico sui procedimenti: mappatura-procedimenti/4-focus-giuridico-procedimenti.md
-        - I procedimenti amministrativi visti dal "CAD": mappatura-procedimenti/11-cad-e procedimento.md 
+        - Focus giuridico sui procedimenti: contenuti/4-focus-giuridico-procedimenti.md
+        - I procedimenti amministrativi visti dal "CAD": contenuti/11-cad-e procedimento.md 
            
     - Mappatura:
-        - Percorsi di digitalizzazione in ambito comuale: mappatura-procedimenti/1-percorsi-di-digitalizzazione-in-ambito-comunale.md
-        - L'analisi dei procedimenti nel Piano della Performance: mappatura-procedimenti/3-esperienza-analisi-procedimenti.md 
+        - Percorsi di digitalizzazione in ambito comuale: contenuti/1-percorsi-di-digitalizzazione-in-ambito-comunale.md
+        - L'analisi dei procedimenti nel Piano della Performance: contenuti/3-esperienza-analisi-procedimenti.md 
      
     - Metadati:
-        - I metadati nella mappatura dei procedimenti: mappatura-procedimenti/5-metadati-procedimento.md
-        - Metadati minimi di determinazioni e deliberazioni: mappatura-procedimenti/2-elementi-minimi-metadati-determinazione-deliberazione.md
-        - Uno schema di metadati usato nella mappatura dei procedimenti: mappatura-procedimenti/8-schema-metadati-procedimento.md
-        - Un esperienza di mappatura con metadati: mappatura-procedimenti/6-esperienza-metadatazione-procedimento.md
+        - I metadati nella mappatura dei procedimenti: contenuti/5-metadati-procedimento.md
+        - Metadati minimi di determinazioni e deliberazioni: contenuti/2-elementi-minimi-metadati-determinazione-deliberazione.md
+        - Uno schema di metadati usato nella mappatura dei procedimenti: contenuti/8-schema-metadati-procedimento.md
+        - Un esperienza di mappatura con metadati: contenuti/6-esperienza-metadatazione-procedimento.md
    
     - Fasi operative:
-        - Fasi operative dei procedimenti: mappatura-procedimenti/12-step-operativi.md
+        - Fasi operative dei procedimenti: contenuti/12-step-operativi.md
     
     - Cataologo:
-        - Dalla mappatura al catalogo dei procedimenti: mappatura-procedimenti/7-catalogo-procedimenti.md 
+        - Dalla mappatura al catalogo dei procedimenti: contenuti/7-catalogo-procedimenti.md 
     
     - Linkografia:
-        - Linkografia essenziale: mappatura-procedimenti/9-linkografia-essenziale.md
+        - Linkografia essenziale: contenuti/9-linkografia-essenziale.md
             
     - Redazione:
-        - Redazione: mappatura-procedimenti/10-chi-siamo.md
+        - Redazione: contenuti/10-chi-siamo.md
 
