@@ -9,11 +9,11 @@ hide:
 
 
 ## Cosa è questo progetto di documentazione
-Questo progetto di documentazione ha lo scopo di illustrare un metodo e un set di strumenti semplici per avviare la mappatura e analisi dei procedimenti amministrativi gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune".
+Questo progetto di documentazione ha lo scopo di illustrare un metodo e un set di strumenti semplici per avviare la mappatura e analisi dei **procedimenti amministrativi** gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "**Comune**".
 
-Realizzare un’analisi dei procedimenti in ottica di semplificazione, al fine di creare le pre-condizioni per la reingegnerizzazione degli stessi e la relativa digitalizzazione.
+Realizzare un’analisi dei procedimenti in ottica di **semplificazione**, al fine di creare le pre-condizioni per la **reingegnerizzazione** degli stessi e la relativa **digitalizzazione**.
 
-Il documento è stato progettato seguendo il percorso operativo condotto dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione al digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (Decreto legislativo n. 82/2005 e successive modifiche). 
+Il documento è stato progettato seguendo il percorso operativo condotto dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione alla modalità digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (decreto legislativo n. 82/2005 e successive modifiche). 
 
 Vengono descritte le azioni realizzate nel tempo dal personale comunale, che hanno portato alla redazione di un catalogo contenente le **fasi operative** e i **metadati** dei procedimenti. E' stato tracciato un passo importante del Comune di Palermo, necessario per la corretta digitalizzazione dei procedimenti amministrativi.
 
