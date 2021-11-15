@@ -20,7 +20,7 @@ Vengono descritte le azioni realizzate dal personale comunale, che hanno portato
 Il processo di lavoro, svolto in ordine temporale, è raffigurabile nel seguente schema:
 ``` mermaid
 graph TD
-A([analisi procedimenti è stabilito come obiettivo nel Piano Performance!]) -->|direttive ai dirigenti| B([redazione schede dei metadati e delle fasi operative])
+A([analisi procedimenti è stabilito come obiettivo nel Piano Performance!]) -->|direttive ai dirigenti| B([redazione schede dei 1- metadati e 2- delle fasi operative])
 B -->|compilazione schede da parte dei responsabili procedimenti| C([creazione database procedimenti: mappatura]) 
 C -->|check da parte di un ufficio centrale| D([check database procedimenti]) 
 D -->|a cura di un ufficio centrale che colleziona le schede| E([creazione catalogo procedimenti]) 
