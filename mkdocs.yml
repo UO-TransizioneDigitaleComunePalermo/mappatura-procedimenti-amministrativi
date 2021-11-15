@@ -116,7 +116,11 @@ markdown_extensions:
 - mkdocs-click
 - pymdownx.highlight
 - pymdownx.inlinehilite
-- pymdownx.superfences
+- pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
 - pymdownx.tabbed:
     alternate_style: true
 - pymdownx.critic:
@@ -145,6 +149,7 @@ markdown_extensions:
 ## Custom theme additions
 extra_javascript:
    - stylesheets/extra.js
+   - https://unpkg.com/mermaid/dist/mermaid.min.js
 
 ## extra CSS
 extra_css:
