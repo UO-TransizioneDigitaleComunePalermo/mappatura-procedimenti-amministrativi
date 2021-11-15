@@ -63,6 +63,7 @@ Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https:/
 [**`GitHub`**](https://github.com/) è un servizio online e gratuito di hosting per progetti software. 
 
 
+
 ### Usare il file excel Google Drive come "fonte dati" per il progetto su GitHub
 Il file creato precedentemente in formato tabellare su Google Drive con l'elenco dei procedimenti e i link alle schede di dettaglio, viene reso condivisibile (nelle impostazioni) in maniera tale che *chiunque navighi su internet e abbia questo link può visualizzare questo elemento*.
 
@@ -95,7 +96,10 @@ La realizzazione del progetto su GitHub è possibile clonando il [progetto già 
 Il codice sorgente utilizzato è ["open source"](https://it.wikipedia.org/wiki/Open_source) e rilasciato con licenza aperta che ne permette il riutilizzo gratuito.
 
 
+
 ## Presentazione del catalogo
 Presentazione del [**catalogo dei procedimenti amministrativi del Comune di Palermo**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) come strumento fondamentale di conoscenza per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione dei procedimenti.
 
-<iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="83000"; width="100%"; frameborder="0"; > </iframe>
+![](https://user-images.githubusercontent.com/42996217/141728854-f2e11070-85e4-4afc-a075-229beed21f34.png)
+
+
