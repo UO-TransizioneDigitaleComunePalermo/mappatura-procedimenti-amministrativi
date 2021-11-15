@@ -1,7 +1,7 @@
 # Percorsi di digitalizzazione in ambito comunale
 In questa pagina viene illustrato in sintesi il percorso di digitalizzazione documentale del Comune di Palermo, coerentemente con le indicazioni dell CAD.
 
-## Articolo 15 del Codice Amministrazione Digitale (CAD): “razionalizzare e semplificare” 
+## Art.15 del CAD: “razionalizzare e semplificare” 
 
 L'[**Articolo 15 del CAD, comma 2**](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_I-sezione_III-articolo_15.html) prevede che
 > *... le pubbliche amministrazioni provvedono in particolare a razionalizzare e semplificare i procedimenti amministrativi, le attività gestionali, i documenti, la modulistica, le modalità di accesso e di presentazione delle istanze da parte dei cittadini e delle imprese, assicurando che l’utilizzo delle tecnologie dell’informazione e della comunicazione avvenga in conformità alle prescrizioni tecnologiche definite nelle regole tecniche di cui all’articolo 71*.
@@ -12,7 +12,7 @@ L'[**Articolo 15 del CAD, comma 2**](https://docs.italia.it/italia/piano-trienna
 - **ad un'opportunità → (nuovo modo di lavorare dentro la PA e di far fruire i servizi pubblici ai cittadini)**
 
 
-## Cronistoria delle attività realizzate dal Comune di Palermo relative a percorsi di digitalizzazione
+## Cronistoria delle attività del Comune di Palermo relative a digitalizzazione
 Il Comune di Palermo è impegnato da anni nella transizione al digitale, come previsto dal CAD (d.lgs. n. 82/2005 e succ. modifiche/integrazioni). 
 
 I passi compiuti dall'Amministrazione comunale di Palermo per la digitalizzazione dei documenti sono stati:  
@@ -149,7 +149,7 @@ Il 3° step rappresenta il tempo in cui può essere effettuata la “reingegneri
 
 
 
-## Il supporto dell’Intelligenza Artificiale nella gestione digitale di procedimenti amministrativi e servizi
+## Il supporto dell’Intelligenza Artificiale
 L'Intelligenza Artificiale (grazie all'utilizzo di specifici algoritmi) può fornire un enorme supporto nella gestione quotidiana di procedimenti e servizi.
 
 Dall'analisi e interpretazione “semantica” del testo dei documenti generati dai procedimenti amministrativi (norme, termini specifici ripetuti) può nascere un sistema utile al personale dell’Ente nella **ricerca multicriterio** in un documento o in un archivio.
@@ -162,7 +162,7 @@ Può essere fornito un **supporto al backend (lato personale PA)** che trova una
 
 
 
-## Nella digitalizzazione bisogna pensare per dati e non per formati `PDF`
+## Nella digitalizzazione bisogna pensare per dati e non per `PDF`
 Oggi spesso pensiamo la documentazione della PA come formati `PDF` che derivano da formati DOCX/ODT ai quali abbiamo lavorato precedentemente.
 Dimentichiamo di lavorare principalmente per documenti `PDF`.
 
@@ -173,7 +173,7 @@ Dobbiamo pensare al formato `PDF` come un formato da generare nell'applicativo i
 
 
 
-## Quando si realizzano servizi online (e digitalizzazione di relativi procedimenti amministrativi) nella PA si pensa a
+## Quando si realizzano servizi online nella PA si pensa a
 
 - **Digital first**, tutto nella PA nasce in formato digitale.
 - **Once only**, la PA chiede un dato una sola volta al cittadino e se una PA ha bisogno di informazioni che detiene un altra PA, non usa il cittadino come garzone per il trasferimento del documento, ma i dati vengono scambiati tramite interoperabilità degli applicativi informatici.
