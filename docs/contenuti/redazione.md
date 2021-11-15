@@ -31,7 +31,7 @@ Abbiamo semplificato quanto più possibile il percorso da fare per giungere alla
 Intendiamo mettere, con piacere, a disposizione di altri colleghi i risultati di questa esperienza.
 
 
-## Formazione su "*analisi dei procedimenti in un Ente Locale e i passi per la digitalizzazione*"
+## Formazione su *analisi dei procedimenti in un Ente Locale e i passi per la digitalizzazione*
 ![](https://user-images.githubusercontent.com/42996217/141853252-13bed0d4-e0d9-4ba0-b077-38089fb20ddc.png)
 
 Gran parte dei contenuti di questo progetto di documentazione sono stati trattati ampiamente nel percorso formativo organizzato dal FormezPA (settembre-dicembre 2021), denominato ["**L’analisi dei procedimenti in un Ente Locale e i passi per la digitalizzazione**"](http://eventipa.formez.it/node/321929), e strutturato in 4 moduli:
