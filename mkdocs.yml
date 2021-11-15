@@ -166,24 +166,24 @@ nav:
         - I procedimenti amministrativi visti dal "CAD": contenuti/cad.md 
            
     - Mappatura:
-        - Percorsi di digitalizzazione in ambito comuale: contenuti/1-percorsi-di-digitalizzazione-in-ambito-comunale.md
-        - L'analisi dei procedimenti nel Piano della Performance: contenuti/3-esperienza-analisi-procedimenti.md 
+        - Percorsi di digitalizzazione in ambito comuale: contenuti/digitalizzazione-ambito-comunale.md
+        - L'analisi dei procedimenti nel Piano della Performance: contenuti/esperienza-analisi.md
      
     - Metadati:
-        - I metadati nella mappatura dei procedimenti: contenuti/5-metadati-procedimento.md
-        - Metadati minimi di determinazioni e deliberazioni: contenuti/2-elementi-minimi-metadati-determinazione-deliberazione.md
-        - Uno schema di metadati usato nella mappatura dei procedimenti: contenuti/8-schema-metadati-procedimento.md
-        - Un esperienza di mappatura con metadati: contenuti/6-esperienza-metadatazione-procedimento.md
+        - I metadati nella mappatura dei procedimenti: contenuti/metadati.md
+        - Metadati minimi di determinazioni e deliberazioni: contenuti/metadati-determinazione-deliberazione.md
+        - Uno schema di metadati usato nella mappatura dei procedimenti: contenuti/schema-metadati.md
+        - Un esperienza di mappatura con metadati: contenuti/esperienza-metadatazione.md
    
     - Fasi operative:
-        - Fasi operative dei procedimenti: contenuti/12-step-operativi.md
+        - Fasi operative dei procedimenti: contenuti/fasi-operative.md
     
     - Cataologo:
-        - Dalla mappatura al catalogo dei procedimenti: contenuti/7-catalogo-procedimenti.md 
+        - Dalla mappatura al catalogo dei procedimenti: contenuti/catalogo.md
     
     - Linkografia:
-        - Linkografia essenziale: contenuti/9-linkografia-essenziale.md
+        - Linkografia essenziale: contenuti/linkografia.md
             
     - Redazione:
-        - Redazione: contenuti/10-chi-siamo.md
+        - Redazione: contenuti/chi-siamo.md
 
