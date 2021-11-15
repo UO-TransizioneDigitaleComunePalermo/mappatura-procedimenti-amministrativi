@@ -35,3 +35,7 @@ theme:
 ho tolto l'iframe dal file `mappatura-procedimenti/7-catalogo-procedimenti.md`
 
 <iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="83000"; width="100%"; frameborder="0"; > </iframe>
+
+
+## Flowchart
+https://mermaid-js.github.io/mermaid/#/flowchart
