@@ -15,10 +15,11 @@ Realizzare un’analisi dei procedimenti in ottica di **semplificazione**, al fi
 
 Il documento è stato progettato seguendo il percorso operativo condotto dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione alla modalità digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (decreto legislativo n. 82/2005 e successive modifiche). 
 
-Vengono descritte le azioni realizzate nel tempo dal personale comunale, che hanno portato alla redazione di un catalogo contenente le **fasi operative** e i **metadati** dei procedimenti. E' stato tracciato un passo importante del Comune di Palermo, necessario per la corretta digitalizzazione dei procedimenti amministrativi.
+Vengono descritte le azioni realizzate nel tempo dal personale comunale, che hanno portato alla redazione di un  <span style="background-color: #0f7d29; color: #ffffff; padding: 0px 3px; border-radius: 4px;"><b>catalogo</b></span> **`catalogo`** contenente le **fasi operative** e i **metadati** dei procedimenti. E' stato tracciato un passo importante del Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
 
 
 ---
+
 
 ## Come è costruito questo progetto di documentazione 
 
@@ -37,7 +38,9 @@ Vengono descritte le azioni realizzate nel tempo dal personale comunale, che han
     - <img src="https://img.shields.io/badge/Disqus-for_comments-blue.svg?style=popout"> [**Disqus**](https://disqus.com/) per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
     - <img src="https://img.shields.io/badge/PDF_generator-for_printing_documentation-blue"> [**Strumento di generazione dei contenuti del progetto in formato PDF**](https://cirospat.github.io/cirospataro/print_page/), indicato in ogni pagina con l'icona della stampante posizionato in alto a destra. Cliccando sull'icona è possibile generare una pagina html che contiene tutte le pagine del progetto di documentazione, eventualmente da stampare.
 
+
 ---
+
 
 ## I contenuti di questo progetto sono rilasciati rilasciati con licenza aperta 
 <img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi">
@@ -53,6 +56,4 @@ I contenuti di questo progetto di documentazione sono rilasciati con licenza ape
 
 - Attribuzione — Devi riconoscere una menzione di paternità adeguata, fornire un link alla licenza e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile, ma non con modalità tali da suggerire che il licenziante avalli te o il tuo utilizzo del materiale. 
 - Divieto di restrizioni aggiuntive — Non puoi applicare termini legali o misure tecnologiche che impongano ad altri soggetti dei vincoli giuridici su quanto la licenza consente loro di fare.
-
-
 
