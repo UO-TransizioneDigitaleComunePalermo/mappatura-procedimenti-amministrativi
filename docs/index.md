@@ -35,7 +35,10 @@ style A fill:#f9f,stroke:#333,stroke-width:2px
 theme:
   features:
     - content.code.annotate # (1)
+    - blabla # (2)
 ```
 
 1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
     text__, images, ... basically anything that can be expressed in Markdown.
+
+2.  bla bòla ckks skks akkkkkkkkkkk
