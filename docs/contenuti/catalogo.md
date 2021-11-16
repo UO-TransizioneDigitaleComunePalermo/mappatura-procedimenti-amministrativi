@@ -28,10 +28,10 @@ Un attività di fondamentale importanza è rappresentata dalla validazione delle
 I responsabili di procedimento e i dirigenti dovrebbero provvedere alla validazione dei contenuti delle schede dei procedimenti di competenza (dopo la prima versione), almeno con la seguente cadenza temporale:
 
 !!! Note ""
-    **semestrale** ed in concomitanza con le scadenze degli obiettivi di Unità Organizzative e dirigenziali, se nessuna nuova norma interviene a modificare le fasi di gestione del procedimento amministrativo. In questo caso se nessuna modifica viene ritenuta necessaria da apportare alla modalità di gestione e dei metadati, si conferma e valida il contenuto delle schede compilate il semestre precedente;
+    :material-exclamation: **semestrale** ed in concomitanza con le scadenze degli obiettivi di Unità Organizzative e dirigenziali, se nessuna nuova norma interviene a modificare le fasi di gestione del procedimento amministrativo. In questo caso se nessuna modifica viene ritenuta necessaria da apportare alla modalità di gestione e dei metadati, si conferma e valida il contenuto delle schede compilate il semestre precedente;
 
 !!! Note ""
-    **nel momento preciso in cui una nuova norma interviene** a modificare le fasi di gestione e o i metadati del procedimento amministrativo.
+    :material-exclamation: **nel momento preciso in cui una nuova norma interviene** a modificare le fasi di gestione e o i metadati del procedimento amministrativo.
 
 
 Nei casi di modifica delle schede nei semestri successivi alla data di redazione della prima versione delle schede (metadati e fasi operative) è necessario aggiungere un record "data_versione_scheda" sia alla scheda "**fasi operative**" che alla scheda "**metadati**", in maniera tale da avere sempre chiara la data di riferimento a partire dalla quale vigono le informazioni riportate nelle stesse schede. Il campo riportante la "data di versionamento" sarà il primo in ambedue le schede.
@@ -117,9 +117,9 @@ Sul progetto da creare su GitHub si fa riferimento al link del foglio excel di G
     href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQfrJ2qTTIIkX5Pf0Q4dxijhIA9R3XtocGEvhPsNA3Hd-OnhTgkYEqNJltvVeTdQrsXAsnrDX2_09lK/pub?output=csv" />
 ```
 
-L'URL `https://docs.google.com/spreadsheets/d/e/2PACX-1vQfrJ2qTTIIkX5Pf0Q4dxijhIA9R3XtocGEvhPsNA3Hd-OnhTgkYEqNJltvVeTdQrsXAsnrDX2_09lK/pub?output=csv` è la fonte dati da cui il progetto GitHub genera l'interfaccia web di consultazione dei procedimenti amministrativi.
+:white_check_mark: L'URL `https://docs.google.com/spreadsheets/d/e/2PACX-1vQfrJ2qTTIIkX5Pf0Q4dxijhIA9R3XtocGEvhPsNA3Hd-OnhTgkYEqNJltvVeTdQrsXAsnrDX2_09lK/pub?output=csv` è la fonte dati da cui il progetto GitHub genera l'interfaccia web di consultazione dei procedimenti amministrativi.
 
-!!! Note "Gli strumenti principali usati per realizzare la visualizzazione del catalogo dei procedimenti sono 4"
+!!! Note "Gli strumenti usati per realizzare la visualizzazione del catalogo dei procedimenti sono 4"
 
     - [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
     - [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate
