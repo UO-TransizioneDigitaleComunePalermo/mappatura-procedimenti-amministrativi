@@ -7,16 +7,16 @@ hide:
 # Chi siamo e perchè abbiamo documentato questo progetto
 
 ## Chi siamo
-![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png)
+[![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png)](https://www.comune.palermo.it/)
 
 <img src="https://img.shields.io/badge/Authors-Ciro_Spataro_|_Sergio_Schimicci-blue">
 
-A supportare il [Comune di Palermo](https://www.comune.palermo.it/) nel processo di mappatura e analisi per la digitalizzazione dei procedimenti amministrativi, e necessaria formazione al personale, siamo anche:
+A supportare il [Comune di Palermo](https://www.comune.palermo.it/) nel processo di mappatura e analisi per la digitalizzazione dei procedimenti amministrativi, e necessaria formazione del personale, siamo anche:
 
 - **Ciro Spataro** | [`CV`](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/preview) | [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) | 0917407340
 - **Sergio Schimicci** | [`CV`](https://docs.google.com/document/d/1QrCS7A3WYGOcUtV6L_zfrtjO7WUXhSbR/preview) | [s.schimicci@comune.palermo.it](mailto:s.schimicci@comune.palermo.it) | 0917407336
 
-del Servizio Innovazione - Settore Servizi Direzione Generale
+dell'[**UO transizione al digitale**](https://www.comune.palermo.it/struttura-amministrativa.php?lev=4&id=2188) - [Servizio Innovazione](https://www.comune.palermo.it/struttura-amministrativa.php?lev=3&id=1056) - [Settore Servizi Direzione Generale](https://www.comune.palermo.it/struttura-amministrativa.php?id=230&lev=2)
 
 
 
@@ -32,7 +32,7 @@ Intendiamo mettere, con piacere, a disposizione di altri colleghi i risultati di
 
 
 ## Formazione su analisi dei procedimenti in un Ente Locale e i passi per la digitalizzazione
-![](https://user-images.githubusercontent.com/42996217/141853252-13bed0d4-e0d9-4ba0-b077-38089fb20ddc.png)
+[![](https://user-images.githubusercontent.com/42996217/141853252-13bed0d4-e0d9-4ba0-b077-38089fb20ddc.png)](http://eventipa.formez.it/node/321929)
 
 I contenuti di questo progetto di documentazione sono stati anche trattati nel percorso formativo organizzato dal FormezPA (settembre-dicembre 2021), denominato ["**L’analisi dei procedimenti in un Ente Locale e i passi per la digitalizzazione**"](http://eventipa.formez.it/node/321929), e strutturato in 4 moduli:
 
