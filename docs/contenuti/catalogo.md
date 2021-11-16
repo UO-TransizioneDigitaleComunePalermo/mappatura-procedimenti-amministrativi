@@ -101,8 +101,6 @@ Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https:/
 
 [![](https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png)](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo)
 
-<img src="https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png" width=900 > </img>
-
 [**`GitHub`**](https://github.com/) è un servizio online e gratuito di hosting per progetti software. 
 
 
