@@ -29,3 +29,6 @@ style A fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
 
+theme:
+  features:
+    - content.code.annotate # prova prova
