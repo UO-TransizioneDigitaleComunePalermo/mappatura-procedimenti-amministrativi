@@ -5,7 +5,7 @@ hide:
 
 
 
-# Come costruire un esempio di catalogo dei procedimenti amministrativi
+# Costruire un esempio di catalogo dei procedimenti amministrativi
 
 !!! info inline end
 
@@ -64,7 +64,7 @@ Tali informazioni di "versionamento" delle schede sono necessarie al fine di app
 
 
 
-## Creare un database in formato tabellare con l'elenco dei procedimenti
+## Creare un database con l'elenco dei procedimenti
 Si procede con la creazione di un file in formato tabellare su Google Drive. 
 
 Il file contiene i principali metadati dei procedimenti che permettono:
@@ -95,7 +95,7 @@ Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate
 
 ---
 
-## Creare un interfaccia grafica per consultare il catalogo online
+## Creare un interfaccia grafica con GitHub per il catalogo online
 Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo) è possibile creare un interfaccia di catalogo molto intuitiva per la consultazione online.
 
 [![](https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png)](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo)
@@ -104,7 +104,7 @@ Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https:/
 
 
 
-### Usare il file excel Google Drive come "fonte dati" per il progetto su GitHub
+### Usare il file excel Google Drive come fonte dati per il progetto su GitHub
 :octicons-share-android-24: Il file creato precedentemente in formato tabellare su Google Drive con l'elenco dei procedimenti e i link alle schede di dettaglio, viene reso condivisibile (nelle impostazioni) in maniera tale che *chiunque navighi su internet e abbia questo link può visualizzare questo elemento*.
 
 ![](https://user-images.githubusercontent.com/42996217/141465351-5d7ec9f7-bfb3-408f-985b-d5f7f1aa290b.png)
