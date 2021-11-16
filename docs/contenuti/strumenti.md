@@ -26,9 +26,11 @@ Questo progetto di documentazione è stato creato utilizzando i seguenti strumen
 ## Strumenti per consentire l'interazione 
 Gli strumenti utilizzati per arricchire l'esperienza dei contenuti di questo progetto sono:
 
-- <img src="https://img.shields.io/badge/Addthis-for_sharing_contents-blue.svg?style=popout"> [**Addthis**](https://www.addthis.com/) per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. Il codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
-- <img src="https://img.shields.io/badge/Disqus-for_comments-blue.svg?style=popout"> [**Disqus**](https://disqus.com/) per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
-- <img src="https://img.shields.io/badge/PDF_generator-for_printing_documentation-blue"> [**Strumento di generazione dei contenuti del progetto in formato PDF**](https://cirospat.github.io/cirospataro/print_page/), indicato in ogni pagina con l'icona della stampante posizionato in alto a destra. Cliccando sull'icona è possibile generare una pagina html che contiene tutte le pagine del progetto di documentazione, eventualmente da stampare.
+<img src="https://img.shields.io/badge/Addthis-for_sharing_contents-blue.svg?style=popout"> [**Addthis**](https://www.addthis.com/) per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. Il codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
+
+<img src="https://img.shields.io/badge/Disqus-for_comments-blue.svg?style=popout"> [**Disqus**](https://disqus.com/) per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
+
+<img src="https://img.shields.io/badge/PDF_generator-for_printing_documentation-blue"> [**Strumento di generazione dei contenuti del progetto in formato PDF**](https://cirospat.github.io/cirospataro/print_page/), indicato in ogni pagina con l'icona della stampante posizionato in alto a destra. Cliccando sull'icona è possibile generare una pagina html che contiene tutte le pagine del progetto di documentazione, eventualmente da stampare.
 
 
 
@@ -36,10 +38,13 @@ Gli strumenti utilizzati per arricchire l'esperienza dei contenuti di questo pro
 ## Strumenti per la creazione del catalogo
 I principali strumenti usati per realizzare la visualizzazione del [**catalogo**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/) dei procedimenti sono:
 
-- [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
-- [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate
-- [**GDrive Sheet**](https://www.google.com/sheets/about/), per raccogliere e distribuire i dati che fanno da sorgente (bisogna dotarsi di un account)
-- [**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online (bisogna dotarsi di un account)
+[**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
+
+[**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate
+
+[**GDrive Sheet**](https://www.google.com/sheets/about/), per raccogliere e distribuire i dati che fanno da sorgente (bisogna dotarsi di un account)
+
+[**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online (bisogna dotarsi di un account)
 
 
 
