@@ -28,8 +28,14 @@ E -->|a cura di un ufficio centrale per divulgazione ad uffici| F([condivisione 
 style A fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
-```
+
+
+
+``` yaml
 theme:
   features:
-    - content.code.annotate # prova prova
+    - content.code.annotate # (1)
 ```
+
+1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
+    text__, images, ... basically anything that can be expressed in Markdown.
