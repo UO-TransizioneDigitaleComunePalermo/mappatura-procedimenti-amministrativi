@@ -38,13 +38,13 @@ Gli strumenti utilizzati per arricchire l'esperienza dei contenuti di questo pro
 ## Strumenti per la creazione del catalogo dei procedimenti
 I principali strumenti usati per realizzare la visualizzazione del [**catalogo**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/) dei procedimenti sono:
 
-[**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
+<img src="https://img.shields.io/badge/Simile_Exhibit-for_web_interface_navigation-blue"> [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
 
-[**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate
+<img src="https://img.shields.io/badge/Twitter_Boostrap-for_webpages_style-blue"> [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate
 
-[**GDrive Sheet**](https://www.google.com/sheets/about/), per raccogliere e distribuire i dati che fanno da sorgente (bisogna dotarsi di un account)
+<img src="https://img.shields.io/badge/GDrive_Sheet-for_data_source_collection_&_deploy-blue"> [**GDrive Sheet**](https://www.google.com/sheets/about/), per raccogliere e distribuire i dati che fanno da sorgente (bisogna dotarsi di un account)
 
-[**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online (bisogna dotarsi di un account)
+<img src="https://img.shields.io/badge/GitHub_Pages-for_code_hosting-blue"> [**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online (bisogna dotarsi di un account)
 
 
 
