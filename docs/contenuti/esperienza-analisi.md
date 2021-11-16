@@ -83,7 +83,7 @@ Il campo `link scheda` contiene i link (URL) ai file tabellari contenente sia i 
 L'elenco dei procedimenti redatto servirà per costruire un interfaccia di catalogo di facile consultazione, anche online, illustrata nella pagina [**Catalogo dei procedimenti amministrativi**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/).
 
 
-### Metodologia per il monitoraggio di compilazione delle schede sui procedimenti
+### Metodologia per monitorare la compilazione delle schede sui procedimenti
 ![](https://user-images.githubusercontent.com/3757525/140102164-f8de2de7-a44c-4e0d-af72-d93ddda718a7.png)
 
 Considerato l'alto numero di procedimenti e l'articolata organizzazione dell'Amministrazione comunale di Palermo, viene costruita su Google spreadsheet (fogli su Google Drive) una scheda per il monitoraggio delle attività in corso.
