@@ -71,9 +71,9 @@ Il file contiene i principali metadati dei procedimenti che permettono:
 
 - `l'individuazione del tipo di procedimento`, 
 - `i contatti del responsabile` 
-  - `nome_cognome`, 
-  - `email`, 
-  - `telefono`, 
+- `nome_cognome`, 
+- `email`, 
+- `telefono`, 
 - `il servizio/ufficio responsabile`, 
 - `l'informazione se il procedimento è gestibile in modalità "lavoro agile" (utile per la costruzione del POLA)`, 
 - `un numero identificativo progressivo`, 
@@ -98,6 +98,8 @@ Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate
 
 ## Creare un interfaccia grafica per consultare il catalogo online
 Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo) è possibile creare un interfaccia di catalogo molto intuitiva per la consultazione online.
+
+[![](https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png)](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo)
 
 <img src="https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png" width=900 > </img>
 
