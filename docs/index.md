@@ -29,11 +29,8 @@ style A fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
 
-``` yaml
-theme:
-  features:
-    - content.code.annotate # (1)
+``` { .yaml .annotate }
+# Code block content
 ```
 
-1.  :man_raising_hand: I'm a code annotation! I can contain `code`, images, ... basically anything that can be expressed in Markdown.
 
