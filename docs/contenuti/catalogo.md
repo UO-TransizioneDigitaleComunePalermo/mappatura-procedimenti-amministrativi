@@ -69,15 +69,14 @@ Si procede con la creazione di un file in formato tabellare su Google Drive.
 
 Il file contiene i principali metadati dei procedimenti che permettono:
 
-- `l'individuazione del tipo di procedimento`, 
-- `i contatti del responsabile` 
-- `nome_cognome`, 
-- `email`, 
-- `telefono`, 
+- `l'individuazione del tipo di procedimento (denominazione)`, 
+- `nome_cognome del responsabile`, 
+- `email del responsabile`, 
+- `telefono del responsabile`, 
 - `il servizio/ufficio responsabile`, 
 - `l'informazione se il procedimento è gestibile in modalità "lavoro agile" (utile per la costruzione del POLA)`, 
-- `un numero identificativo progressivo`, 
-- `ed il link alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"`.
+- `un numero progressivo identificativo del procedimento in un database`, 
+- `il link alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"`.
 
 Il database ha il seguente "schema dati":
 
