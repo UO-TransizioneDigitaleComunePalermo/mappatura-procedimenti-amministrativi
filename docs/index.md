@@ -28,7 +28,8 @@ E -->|a cura di un ufficio centrale per divulgazione ad uffici| F([condivisione 
 style A fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
-
+```
 theme:
   features:
     - content.code.annotate # prova prova
+```
