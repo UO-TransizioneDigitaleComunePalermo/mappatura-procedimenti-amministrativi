@@ -28,10 +28,10 @@ Un attività di fondamentale importanza è rappresentata dalla validazione delle
 I responsabili di procedimento e i dirigenti dovrebbero provvedere alla validazione dei contenuti delle schede dei procedimenti di competenza (dopo la prima versione), almeno con la seguente cadenza temporale:
 
 !!! Note ""
-    :material-exclamation: **semestrale** ed in concomitanza con le scadenze degli obiettivi di Unità Organizzative e dirigenziali, se nessuna nuova norma interviene a modificare le fasi di gestione del procedimento amministrativo. In questo caso se nessuna modifica viene ritenuta necessaria da apportare alla modalità di gestione e dei metadati, si conferma e valida il contenuto delle schede compilate il semestre precedente;
+    :exclamation: **semestrale** ed in concomitanza con le scadenze degli obiettivi di Unità Organizzative e dirigenziali, se nessuna nuova norma interviene a modificare le fasi di gestione del procedimento amministrativo. In questo caso se nessuna modifica viene ritenuta necessaria da apportare alla modalità di gestione e dei metadati, si conferma e valida il contenuto delle schede compilate il semestre precedente;
 
 !!! Note ""
-    :material-exclamation: **nel momento preciso in cui una nuova norma interviene** a modificare le fasi di gestione e o i metadati del procedimento amministrativo.
+    :exclamation: **nel momento preciso in cui una nuova norma interviene** a modificare le fasi di gestione e o i metadati del procedimento amministrativo.
 
 
 Nei casi di modifica delle schede nei semestri successivi alla data di redazione della prima versione delle schede (metadati e fasi operative) è necessario aggiungere un record "data_versione_scheda" sia alla scheda "**fasi operative**" che alla scheda "**metadati**", in maniera tale da avere sempre chiara la data di riferimento a partire dalla quale vigono le informazioni riportate nelle stesse schede. Il campo riportante la "data di versionamento" sarà il primo in ambedue le schede.
@@ -91,7 +91,7 @@ Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate
 !!! Note "Importante"
     **Il catalogo con la mappatura e le schede di analisi dei procedimenti può diventare un allegato del capitolato speciale di appalto che la PA può fornire alle aziende che parteciperanno alla fornitura del software per la digitalizzazione dei procedimenti dell'ente pubblico**. 
     
-    In questo modo la PA ha svolto il lavoro necessario affinchè le software house possano fornire un applicativo ideoneo a soddisfare al meglio i bisogni di digitalizzazione dei procedimenti della PA.
+    :exclamation: In questo modo la PA ha svolto il lavoro necessario affinchè le software house possano fornire un applicativo ideoneo a soddisfare al meglio i bisogni di digitalizzazione dei procedimenti della PA.
 
 
 ---
@@ -106,7 +106,7 @@ Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https:/
 
 
 ### Usare il file excel Google Drive come "fonte dati" per il progetto su GitHub
-Il file creato precedentemente in formato tabellare su Google Drive con l'elenco dei procedimenti e i link alle schede di dettaglio, viene reso condivisibile (nelle impostazioni) in maniera tale che *chiunque navighi su internet e abbia questo link può visualizzare questo elemento*.
+:octicons-share-android-24: Il file creato precedentemente in formato tabellare su Google Drive con l'elenco dei procedimenti e i link alle schede di dettaglio, viene reso condivisibile (nelle impostazioni) in maniera tale che *chiunque navighi su internet e abbia questo link può visualizzare questo elemento*.
 
 ![](https://user-images.githubusercontent.com/42996217/141465351-5d7ec9f7-bfb3-408f-985b-d5f7f1aa290b.png)
 
@@ -122,23 +122,23 @@ Sul progetto da creare su GitHub si fa riferimento al link del foglio excel di G
 !!! Note "Gli strumenti usati per realizzare la visualizzazione del catalogo dei procedimenti sono 4"
 
     - [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
-    - [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate
-    - [**GDrive Sheet**](https://www.google.com/sheets/about/), per raccogliere e distribuire i dati che fanno da sorgente (bisogna dotarsi di un account)
-    - [**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online (bisogna dotarsi di un account)
+    - [**Twitter Boostrap**](https://getbootstrap.com/), per dare lo stile alle pagine pubblicate online sul catalogo
+    - [**GDrive Sheet**](https://www.google.com/sheets/about/), per raccogliere e distribuire i dati che fanno da sorgente al catalogo (bisogna dotarsi di un account)
+    - [**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online del catalogo (bisogna dotarsi di un account)
 
 
 ### Clonare il progetto esistente come modello da replicare per un nuovo catalogo
-La realizzazione del progetto su GitHub è possibile clonando il [progetto già realizzato](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo) e dando un nuovo titolo nella sezione "**Repository Name**" ↓
+:octicons-repo-clone-16: La realizzazione del progetto su GitHub è possibile clonando il [**progetto già realizzato**](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo), e dando un nuovo titolo nella sezione "**Repository Name**" ↓
 
 ![clona il repository GitHub](https://user-images.githubusercontent.com/42996217/141466142-53cf9edb-6b6b-4df3-8795-ac6da2da9b0f.png)
 
 
 ### Codice sorgente open source
-Il codice sorgente utilizzato è ["open source"](https://it.wikipedia.org/wiki/Open_source) e rilasciato con licenza aperta che ne permette il riutilizzo gratuito.
+Il codice sorgente utilizzato è ["**open source**"](https://it.wikipedia.org/wiki/Open_source) e rilasciato con licenza aperta che ne permette il riutilizzo gratuito.
 
 
 
-## Presentazione del catalogo
+## Presentazione del `catalogo`
 Presentazione del [**catalogo dei procedimenti amministrativi del Comune di Palermo**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) come strumento fondamentale di conoscenza per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione dei procedimenti.
 
 [![](https://user-images.githubusercontent.com/42996217/141728854-f2e11070-85e4-4afc-a075-229beed21f34.png)](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/)
