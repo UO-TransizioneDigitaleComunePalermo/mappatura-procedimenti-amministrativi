@@ -37,7 +37,7 @@ I responsabili di procedimento e i dirigenti dovrebbero provvedere alla validazi
 Nei casi di modifica delle schede nei semestri successivi alla data di redazione della prima versione delle schede (metadati e fasi operative) è necessario aggiungere un record "data_versione_scheda" sia alla scheda "**fasi operative**" che alla scheda "**metadati**", in maniera tale da avere sempre chiara la data di riferimento a partire dalla quale vigono le informazioni riportate nelle stesse schede. Il campo riportante la "data di versionamento" sarà il primo in ambedue le schede.
 
 
-**fasi operative** ↓
+:material-file-document-multiple-outline: **fasi operative** ↓
 
 | ==Ordine progressivo delle fasi del procedimento== | ==Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo== | ==Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo== |
 |:-----|:-----|:-----|
@@ -48,7 +48,7 @@ Nei casi di modifica delle schede nei semestri successivi alla data di redazione
 
 
 
-**metadati** ↓
+:material-file-document-multiple-outline: **metadati** ↓
 
 |==ID metadato==| ==Denominazione del metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
 |:---|:--------------------------------------|:-----------------|:-----|
