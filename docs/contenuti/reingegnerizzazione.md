@@ -1,21 +1,24 @@
 # Reingegnerizzazione dei procedimenti
-La reingegnerizzazione dei procedimenti amministrativi è un attività di analisi che ha come obiettivo:
+La reingegnerizzazione è un attività di rivisitazione dei procedimenti amministrativi, che viene effettuata a seguito di analisi per verificare la corretta gestione delle azioni condotte in un flusso lavorativo, e che ha come obiettivo:
 
-- la verifica della corretta gestione delle azioni condotte per lavorare sui procedimenti, per una corretta adozione di applicativi informatici;
-- l'eliminazione delle azioni ritenute, nella gestione cartacea, ridondanti e causa di perdita di tempo;
-- la riduzione dei tempi di processamento delle attività relative alla gestione dei procedimenti e all'erogazione di servizi pubblici;
-- ......
+- l'eliminazione delle azioni ritenute, nella gestione cartacea, ridondanti o addirittura inutili e che causano di perdita di tempo;
+- la riduzione dei tempi di processamento delle singole attività lavorative.
+
+A seguito dell'analisi dei procedimenti si produce un report di diagnosi che evidenzia punti di forza e criticità da mitigare per ogni procedimento. Il report di diagnosi contiene anche le proposte di rivisitazione del processo di lavoro per la gestione del procedimento amministrativo.
+
+Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione di applicativi informatici per la gestione in modalità digitale del procedimento amministrativo.
 
 
-Oggi sono aumentate le esigenze degli utenti (cittadini, imprese, collettività), che richiedono servizi sempre più efficienti, in m0odalità digitale, senza essere soggetti a inutili perdite di tempo.
 
-Il termine "procedimento amministrativo" si riferisce a "prassi operative" trasversali a più uffici, il termine "processo" riguarda l’insieme di attività pur trasversali ma finalizzate al raggiungimento di specifici obiettivi strategici.
+Oggi cittadini, imprese, associazioni richiedono servizi pubblici sempre più efficienti, in modalità digitale, senza essere ostaggio di inutili perdite di tempo.
 
-Oggi diventa difficile individuare e reingegnerizzare processi nella pubblica amministrazione, in quanto è c'è una diffusa tendenza a privilegiare la "conformità alle norme" ...  privilegiando l’efficacia e l’efficienza operativa. Non si dedica il tempo necessario e l'attenzione all’utenza finale, preferendo il rispetto di esigenze organizzative interne.
+E' difficile individuare e reingegnerizzare processi nella pubblica amministrazione, in quanto c'è la tendenza genralizzata a privilegiare la "conformità alle norme" ... anzichè privilegiare l’"efficacia" e l’"efficienza operativa". Non si dedica il tempo e l'attenzione necessaria all’utenza finale, preferendo il rispetto di esigenze organizzative interne. Il principale errore delle pubbliche amministrazioni: essere autoreferenziali e non orientare la propria azione a servizio del cittadino. 
 
-Cos'è il Progetto Cartesio? https://www.univaq.it/section.php?id=1138 = definire un quadro di tutti i procedimenti svolti all'interno dell'amministrazione, evidenziandone gli snodi fondamentali, la documentazione prodotta da acquisire al fascicolo, e, per alcuni settori, di disegnarne uno schema di workflow.
+Il Progetto Cartesio (attività e procedimenti amministrativi delle università)  https://www.univaq.it/section.php?id=1138 ha definito un quadro di tutti i procedimenti svolti all'interno di alcune amministrazioni pubbliche, evidenziandone gli snodi fondamentali, la documentazione prodotta da acquisire al fascicolo, e, per alcuni settori, di disegnarne uno schema di workflow (flusso di lavoro).
 
-Comune di Pisa:
+### Comune di Pisa: https://www.comune.pisa.it/sites/default/files/2018_05_17_17_36_10.pdf
 Nello specifico, la riprogettazione ha lo scopo di: 
 a. migliorare l’efficienza del processo, intesa come rapporto tra risorse impiegate e risultati ottenuti. Particolare e specifica attenzione deve essere riservata all’efficiente utilizzo della risorsa “tempo”; 
 b. migliorare l’efficacia del processo, nel rapporto tra risultati raggiunti e risultati previsti. Considerato che, nel particolare caso dei procedimenti amministrativi, l’efficacia va parametrata in relazione alle aspettative e ai bisogni dei clienti esterni, migliorare l’efficacia del processo significa migliorare la qualità del prodotto (intesa come rispondenza del prodotto alle necessità dei fruitori). 
+
+Come è facilmente intuibile, qualunque attività di riprogettazione, più o meno invasiva, deve essere necessariamente preceduta da una fase di diagnosi: da un’analisi, cioè, che, disaggregando il procedimento/processo nelle sue attività di base, ne possa mettere in evidenza le criticità (in che cosa consistono, come si manifestano, su quali fasi e attività del procedimento/processo si concentrano, quali effetti producono), per individuare e attivare specifiche azioni correttive.
