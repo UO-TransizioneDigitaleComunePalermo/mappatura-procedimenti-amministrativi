@@ -33,5 +33,6 @@ style A fill:#fc5b5b,stroke:#333,stroke-width:2px
 Nella fase di creazione di questo documento abbiamo pensato che interagire e confrontarsi con altre persone (colleghe/i di altre Pubbliche Amministrazioni e non) sia una delle cose più importanti da fare se si vuole migliorare costanetemente il modo di lavorare negli uffici pubblici. A tal proposito è stato predisposto un apposito [**`Forum`**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions) sulla piattaforma GitHub, che ospita il codice sorgente di questo progetto di documentazione, nel quale è possibile fare domande, ma anche proporre idee e miglioramenti al flusso di lavoro per la mappatura e analisi dei procedimenti amministrativi. Un luogo di interazione. Il link al Forum è anche riportato in alto nel menù di questo progetto.
 
 
-
+<!--
 [Leggi partendo dal "focus giuridico" :fontawesome-brands-readme:](contenuti/focus-giuridico){ .md-button .md-button--primary }
+-->
