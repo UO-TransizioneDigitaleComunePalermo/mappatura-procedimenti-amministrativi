@@ -15,3 +15,7 @@ Oggi diventa difficile individuare e reingegnerizzare processi nella pubblica am
 
 Cos'è il Progetto Cartesio? https://www.univaq.it/section.php?id=1138 = definire un quadro di tutti i procedimenti svolti all'interno dell'amministrazione, evidenziandone gli snodi fondamentali, la documentazione prodotta da acquisire al fascicolo, e, per alcuni settori, di disegnarne uno schema di workflow.
 
+Comune di Pisa:
+Nello specifico, la riprogettazione ha lo scopo di: 
+a. migliorare l’efficienza del processo, intesa come rapporto tra risorse impiegate e risultati ottenuti. Particolare e specifica attenzione deve essere riservata all’efficiente utilizzo della risorsa “tempo”; 
+b. migliorare l’efficacia del processo, nel rapporto tra risultati raggiunti e risultati previsti. Considerato che, nel particolare caso dei procedimenti amministrativi, l’efficacia va parametrata in relazione alle aspettative e ai bisogni dei clienti esterni, migliorare l’efficacia del processo significa migliorare la qualità del prodotto (intesa come rispondenza del prodotto alle necessità dei fruitori). 
