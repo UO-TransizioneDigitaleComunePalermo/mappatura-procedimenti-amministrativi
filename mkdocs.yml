@@ -21,6 +21,9 @@ extra:
     - icon: fontawesome/solid/home
       link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi
       name: Home Page
+    - icon: octicons/comment-discussion-16
+      link: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions
+      name: Forum sulla mappatura dei procedimenti amministrativi
     - icon: fontawesome/brands/twitter
       link: http://twitter.com/cirospat
       name: account Twitter
