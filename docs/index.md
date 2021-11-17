@@ -33,4 +33,4 @@ Nella fase di creazione di questo documento abbiamo pensato che interagire e con
 
 
 
-[Leggi partendo dal "focus giuridico" :fontawesome-brands-readme:](contenuti/focus-giuridico){ .md-button }
+[Leggi partendo dal "focus giuridico" :fontawesome-brands-readme:](contenuti/focus-giuridico){ .md-button .md-button--primary }
