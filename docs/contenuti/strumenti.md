@@ -10,7 +10,7 @@ hide:
 
 
 
-## Come è costruito questo progetto di documentazione 
+## :material-monitor-cellphone: Come è costruito questo progetto di documentazione 
 Questo progetto di documentazione è stato creato utilizzando i seguenti strumenti:
 
 <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
@@ -23,7 +23,7 @@ Questo progetto di documentazione è stato creato utilizzando i seguenti strumen
 
 
 
-## Strumenti per consentire l'interazione online
+## :octicons-share-android-16: Strumenti per consentire l'interazione online
 Gli strumenti utilizzati per arricchire l'esperienza dei contenuti di questo progetto sono:
 
 <img src="https://img.shields.io/badge/Addthis-for_sharing_contents-blue.svg?style=popout"> [**Addthis**](https://www.addthis.com/) per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. Il codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
@@ -35,7 +35,7 @@ Gli strumenti utilizzati per arricchire l'esperienza dei contenuti di questo pro
 
 
 
-## Strumenti per la creazione del catalogo dei procedimenti
+## :octicons-code-square-16: Strumenti per la creazione del catalogo dei procedimenti
 I principali strumenti usati per realizzare la visualizzazione del [**catalogo**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/) dei procedimenti sono:
 
 <img src="https://img.shields.io/badge/Simile_Exhibit-for_web_interface_navigation-blue"> [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
@@ -49,7 +49,7 @@ I principali strumenti usati per realizzare la visualizzazione del [**catalogo**
 
 
 
-## Contenuti rilasciati con licenza aperta 
+## :fontawesome-brands-creative-commons: Contenuti rilasciati con licenza aperta 
 <img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi">
 
 I contenuti di questo progetto di documentazione sono rilasciati con licenza aperta [**Creative Commons CC BY 4.0 Int**](https://creativecommons.org/licenses/by/4.0/deed.it).
