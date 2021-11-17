@@ -1,4 +1,4 @@
-# :octicons-code-16: Setting vari - prove e remind
+# Setting vari - prove e remind  :octicons-code-16:
 Questo file "note" contiene varie prove effettuate nei setting del codice.
 
 
