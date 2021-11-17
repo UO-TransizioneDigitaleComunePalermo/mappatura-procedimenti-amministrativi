@@ -1,4 +1,4 @@
-# Focus giuridico sul "procedimento amministrativo"
+# Focus giuridico sul "procedimento amministrativo" :octicons-law-24:
 
 In questa pagina si parte dalla definizione giuridica di procedimento amministrativo e si pone adeguata attenzione alla differenza tra i procedimenti attivati d’ufficio e i procedimenti attivati da iniziativa di parte di un cittadino/cliente. 
 
