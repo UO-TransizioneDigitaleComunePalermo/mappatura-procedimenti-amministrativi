@@ -25,8 +25,9 @@ B -->|compilazione schede da parte dei responsabili procedimenti| C([creazione d
 C -->|check da parte di un ufficio centrale| D([check database procedimenti]) 
 D -->|a cura di un ufficio centrale che colleziona le schede| E([creazione catalogo procedimenti]) 
 E -->|a cura di un ufficio centrale per divulgazione ad uffici| F([condivisione online catalogo procedimenti])
-style A fill:#f9f,stroke:#333,stroke-width:2px
+style A fill:#fc5b5b,stroke:#333,stroke-width:2px  
 ```
+<!-- era fill:#f9f -->
 
 ## :octicons-comment-discussion-16:  Forum per l'interazione e la propositività 
 Nella fase di creazione di questo documento abbiamo pensato che interagire e confrontarsi con altre persone (colleghe/i di altre Pubbliche Amministrazioni e non) sia una delle cose più importanti da fare se si vuole migliorare costanetemente il modo di lavorare negli uffici pubblici. A tal proposito è stato predisposto un apposito [**`Forum`**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions) sulla piattaforma GitHub, che ospita il codice sorgente di questo progetto di documentazione, nel quale è possibile fare domande, ma anche proporre idee e miglioramenti al flusso di lavoro per la mappatura e analisi dei procedimenti amministrativi. Un luogo di interazione. Il link al Forum è anche riportato in alto nel menù di questo progetto.
