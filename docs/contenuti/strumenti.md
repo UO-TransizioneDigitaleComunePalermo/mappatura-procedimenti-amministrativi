@@ -47,6 +47,9 @@ I principali strumenti usati per realizzare la visualizzazione del [**catalogo**
 <img src="https://img.shields.io/badge/GitHub_Pages-for_code_hosting-blue"> [**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online (bisogna dotarsi di un account)
 
 
+=== "Credits"
+
+    Per la costruzione tecnica di questo progetto di documentazione online è stato importante il supporto fornito da [**`Andrea Borruso`**](https://twitter.com/aborruso) e [**`Giovan Battista Vitrano`**](https://twitter.com/gbvitrano) a cui va un grande grazie :fontawesome-regular-handshake:
 
 
 ## :fontawesome-brands-creative-commons: Contenuti rilasciati con licenza aperta 
