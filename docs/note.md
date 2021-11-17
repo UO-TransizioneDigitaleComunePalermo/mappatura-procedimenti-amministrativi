@@ -5,7 +5,7 @@ Questo file "note" contiene varie prove effettuate nei setting del codice.
 
 ## Inserire una barra di testo sopra l'header (block announce)
 
-Nel file override/main.html va aggiunta l'istruzione di cui a [https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/).
+Nel file override/main.html va aggiunta l'istruzione di cui a [https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar).
 
 Per testo di colore bianco contornato di altro colore, inserire il seguente codice: 
 
