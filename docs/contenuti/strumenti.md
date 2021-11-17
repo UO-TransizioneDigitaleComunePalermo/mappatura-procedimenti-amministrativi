@@ -5,7 +5,7 @@ hide:
 
 
 
-# Strumenti
+# Strumenti :octicons-code-16:
 ![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/sviluppo.png) In questa pagina vengono illustrati gli strumenti utilizzati per documentare e costruire questo progetto.
 
 
