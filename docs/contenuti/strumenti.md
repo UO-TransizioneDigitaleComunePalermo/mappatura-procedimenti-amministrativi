@@ -30,7 +30,7 @@ Gli strumenti utilizzati per arricchire l'esperienza dei contenuti di questo pro
 
 <img src="https://img.shields.io/badge/Disqus-for_comments-blue.svg?style=popout"> [**Disqus**](https://disqus.com/) per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. <!-- L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` -->
 
-<img src="https://img.shields.io/badge/PDF_generator-for_printing_documentation-blue"> [**Strumento di generazione dei contenuti del progetto in formato PDF**](https://cirospat.github.io/cirospataro/print_page/), indicato in ogni pagina con l'icona della stampante posizionato in alto a destra. Cliccando sull'icona  :material-printer-outline: è possibile generare una pagina html che contiene tutte le pagine del progetto di documentazione, eventualmente da stampare.
+<img src="https://img.shields.io/badge/PDF_generator-for_printing_documentation-blue"> [**Strumento di generazione dei contenuti del progetto in formato PDF**](https://cirospat.github.io/cirospataro/print_page/), indicato in ogni pagina con l'icona della stampante posizionato in alto a destra. Cliccando sull'icona  :material-printer-outline: è possibile generare una pagina html che contiene tutte le pagine del progetto di documentazione, eventualmente da stampare (tasto `Ctrl` + `p`).
 
 
 
