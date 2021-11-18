@@ -51,8 +51,8 @@ Viene effettuata un **analisi** dei procedimenti per verificare la modalità di 
 ## Report dell'analisi: diagnosi :material-google-analytics:
 A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi** che evidenzia 
 
-1. punti di forza 
-2. criticità da mitigare per ogni procedimento. 
+1. punti di forza :material-plus:
+2. criticità da mitigare per ogni procedimento :material-minus: . 
 
 Il report di diagnosi contiene anche le **proposte di rivisitazione** delle fasi di lavoro per la gestione del procedimento amministrativo. Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione di applicativi informatici per la gestione del procedimento amministrativo in modalità digitale.
 
