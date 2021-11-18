@@ -1,4 +1,4 @@
-# Mappatura di procedimento amministrativo attraverso i metadati
+# Mappatura di procedimento amministrativo attraverso i metadati :octicons-info-16:
 
 Per la mappatura di un procedimento amministrativo è necessario costruire una scheda di metadati associati al procedimento stesso. La metadatazione del procedimento serve per costruire l'architettura degli applicativi informatici che gestiranno in modalità interamente digitale il procedimento stesso. 
 
