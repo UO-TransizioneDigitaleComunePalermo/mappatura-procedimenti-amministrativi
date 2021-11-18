@@ -11,10 +11,10 @@ La reingegnerizzazione è un attività di rivisitazione/riprogettazione del flus
 
     :man_raising_hand: Definire le criticità:
     
-    - in che cosa consistono le criticità, 
-    - come si manifestano le criticità, 
-    - su quali fasi e attività del procedimento si concentrano le criticità, 
-    - quali effetti produconole criticità)
+    - in che cosa consistono, 
+    - come si manifestano, 
+    - su quali fasi e attività del procedimento si concentrano, 
+    - quali effetti producono.
     
 La riprogettazione del procedimento amministrativo deve essere condotta attraverso un’analisi, che, scomponendo il procedimento nelle sue singole attività, sia in grado di mettere in luce le criticità per individuare e attivare specifiche azioni correttive.
 
