@@ -30,7 +30,7 @@ Viene effettuata un **analisi** dei procedimenti per verificare la modalità di 
 - il miglioramento della qualità dei servizi pubblici erogati all'utenza e collegati ai procedimenti gestiti negli uffici.
 
 
-## Report dell'analisi: diagnosi
+## Report dell'analisi: diagnosi :material-google-analytics:
 A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi** che evidenzia 
 
 1. punti di forza 
@@ -39,7 +39,7 @@ A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi**
 Il report di diagnosi contiene anche le **proposte di rivisitazione** delle fasi di lavoro per la gestione del procedimento amministrativo. Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione di applicativi informatici per la gestione del procedimento amministrativo in modalità digitale.
 
 
-## Richieste di servizi più efficienti dalla collettività
+## Richieste di servizi più efficienti dalla collettività :fontawesome-regular-smile:
 Oggi cittadini, imprese, associazioni richiedono servizi pubblici sempre più efficienti ed in modalità digitale, senza essere ostaggio di inutili perdite di tempo. A questo fabbisogno della colletività deve seguire un "aggiornamento" delle fasi operative di lavoro per la gestione del procedimento. 
 
 Nella PA è difficile individuare e reingegnerizzare processi di lavoro, in quanto c'è la tendenza generalizzata a privilegiare la "conformità alle norme" anzichè privilegiare l’"efficacia" e l’"efficienza operativa". 
