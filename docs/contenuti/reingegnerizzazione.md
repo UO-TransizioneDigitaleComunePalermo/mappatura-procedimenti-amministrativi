@@ -1,9 +1,16 @@
 # Reingegnerizzazione dei procedimenti :material-engine-outline:
 La reingegnerizzazione è un attività di rivisitazione/riprogettazione del flusso di lavoro dei procedimenti amministrativi.
 
-La riprogettazione del procedimento amministrativo deve essere condotta attraverso un’analisi, che, scomponendo il procedimento nelle sue singole attività, sia in grado di mettere in luce le criticità (in che cosa consistono, come si manifestano, su quali fasi e attività del procedimento si concentrano, quali effetti producono), per individuare e attivare specifiche azioni correttive.
+La riprogettazione del procedimento amministrativo deve essere condotta attraverso un’analisi, che, scomponendo il procedimento nelle sue singole attività, sia in grado di mettere in luce le criticità
 
-La riprogettazione del procedimento deve migliorare l’efficienza del flusso di lavoro, efficienza intesa come rapporto tra risorse impiegate (umane, strumentali) e risultati ottenuti (qualità dei servizi pubblici erogati innanzitutto), con particolare attenzione all'utilizzo della risorsa “tempo”. Nei procedimenti amministrativi, l’efficacia va parametrata in relazione alle aspettative e ai bisogni dell'utenza, migliorare l’efficacia del processo significa migliorare la qualità del servizio reso (cioè rispondenza del servizio alle necessità dei fruitori). 
+- (in che cosa consistono le criticità, 
+- come si manifestano le criticità, 
+- su quali fasi e attività del procedimento si concentrano le criticità, 
+- quali effetti produconole criticità), 
+
+per individuare e attivare specifiche azioni correttive.
+
+La riprogettazione del procedimento deve migliorare l’efficienza del flusso di lavoro, efficienza intesa come rapporto tra **risorse impiegate** (umane, strumentali) e **risultati ottenuti** (qualità dei servizi pubblici erogati innanzitutto), con particolare attenzione all'utilizzo della risorsa **tempo**. Nei procedimenti amministrativi, l’efficacia va parametrata in relazione alle aspettative e ai bisogni dell'utenza, migliorare l’efficacia del processo significa migliorare la qualità del servizio reso (cioè rispondenza del servizio alle necessità dei fruitori). 
 
 ## Analisi per la reingegnerizzazione
 Viene effettuata un **analisi** dei procedimenti per verificare la modalità di gestione delle azioni condotte in un flusso lavorativo. L'analisi ha come obiettivo:
@@ -23,11 +30,6 @@ A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi**
 Oggi cittadini, imprese, associazioni richiedono servizi pubblici sempre più efficienti ed in modalità digitale, senza essere ostaggio di inutili perdite di tempo. A questo fabbisogno della colletività deve seguire un "aggiornamento" dell
 
 Nella PA è difficile individuare e reingegnerizzare processi di lavoro, in quanto c'è la tendenza generalizzata a privilegiare la "conformità alle norme" anzichè privilegiare l’"efficacia" e l’"efficienza operativa". Non viene dedicato il tempo e l'attenzione necessaria all’utenza finale, preferendo il rispetto di esigenze organizzative interne. Il principale errore delle pubbliche amministrazioni consiste nell'essere autoreferenziali e nel non orientare la propria azione amministrativa a servizio del cittadino. Ancora oggi molte PA programmano la gestione dei servizi facendo riferimento a Organigrammi/Uffici/Dirigenti e non alla soddisfazione dell'utente nella fruizione di un servizio pubblico.
-
-
-
-
-
 
 
 
