@@ -9,7 +9,7 @@ La reingegnerizzazione è un attività di rivisitazione/riprogettazione del flus
 
 !!! info inline end
 
-    :man_raising_hand: Definire le criticità:
+    :man_raising_hand: **Definire le criticità**:
     
     - in che cosa consistono, 
     - come si manifestano, 
