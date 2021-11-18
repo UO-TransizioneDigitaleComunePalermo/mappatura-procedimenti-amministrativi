@@ -5,7 +5,7 @@ hide:
 
 
 # Reingegnerizzazione dei procedimenti :material-engine-outline:
-La reingegnerizzazione è un attività di rivisitazione/riprogettazione del flusso di lavoro dei procedimenti amministrativi.
+La reingegnerizzazione è un attività di rivisitazione/riprogettazione del flusso di lavoro necessario alla gestione dei procedimenti amministrativi.
 
 !!! info inline end
 
