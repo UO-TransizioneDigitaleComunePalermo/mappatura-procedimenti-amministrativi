@@ -90,7 +90,7 @@ plugins:
 - search
 - mkdocstrings
 - autolinks
-- macros  
+# - macros  
 - print-site:
     add_to_navigation: false
     print_page_title: 'Documentazione in formato PDF'
