@@ -32,7 +32,7 @@ flowchart TD
     A([richiesta servizio pubblico]) --> B((percezione utente));
     B -->|negativa| C([analisi dei flussi procedimento per individuare criticità]);
     C -->|anche con feedback dell'utente dei servizi| D([riprogettazione flussi del procedimento]);
-    D --> B;
+    D -->|per verifica percezione utente| B;
     B ---->|positiva| E(["soddisfazione utente &#x263A;"]);
     style B fill:#f9f,stroke:#333,stroke-width:2px
 ```
