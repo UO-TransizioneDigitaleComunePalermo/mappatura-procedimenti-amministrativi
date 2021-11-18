@@ -22,7 +22,7 @@ i contenuti di tutte le schede tabellari in una cartella su Google Drive, e cost
 
 
 
-## Aggiornamento periodico delle schede ("versionamento")
+## Aggiornamento periodico delle schede ("versionamento") :octicons-versions-16:
 Un attività di fondamentale importanza è rappresentata dalla validazione delle schede nel tempo da parte dei responsabili dei procedimenti e dai dirigenti.
 
 I responsabili di procedimento e i dirigenti dovrebbero provvedere alla validazione dei contenuti delle schede dei procedimenti di competenza (dopo la prima versione), almeno con la seguente cadenza temporale:
