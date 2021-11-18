@@ -4,7 +4,7 @@ hide:
 ---
 
 
-# Chi siamo e perchè abbiamo documentato questo progetto
+# Chi siamo e perchè abbiamo documentato questo progetto :material-account-multiple-check-outline:
 
 ## Chi siamo
 [![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png)](https://www.comune.palermo.it/)
