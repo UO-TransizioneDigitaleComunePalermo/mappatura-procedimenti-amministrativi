@@ -7,14 +7,16 @@ hide:
 # Reingegnerizzazione dei procedimenti :material-engine-outline:
 La reingegnerizzazione è un attività di rivisitazione/riprogettazione del flusso di lavoro dei procedimenti amministrativi.
 
-La riprogettazione del procedimento amministrativo deve essere condotta attraverso un’analisi, che, scomponendo il procedimento nelle sue singole attività, sia in grado di mettere in luce le criticità
+!!! info inline end
 
-- (in che cosa consistono le criticità, 
-- come si manifestano le criticità, 
-- su quali fasi e attività del procedimento si concentrano le criticità, 
-- quali effetti produconole criticità), 
-
-per individuare e attivare specifiche azioni correttive.
+    :man_raising_hand: Definire le criticità:
+    
+    - in che cosa consistono le criticità, 
+    - come si manifestano le criticità, 
+    - su quali fasi e attività del procedimento si concentrano le criticità, 
+    - quali effetti produconole criticità)
+    
+La riprogettazione del procedimento amministrativo deve essere condotta attraverso un’analisi, che, scomponendo il procedimento nelle sue singole attività, sia in grado di mettere in luce le criticità per individuare e attivare specifiche azioni correttive.
 
 La riprogettazione del procedimento deve migliorare l’efficienza del flusso di lavoro, efficienza intesa come rapporto tra **risorse impiegate** (umane, strumentali) e **risultati ottenuti** (qualità dei servizi pubblici erogati innanzitutto), con particolare attenzione all'utilizzo della risorsa **tempo**. 
 
