@@ -5,13 +5,13 @@ hide:
 
 
 # Setting vari, prove e remind  :octicons-code-16:
-Questo file "note" contiene varie prove effettuate nei setting del codice.
+Questo file "note" contiene varie prove effettuate nei setting del codice e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 
 
-## Inserire una barra di testo sopra l'header (block announce) per annunci importanti
+## Inserire una barra di testo sopra l'header (`block announce`) per annunci importanti
 
-Nel file override/main.html va aggiunta l'istruzione di cui a [https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar):
+Nel file `override/main.html` va aggiunta l'istruzione di cui a [https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar):
 
 ``` html
 {% extends "base.html" %}
@@ -29,7 +29,7 @@ Per testo di colore bianco contornato di altro colore, inserire il seguente codi
 
 ---
 
-## Code annotation
+## `Code annotation`, annotazioni nel blocco codice
 Nel file `.md` inserire quanto descritto a: [https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
 
 Esempio:
@@ -44,7 +44,7 @@ theme:
 
 ---
 
-## Catalogo
+## (File "Catalogo")
 Ho tolto l'iframe dal file `contenuti/catalogo.md`
 ```
 <iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="83000"; width="100%"; frameborder="0"; > </iframe>
@@ -52,10 +52,10 @@ Ho tolto l'iframe dal file `contenuti/catalogo.md`
 
 ---
 
-## Flowchart
+## Inserire `Flowchart`
 Per inserire diagrammi di flusso fare riferimento a: [https://mermaid-js.github.io/mermaid/#/flowchart](https://mermaid-js.github.io/mermaid/#/flowchart)
 
 ---
 
-## Emoji
+## Inserire `Emoji`
 Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
