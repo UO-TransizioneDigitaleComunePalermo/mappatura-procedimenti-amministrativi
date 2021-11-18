@@ -29,7 +29,7 @@ Nei procedimenti amministrativi, l’efficacia va parametrata in relazione alle 
 
 ``` mermaid
 flowchart TD
-    A[richiesta servizio pubblico] --> B{percezione utente};
+    A[richiesta servizio pubblico dall'utente] --> B{percezione utente};
     B -->|negativa| C[modificare qualcosa nella gestione procedimento];
     C --> D[riprogettazione flussi del procedimento];
     D --> B;
