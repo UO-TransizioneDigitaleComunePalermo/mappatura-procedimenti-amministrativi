@@ -25,12 +25,12 @@ graph LR
 A([risorse impiegate]) -->|umane, strumentali| B([tempo]) -->|flussi di lavoro del procedimento| C([risultati ottenuti: qualità servizi all'utenza]) 
 ```
 
-Nei procedimenti amministrativi, l’efficacia va parametrata in relazione alle aspettative e ai bisogni dell'utenza, migliorare l’efficacia del processo significa migliorare la qualità del servizio reso (cioè rispondenza del servizio alle necessità dei fruitori). 
+Nei procedimenti amministrativi, l’efficacia va parametrata in relazione alle aspettative e ai bisogni dell'utenza, migliorare l’efficacia del processo significa migliorare la qualità del servizio reso (cioè rispondenza del servizio alle necessità dei fruitori). Nel caso diprocedimento attivato da istanza di parte (richiesta di servizio dall'utente) il seguente diagramma aiuta a capire come intervenire per aumentare le aspettative degli utenti: 
 
 ``` mermaid
 flowchart TD
     A[richiesta servizio pubblico dall'utente] --> B{percezione utente};
-    B -->|negativa| C[analisi gestione flussi del procedimento e individuazione criticità];
+    B -->|negativa| C[analisi gestione flussi del procedimento per individuare criticità];
     C --> D[riprogettazione flussi del procedimento];
     D --> B;
     B ---->|positiva| E["soddisfazione utente &#x263A;"];
