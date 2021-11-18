@@ -39,13 +39,13 @@ A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi**
 Il report di diagnosi contiene anche le **proposte di rivisitazione** delle fasi di lavoro per la gestione del procedimento amministrativo. Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione di applicativi informatici per la gestione del procedimento amministrativo in modalità digitale.
 
 
-## Richieste di servizi più efficienti dalla collettività :fontawesome-regular-smile:
+## Richieste di servizi più efficienti dalla collettività :fontawesome-solid-users:
 Oggi cittadini, imprese, associazioni richiedono servizi pubblici sempre più efficienti ed in modalità digitale, senza essere ostaggio di inutili perdite di tempo. A questo fabbisogno della colletività deve seguire un "aggiornamento" delle fasi operative di lavoro per la gestione del procedimento. 
 
 Nella PA è difficile individuare e reingegnerizzare processi di lavoro, in quanto c'è la tendenza generalizzata a privilegiare la "conformità alle norme" anzichè privilegiare l’"efficacia" e l’"efficienza operativa". 
 Non viene dedicato il tempo e l'attenzione necessaria all’utenza finale, preferendo il rispetto di esigenze organizzative interne. Il principale errore delle pubbliche amministrazioni consiste nell'essere autoreferenziali e nel non orientare la propria azione amministrativa a servizio del cittadino. Ancora oggi molte PA programmano la gestione dei servizi facendo riferimento a *Organigrammi/Uffici/Dirigenti* e non alla soddisfazione dell'utente nella fruizione di un servizio pubblico.
 
-Un aspetto di particolare rilievo assume la **qualità dell'esperienza utente** nell'utilizzo dell'applicativo informatico nelle fasi di:
+Un aspetto di particolare rilievo assume la **qualità dell'esperienza utente** :fontawesome-regular-keyboard: nell'utilizzo dell'applicativo informatico nelle fasi di:
 
 1. gestione delle funzioni operative dell'interfaccia grafica del personale delle pubbliche amministrazioni (`back end`)
 2. gestione delle funzioni operative dell'interfaccia grafica degli utenti che richiedono ed ottengono un servizio in modalità totalmente digitale online (`front end`).
