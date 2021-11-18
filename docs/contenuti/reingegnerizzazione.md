@@ -21,7 +21,7 @@ La riprogettazione del procedimento amministrativo deve essere condotta attraver
 La riprogettazione del procedimento deve migliorare l’efficienza del flusso di lavoro, efficienza intesa come rapporto tra **risorse impiegate** (umane, strumentali) e **risultati ottenuti** (qualità dei servizi pubblici erogati innanzitutto), con particolare attenzione all'utilizzo della risorsa **tempo**. 
 
 ``` mermaid
-graph TD
+graph LR
 A([risorse impiegate]) -->|.....| B([tempo]) -->|.......| C([risultati ottenuti]) 
 ```
 
