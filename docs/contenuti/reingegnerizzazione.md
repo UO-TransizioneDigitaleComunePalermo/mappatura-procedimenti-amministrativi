@@ -34,6 +34,7 @@ flowchart TD
     C --> D([riprogettazione flussi del procedimento]);
     D --> B;
     B ---->|positiva| E(["soddisfazione utente &#x263A;"]);
+    style A fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
 
