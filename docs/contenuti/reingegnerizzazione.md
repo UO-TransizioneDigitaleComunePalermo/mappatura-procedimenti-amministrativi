@@ -38,7 +38,7 @@ flowchart TD
 ```
 
 
-## Analisi per la reingegnerizzazione
+## Analisi per la reingegnerizzazione :material-check-underline:
 Viene effettuata un **analisi** dei procedimenti per verificare la modalità di gestione delle azioni condotte in un flusso lavorativo. L'analisi ha come obiettivo:
 
 - l'eliminazione delle azioni ritenute ridondanti o addirittura inutili e che causano di perdita di tempo, senza generare alcun vantaggio nè per il personale della PA nè per l'utenza dei servizi pubblici;
