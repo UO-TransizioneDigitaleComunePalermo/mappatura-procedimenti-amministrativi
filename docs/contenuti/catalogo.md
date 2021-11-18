@@ -126,7 +126,7 @@ Sul progetto da creare su GitHub si fa riferimento al link del foglio excel di G
     - [**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online del catalogo (bisogna dotarsi di un account)
 
 
-### Clonare il progetto esistente come modello da replicare per un nuovo catalogo
+### Clonare il progetto esistente come modello da replicare per un nuovo catalogo :octicons-repo-clone-16:
 :octicons-repo-clone-16: La realizzazione del progetto su GitHub è possibile clonando il [**progetto già realizzato**](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo), e dando un nuovo titolo nella sezione "**Repository Name**" ↓
 
 ![clona il repository GitHub](https://user-images.githubusercontent.com/42996217/141466142-53cf9edb-6b6b-4df3-8795-ac6da2da9b0f.png)
