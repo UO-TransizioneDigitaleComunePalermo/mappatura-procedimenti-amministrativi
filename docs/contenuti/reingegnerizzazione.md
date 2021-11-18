@@ -33,7 +33,7 @@ flowchart TD
     B -->|negativa| C[analisi gestione flussi del procedimento e individuazione criticità];
     C --> D[riprogettazione flussi del procedimento];
     D --> B;
-    B ---->|positiva| E["soddisfazione utente &#9787;"];
+    B ---->|positiva| E["soddisfazione utente &#x263A;"];
 ```
 
 
