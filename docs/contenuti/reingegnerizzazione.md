@@ -23,7 +23,12 @@ Viene effettuata un **analisi** dei procedimenti per verificare la modalità di 
 
 
 ## Report dell'analisi: diagnosi
-A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi** che evidenzia 1) punti di forza e 2) criticità da mitigare per ogni procedimento. Il report di diagnosi contiene anche le **proposte di rivisitazione** del processo di lavoro per la gestione del procedimento amministrativo. Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione di applicativi informatici per la gestione del procedimento amministrativo in modalità digitale.
+A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi** che evidenzia 
+
+1. punti di forza 
+2. criticità da mitigare per ogni procedimento. 
+
+Il report di diagnosi contiene anche le **proposte di rivisitazione** delle fasi di lavoro per la gestione del procedimento amministrativo. Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione di applicativi informatici per la gestione del procedimento amministrativo in modalità digitale.
 
 
 ## Richieste di servizi più efficienti dalla collettività
