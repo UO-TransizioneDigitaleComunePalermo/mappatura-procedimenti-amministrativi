@@ -45,11 +45,11 @@ Non viene dedicato il tempo e l'attenzione necessaria all’utenza finale, prefe
 
 Un aspetto di particolare rilievo assume la **qualità dell'esperienza utente** nell'utilizzo dell'applicativo informatico nelle fasi di:
 
-1. gestione delle funzioni operative dell'interfaccia grafica del personale delle pubbliche amministrazioni (back end)
-2. gestione delle funzioni operative dell'interfaccia grafica degli utenti che richiedono ed ottengono un servizio in modalità totalmente digitale online (front end).
+1. gestione delle funzioni operative dell'interfaccia grafica del personale delle pubbliche amministrazioni (`back end`)
+2. gestione delle funzioni operative dell'interfaccia grafica degli utenti che richiedono ed ottengono un servizio in modalità totalmente digitale online (`front end`).
 
-La **User Experience** UX (esperienza utente) è legata alla **User Interface** UI (interfaccia utente). Interfaccie semplici e intuitive dei software generano facilità d'uso e soddisfazione nella fase di utilizzo. Questo ha la medesima valenza per il personale della pubblica amministrazione che per il citatdino utente dei servizi. 
-I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi e per tale ragione il software gestionale deve permettere/assicurare a chiunque di fare le cose in maniera facile e agevole senza, creare incorrere in problemi di accessibilità o di interpretazioni delle funzioni operative.
+La **User Experience** UX (esperienza utente) è legata alla **User Interface** UI (interfaccia utente). Interfaccie semplici e intuitive dei software generano facilità d'uso e soddisfazione nella fase di utilizzo. Questo ha la medesima valenza per il personale della pubblica amministrazione che per il cittadino utente dei servizi. 
+I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi e per tale ragione il software gestionale deve permettere/assicurare a chiunque di fare le cose in maniera facile e agevole, senza incorrere in problemi di accessibilità o di interpretazioni delle funzioni operative.
 
 
 
