@@ -4,14 +4,22 @@ hide:
 ---
 
 
-# Setting vari - prove e remind  :octicons-code-16:
+# Setting vari, prove e remind  :octicons-code-16:
 Questo file "note" contiene varie prove effettuate nei setting del codice.
 
 
 
-## Inserire una barra di testo sopra l'header (block announce)
+## Inserire una barra di testo sopra l'header (block announce) per annunci importanti
 
-Nel file override/main.html va aggiunta l'istruzione di cui a [https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar).
+Nel file override/main.html va aggiunta l'istruzione di cui a [https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar):
+
+``` html
+{% extends "base.html" %}
+
+{% block announce %}
+  <!-- Add announcement here, including arbitrary HTML -->
+{% endblock %}
+```
 
 Per testo di colore bianco contornato di altro colore, inserire il seguente codice: 
 
