@@ -55,6 +55,8 @@ A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi**
 
 Il report di diagnosi contiene anche le **proposte di rivisitazione** delle fasi di lavoro per la gestione del procedimento amministrativo. Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione di applicativi informatici per la gestione del procedimento amministrativo in modalità digitale.
 
+Un applicativo gestionale deve poter offrire la possibilità alla pubblica amministrazione di modificare (aggiugere e togliere funzioni) i flussi di lavoro del procedimento amministrativo, senza ricorrere ogni volta all'intervento della software house per gli sviluppi.
+
 
 ## Richieste di servizi più efficienti dalla collettività :fontawesome-solid-users:
 Oggi cittadini, imprese, associazioni richiedono servizi pubblici sempre più efficienti ed in modalità digitale, senza essere ostaggio di inutili perdite di tempo. A questo fabbisogno della colletività deve seguire un "aggiornamento" delle fasi operative di lavoro per la gestione del procedimento. 
