@@ -27,6 +27,16 @@ A([risorse impiegate]) -->|umane, strumentali| B([tempo]) -->|flussi di lavoro d
 
 Nei procedimenti amministrativi, l’efficacia va parametrata in relazione alle aspettative e ai bisogni dell'utenza, migliorare l’efficacia del processo significa migliorare la qualità del servizio reso (cioè rispondenza del servizio alle necessità dei fruitori). 
 
+``` mermaid
+flowchart TD
+    A[richiesta servizio pubblico] --> B{percezione utente};
+    B -->|negativa| C[modificare qualcosa nella gestione procedimento];
+    C --> D[riprogettazione flussi del procedimento];
+    D --> B;
+    B ---->|positiva| E[soddisfazione utente];
+```
+
+
 ## Analisi per la reingegnerizzazione
 Viene effettuata un **analisi** dei procedimenti per verificare la modalità di gestione delle azioni condotte in un flusso lavorativo. L'analisi ha come obiettivo:
 
