@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Linkografia essenziale per la digitalizzazione di procedimenti e servizi :link:
+# Documenti essenziali per la digitalizzazione di procedimenti e servizi :link:
 
 :link: Di seguito si riportano i link ai principali **documenti** e **Linee Guida**, redatte dall'[Agenzia per l'Italia Digitale](https://www.agid.gov.it/) e dal [Ministero per l'Innovazione Tecnologica e la digitalizzazione](https://innovazione.gov.it/), per la digitalizzazione dei procedimenti amministrativi e dei relativi servizi all'utenza.
 
