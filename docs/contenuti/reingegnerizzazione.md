@@ -96,5 +96,4 @@ Al fine di rendere le interfaccie grafiche quanto più semplici possibili per la
     Per la redazione di questa pagina si è fatto riferimento anche alle seguenti fonti: 
     
     - Comune di Pisa [https://www.comune.pisa.it/sites/default/files/2018_05_17_17_36_10.pdf](https://www.comune.pisa.it/sites/default/files/2018_05_17_17_36_10.pdf)
-    - ....
     
