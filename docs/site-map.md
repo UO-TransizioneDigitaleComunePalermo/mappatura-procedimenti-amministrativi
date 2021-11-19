@@ -5,6 +5,9 @@ hide:
   - toc
 ---
 
+<style> 
+.center {display: flex; justify-content: center; align-items: center; height: auto; }
+</style>
 
 # Mappa del sito -
 
@@ -35,8 +38,7 @@ Home
 ---
 
 ## Grafico mappa sito
-
-
+<div class="center"> 
 ``` mermaid
 graph TB
 A(Home)
@@ -49,13 +51,13 @@ A ---- G(Linkografia);
 A ---- H(Redazione);
 A ---- I(Strumenti e Licenza);
 A ---- L(Forum);
-B ---- B1(I procedimenti amministrativi visti dal CAD);
-C ---- C1(Percorsi di digitalizzazione in ambito comuale);
-C1 ---- C2(Analisi dei procedimenti nel Piano Performance);
-D ---- D1(I metadati nella mappatura dei procedimenti);
+B ---- B1(Procedimenti amministrativi visti dal CAD);
+C ---- C1(Digitalizzazione in ambito comuale);
+C1 ---- C2(Analisi procedimenti nel Piano Performance);
+D ---- D1(Metadati nella mappatura dei procedimenti);
 D1 --- D2(Metadati minimi di determinazioni e deliberazioni);
 D2 ---- D3(Schema metadati per mappatura dei procedimenti);
-D3 ---- D4(Un esperienza di mappatura con metadati);
+D3 ---- D4(Esperienza di mappatura con metadati);
 click A "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" _self
 click B "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" _self
 click B1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" _self
@@ -74,6 +76,7 @@ click H "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedi
 click I "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/strumenti/" _self
 click L "https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions" _self
 ```
+</div>
 
 ---
 
