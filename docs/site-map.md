@@ -35,8 +35,7 @@ Home
 
 ``` mermaid
 graph TB
-A(Home) 
-A -..- B(Focus giuridico);
+A(Home) -..- B(Focus giuridico);
 B -..- B1(I procedimenti amministrativi visti dal CAD);
 A -..- C(Mappatura);
 C -..- C1(Percorsi di digitalizzazione in ambito comuale);
