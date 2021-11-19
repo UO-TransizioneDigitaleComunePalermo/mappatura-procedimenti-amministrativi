@@ -7,7 +7,7 @@ Home
 |  └─ I procedimenti amministrativi visti dal "CAD"
 ├─ Mappatura/
 |  ├─ Percorsi di digitalizzazione in ambito comuale
-│  └─ L'analisi dei procedimenti nel Piano della Performance
+|  └─ L'analisi dei procedimenti nel Piano della Performance
 ├─ Metadati/
 |  ├─ I metadati nella mappatura dei procedimenti
 |  ├─ Metadati minimi di determinazioni e deliberazioni
