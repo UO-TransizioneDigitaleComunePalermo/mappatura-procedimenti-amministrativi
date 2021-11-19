@@ -39,23 +39,22 @@ Home
 
 ``` mermaid
 graph TB
-A(Home)
-A --- B(Focus giuridico);
-B --- B1(I procedimenti amministrativi visti dal CAD);
-A --- C(Mappatura);
-C --- C1(Percorsi di digitalizzazione in ambito comuale);
-C1 --- C2(Analisi dei procedimenti nel Piano Performance);
-A --- D(Metadati);
-D --- D1(I metadati nella mappatura dei procedimenti);
-D1 --- D2(Metadati minimi di determinazioni e deliberazioni);
-D2 --- D3(Schema metadati per mappatura dei procedimenti);
-D3 --- D4(Un esperienza di mappatura con metadati);
-A --- E(Fasi operative);
-A --- F(Catalogo);
-A --- G(Linkografia);
-A --- H(Redazione);
-A --- I(Strumenti e Licenza);
-A --- L(Forum);
+A(Home)---B(Focus giuridico);
+B---B1(I procedimenti amministrativi visti dal CAD);
+A---C(Mappatura);
+C---C1(Percorsi di digitalizzazione in ambito comuale);
+C1---C2(Analisi dei procedimenti nel Piano Performance);
+A---D(Metadati);
+D---D1(I metadati nella mappatura dei procedimenti);
+D1---D2(Metadati minimi di determinazioni e deliberazioni);
+D2---D3(Schema metadati per mappatura dei procedimenti);
+D3---D4(Un esperienza di mappatura con metadati);
+A---E(Fasi operative);
+A---F(Catalogo);
+A---G(Linkografia);
+A---H(Redazione);
+A---I(Strumenti e Licenza);
+A---L(Forum);
 click A "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" _self
 click B "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" _self
 click B1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" _self
