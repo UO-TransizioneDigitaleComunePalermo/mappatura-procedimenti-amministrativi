@@ -31,11 +31,14 @@ Home
 └─ Privacy-cookies
 ```
 
+
 ---
 
+
 ``` mermaid
-graph TD
-A(Home) --- B(Focus giuridico);
+graph TB
+A(Home)
+A --- B(Focus giuridico);
 B --- B1(I procedimenti amministrativi visti dal CAD);
 A --- C(Mappatura);
 C --- C1(Percorsi di digitalizzazione in ambito comuale);
@@ -60,7 +63,7 @@ click C2 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-proced
 click D "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati/" _self
 click D1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati/" _self
 click D2 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati-determinazione-deliberazione/" _self
-click D2 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/schema-metadati/" _self
+click D3 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/schema-metadati/" _self
 click D4 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/esperienza-metadatazione/" _self
 click E "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/fasi-operative/" _self
 click F "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/" _self
