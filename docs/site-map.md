@@ -17,15 +17,15 @@ hide:
 Home
 ├─ Focus giuridico/ 
 |  ├─ Focus giuridico
-|  └─ I procedimenti amministrativi visti dal "CAD"
+|  └─ I procedimenti visti dal "CAD"
 ├─ Mappatura/
 |  ├─ Percorsi di digitalizzazione in ambito comuale
 |  └─ L'analisi dei procedimenti nel Piano della Performance
 ├─ Metadati/
 |  ├─ I metadati nella mappatura dei procedimenti
-|  ├─ Metadati minimi di determinazioni e deliberazioni
-|  ├─ Uno schema di metadati usato nella mappatura dei procedimenti
-|  └─ Un esperienza di mappatura con metadati   
+|  ├─ Metadati di determinazioni e deliberazioni
+|  ├─ Schema di metadati per mappatura dei procedimenti
+|  └─ Esperienza di mappatura con metadati   
 ├─ Fasi operative
 ├─ Catalogo
 ├─ Linkografia
@@ -52,12 +52,12 @@ A ---- G(Linkografia);
 A ---- H(Redazione);
 A ---- I(Strumenti e Licenza);
 A ---- L(Forum);
-B ---- B1(Procedimenti amministrativi visti dal CAD);
+B ---- B1(Procedimenti visti dal CAD);
 C ---- C1(Digitalizzazione in ambito comuale);
 C1 ---- C2(Analisi procedimenti nel Piano Performance);
 D ---- D1(Metadati nella mappatura dei procedimenti);
-D1 --- D2(Metadati minimi di determinazioni e deliberazioni);
-D2 ---- D3(Schema metadati per mappatura dei procedimenti);
+D1 --- D2(Metadati di determinazioni e deliberazioni);
+D2 ---- D3(Schema metadati per mappatura procedimenti);
 D3 ---- D4(Esperienza di mappatura con metadati);
 click A "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" _blank
 click B "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" _blank
@@ -76,7 +76,7 @@ click G "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedi
 click H "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/redazione/" _blank
 click I "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/strumenti/" _blank
 click L "https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions" _blank
-style A stroke:#8403fc,stroke-width:4px  
+style A stroke:#8403fc,stroke-width:5px  
 ```
 </div>
 
