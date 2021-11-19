@@ -1,3 +1,11 @@
+---
+disqus: ""
+hide:
+  - navigation
+  - toc
+---
+
+
 # Mappa del sito
 
 ``` 
@@ -26,7 +34,7 @@ Home
 ---
 
 ``` mermaid
-graph TD
+graph TB
 A(Home) 
 A -..- B(Focus giuridico) -..- B1(I procedimenti amministrativi visti dal CAD);
 A -..- C(Mappatura) -..- C1(Percorsi di digitalizzazione in ambito comuale) -..- C2(Analisi dei procedimenti nel Piano Performance);
@@ -35,7 +43,7 @@ A -..- E(Fasi operative);
 A -..- F(Catalogo);
 A -..- G(Linkografia);
 A -..- H(Redazione);
-A -..- I(Strumenti - Licenza);
+A -..- I(Strumenti e Licenza);
 A -..- L(Forum);
 click A "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" _self
 click B "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" _self
