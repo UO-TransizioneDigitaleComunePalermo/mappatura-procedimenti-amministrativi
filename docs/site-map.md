@@ -26,8 +26,8 @@ Home
 ---
 
 ``` mermaid
-graph TB
-A(fa:fa-home Home) 
+graph TD
+A(Home) 
 A -..- B(Focus giuridico) -..- B1(I procedimenti amministrativi visti dal CAD);
 A -..- C(Mappatura) -..- C1(Percorsi di digitalizzazione in ambito comuale) -..- C2(Analisi dei procedimenti nel Piano Performance);
 A -..- D(Metadati) -..- D1(I metadati nella mappatura dei procedimenti) -..- D2(Metadati minimi di determinazioni e deliberazioni) -..- D3(Schema metadati per mappatura dei procedimenti) -..- D4(Un esperienza di mappatura con metadati);
