@@ -76,11 +76,17 @@ click G "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedi
 click H "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/redazione/" _blank
 click I "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/strumenti/" _blank
 click L "https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions" _blank
-style A stroke:#8403fc,stroke-width:3px  
+style A stroke:#8403fc,stroke-width:4px  
 ```
 </div>
 
 ---
+
+<!--
+mappa sito (da mettere nel footer)
+<a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/site-map/" target="_blank" rel="noopener" title="Mappa sito"><span style="background-color: #34b382; color: #ffffff; padding: 0px 3px; border-radius: 3px;">Mappa sito</span></a>
+-->
+
 
 <!-- riferimenti
 https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/sitemap/
