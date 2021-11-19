@@ -23,18 +23,43 @@ Home
 └─ Privacy-cookies
 ```
 
-
-
-https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/sitemap/
+---
 
 ``` mermaid
 graph TB
-A(fa:fa-home Home page&nbsp;&nbsp;&nbsp;&nbsp;) 
-A -..- B(Focus giuridico) -..- ;
-A -..- C(fa:fa-map Mappe&nbsp;&nbsp;&nbsp;&nbsp;);
-A -..- D(fa:fa-database Dati vaccinali&nbsp;&nbsp;&nbsp;&nbsp;);
-A -..- E(InformaCOVID);
-A -..- F(fa:fa-users About&nbsp;&nbsp;&nbsp;&nbsp;);
+A(fa:fa-home Home) 
+A -..- B(Focus giuridico) -..- B1(I procedimenti amministrativi visti dal CAD);
+A -..- C(Mappatura) -..- C1(Percorsi di digitalizzazione in ambito comuale) -..- C2(Analisi dei procedimenti nel Piano Performance);
+A -..- D(Metadati) -..- D1(I metadati nella mappatura dei procedimenti) -..- D2(Metadati minimi di determinazioni e deliberazioni) -..- D3(Schema metadati per mappatura dei procedimenti) -..- D4(Un esperienza di mappatura con metadati);
+A -..- E(Fasi operative);
+A -..- F(Catalogo);
+A -..- G(Linkografia)
+A -..- H(Redazione)
+A -..- I(Strumenti - Licenza)
+A -..- L(Forum)
+click A "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" _self
+click B "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" _self
+click B1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" _self
+click C ""https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/digitalizzazione-ambito-comunale/" _self
+click C1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/digitalizzazione-ambito-comunale/" _self
+click C2 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/esperienza-analisi/" _self
+click D "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati/" _self
+click D1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati/" _self
+click D2 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati-determinazione-deliberazione/" _self
+click D2 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/schema-metadati/" _self
+click D4 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/esperienza-metadatazione/" _self
+click E "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/fasi-operative/" _self
+click F "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/" _self
+click G "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/" _self
+click H "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/redazione/" _self
+click I "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/strumenti/" _self
+click L "https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions" _self
+
+---
+
+https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/sitemap/
+
+<!--
 B -..- L(onData);
 L -..- M(OpenDataSicilia);
 M -..- N(fa:fa-github Repo Github);
@@ -64,10 +89,4 @@ style E fill:#ff99009e,stroke:#000000DE,stroke-width:1px
 style F fill:#ff99009e,stroke:#000000DE,stroke-width:1px
 style G fill:#ff99006b,stroke:#000000DE,stroke-width:1px
 style H fill:#ff99006b,stroke:#000000DE,stroke-width:1px
-style I fill:#ff99006b,stroke:#000000DE,stroke-width:1px
-style L fill:#ff99006b,stroke:#000000DE,stroke-width:1px
-style M fill:#ff99006b,stroke:#000000DE,stroke-width:1px
-style N fill:#ff99006b,stroke:#000000DE,stroke-width:1px
-style O fill:#ff99006b,stroke:#000000DE,stroke-width:1px
-style P fill:#ff99006b,stroke:#000000DE,stroke-width:1px
-```
+-->
