@@ -33,10 +33,10 @@ A -..- C(Mappatura) -..- C1(Percorsi di digitalizzazione in ambito comuale) -..-
 A -..- D(Metadati) -..- D1(I metadati nella mappatura dei procedimenti) -..- D2(Metadati minimi di determinazioni e deliberazioni) -..- D3(Schema metadati per mappatura dei procedimenti) -..- D4(Un esperienza di mappatura con metadati);
 A -..- E(Fasi operative);
 A -..- F(Catalogo);
-A -..- G(Linkografia)
-A -..- H(Redazione)
-A -..- I(Strumenti - Licenza)
-A -..- L(Forum)
+A -..- G(Linkografia);
+A -..- H(Redazione);
+A -..- I(Strumenti - Licenza);
+A -..- L(Forum);
 click A "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" _self
 click B "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" _self
 click B1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" _self
