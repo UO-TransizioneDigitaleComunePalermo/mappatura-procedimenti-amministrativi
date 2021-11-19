@@ -55,6 +55,8 @@ Ho tolto l'iframe dal file `contenuti/catalogo.md`
 ## Inserire `Flowchart`
 Per inserire diagrammi di flusso fare riferimento a: [https://mermaid-js.github.io/mermaid/#/flowchart](https://mermaid-js.github.io/mermaid/#/flowchart)
 
+[mermaid editor online](https://mermaid-js.github.io/mermaid-live-editor)
+
 ---
 
 ## Inserire `Emoji`
