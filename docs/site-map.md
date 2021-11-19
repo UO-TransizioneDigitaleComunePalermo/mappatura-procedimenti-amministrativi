@@ -9,7 +9,9 @@ hide:
 .center {display: flex; justify-content: center; align-items: center; height: auto; }
 </style>
 
-# Mappa del sito -
+# Mappa del sito
+
+## Ad albero
 
 ``` 
 Home
@@ -34,10 +36,9 @@ Home
 └─ Privacy-cookies
 ```
 
-
 ---
 
-## Grafico mappa sito
+## A grafo
 <div class="center"> 
 ``` mermaid
 graph TB
@@ -80,8 +81,9 @@ click L "https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-proced
 
 ---
 
+<!-- riferimenti
 https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/sitemap/
-
++
 https://github.com/opendatasicilia/OpenDataSicilia-per-il-Coronavirus/blob/main/docs/sitemap.md?plain=1
-
+-->
 
