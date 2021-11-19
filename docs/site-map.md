@@ -54,6 +54,7 @@ click G "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedi
 click H "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/redazione/" _self
 click I "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/strumenti/" _self
 click L "https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions" _self
+```
 
 ---
 
