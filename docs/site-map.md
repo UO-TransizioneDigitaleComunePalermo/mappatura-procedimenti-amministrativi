@@ -36,9 +36,16 @@ Home
 ``` mermaid
 graph TB
 A(Home) 
-A -..- B(Focus giuridico) -..- B1(I procedimenti amministrativi visti dal CAD);
-A -..- C(Mappatura) -..- C1(Percorsi di digitalizzazione in ambito comuale) -..- C2(Analisi dei procedimenti nel Piano Performance);
-A -..- D(Metadati) -..- D1(I metadati nella mappatura dei procedimenti) -..- D2(Metadati minimi di determinazioni e deliberazioni) -..- D3(Schema metadati per mappatura dei procedimenti) -..- D4(Un esperienza di mappatura con metadati);
+A -..- B(Focus giuridico);
+B -..- B1(I procedimenti amministrativi visti dal CAD);
+A -..- C(Mappatura);
+C -..- C1(Percorsi di digitalizzazione in ambito comuale);
+C1 -..- C2(Analisi dei procedimenti nel Piano Performance);
+A -..- D(Metadati);
+D -..- D1(I metadati nella mappatura dei procedimenti);
+D1 -..- D2(Metadati minimi di determinazioni e deliberazioni);
+D2 -..- D3(Schema metadati per mappatura dei procedimenti);
+D3 -..- D4(Un esperienza di mappatura con metadati);
 A -..- E(Fasi operative);
 A -..- F(Catalogo);
 A -..- G(Linkografia);
