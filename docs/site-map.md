@@ -6,7 +6,7 @@ hide:
 ---
 
 
-# Mappa del sito
+# Mappa del sito -
 
 ``` 
 Home
@@ -33,6 +33,8 @@ Home
 
 
 ---
+
+## Grafico mappa sito
 
 
 ``` mermaid
