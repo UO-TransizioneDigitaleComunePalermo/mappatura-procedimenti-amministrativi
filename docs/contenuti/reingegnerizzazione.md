@@ -39,7 +39,7 @@ flowchart TD
 
 Nel caso di percezione dell'utente "negativa" del servizio reso, il personale impegnato nella gestione del procedimento deve effettuare un analisi degli aspetti che caratterizzano le criticità, ed in questo può essere utile fare infadigini online di "customer satisfaction" con le quali, attraverso domande specifiche, intercettare gli aspetti che debbono essere migliorati al fine di assicurare all'utenza un servizio più vicino alle aspettative (ad esempio, aspetti su: accessibilità, interfaccia grafica, fasi operative da seguire sulla piattaforma informatica, modalità di pagamenti, modalità di comunicazione e di avvisi, ecc.).
 
-=== "Esempio di domande da somministrare in un indagine di "customer satisfaction" mirata ad individuare gap della piattaforma per la richiesta|fruzione del servizio pubblico"
+!!! Note "Esempio di domande da somministrare in un indagine di "customer satisfaction" mirata ad individuare gap della piattaforma per la richiesta|fruzione del servizio pubblico"
 
     1. Quali servizi ti interessano maggiormente? 
         - edilizia privata   
