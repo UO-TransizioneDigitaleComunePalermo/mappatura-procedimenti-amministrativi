@@ -133,7 +133,7 @@ Viene effettuata un **analisi** dei procedimenti per verificare la modalità di 
 - la riduzione dei tempi di processamento delle singole attività lavorative;
 - il miglioramento dell'efficienza nella gestione delle fasi di lavoro dei procedimenti;
 - il miglioramento della qualità dell'esperienza di lavoro quotidiano del dipendente pubblico;
-- il miglioramento della qualità dei servizi pubblici erogati all'utenza e collegati ai procedimenti gestiti negli uffici.
+- il miglioramento della qualità dei servizi pubblici erogati all'utenza e collegati ai procedimenti gestiti negli uffici e misurati con il livello di qualità percepita.
 
 
 ## Report dell'analisi: diagnosi :material-google-analytics:
@@ -160,6 +160,22 @@ Per invertire la vecchia tendenza, un aspetto su cui focalizzare l'attenzione è
 
 :material-monitor-dashboard: :fontawesome-regular-keyboard: La **User Experience** UX (esperienza utente) è strettamente legata alla **User Interface** UI (interfaccia utente). Interfaccie semplici e intuitive dei software generano facilità d'uso e soddisfazione nella fase di utilizzo. Questo ha la medesima valenza per il personale della pubblica amministrazione e per il cittadino utente dei servizi. 
 I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi e per tale ragione il software gestionale deve permettere/assicurare a chiunque di fare le cose in maniera facile e agevole, senza incorrere in problemi di accessibilità o di interpretazioni delle funzioni operative (interfaccie grafiche).
+
+
+## Funzioni minime di un applicativo per gestire procedimenti legati a servizi pubblici
+
+- interfaccia che adotta il "Material design" e conforme alle Linee guida AGID
+- accesso dell'utente (cittadino, impresa,..) esclusivamente con identità digitale SPID|CIE|CNS
+- accesso del dipendente della PA con credenziali nel breve periodo e con identità digitale SPID|CIE|CNS a regime nel medio lungo termine
+- funzioni operative che danno la possibilità all'utente di visualizzare in qualsiasi momento lo stato di avanzamento dell'istruttoria relativa al rilascio del servizio richiesto
+- funzioni operative che danno la possibilità all'utente di inviare comunicazioni al personale della PA per chiarimenti o integrazioni documentali, con generazione automatica di email all'utente (avviso)
+- funzioni operative che danno la possibilità al personale della PA di inviare comunicazioni all'utente per chiarimenti o integrazioni documentali, con generazione automatica di avviso sull'applicativo per il personale della PA
+- funzioni operative che danno la possibilità di generare automaticamente email all'utente (avviso) quando l'istruttoria del servizio richiesto (lato back end) è conclusa ed è stato generato il documento informatico da fornire all'utente all'interno dell'applicativo stesso
+- agganciamento, tramite API, all'app di Stato denominata IO, in maniera tale da erogare il servizio anche attraverso tale app
+- pagamento di quanto dovuto alla PA per la fruizione del servizio pubblico, tramite PagoPA, e riconciliazione automatica del pagamento nel database correlato all'aplicativo utilizzato
+- interoperabilità applicativa, tramite API, con altre piattaforme di servizi pubblici o altre banche dati pubbliche, al fine di completare il ciclo di vita del procedimento nel più breve tempo possibile e senza chiedere all'utente documentazione e dati già in possesso della stessa o di altre PA
+- ....
+
 
 ## Linee guida di design per i servizi digitali della PA :material-devices: 
 Al fine di rendere le interfaccie grafiche quanto più semplici possibili per la consultazione da parte degli utenti sono state pubblicate da AGID le [**Linee guida di design per i servizi digitali della PA**](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html) che rappresentano uno strumento di lavoro per la Pubblica Amministrazione (e loro fornitori), *e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al service design (progettazione dei servizi), al content design (progettazione dei contenuti), alla user research (ricerca con gli utenti), e alla user interface (interfaccia utente)*.
