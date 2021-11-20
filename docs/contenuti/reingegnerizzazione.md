@@ -29,7 +29,7 @@ Nei procedimenti amministrativi, l’efficacia va valutata in relazione alle asp
 
 ``` mermaid
 flowchart TD
-    A([richiesta servizio pubblico]) --> B((percezione utente));
+    A([richiesta servizio pubblico dall'utente]) --> B((percezione utente));
     B -->|negativa| C([analisi dei flussi procedimento per individuare criticità]);
     C -->|anche con feedback dell'utente dei servizi| D([riprogettazione flussi del procedimento]);
     D --> B;
