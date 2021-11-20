@@ -27,6 +27,7 @@ Home
 |  ├─ Schema di metadati per mappatura dei procedimenti
 |  └─ Esperienza di mappatura con metadati   
 ├─ Fasi operative
+├─ Reingegnerizzazione
 ├─ Catalogo
 ├─ Linkografia
 ├─ Redazione
@@ -47,6 +48,7 @@ A ---- B(Focus giuridico);
 A ---- C(Mappatura);
 A ---- D(Metadati);
 A ---- E(Fasi operative);
+A ---- M(Reingegnerizzazione)
 A ---- F(Catalogo);
 A ---- G(Linkografia);
 A ---- H(Redazione);
