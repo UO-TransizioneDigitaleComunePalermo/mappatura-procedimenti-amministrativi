@@ -145,23 +145,23 @@ Viene effettuata un **analisi** dei procedimenti per verificare la modalità di 
 A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi** che evidenzia: 
 
 1. punti di forza :material-plus:
-2. criticità da mitigare per ogni procedimento :material-minus: . 
+2. criticità da mitigare per ogni procedimento :material-minus:  
 
-Il report di diagnosi contiene anche le **proposte di rivisitazione** delle fasi di lavoro per la gestione del procedimento amministrativo. Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione di applicativi informatici per la gestione del procedimento amministrativo in modalità digitale.
+Il report di diagnosi contiene anche le **proposte di rivisitazione** delle fasi di lavoro per la gestione del procedimento amministrativo in una nuova modalità. Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione futura di applicativi informatici per la gestione del procedimento amministrativo in modalità digitale.
 
-Un applicativo gestionale deve poter offrire la possibilità alla pubblica amministrazione di modificare (aggiugere e togliere funzioni, moduli e metadati) i flussi di lavoro del procedimento amministrativo, senza ricorrere ogni volta all'intervento della software house per gli sviluppi. Un sistema informatico che, quindi, sia modulare e adattabile alle esigenze di gestione del procedimento. Questo "requisito" dovrebbe essere rappresentato nelle caratteristiche richieste dalle pubbliche amministrazioni nei capitolati tecnici per la fornitura di software gestionale dei procedimenti.
+Un applicativo gestionale deve poter offrire la possibilità alla pubblica amministrazione di modificare i flussi di lavoro del procedimento amministrativo, senza ricorrere ogni volta all'intervento della software house per gli sviluppi. Per esempio aggiugere e togliere: funzioni, moduli e metadati. Un sistema informatico che sia modulare e adattabile alle esigenze di trattamento ed evoluzione gestionale del procedimento, senza fare ogni volta risorso alla software house per le implementazioni. Questo "requisito" dovrebbe essere rappresentato nelle caratteristiche richieste dalle pubbliche amministrazioni nei capitolati tecnici per la fornitura di software gestionale dei procedimenti.
 
 
 ## Richieste di servizi più efficienti dalla collettività :fontawesome-solid-users:
-Oggi cittadini, imprese, associazioni richiedono servizi pubblici sempre più efficienti ed in modalità digitale, senza essere ostaggio di inutili perdite di tempo. A questo fabbisogno della colletività deve seguire un "aggiornamento" delle fasi operative di lavoro per la gestione del procedimento. 
+Oggi cittadini, imprese e associazioni richiedono servizi pubblici sempre più efficienti ed in modalità digitale, senza essere ostaggio di inutili perdite di tempo. A questo fabbisogno della colletività deve seguire un "aggiornamento" del prezioso sistema dei metadati e delle fasi operative di lavoro per la gestione del procedimento. 
 
 Nella PA è difficile individuare e reingegnerizzare processi di lavoro, in quanto c'è la tendenza culturale generalizzata a privilegiare la "conformità alle norme" anzichè privilegiare l’"efficacia" e l’"efficienza operativa". 
-Non viene dedicato il tempo e l'attenzione necessaria all’utenza finale, preferendo il rispetto di esigenze organizzative interne. Il principale errore delle pubbliche amministrazioni consiste nell'essere autoreferenziali e nel non orientare la propria azione amministrativa a servizio del cittadino. Ancora oggi molte PA programmano la gestione dei servizi facendo riferimento a *Organigrammi/Uffici/Dirigenti* e non alla soddisfazione dell'utente nella fruizione di un servizio pubblico.
+Non viene dedicato il tempo e l'attenzione necessaria all’utente, preferendo il rispetto di esigenze organizzative interne. Il principale errore delle pubbliche amministrazioni consiste nell'essere autoreferenziali e nel non orientare la propria azione amministrativa a servizio del cittadino. Ancora oggi molte PA programmano la gestione dei servizi facendo riferimento a *Organigrammi/Uffici/Dirigenti* e non alla soddisfazione dell'utente nella fruizione di un servizio pubblico.
 
-Per invertire la vecchia tendenza, un aspetto su cui focalizzare l'attenzione è la **qualità dell'esperienza utente** nell'utilizzo dell'applicativo informatico nelle fasi di:
+Per invertire questa vecchia tendenza, un aspetto su cui focalizzare l'attenzione è la **qualità dell'esperienza utente** nella fruizione dei servizi pubblici online, e di conseguena all'utilizzo dell'applicativo informatico nelle fasi di:
 
-1. gestione delle funzioni operative dell'interfaccia grafica del personale delle pubbliche amministrazioni (`back end`)
-2. gestione delle funzioni operative dell'interfaccia grafica degli utenti che richiedono ed ottengono un servizio in modalità totalmente digitale online (`front end`).
+1. gestione delle funzioni operative dell'interfaccia grafica da parte del personale delle pubbliche amministrazioni (`back end`)
+2. gestione delle funzioni operative dell'interfaccia grafica da parte degli utenti che richiedono ed ottengono un servizio in modalità totalmente digitale online (`front end`).
 
 
 ## Esperienza utente (UX) e interfaccia utente (UI) :face_with_raised_eyebrow: :material-monitor-dashboard: 
