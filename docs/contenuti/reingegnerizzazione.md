@@ -158,14 +158,22 @@ Per invertire la vecchia tendenza, un aspetto su cui focalizzare l'attenzione è
 1. gestione delle funzioni operative dell'interfaccia grafica del personale delle pubbliche amministrazioni (`back end`)
 2. gestione delle funzioni operative dell'interfaccia grafica degli utenti che richiedono ed ottengono un servizio in modalità totalmente digitale online (`front end`).
 
-:material-monitor-dashboard: :fontawesome-regular-keyboard: La **User Experience** UX (esperienza utente) è strettamente legata alla **User Interface** UI (interfaccia utente). Interfaccie semplici e intuitive dei software generano facilità d'uso e soddisfazione nella fase di utilizzo. Questo ha la medesima valenza per il personale della pubblica amministrazione e per il cittadino utente dei servizi. 
-I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi e per tale ragione il software gestionale deve permettere/assicurare a chiunque di fare le cose in maniera facile e agevole, senza incorrere in problemi di accessibilità o di interpretazioni delle funzioni operative (interfaccie grafiche).
+
+## Esperienza utente (UX) e interfaccia utente (UI) :material-monitor-dashboard: :fontawesome-regular-keyboard:
+La **User Experience** UX (esperienza utente) è strettamente legata alla **User Interface** UI (interfaccia utente). Interfaccie semplici e intuitive dei software generano facilità d'uso e soddisfazione nella fase di utilizzo. Questo ha la medesima valenza per il personale della pubblica amministrazione e per gli utenti dei servizi.  Ambedue le categorie sono esseri umani anche se sono posizionati in due punti diversi dell'applicativo:
+
+- **`back end`** = tutte le funzioni che vede, consulta e gestisce il personale della PA (in ufficio o da remoto in lavoro agile)
+- **`front end`** = tutte le funzioni che vede, consulta e con le quali interagisce l'utente da casa
+
+Utenti e personale della PA hanno entrambi la stessa esigenza|aspettativa di interagire con interfaccie grafiche software di semplice intuizione, che si adattaono a qualsiasi dimensione di dispaly (laptop, tablet, smartphone, pc desktop).
+
+I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi e per tale ragione il software gestionale deve permettere/assicurare a chiunque di fare le cose in maniera facile e agevole, senza incorrere in problemi di accessibilità o di interpretazione delle funzioni operative (interfaccie grafiche).
 
 
 ## Funzioni minime di un applicativo per gestire procedimenti legati a servizi :material-order-bool-ascending-variant:
-Di seguito vengono elencate le funzioni minime di un applicativo che gestisce procedimenti correlati a servizi pubblici. Funzioni da intendersi come "`requisiti minimi`" da chiedere al mercato software (o individuare nel [**catalogo del riuso applicativo**](https://developers.italia.it/it/software.html)) da parte della PA e da includere in capitolati tecnici.
+Di seguito viene elencato un set di funzioni minime di un applicativo che gestisce procedimenti correlati a servizi pubblici. Funzioni da intendersi come "`requisiti minimi`" da chiedere al mercato software (o individuare nel [**catalogo del riuso applicativo**](https://developers.italia.it/it/software.html)) da parte della PA e da includere in capitolati tecnici.
 
-- interfaccia che adotta il "Material design" e conforme alle [**Linee guida AGID**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/)
+- interfaccia grafica che adotta il `Material design` e conforme alle [**Linee guida AGID**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/)
 - accesso dell'utente (cittadino, impresa, associazione) esclusivamente con identità digitale SPID|CIE|CNS
 - accesso del dipendente della PA con credenziali nel breve periodo e con identità digitale SPID|CIE|CNS a regime nel medio lungo termine
 - funzioni operative che danno la possibilità all'utente di visualizzare in qualsiasi momento lo stato di avanzamento dell'istruttoria relativa al rilascio del servizio richiesto
