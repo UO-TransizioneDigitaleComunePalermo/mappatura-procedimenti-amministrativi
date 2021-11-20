@@ -5,6 +5,8 @@ hide:
 
 
 # Reingegnerizzazione dei procedimenti :material-engine-outline:
+
+## Cosa si inende per reingegnerizzazione dei procedimenti
 La reingegnerizzazione è un attività di rivisitazione/riprogettazione del flusso di lavoro necessario alla gestione dei procedimenti amministrativi.
 
 !!! info inline end
@@ -25,7 +27,9 @@ graph LR
 A([risorse impiegate]) -->|umane, strumentali| B([tempo]) -->|flussi di lavoro del procedimento| C([risultati ottenuti: qualità servizi all'utenza]) 
 ```
 
-Nei procedimenti amministrativi, l’efficacia va valutata in relazione alle aspettative e ai bisogni dell'utenza, migliorare l’efficacia del processo significa migliorare la qualità del servizio reso (cioè rispondenza del servizio alle necessità dei fruitori). Nel caso di procedimento attivato da istanza di parte (richiesta di servizio dall'utente) il seguente diagramma aiuta a capire come intervenire per soddisfare le aspettative degli utenti: 
+Nei procedimenti amministrativi, l’efficacia va valutata in relazione alle aspettative e ai bisogni dell'utenza. Migliorare l’efficacia del processo significa migliorare la qualità del servizio reso (cioè rispondenza del servizio alle necessità dei fruitori). 
+
+Nel caso di procedimento attivato da istanza di parte (richiesta di servizio dall'utente), il seguente diagramma aiuta a capire come intervenire per soddisfare le aspettative degli utenti: 
 
 ``` mermaid
 flowchart TD
@@ -46,9 +50,10 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
     1. Quali servizi ti interessa maggiormente fruire nell'arco di un anno? 
         - edilizia privata   
         - servizi di sportello unico attività produttive
-        - servzi cimiteriali
+        - servizi cimiteriali
         - servizi sportivi
         - servizi sociali  
+        - servizi scolastici
         - servizi culturali
         - altro servizio (`possibilità di inserire testo`)
     2. Con quale frequenza consulti il sito istituzionale per fruire servizi online? 
