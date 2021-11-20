@@ -66,17 +66,18 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
     5. In un applicativo che stai utilizzando online, ti viene richiesto di inserire dati che già potrebbero essere in possesso del Comune (ad es. nome, cognome, residenza, data nascita, codice ficale, ecc.)?
         - si
         - no
-        - si a volte nell'applicativo relativo al servizio (`possibilità di inserire testo`)   
+        - si a volte nell'applicativo relativo al servizio denominato "......" (`possibilità di inserire testo`)   
     6. Quando devi pagare per fruire di un servizio pubblico richiesto, quale delle seguenti modalità adotti?
         - pagoPA, perchè nell'applicativo presente sul sito istituzionale è prevista questa modalità di pagamento specifica
         - bonifico bancario perchè nell'applicativo presente sul sito istituzionale è prevista questa modalità di pagamento specifica e l'indicazione dell'IBAN e della causale
         - bollettino postale, perchè sul sito istituzionale è prevista questa modalità di pagamento specifica o perchè via email/telefono mi è stata comunicata questa modalità
+        - bancomat nella postazione fisica in cui fruisco il servizio
+        - contanti nella postazione fisica in cui fruisco il servizio
     7. Se fruisci il servizio tramite applicativo online cosa aggiungeresti come funzioni per facilitare la fase di richiesta e di ottenimento del servizio di tuo interesse?
         - descrivi cosa inseriresti (`possibilità di inserire testo`)       
     8. Se fruisci il servizio tramite applicativo online cosa elimineresti dall'attuale procedura er facilitare la fase di richiesta e di ottenimento del servizio di tuo interesse?
         - descrivi cosa elimineresti (`possibilità di inserire testo`)       
-      
-    N. Quali servizi online aggiungeresti che oggi non trovi nel sito istituzionale del Comune?
+    9. Quali servizi online aggiungeresti che ad oggi non trovi nel sito istituzionale del Comune?
         - descrivi il nome del servizio (`possibilità di inserire testo`) 
     
     DATI STATISTICI
