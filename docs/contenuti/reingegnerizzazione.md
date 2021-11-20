@@ -29,7 +29,7 @@ Nei procedimenti amministrativi, l’efficacia va valutata in relazione alle asp
 
 ``` mermaid
 flowchart TD
-    A([richiesta servizio pubblico]) --> B((percezione utente nella fase di richiesta e ottenimento del servizio));
+    A([richiesta servizio pubblico]) --> B((percezione utente));
     B -->|negativa| C([analisi dei flussi procedimento per individuare criticità]);
     C -->|anche con feedback dell'utente dei servizi| D([riprogettazione flussi del procedimento]);
     D --> B;
@@ -41,7 +41,7 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
 
 :material-beaker-question-outline: Nel box che segue viene elencato un set di domande minime da somministrare in un indagine online di `customer satisfaction` mirata ad individuare i gap riscontrati nella fase di richiesta e fruzione del servizio pubblico da parte dell'utente, con particolare riferimento ai servizi richiedibili ed ottenibili online attraverso le modalità più diffuse che  sono: applicativo gestionale del sito istituzionale - email - PEC. L'indagine dovrebbe essere somministrata come modulo da compilare online che genera automaticamente la compilazione di un database con le risposte fornite.
 
-!!! Note "Set di domande minime da somministrare in un indagine di `customer satisfaction`"
+!!! Note "Set di domande minime da somministrare in un indagine di `customer satisfaction` :fontawesome-solid-street-view: "
 
     1. Quali servizi ti interessa maggiormente fruire nell'arco di un anno? 
         - edilizia privata   
