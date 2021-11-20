@@ -80,29 +80,27 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
     9. Quali servizi online aggiungeresti che ad oggi non trovi nel sito istituzionale del Comune?
         - descrivi il nome del servizio (`possibilità di inserire testo`) 
     
-**DATI STATISTICI**
-    
-    A. Fascia di età:
+    10. Fascia di età:
         - 18-30
         - 30-45
         - 45-60
         - 60-oltre
-    B. Sesso
+    11. Sesso
         - M
         - F
-    C. Livello istruzione
+    12. Livello istruzione
         - scuola media
         - diploma scuola secondo grado
         - laurea o titolo equivalente
-    D. Posizione lavorativa:
+    13. Posizione lavorativa:
         - inoccupato/a
         - dipendente pubblica amministrazione
         - impiegato/a in aziende del settore privato
         - libero/a professionista 
-    E. Residenza
+    14. Residenza
         - residente nel comune di Palermo
         - non residente nel comune di Palermo
-    F. Possesso di identità digitale (oggi necessaria per accedere ai servizi online della pubblica amministrazione)
+    15. Possesso di identità digitale (oggi necessaria per accedere ai servizi online della pubblica amministrazione)
         - SPID
         - CIE
         - CNS
