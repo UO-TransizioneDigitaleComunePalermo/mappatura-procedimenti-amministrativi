@@ -39,7 +39,7 @@ flowchart TD
 
 Nel caso di percezione dell'utente "negativa" del servizio reso, il personale impegnato nella gestione del procedimento deve effettuare un analisi degli aspetti che caratterizzano le criticità, ed in questo può essere utile fare infadigini online di "customer satisfaction" con le quali, attraverso domande specifiche, intercettare gli aspetti che debbono essere migliorati al fine di assicurare all'utenza un servizio più vicino alle aspettative (ad esempio, aspetti su: accessibilità, interfaccia grafica, fasi operative da seguire sulla piattaforma informatica, modalità di pagamenti, modalità di comunicazione e di avvisi, ecc.).
 
-!!! Note "Esempio di domande da somministrare in un indagine di "customer satisfaction" mirata ad individuare i gap riscontrati nella fase di richiesta|fruzione del servizio pubblico da parte dell'utente con particolare riferimento ai servizi online"
+!!! Note "Esempio di domande da somministrare in un indagine di `customer satisfaction` mirata ad individuare i gap riscontrati nella fase di richiesta|fruzione del servizio pubblico da parte dell'utente con particolare riferimento ai servizi online"
 
     1. Quali servizi ti interessa maggiormente fruire nell'arco di un anno? 
         - edilizia privata   
@@ -100,7 +100,7 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
     14. Residenza
         - residente nel comune di Palermo
         - non residente nel comune di Palermo
-    15. Possesso di identità digitale (oggi necessaria per accedere ai servizi online della pubblica amministrazione)
+    15. Possesso di identità digitale (dall'ottobre 2021 è necessaria per accedere ai servizi online della pubblica amministrazione italiana)
         - SPID
         - CIE
         - CNS
