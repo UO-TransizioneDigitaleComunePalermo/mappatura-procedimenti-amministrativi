@@ -78,6 +78,7 @@ click G "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedi
 click H "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/redazione/" _blank
 click I "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/strumenti/" _blank
 click L "https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions" _blank
+click M "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/reingegnerizzazione/" _blank
 style A stroke:#8403fc,stroke-width:5px  
 ```
 </div>
