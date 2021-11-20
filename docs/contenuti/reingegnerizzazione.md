@@ -41,12 +41,12 @@ flowchart TD
     style B fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
-## Reingegnerizzare partendo dagli utenti
+## Reingegnerizzare partendo dagli utenti :fontawesome-regular-user:
 
 Nel caso di percezione dell'utente "negativa" del servizio pubblico reso, il personale impegnato (e responsabile) nella gestione del procedimento deve effettuare un analisi degli aspetti che caratterizzano le criticità, ed in questo può essere utile fare infadigini online di **`customer satisfaction`** con le quali, attraverso domande specifiche, intercettare gli aspetti che debbono essere migliorati al fine di assicurare all'utenza un servizio più vicino alle aspettative (ad esempio, aspetti su: accessibilità, interfaccia grafica, fasi operative da seguire sulla piattaforma informatica, modalità di pagamenti, modalità di comunicazione e di avvisi, ecc.).
 
 
-## Customer satisfaction
+## Customer satisfaction :fontawesome-solid-street-view:
 
 Nel box che segue viene elencato un set di domande minime da somministrare in un indagine online di `customer satisfaction` mirata ad individuare i gap riscontrati nella fase di richiesta e fruzione del servizio pubblico da parte dell'utente, con particolare riferimento ai servizi richiedibili ed ottenibili online attraverso le modalità più diffuse che  sono: applicativo gestionale del sito istituzionale - email - PEC. L'indagine dovrebbe essere somministrata come modulo da compilare online che genera automaticamente la compilazione di un database con le risposte fornite.
 
