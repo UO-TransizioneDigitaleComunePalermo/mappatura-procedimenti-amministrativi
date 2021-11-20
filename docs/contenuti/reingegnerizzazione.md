@@ -164,16 +164,16 @@ I software sono gli strumenti per permettere a chiunque (personale della PA e ci
 
 ## Funzioni minime di un applicativo per gestire procedimenti legati a servizi pubblici
 
-- interfaccia che adotta il "Material design" e conforme alle Linee guida AGID
+- interfaccia che adotta il "Material design" e conforme alle [**Linee guida AGID**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/)
 - accesso dell'utente (cittadino, impresa,..) esclusivamente con identità digitale SPID|CIE|CNS
 - accesso del dipendente della PA con credenziali nel breve periodo e con identità digitale SPID|CIE|CNS a regime nel medio lungo termine
 - funzioni operative che danno la possibilità all'utente di visualizzare in qualsiasi momento lo stato di avanzamento dell'istruttoria relativa al rilascio del servizio richiesto
 - funzioni operative che danno la possibilità all'utente di inviare comunicazioni al personale della PA per chiarimenti o integrazioni documentali, con generazione automatica di email all'utente (avviso)
 - funzioni operative che danno la possibilità al personale della PA di inviare comunicazioni all'utente per chiarimenti o integrazioni documentali, con generazione automatica di avviso sull'applicativo per il personale della PA
 - funzioni operative che danno la possibilità di generare automaticamente email all'utente (avviso) quando l'istruttoria del servizio richiesto (lato back end) è conclusa ed è stato generato il documento informatico da fornire all'utente all'interno dell'applicativo stesso
-- agganciamento, tramite API, all'app di Stato denominata IO, in maniera tale da erogare il servizio anche attraverso tale app
-- pagamento di quanto dovuto alla PA per la fruizione del servizio pubblico, tramite PagoPA, e riconciliazione automatica del pagamento nel database correlato all'aplicativo utilizzato
-- interoperabilità applicativa, tramite API, con altre piattaforme di servizi pubblici o altre banche dati pubbliche, al fine di completare il ciclo di vita del procedimento nel più breve tempo possibile e senza chiedere all'utente documentazione e dati già in possesso della stessa o di altre PA
+- agganciamento, tramite API, all'app di Stato denominata [**IO**](https://io.italia.it/), in maniera tale da erogare il servizio anche attraverso tale app
+- pagamento di quanto dovuto alla PA per la fruizione del servizio pubblico, tramite [**PagoPA**](https://www.pagopa.gov.it/), e riconciliazione automatica del pagamento nel database correlato all'aplicativo utilizzato
+- interoperabilità applicativa, tramite [**API**](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/capitolo_5_interoperabilit%C3%A0.html?highlight=api), con altre piattaforme di servizi pubblici o altre banche dati pubbliche, al fine di completare il ciclo di vita del procedimento nel più breve tempo possibile e senza chiedere all'utente documentazione e dati già in possesso della stessa o di altre PA
 - ....
 
 
