@@ -79,34 +79,38 @@ Nel box che segue viene elencato un set di domande minime da somministrare in un
         - descrivi cosa inseriresti (`possibilità di inserire testo`)       
     8. Se fruisci il servizio tramite applicativo online cosa elimineresti dall'attuale procedura er facilitare la fase di richiesta e di ottenimento del servizio di tuo interesse?
         - descrivi cosa elimineresti (`possibilità di inserire testo`)       
-    9. Quali servizi online aggiungeresti che ad oggi non trovi nel sito istituzionale del Comune?
+    9. Quali servizi online aggiungeresti da fruire tramite applicativo specifico nel sito istituzionale del Comune, che ad oggi non trovi?
         - descrivi il nome del servizio (`possibilità di inserire testo`) 
-    
-    10. Fascia di età:
+ 
+ 
+ !!! Note "Dati statistici da richiedere al compilatore dell'indagine di customer satisfaction nello stesso modulo"
+ 
+    1. Fascia di età:
         - 18-30
         - 30-45
         - 45-60
         - 60-oltre
-    11. Sesso
+    2. Sesso
         - M
         - F
-    12. Livello istruzione
+    3. Livello istruzione
         - scuola media
         - diploma scuola secondo grado
         - laurea o titolo equivalente
-    13. Posizione lavorativa:
+    4. Posizione lavorativa:
         - inoccupato/a
         - dipendente pubblica amministrazione
         - impiegato/a in aziende del settore privato
         - libero/a professionista 
-    14. Residenza
+    5. Residenza
         - residente nel comune di Palermo
         - non residente nel comune di Palermo
-    15. Possesso di identità digitale (dall'ottobre 2021 è necessaria per accedere ai servizi online della pubblica amministrazione italiana)
+    6. Possesso di identità digitale (dall'ottobre 2021 è necessaria per accedere ai servizi online della pubblica amministrazione italiana)
         - SPID
         - CIE
         - CNS
         - ad oggi non possiedo nessuna delle 3 identità digitali sopra elencate
+
 
 
 
