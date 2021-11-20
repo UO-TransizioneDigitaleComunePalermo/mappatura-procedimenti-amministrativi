@@ -42,8 +42,13 @@ flowchart TD
 ```
 
 ## Reingegnerizzare partendo dagli utenti :fontawesome-regular-user:
+Nella gestione dei procedimenti amministrativi propedeutici all'erogazione dei servizi pubblici all'utenza si definiscono nettamente 2 ruoli:
 
-Nel caso di percezione dell'utente "negativa" del servizio pubblico reso, il personale impegnato (e responsabile) nella gestione del procedimento deve effettuare un analisi degli aspetti che caratterizzano le criticità, ed in questo può essere utile fare infadigini online di **`customer satisfaction`** con le quali, attraverso domande specifiche, intercettare gli aspetti che debbono essere migliorati al fine di assicurare all'utenza un servizio più vicino alle aspettative (ad esempio, aspetti su: accessibilità, interfaccia grafica, fasi operative da seguire sulla piattaforma informatica, modalità di pagamenti, modalità di comunicazione e di avvisi, ecc.).
+**chi è l'utente**|**chi è la PA**
+------|--------
+cittadino/a, impresa, associazione che 1) chiede un servizio alla PA e 2) attende l'erogazione del servizio | personale della PA che lavora (a vario titolo) nella gestione dei procedimenti amministrativi
+
+Nel caso di percezione dell'utente "negativa" del servizio pubblico reso, il personale delle PA impegnato (e responsabile) nella gestione del procedimento deve effettuare un analisi degli aspetti che caratterizzano le criticità, ed in questo può essere utile fare infadigini online di **`customer satisfaction`** con le quali, attraverso domande specifiche, intercettare gli aspetti che debbono essere migliorati al fine di assicurare all'utenza un servizio più vicino alle aspettative (ad esempio, aspetti su: accessibilità, interfaccia grafica, fasi operative da seguire sulla piattaforma informatica, modalità di pagamenti, modalità di comunicazione e di avvisi, ecc.).
 
 
 ## Customer satisfaction :fontawesome-solid-street-view:
