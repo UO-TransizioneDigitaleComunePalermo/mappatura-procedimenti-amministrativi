@@ -39,6 +39,34 @@ flowchart TD
 
 Nel caso di percezione dell'utente "negativa" del servizio reso, il personale impegnato nella gestione del procedimento deve effettuare un analisi degli aspetti che caratterizzano le criticità, ed in questo può essere utile fare infadigini online di "customer satisfaction" con le quali, attraverso domande specifiche, intercettare gli aspetti che debbono essere migliorati al fine di assicurare all'utenza un servizio più vicino alle aspettative (ad esempio, aspetti su: accessibilità, interfaccia grafica, fasi operative da seguire sulla piattaforma informatica, modalità di pagamenti, modalità di comunicazione e di avvisi, ecc.).
 
+=== "Esempio di domande da somministrare in un indagine di "customer satisfaction" mirata ad individuare gap della piattaforma per la richiesta|fruzione del servizio pubblico"
+
+    1. Quali servizi ti interessano maggiormente? 
+        - edilizia privata   
+        - suap
+        - servzi cimiteriali
+        - servizi sportivi
+        - servizi sociali  
+    2. Con quale frequenza consulti il sito istituzionale per fruire servizi online? 
+        - tutti i giorni 
+        - uno o più volte a settimana 
+        - uno o più volte al mese 
+        - sporadicamente  
+    3. Riesci a individuare con facilità le funzioni dell'applicativo per completare la procedura che ti consente di fruire dei servizi online di cui hai bisogno?
+        - si abbastanza bene
+        - riesco a completare le azioni richieste dall'applicativo ma con difficoltà
+        - ho enormi difficoltà e non riesco a completare la procedura per fruire il servizio online di mio interesse
+    4. Trovi efficace l'impostazione dell'applicativo al fine di richiedere ed ottenere il servizio online di tuo interesse?
+        - si abbastanza
+        - mi confonde un po
+        - no perchè mi comporta perdita di tempo per capire la sequenza logica delle azioni da compiere per completare la procedura di richiesta o ricezione del servizio di mio interesse
+    5. Ti viene richiesto di inserire dati nell'applicativo che già potrebbero essere in possesso del Comune (ad es. nome, cognome, residenza, data nascita, codice ficale, ecc.)?
+        - si
+        - no
+        - a volte nll'applicativoo relativo al servizio (possibilità di inserire testo)
+        
+
+
 
 
 ## Analisi per la reingegnerizzazione :material-check-underline:
