@@ -49,39 +49,35 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
         - servizi sociali  
         - servizi culturali
         - altro servizio (`possibilità di inserire testo`)
-    2. Descrivi il servizio richiesto a cui sei interessato per il quale fai riferimento per le domande specifiche che seguono
-        - scrivi il nome del servizio (`possibilità di inserire testo`)
-    3. Con quale frequenza consulti il sito istituzionale per fruire servizi online? 
+    2. Con quale frequenza consulti il sito istituzionale per fruire servizi online? 
         - tutti i giorni 
         - uno o più volte a settimana 
         - uno o più volte al mese 
         - sporadicamente  
-    4. Per accedere e fruire del servizio di tuo interesse oggi nel sito istituzionale trovi:
+    3. Per accedere e fruire il servizio di tuo interesse oggi nel sito istituzionale trovi:
         - un apposito applicativo che ti consente di gestire la richiesta e l'ottenimento del servizio, al quale accedo con credenziali SPID|CIE|CNS
         - un email che trovi su una pagina del sito istituzionale e che utilizzi per effettuare la sola richiesta del servizio. Successivamente per ricevere il servizio mi devo recare in un ufficio fisicamente
         - un email che trovi su una pagina del sito istituzionale e che utilizzi per effettuare la richiesta e per ricevere il servizio richiesto
-        - soltanto un indirizzo fisico dell'ufficio che devvo raggiungere anche per la fase di richiesta del servizio
-    5. Se fruisci il servizio tramite applicativo online, riesci a individuare e seguire con facilità le funzioni dell'applicativo per completare la procedura che ti consente di richiedere e fruire del servizio online di cui hai bisogno?
+        - soltanto un indirizzo fisico dell'ufficio che devo raggiungere anche per la fase di richiesta del servizio
+    4. Se fruisci il servizio tramite applicativo online, riesci a individuare e seguire con facilità le funzioni dell'applicativo per completare la procedura che ti consente di richiedere e fruire del servizio online di cui hai bisogno?
         - si abbastanza bene
         - riesco a completare le azioni richieste dall'applicativo ma con qualche difficoltà 
         - ho enormi difficoltà e non riesco a completare la procedura per richiedere e fruire il servizio online di mio interesse, mi comporta perdita di tempo per capire la sequenza logica delle azioni da compiere per completare la procedura di richiesta o ricezione del servizio di mio interesse
-    6. Ti viene richiesto di inserire dati nell'applicativo che già potrebbero essere in possesso del Comune (ad es. nome, cognome, residenza, data nascita, codice ficale, ecc.)?
+    5. In un applicativo che stai utilizzando online, ti viene richiesto di inserire dati che già potrebbero essere in possesso del Comune (ad es. nome, cognome, residenza, data nascita, codice ficale, ecc.)?
         - si
         - no
-        - si a volte nell'applicativo relativo al servizio (`possibilità di inserire testo`)
-    7. Quali servizi on line aggiungeresti che oggi non trovi nel sito istituzionale del Comune?
-        - (`possibilità di inserire testo`) 
-    8. Per i servizi di tuo interesse oggi interagisci con il Comune attraverso:
-        - applicativo gestionale specifico reso disponibile sul sito istituzionale e accessibile attraverso identità digitale SPID|CIE|CNS
-        - email da inviare an un indirizzo di posta elettronica che ho trvato sul sito istituzionale
-        - PEC da inviare an un indirizzo di posta elettronica certificata che ho trvato sul sito istituzionale
-        - sportello fisico o ufficio comunale perchè ad oggi non esiste nè email, nè PEC nè applicativo gestionale sul sito istituzionale
-    9. Quandoo devi pagare per fruire di un servizio pubblico richiesto, quale delle seguenti modalità adotti:
+        - si a volte nell'applicativo relativo al servizio (`possibilità di inserire testo`)   
+    6. Quando devi pagare per fruire di un servizio pubblico richiesto, quale delle seguenti modalità adotti?
         - pagoPA, perchè nell'applicativo presente sul sito istituzionale è prevista questa modalità di pagamento specifica
         - bonifico bancario perchè nell'applicativo presente sul sito istituzionale è prevista questa modalità di pagamento specifica e l'indicazione dell'IBAN e della causale
         - bollettino postale, perchè sul sito istituzionale è prevista questa modalità di pagamento specifica o perchè via email/telefono mi è stata comunicata questa modalità
+    7. Se fruisci il servizio tramite applicativo online cosa aggiungeresti come funzioni per facilitare la fase di richiesta e di ottenimento del servizio di tuo interesse?
+        - descrivi cosa inseriresti (`possibilità di inserire testo`)       
+    8. Se fruisci il servizio tramite applicativo online cosa elimineresti dall'attuale procedura er facilitare la fase di richiesta e di ottenimento del servizio di tuo interesse?
+        - descrivi cosa elimineresti (`possibilità di inserire testo`)       
       
-        
+    N. Quali servizi online aggiungeresti che oggi non trovi nel sito istituzionale del Comune?
+        - descrivi il nome del servizio (`possibilità di inserire testo`)        
 
 
 
