@@ -41,41 +41,46 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
 
 !!! Note "Esempio di domande da somministrare in un indagine di "customer satisfaction" mirata ad individuare gap della piattaforma per la richiesta|fruzione del servizio pubblico"
 
-    1. Quali servizi ti interessano maggiormente? 
+    1. Quali servizi ti interessa maggiormente fruire nell'arco di un anno? 
         - edilizia privata   
-        - suap
+        - servizi di sportello unico attività produttive
         - servzi cimiteriali
         - servizi sportivi
         - servizi sociali  
-    2. Con quale frequenza consulti il sito istituzionale per fruire servizi online? 
+        - servizi culturali
+        - altro servizio (`possibilità di inserire testo`)
+    2. Descrivi il servizio richiesto a cui sei interessato per il quale fai riferimento per le domande specifiche che seguono
+        - scrivi il nome del servizio (`possibilità di inserire testo`)
+    3. Con quale frequenza consulti il sito istituzionale per fruire servizi online? 
         - tutti i giorni 
         - uno o più volte a settimana 
         - uno o più volte al mese 
         - sporadicamente  
-    3. Riesci a individuare con facilità le funzioni dell'applicativo per completare la procedura che ti consente di fruire dei servizi online di cui hai bisogno?
+    4. Per accedere e fruire del servizio di tuo interesse oggi nel sito istituzionale trovi:
+        - un apposito applicativo che ti consente di gestire la richiesta e l'ottenimento del servizio, al quale accedo con credenziali SPID|CIE|CNS
+        - un email che trovi su una pagina del sito istituzionale e che utilizzi per effettuare la sola richiesta del servizio. Successivamente per ricevere il servizio mi devo recare in un ufficio fisicamente
+        - un email che trovi su una pagina del sito istituzionale e che utilizzi per effettuare la richiesta e per ricevere il servizio richiesto
+        - soltanto un indirizzo fisico dell'ufficio che devvo raggiungere anche per la fase di richiesta del servizio
+    5. Se fruisci il servizio tramite applicativo online, riesci a individuare e seguire con facilità le funzioni dell'applicativo per completare la procedura che ti consente di richiedere e fruire del servizio online di cui hai bisogno?
         - si abbastanza bene
-        - riesco a completare le azioni richieste dall'applicativo ma con difficoltà
-        - ho enormi difficoltà e non riesco a completare la procedura per fruire il servizio online di mio interesse
-    4. Trovi efficace l'impostazione dell'applicativo al fine di richiedere ed ottenere il servizio online di tuo interesse?
-        - si abbastanza
-        - mi confonde un po
-        - no perchè mi comporta perdita di tempo per capire la sequenza logica delle azioni da compiere per completare la procedura di richiesta o ricezione del servizio di mio interesse
-    5. Ti viene richiesto di inserire dati nell'applicativo che già potrebbero essere in possesso del Comune (ad es. nome, cognome, residenza, data nascita, codice ficale, ecc.)?
+        - riesco a completare le azioni richieste dall'applicativo ma con qualche difficoltà 
+        - ho enormi difficoltà e non riesco a completare la procedura per richiedere e fruire il servizio online di mio interesse, mi comporta perdita di tempo per capire la sequenza logica delle azioni da compiere per completare la procedura di richiesta o ricezione del servizio di mio interesse
+    6. Ti viene richiesto di inserire dati nell'applicativo che già potrebbero essere in possesso del Comune (ad es. nome, cognome, residenza, data nascita, codice ficale, ecc.)?
         - si
         - no
         - si a volte nell'applicativo relativo al servizio (`possibilità di inserire testo`)
-    6. Quali servizi on line aggiungeresti che oggi non trovi nel sito istituzionale del Comune?
+    7. Quali servizi on line aggiungeresti che oggi non trovi nel sito istituzionale del Comune?
         - (`possibilità di inserire testo`) 
-    7. Per i servizi di tuo interesse oggi interagisci con il Comune attraverso:
+    8. Per i servizi di tuo interesse oggi interagisci con il Comune attraverso:
         - applicativo gestionale specifico reso disponibile sul sito istituzionale e accessibile attraverso identità digitale SPID|CIE|CNS
         - email da inviare an un indirizzo di posta elettronica che ho trvato sul sito istituzionale
         - PEC da inviare an un indirizzo di posta elettronica certificata che ho trvato sul sito istituzionale
         - sportello fisico o ufficio comunale perchè ad oggi non esiste nè email, nè PEC nè applicativo gestionale sul sito istituzionale
-    8. Quandoo devi pagare per fruire di un servizio pubblico richiesto, quale delle seguenti modalità adotti:
+    9. Quandoo devi pagare per fruire di un servizio pubblico richiesto, quale delle seguenti modalità adotti:
         - pagoPA, perchè nell'applicativo presente sul sito istituzionale è prevista questa modalità di pagamento specifica
         - bonifico bancario perchè nell'applicativo presente sul sito istituzionale è prevista questa modalità di pagamento specifica e l'indicazione dell'IBAN e della causale
         - bollettino postale, perchè sul sito istituzionale è prevista questa modalità di pagamento specifica o perchè via email/telefono mi è stata comunicata questa modalità
-        - (`possibilità di inserire testo per descrivere il servizio richiesto`)
+      
         
 
 
