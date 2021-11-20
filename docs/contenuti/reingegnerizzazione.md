@@ -163,10 +163,10 @@ I software sono gli strumenti per permettere a chiunque (personale della PA e ci
 
 
 ## Funzioni minime di un applicativo per gestire procedimenti legati a servizi :material-order-bool-ascending-variant:
-Di seguito vengono elencate le funzioni minime di un applicativo che gestisce procedimenti correlati a servizi pubblici. Funzioni da intendersi come "`requisiti minimi`" da chiedere al mercato software (o nel [**catalogo del riuso applicativo**](https://developers.italia.it/it/software.html)) da parte della PA.
+Di seguito vengono elencate le funzioni minime di un applicativo che gestisce procedimenti correlati a servizi pubblici. Funzioni da intendersi come "`requisiti minimi`" da chiedere al mercato software (o individuare nel [**catalogo del riuso applicativo**](https://developers.italia.it/it/software.html)) da parte della PA e da includere in capitolati tecnici.
 
 - interfaccia che adotta il "Material design" e conforme alle [**Linee guida AGID**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/)
-- accesso dell'utente (cittadino, impresa,..) esclusivamente con identità digitale SPID|CIE|CNS
+- accesso dell'utente (cittadino, impresa, associazione) esclusivamente con identità digitale SPID|CIE|CNS
 - accesso del dipendente della PA con credenziali nel breve periodo e con identità digitale SPID|CIE|CNS a regime nel medio lungo termine
 - funzioni operative che danno la possibilità all'utente di visualizzare in qualsiasi momento lo stato di avanzamento dell'istruttoria relativa al rilascio del servizio richiesto
 - funzioni operative che danno la possibilità all'utente di inviare comunicazioni al personale della PA per chiarimenti o integrazioni documentali, con generazione automatica di email all'utente (avviso)
