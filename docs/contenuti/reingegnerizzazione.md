@@ -77,7 +77,30 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
         - descrivi cosa elimineresti (`possibilità di inserire testo`)       
       
     N. Quali servizi online aggiungeresti che oggi non trovi nel sito istituzionale del Comune?
-        - descrivi il nome del servizio (`possibilità di inserire testo`)        
+        - descrivi il nome del servizio (`possibilità di inserire testo`) 
+    
+    DATI STATISTICI
+    
+    A. Fascia di età:
+        - 18-30
+        - 30-45
+        - 45-60
+        - 60-oltre
+    B. Sesso
+        - M
+        - F
+    C. Livello istruzione
+        - scuola media
+        - diploma scuola secondo grado
+        - laurea o titolo equivalente
+    D. Posizione lavorativa:
+        - inoccupato/a
+        - dipendente pubblica amministrazione
+        - impiegato/a in aziende del settore privato
+        - libero/a professionista 
+    E. Residenza
+        - residente nel comune di Palermo
+        - non residente nel comune di Palermo
 
 
 
