@@ -13,6 +13,46 @@ hide:
 
 ## Ad albero
 
+Home
+
+Focus giuridico :fontawesome-solid-arrow-circle-right:
+
+- Focus giuridico
+- I procedimenti visti dal "CAD"
+
+Mappatura :fontawesome-solid-arrow-circle-right:
+
+- Percorsi di digitalizzazione in ambito comuale
+- L'analisi dei procedimenti nel Piano della Performance
+
+Metadati :fontawesome-solid-arrow-circle-right:
+
+- I metadati nella mappatura dei procedimenti
+- Metadati di determinazioni e deliberazioni
+- Schema di metadati per mappatura dei procedimenti
+- Esperienza di mappatura con metadati 
+
+Fasi operative
+
+Reingegnerizzazione
+
+Catalogo
+
+Linkografia
+
+Redazione
+
+Strumenti | Licenza
+
+Forum
+
+Mappa de sito
+
+Privacy-cookies
+
+---
+
+
 ``` 
 Home
 ├─ Focus giuridico/ 
