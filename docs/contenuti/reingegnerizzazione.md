@@ -63,9 +63,19 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
     5. Ti viene richiesto di inserire dati nell'applicativo che già potrebbero essere in possesso del Comune (ad es. nome, cognome, residenza, data nascita, codice ficale, ecc.)?
         - si
         - no
-        - a volte nll'applicativoo relativo al servizio (`possibilità di inserire testo`)
-    6. Quali servizi on line aggiungeresti?
+        - si a volte nell'applicativo relativo al servizio (`possibilità di inserire testo`)
+    6. Quali servizi on line aggiungeresti che oggi non trovi nel sito istituzionale del Comune?
         - (`possibilità di inserire testo`) 
+    7. Per i servizi di tuo interesse oggi interagisci con il Comune attraverso:
+        - applicativo gestionale specifico reso disponibile sul sito istituzionale e accessibile attraverso identità digitale SPID|CIE|CNS
+        - email da inviare an un indirizzo di posta elettronica che ho trvato sul sito istituzionale
+        - PEC da inviare an un indirizzo di posta elettronica certificata che ho trvato sul sito istituzionale
+        - sportello fisico o ufficio comunale perchè ad oggi non esiste nè email, nè PEC nè applicativo gestionale sul sito istituzionale
+    8. Quandoo devi pagare per fruire di un servizio pubblico richiesto, quale delle seguenti modalità adotti:
+        - pagoPA, perchè nell'applicativo presente sul sito istituzionale è prevista questa modalità di pagamento specifica
+        - bonifico bancario perchè nell'applicativo presente sul sito istituzionale è prevista questa modalità di pagamento specifica e l'indicazione dell'IBAN e della causale
+        - bollettino postale, perchè sul sito istituzionale è prevista questa modalità di pagamento specifica o perchè via email/telefono mi è stata comunicata questa modalità
+        - (`possibilità di inserire testo per descrivere il servizio richiesto`)
         
 
 
