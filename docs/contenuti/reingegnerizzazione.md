@@ -63,7 +63,9 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
     5. Ti viene richiesto di inserire dati nell'applicativo che già potrebbero essere in possesso del Comune (ad es. nome, cognome, residenza, data nascita, codice ficale, ecc.)?
         - si
         - no
-        - a volte nll'applicativoo relativo al servizio (possibilità di inserire testo)
+        - a volte nll'applicativoo relativo al servizio (`possibilità di inserire testo`)
+    6. Quali servizi on line aggiungeresti?
+        - (`possibilità di inserire testo`) 
         
 
 
