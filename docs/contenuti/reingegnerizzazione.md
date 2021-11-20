@@ -85,27 +85,27 @@ Nel box che segue viene elencato un set di domande minime da somministrare in un
  
  !!! Note "Dati statistici da richiedere al compilatore dell'indagine di customer satisfaction nello stesso modulo"
  
-    1. Fascia di età:
+     1. Fascia di età:
         - 18-30
         - 30-45
         - 45-60
         - 60-oltre
-    2. Sesso
+     2. Sesso
         - M
         - F
-    3. Livello istruzione
+     3. Livello istruzione
         - scuola media
         - diploma scuola secondo grado
         - laurea o titolo equivalente
-    4. Posizione lavorativa:
+     4. Posizione lavorativa:
         - inoccupato/a
         - dipendente pubblica amministrazione
         - impiegato/a in aziende del settore privato
         - libero/a professionista 
-    5. Residenza
+     5. Residenza
         - residente nel comune di Palermo
         - non residente nel comune di Palermo
-    6. Possesso di identità digitale (dall'ottobre 2021 è necessaria per accedere ai servizi online della pubblica amministrazione italiana)
+     6. Possesso di identità digitale (dall'ottobre 2021 è necessaria per accedere ai servizi online della pubblica amministrazione italiana)
         - SPID
         - CIE
         - CNS
