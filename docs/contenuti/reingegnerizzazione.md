@@ -92,7 +92,7 @@ Nel box che segue viene elencato un set di domande minime da somministrare in un
     9. Quali servizi online aggiungeresti da fruire tramite applicativo specifico nel sito istituzionale del Comune, che ad oggi non trovi?
         - descrivi il nome del servizio (`possibilità di inserire testo`) 
 
-Raccogliere dati statistici aiuta.
+Con la customer satisfaction si raccolgono anche dati che aiutano a comprendere i profili di utilizzatori dei servizi pubblici.
  
 !!! Note "Dati statistici da richiedere al compilatore dell'indagine di customer satisfaction nello stesso modulo :material-card-account-details: "
  
@@ -123,7 +123,7 @@ Raccogliere dati statistici aiuta.
         - ad oggi non possiedo nessuna delle 3 identità digitali sopra elencate
 
 
-Con i dati dell'indagine raccolti si avvia l'attivvità di analisi per comprendere i gap e concentrarsi sulla riprogettazione del flusso di lavoro che caratterizza la gestione del procedimento in esame.
+Con i dati dell'indagine raccolti si avvia l'attività di analisi per comprendere i gap e concentrarsi sulla riprogettazione del flusso di lavoro che caratterizza la gestione del procedimento in esame.
 
 
 ## Analisi per la reingegnerizzazione :material-check-underline:
