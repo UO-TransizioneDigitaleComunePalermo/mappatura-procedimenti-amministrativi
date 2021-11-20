@@ -164,7 +164,7 @@ Per invertire questa vecchia tendenza, un aspetto su cui focalizzare l'attenzion
 2. gestione delle funzioni operative dell'interfaccia grafica da parte degli utenti che richiedono ed ottengono un servizio in modalità totalmente digitale online (`front end`).
 
 
-## Esperienza utente (UX) e interfaccia utente (UI) :face_with_raised_eyebrow: :material-monitor-dashboard: 
+## Esperienza utente (UX) :face_with_raised_eyebrow:  e interfaccia utente (UI) :material-monitor-dashboard: 
 La **User Experience** UX (esperienza utente) è strettamente legata alla **User Interface** UI (interfaccia utente). Interfaccie semplici e intuitive dei software generano facilità d'uso e soddisfazione nella fase di utilizzo. Questo ha la medesima valenza per il personale della pubblica amministrazione e per gli utenti dei servizi.  Ambedue le categorie sono esseri umani anche se sono posizionati in due punti diversi dell'applicativo:
 
 - **`back end`** = tutte le funzioni che vede, consulta e gestisce il personale della PA (in ufficio o da remoto in lavoro agile)
