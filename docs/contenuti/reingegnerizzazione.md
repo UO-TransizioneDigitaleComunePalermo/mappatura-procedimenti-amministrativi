@@ -83,33 +83,33 @@ Nel caso di percezione dell'utente "negativa" del servizio reso, il personale im
         - descrivi il nome del servizio (`possibilità di inserire testo`) 
  
  
-!!! Note "Dati statistici da richiedere al compilatore dell'indagine di customer satisfaction nello stesso modulo"
+!!! Note "Dati statistici da richiedere al compilatore dell'indagine di customer satisfaction nello stesso modulo :material-card-account-details: "
  
     1. Fascia di età:
-       - 18-30
-       - 30-45
-       - 45-60
-       - 60-oltre
+        - 18-30
+        - 30-45
+        - 45-60
+        - 60-oltre
     2. Sesso
-       - M
-       - F
+        - M
+        - F
     3. Livello istruzione
-       - scuola media
-       - diploma scuola secondo grado
-       - laurea o titolo equivalente
+        - scuola media
+        - diploma scuola secondo grado
+        - laurea o titolo equivalente
     4. Posizione lavorativa:
-       - inoccupato/a
-       - dipendente pubblica amministrazione
-       - impiegato/a in aziende del settore privato
-       - libero/a professionista 
+        - inoccupato/a
+        - dipendente pubblica amministrazione
+        - impiegato/a in aziende del settore privato
+        - libero/a professionista 
     5. Residenza
-       - residente nel comune di Palermo
-       - non residente nel comune di Palermo
+        - residente nel comune di Palermo
+        - non residente nel comune di Palermo
     6. Possesso di identità digitale (dall'ottobre 2021 è necessaria per accedere ai servizi online della pubblica amministrazione italiana)
-       - SPID
-       - CIE
-       - CNS
-       - ad oggi non possiedo nessuna delle 3 identità digitali sopra elencate
+        - SPID
+        - CIE
+        - CNS
+        - ad oggi non possiedo nessuna delle 3 identità digitali sopra elencate
 
 
 
