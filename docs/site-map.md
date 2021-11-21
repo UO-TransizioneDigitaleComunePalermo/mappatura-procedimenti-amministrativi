@@ -75,7 +75,7 @@ Privacy-cookies
 ├─ Forum
 ├─ Mappa de sito
 └─ Privacy-cookies
-<pre><code>
+</code></pre>
 
 ---
 
