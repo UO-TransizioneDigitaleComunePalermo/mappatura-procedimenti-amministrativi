@@ -29,7 +29,7 @@ style A fill:#fc5b5b,stroke:#333,stroke-width:2px
 ```
 <!-- era fill:#f9f -->
 
-## Destinatari del presente progetto :material-target-account:
+## Destinatari del progetto :material-target-account:
 I destinatari dei contenuti del progetto sono dirigenti, dipendenti e amministratori politici delle amministrazioni comunali.
 
 I comuni sono tra i maggiori erogatori di servizi pubblici sul territorio a livello locale, e per tale motivo sono tenuti a gestire un numero elevato di procedimenti amministrativi correlati agli stessi servizi. 
