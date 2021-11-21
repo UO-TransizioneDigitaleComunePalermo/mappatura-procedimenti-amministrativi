@@ -9,9 +9,9 @@ hide:
 .center {display: flex; justify-content: center; align-items: center; height: auto; }
 </style>
 
-# Mappa del sito
+# Mappa del sito :material-sitemap: 
 
-## Mappa ad albero
+## Mappa ad albero :material-file-tree:
 
 <pre><code>
 <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_self"><b>Home</b></a>
@@ -39,7 +39,7 @@ hide:
 
 ---
 
-## Mappa a grafo
+## Mappa a grafo :material-graph-outline:
 <div class="center"> 
 ``` mermaid
 graph TB
