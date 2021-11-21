@@ -9,7 +9,7 @@ hide:
 ## Chi siamo
 [![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png)](https://www.comune.palermo.it/)
 
-<img src="https://img.shields.io/badge/Authors-Ciro_Spataro_|_Sergio_Schimicci-blue">
+<!--  <img src="https://img.shields.io/badge/Authors-Ciro_Spataro_|_Sergio_Schimicci-blue">  -->
 
 A supportare il [Comune di Palermo](https://www.comune.palermo.it/) nel processo di mappatura e analisi per la digitalizzazione dei procedimenti amministrativi, e necessaria formazione del personale, siamo anche:
 
