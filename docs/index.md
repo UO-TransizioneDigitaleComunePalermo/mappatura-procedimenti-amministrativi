@@ -47,24 +47,24 @@ A tal proposito è stato predisposto un apposito [**`Forum`**](https://github.co
 <div class="center"> 
 ``` mermaid
 graph TB
-A(Home)
-A ---- B(Focus giuridico);
-A ---- C(Mappatura);
-A ---- D(Metadati);
-A ---- E(Fasi operative);
-A ---- M(Reingegnerizzazione)
-A ---- F(Catalogo);
-A ---- G(Linkografia);
-A ---- H(Redazione);
-A ---- I(Strumenti e Licenza);
-A ---- L(Forum);
-B ---- B1(Procedimenti visti dal CAD);
-C ---- C1(Digitalizzazione in ambito comuale);
-C1 ---- C2(Analisi procedimenti nel Piano Performance);
-D ---- D1(Metadati nella mappatura dei procedimenti);
-D1 --- D2(Metadati di determinazioni e deliberazioni);
-D2 ---- D3(Schema metadati per mappatura procedimenti);
-D3 ---- D4(Esperienza di mappatura con metadati);
+A([Home])
+A ---- B([Focus giuridico]);
+A ---- C([Mappatura]);
+A ---- D([Metadati]);
+A ---- E([Fasi operative]);
+A ---- M([Reingegnerizzazione])
+A ---- F([Catalogo]);
+A ---- G([Linkografia]);
+A ---- H([Redazione]);
+A ---- I([Strumenti e Licenza]);
+A ---- L([Forum]);
+B ---- B1([Procedimenti visti dal CAD]);
+C ---- C1([Digitalizzazione in ambito comuale]);
+C1 ---- C2([Analisi procedimenti nel Piano Performance]);
+D ---- D1([Metadati nella mappatura dei procedimenti]);
+D1 --- D2([Metadati di determinazioni e deliberazioni]);
+D2 ---- D3([Schema metadati per mappatura procedimenti]);
+D3 ---- D4([Esperienza di mappatura con metadati]);
 click A "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" _blank
 click B "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" _blank
 click B1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" _blank
