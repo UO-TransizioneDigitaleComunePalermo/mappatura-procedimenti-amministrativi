@@ -17,7 +17,7 @@ Questa guida è stata progettata seguendo il percorso operativo condotto dall’
 
 Vengono descritte le azioni realizzate dal personale comunale, che hanno portato alla redazione di un <span style="background-color: #757474; color: #ffffff; padding: 0px 4px; border-radius: 5px;"><b>catalogo</b></span> contenente le **`fasi operative`** e i **`metadati`** dei procedimenti, tracciando un passo importante per il Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
 
-:material-transit-connection-variant: Il **processo di lavoro**, svolto in ordine temporale, è raffigurabile nel seguente schema:
+Il **processo di lavoro** :material-transit-connection-variant: - svolto in ordine temporale - è raffigurato nel seguente schema:
 ``` mermaid
 graph TD
 A([l'analisi dei procedimenti è stabilita come obiettivo nel Piano Performance!]) -->|direttive ai dirigenti| B([redazione schede dei 1- metadati e 2- delle fasi operative])
