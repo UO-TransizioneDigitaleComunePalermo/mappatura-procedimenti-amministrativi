@@ -23,3 +23,4 @@ hide:
 - [Il modello cloud della PA: come acquisire servizi cloud qualificati](https://cloud.italia.it/marketplace/) -  [Il manuale di abilitazione al cloud](https://docs.italia.it/italia/manuale-di-abilitazione-al-cloud/manuale-di-abilitazione-al-cloud-docs/it/bozza/index.html)
 - [La Strategia nazionale e il Piano operativo per le competenze digitali](https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf)
 - [Linee guida sulla formazione, gestione e conservazione dei documenti informatici](https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html)
+- [Linee Guida sull’infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati per l’interoperabilità dei sistemi informativi e delle basi di dati](https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/it/bozza/index.html#)
