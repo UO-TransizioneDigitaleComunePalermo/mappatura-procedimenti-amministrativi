@@ -1,5 +1,5 @@
 # Architettura dello schema per descrivere i metadati minimi che identificano un procedimento amministrativo
-Di seguito viene proposto uno schema :material-grid: di metadati minimi per identificare un procedimento amministrativo. Lo schema vuole avere l'obiettivo di orientare il personale della Pubblica Amministrazione, soprattutto dell'ente comunale, nell'attività di assegnare proprietà quanto più dettagliate e specifiche al procedimento amministrativo.
+Di seguito viene proposto uno schema :material-table-large: di metadati minimi per identificare un procedimento amministrativo. Lo schema vuole avere l'obiettivo di orientare il personale della Pubblica Amministrazione, soprattutto dell'ente comunale, nell'attività di assegnare proprietà quanto più dettagliate e specifiche al procedimento amministrativo.
 
 I metadati individuati sono 30 e sono applicabili a qualsiasi procedimento amministrativo.
 
@@ -11,7 +11,7 @@ Si tratta di uno schema semplice per la compilazione, alla portata di tutti in u
 
 E' essenziale fornire uno schema semplice da compilare, piuttosto che uno schema "professionale" per mappare e modellare/ottimizzare i processi, in quanto uno schema complesso comporta la conoscenza completa dello stesso da parte di tutti i soggetti che nella PA sono coinvolti nella gestione delle fasi del peocedimento amministrativo.
 
-Uno schema tabellare semplice come quello proposto, ha visto al Comune di Palermo, la partecipazione di tutte le UO responsabili di procedimenti amministrativi e non è stato incontrato alcun problema di rilievo nella compilazione delle schede.
+Uno schema tabellare semplice :material-table-large: come quello proposto, ha visto al Comune di Palermo, la partecipazione di tutte le UO responsabili di procedimenti amministrativi e non è stato incontrato alcun problema di rilievo nella compilazione delle schede.
 
 
 ## Esempio di schema di metadati per identificare un procedimento amministrativo di un ente comunale
