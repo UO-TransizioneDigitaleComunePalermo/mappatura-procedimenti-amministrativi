@@ -43,10 +43,53 @@ Nella fase di creazione di questo documento abbiamo pensato che interagire e con
 A tal proposito è stato predisposto un apposito [**`Forum`**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions) :material-forum-outline: sulla piattaforma GitHub :material-github:, che ospita il codice sorgente di questo progetto di documentazione, nel quale è possibile fare domande, ma anche proporre idee e miglioramenti al flusso di lavoro per la mappatura e analisi dei procedimenti amministrativi. Un luogo di interazione. 
 
 
+## Mappa a grafo :material-graph-outline:
+<div class="center"> 
+``` mermaid
+graph TB
+A(Home)
+A ---- B(Focus giuridico);
+A ---- C(Mappatura);
+A ---- D(Metadati);
+A ---- E(Fasi operative);
+A ---- M(Reingegnerizzazione)
+A ---- F(Catalogo);
+A ---- G(Linkografia);
+A ---- H(Redazione);
+A ---- I(Strumenti e Licenza);
+A ---- L(Forum);
+B ---- B1(Procedimenti visti dal CAD);
+C ---- C1(Digitalizzazione in ambito comuale);
+C1 ---- C2(Analisi procedimenti nel Piano Performance);
+D ---- D1(Metadati nella mappatura dei procedimenti);
+D1 --- D2(Metadati di determinazioni e deliberazioni);
+D2 ---- D3(Schema metadati per mappatura procedimenti);
+D3 ---- D4(Esperienza di mappatura con metadati);
+click A "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" _blank
+click B "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" _blank
+click B1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" _blank
+click C "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/digitalizzazione-ambito-comunale/" _blank
+click C1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/digitalizzazione-ambito-comunale/" _blank
+click C2 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/esperienza-analisi/" _blank
+click D "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati/" _blank
+click D1 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati/" _blank
+click D2 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati-determinazione-deliberazione/" _blank
+click D3 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/schema-metadati/" _blank
+click D4 "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/esperienza-metadatazione/" _blank
+click E "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/fasi-operative/" _blank
+click F "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/" _blank
+click G "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/" _blank
+click H "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/redazione/" _blank
+click I "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/strumenti/" _blank
+click L "https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions" _blank
+click M "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/reingegnerizzazione/" _blank
+style A stroke:#8403fc,stroke-width:5px  
+```
+</div>
+
+
+
 <!--
 [Vai al forum :material-forum:](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions){ .md-button .md-button--primary }
 -->
 
-<!--
-[Leggi partendo dal "focus giuridico" :fontawesome-brands-readme:](contenuti/focus-giuridico){ .md-button .md-button--primary }
--->
