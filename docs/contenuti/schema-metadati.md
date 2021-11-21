@@ -1,5 +1,5 @@
 # Architettura dello schema per descrivere i metadati minimi che identificano un procedimento amministrativo
-Di seguito viene proposto uno schema di metadati minimi per identificare un procedimento amministrativo. Lo schema vuole avere l'obiettivo di orientare il personale della Pubblica Amministrazione, soprattutto dell'ente comunale, nell'attività di assegnare proprietà quanto più dettagliate e specifiche al procedimento amministrativo.
+Di seguito viene proposto uno schema :material-grid: di metadati minimi per identificare un procedimento amministrativo. Lo schema vuole avere l'obiettivo di orientare il personale della Pubblica Amministrazione, soprattutto dell'ente comunale, nell'attività di assegnare proprietà quanto più dettagliate e specifiche al procedimento amministrativo.
 
 I metadati individuati sono 30 e sono applicabili a qualsiasi procedimento amministrativo.
 
