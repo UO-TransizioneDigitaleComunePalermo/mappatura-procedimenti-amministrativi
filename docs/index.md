@@ -34,7 +34,7 @@ I destinatari dei contenuti del progetto sono dirigenti, dipendenti e amministra
 
 I comuni sono tra i maggiori erogatori di servizi pubblici sul territorio a livello locale, e per tale motivo sono tenuti a gestire un numero elevato di procedimenti amministrativi correlati agli stessi servizi. 
 
-Questo progetto si pone l'obiettivo di facilitare e documentare il percorso operativo che il personale delle amministrazioni comunali devono avviare e condurre per la digitalizzazione dei servizi e dei relativi procedimenti.
+Questo progetto si pone l'obiettivo di facilitare :material-hand-extended: e documentare :material-file-document-outline: il percorso operativo che il personale delle amministrazioni comunali deve avviare e condurre per la digitalizzazione dei servizi e dei relativi procedimenti.
 
 
 ## Forum per l'interazione e la propositività :octicons-comment-discussion-16:
