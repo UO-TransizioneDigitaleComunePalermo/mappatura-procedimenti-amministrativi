@@ -29,6 +29,12 @@ style A fill:#fc5b5b,stroke:#333,stroke-width:2px
 ```
 <!-- era fill:#f9f -->
 
+## Destinatari del presente progetto :material-target-account:
+I destinatari dei contenuti del progetto sono dirigenti, dipendenti e amministratori politici delle amministrazzioni comunali.
+
+I comuni sono tra i maggiori erogatori di servizi pubblici sul territorio a livello locale, e per tale motivo sono tenuti a gestire un numero elevato di procedimenti amministrativi. Questo progetto si pone l'obiettivo di facilitare il percorso operativo che le amministrazioni comunali devono avviare per la digitalizzazione dei servizi e dei relativi procedimenti.
+
+
 ## Forum per l'interazione e la propositività :octicons-comment-discussion-16:
 Nella fase di creazione di questo documento abbiamo pensato che interagire e confrontarsi con altre persone (colleghe/i di altre Pubbliche Amministrazioni e non) sia una delle cose più importanti da fare se si vuole migliorare costanetemente il modo di lavorare negli uffici pubblici. A tal proposito è stato predisposto un apposito [**`Forum`**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions) :material-forum-outline: sulla piattaforma GitHub :material-github:, che ospita il codice sorgente di questo progetto di documentazione, nel quale è possibile fare domande, ma anche proporre idee e miglioramenti al flusso di lavoro per la mappatura e analisi dei procedimenti amministrativi. Un luogo di interazione. Il link al Forum è anche riportato in alto nel menù di questo progetto.
 
