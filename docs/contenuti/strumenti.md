@@ -10,7 +10,7 @@ hide:
 
 
 
-## :material-monitor-cellphone: Come è costruito questo progetto di documentazione 
+## :material-monitor-cellphone: Come è costruito il progetto di documentazione 
 Questo progetto di documentazione è stato creato utilizzando i seguenti strumenti:
 
 <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
@@ -23,8 +23,8 @@ Questo progetto di documentazione è stato creato utilizzando i seguenti strumen
 
 
 
-## :octicons-share-android-16: Strumenti per consentire l'interazione online
-Gli strumenti utilizzati per arricchire l'esperienza dei contenuti di questo progetto sono:
+## :octicons-share-android-16: Strumenti per consentire l'interazione online sul progetto
+Gli strumenti utilizzati per arricchire l'esperienza dei contenuti del progetto sono:
 
 <img src="https://img.shields.io/badge/Addthis-for_sharing_contents-blue.svg?style=popout"> [**Addthis**](https://www.addthis.com/) per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispositivi mobile. <!-- Il codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html` -->
 
