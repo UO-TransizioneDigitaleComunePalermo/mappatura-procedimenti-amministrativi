@@ -6,9 +6,17 @@
 # Mappatura e analisi dei procedimenti amministrativi
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width=350 /> 
 
+**Cosa è questo progetto di documentazione**
 
+Questo progetto di documentazione ha lo scopo di illustrare un metodo e un set di strumenti semplici per avviare la mappatura e analisi dei procedimenti amministrativi gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune".
 
-## UO-TransizioneDigitaleComunePalermo 
+Realizzare un’analisi dei procedimenti in ottica di semplificazione, al fine di creare le pre-condizioni per la reingegnerizzazione degli stessi e la relativa digitalizzazione.
+
+Questa guida è stata progettata seguendo il percorso operativo condotto dall’Amministrazione comunale di Palermo, impegnata da anni nella transizione alla modalità digitale, come prevista dal Codice dell’Amministrazione Digitale (decreto legislativo n. 82/2005 e successive modifiche).
+
+Vengono descritte le azioni realizzate dal personale comunale, che hanno portato alla redazione di un catalogo contenente le fasi operative e i metadati dei procedimenti, tracciando un passo importante per il Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
+
+## Progetto curato da UO-TransizioneDigitaleComunePalermo 
 ![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png) 
 
 
