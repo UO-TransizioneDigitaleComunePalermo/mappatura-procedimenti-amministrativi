@@ -21,7 +21,7 @@ Vengono descritte le azioni realizzate dal personale comunale, che hanno portato
 Progetto consultabile al link: [**https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/)
 
 
-## Come è costruito questo progetto (Material for MkDocs)
+## Come è costruito il progetto 
 
 <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
 
