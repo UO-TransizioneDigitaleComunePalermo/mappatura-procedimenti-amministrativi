@@ -14,27 +14,27 @@ hide:
 ## Mappa ad albero
 
 <pre><code>
-<a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_self">Home</a>
-├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" target="_self">Focus giuridico</a> 
+<a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_self"><b>Home</b></a>
+├─ Focus giuridico 
 |  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" target="_self">Focus giuridico</a>
 |  └─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" target="_self">I procedimenti visti dal "CAD"</a>
-├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/digitalizzazione-ambito-comunale/" target="_self">Mappatura</a>
+├─ Mappatura
 |  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/digitalizzazione-ambito-comunale/" target="_self">Percorsi di digitalizzazione in ambito comuale</a>
 |  └─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/esperienza-analisi/" target="_self">L'analisi dei procedimenti nel Piano della Performance</a>
-├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati/" target="_self">Metadati</a>
+├─ Metadati
 |  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati/" target="_self">I metadati nella mappatura dei procedimenti</a>
 |  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati-determinazione-deliberazione/" target="_self">Metadati di determinazioni e deliberazioni</a>
-|  ├─ Schema di metadati per mappatura dei procedimenti
-|  └─ Esperienza di mappatura con metadati   
-├─ Fasi operative
-├─ Reingegnerizzazione
-├─ Catalogo
-├─ Linkografia
-├─ Redazione
-├─ Strumenti | Licenza
-├─ Forum
-├─ Mappa de sito
-└─ Privacy-cookies
+|  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/schema-metadati/" target="_self">Schema di metadati per mappatura dei procedimenti</a>
+|  └─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/esperienza-metadatazione/" target="_self">Esperienza di mappatura con metadati</a>   
+├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/fasi-operative/" target="_self">Fasi operative</a>
+├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/reingegnerizzazione/" target="_self">Reingegnerizzazione</a>
+├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/" target="_self">Catalogo</a>
+├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/" target="_self">Linkografia</a>
+├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/redazione/" target="_self">Redazione</a>
+├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/strumenti/" target="_self">Strumenti | Licenza</a>
+└─ <a href="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions" target="_self">Forum</a>
+-  <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/site-map/" target="_blank">Mappa de sito</a>
+-  <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/privacy/" target="_blank">Privacy-cookies</a>
 </code></pre>
 
 ---
