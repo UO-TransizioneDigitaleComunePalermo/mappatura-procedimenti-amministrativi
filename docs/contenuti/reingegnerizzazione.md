@@ -215,6 +215,7 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
     - Dipendenti di altre amministrazioni o istituzioni 
     - Committenti
 
+    [Fonte](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-research/usabilita.html#user-centered-design)
 
 
 <!--
