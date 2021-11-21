@@ -207,6 +207,12 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
  - disegnare e sviluppare flussi di interazione chiari, che rispondano con efficacia alle necessità dei diversi utenti, generando un’esperienza d’uso positiva; 
  - strutturare i contenuti in modo semplice, con uno stile comunicativo coerente e una strategia editoriale sostenibile nel tempo.
 
+!!! Note "user centered design"
+    Lo `user centered design` è un insieme di tecniche usate per far emergere i bisogni effettivi delle persone per cui si sta progettando un contenuto, coinvolgendo le persone stesse nel processo di progettazione. Per «persone» si intendono tutti i portatori di interesse (stakeholder) del progetto. Nel caso della pubblica amministrazione:
+      - Cittadini 
+      - Aziende 
+      - Dipendenti di altre amministrazioni o istituzioni 
+      - Committenti
 
 
 
