@@ -37,7 +37,7 @@ hide:
 -  <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/privacy/" target="_blank">Privacy-cookies</a>
 </code></pre>
 
----
+
 
 ## Mappa a grafo :material-graph-outline:
 <div class="center"> 
