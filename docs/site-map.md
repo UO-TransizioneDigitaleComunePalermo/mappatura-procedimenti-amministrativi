@@ -15,7 +15,7 @@ hide:
 
 <pre><code>
 <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_self"><b>Home</b></a>
-├─ Focus giuridico 
+├─ Focus giuridico  :octicons-law-24:
 |  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" target="_self">Focus giuridico</a>
 |  └─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" target="_self">I procedimenti visti dal "CAD"</a>
 ├─ Mappatura
