@@ -2,7 +2,6 @@
 <img alt="undefined" src="https://img.shields.io/github/last-commit/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi.svg?&label=ultimo_aggiornamento">
 
 
-
 # Mappatura e analisi dei procedimenti amministrativi
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width=350 /> 
 
@@ -19,6 +18,7 @@ Vengono descritte le azioni realizzate dal personale comunale, che hanno portato
 ## Progetto curato da UO-TransizioneDigitaleComunePalermo 
 ![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png) 
 
+Progetto consultabile al link: [**https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/)
 
 
 ## Come è costruito questo progetto (Material for MkDocs)
