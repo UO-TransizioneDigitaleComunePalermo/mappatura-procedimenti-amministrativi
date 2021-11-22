@@ -5,9 +5,13 @@ hide:
 
 
 # Reingegnerizzazione dei procedimenti :material-engine-outline:
+Questa pagina focalizza l'attenzione sull'attività di riprogettazione, dei flussi di lavoro, che deve essere effettuata sia per la nuova gestione in modalità digitale dei procedimenti amministrativi, grazie all'uso di adeguati applicativi software, sia per migliorare le modalità di lavoro da parte del personale della PA e dell'utente (per i procedimenti attivati da istanza di parte) e per ridurre i tempi di processamento delle fasi operative.
+
 
 ## Cosa si intende per reingegnerizzazione dei procedimenti
 La reingegnerizzazione è un attività di rivisitazione/riprogettazione del flusso di lavoro necessario alla gestione dei procedimenti amministrativi.
+
+Il termine reingegnerizzazione va inteso come rivisitazione, ri-progettazione del flusso di lavoro, privilegiando la gestione efficace e cercando di evitare fasi ridondanti o addirittura inutili per il perfezionamento del procedimento.
 
 !!! info inline end
 
