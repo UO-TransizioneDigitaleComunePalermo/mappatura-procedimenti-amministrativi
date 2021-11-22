@@ -54,7 +54,7 @@ cittadino/a, impresa, associazione che 1) chiede un servizio alla PA e 2) attend
 
 Nel caso di percezione dell'utente "negativa" del servizio pubblico reso, il personale delle PA responsabile della gestione del procedimento deve effettuare un analisi degli aspetti che caratterizzano le criticità, ed in questo può essere utile fare infadigini online di **`customer satisfaction`** con le quali - attraverso domande specifiche :fontawesome-regular-list-alt: - intercettare gli aspetti del processo di lavoro che debbono essere migliorati, al fine di assicurare all'utenza un servizio più vicino alle aspettative (ad esempio, aspetti su: accessibilità, interfaccia grafica, fasi operative da seguire sulla piattaforma informatica, modalità di pagamenti, modalità di comunicazione e di avvisi tra utente e PA, ecc.).
 
-[![](https://user-images.githubusercontent.com/42996217/142882837-9ce7084d-3b65-431e-a18d-078c8eee3c9a.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf)
+[![](https://user-images.githubusercontent.com/42996217/142882837-9ce7084d-3b65-431e-a18d-078c8eee3c9a.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf#page=30)
 `scheda del servizio da erogare a cui è legato un procedimento`
 
 
@@ -179,7 +179,7 @@ La **User Experience** UX (esperienza utente) è strettamente legata alla **User
 
 Utenti e personale della PA hanno entrambi la stessa esigenza|aspettativa di interagire con interfaccie grafiche software di semplice intuizione, che si adattaono a qualsiasi dimensione di dispaly (laptop, tablet, smartphone, pc desktop).
 
-[![](https://user-images.githubusercontent.com/42996217/142879902-2cb144f1-91d3-421f-8f29-c53db315df4d.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf)
+[![](https://user-images.githubusercontent.com/42996217/142879902-2cb144f1-91d3-421f-8f29-c53db315df4d.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf#page=31)
 `Focus sui servizi al cittadino a cui è legato un procedimento`
 
 I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi e per tale ragione il software gestionale deve permettere/assicurare a chiunque di fare le cose in maniera facile, intuitiva e agevole, senza incorrere in problemi di accessibilità o di interpretazione delle funzioni operative (relative alle interfaccie grafiche).
