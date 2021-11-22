@@ -52,13 +52,13 @@ A ---- M(Reingegnerizzazione)
 A ---- F(Catalogo);
 A ---- G(Linkografia);
 A ---- H(Redazione);
-A ---- I(Strumenti e Licenza);
+A ---- I(Strumenti);
 A ---- L(Forum);
 B ---- B1(Procedimenti visti dal CAD);
 C ---- C1(Digitalizzazione in ambito comuale);
-C1 ---- C2(Analisi procedimenti nel Piano Performance);
+C1 ---- C2(Procedimenti nel Piano Performance);
 D ---- D1(Metadati nella mappatura dei procedimenti);
-D1 --- D2(Metadati di determinazioni e deliberazioni);
+D1 --- D2(Metadati di determinaz. e deliberaz.);
 D2 ---- D3(Schema metadati per mappatura procedimenti);
 D3 ---- D4(Esperienza di mappatura con metadati);
 click A "https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" _blank
