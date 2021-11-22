@@ -162,6 +162,14 @@ Un applicativo gestionale deve poter offrire la possibilità alla pubblica ammin
 ## Richieste di servizi più efficienti dalla collettività :fontawesome-solid-users:
 Oggi cittadini, imprese e associazioni richiedono servizi pubblici sempre più efficienti ed in modalità digitale, senza essere ostaggio di inutili perdite di tempo. A questo fabbisogno della colletività deve seguire un "aggiornamento" del prezioso sistema dei metadati e delle fasi operative di lavoro per la gestione del procedimento. 
 
+> [*I cittadini si aspettano*](https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/stabile/principi-guida-lanalisi-dei-risultati-della-ricerca/priorit%C3%A0-e-bisogni.html):
+> 
+> - *una maggiore proattività da parte del comune nel proporre informazioni puntuali e personalizzate, servizi correlati e notifiche automatizzate;* 
+> - *un maggior numero di pratiche gestibili online per garantire una gestione migliore dei tempi allo sportello, trasformando lo sportello in un servizio di assistenza e consulenza vera e propria;* 
+> - *una semplificazione non solo delle procedure, ma anche del linguaggio burocratico, che permetta di essere autonomi da intermediari e consulenti nella gestione di pratiche al momento non completamente accessibili;* 
+> - *una comunicazione aggiornata e trasparente;* 
+> - *integrazione e scambio di dati tra più enti, evitando di ripetere le stesse procedure e di inserire informazioni già note.*
+
 Nella PA è difficile individuare e reingegnerizzare processi di lavoro, in quanto c'è la tendenza culturale generalizzata a privilegiare la "conformità alle norme" anzichè privilegiare l’"efficacia" e l’"efficienza operativa". 
 Non viene dedicato il tempo e l'attenzione necessaria all’utente, preferendo il rispetto di esigenze organizzative interne. Il principale errore delle pubbliche amministrazioni consiste nell'essere autoreferenziali e nel non orientare la propria azione amministrativa a servizio del cittadino. Ancora oggi molte PA programmano la gestione dei servizi facendo riferimento a *Organigrammi/Uffici/Dirigenti* e non alla soddisfazione dell'utente nella fruizione di un servizio pubblico.
 
