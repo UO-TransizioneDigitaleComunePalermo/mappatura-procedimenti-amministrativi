@@ -75,17 +75,17 @@ Il file contiene i principali metadati dei procedimenti che permettono:
 - `telefono del responsabile`, 
 - `il servizio/ufficio responsabile`, 
 - `l'informazione se il procedimento è gestibile in modalità "lavoro agile" (utile per la costruzione del POLA)`, 
-- `un numero progressivo identificativo del procedimento in un database`, 
+- `un numero progressivo identificativo del procedimento amministrativo in un database`, 
 - `il link alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"`.
 
-Il database ha il seguente "schema dati":
+Il database ha il seguente "**schema dati**":
 
 |==area==|==settore==|==servizio==|==denominazione procedimento==|==lavoro agile==|==email responsabile procedimento==|==telefono info==|==link scheda==|==rif==|
 |----|-------|--------|--------------------------|------------|-------------------------------|-------------|-----------|---|
 |Decoro Urbano e Verde|                          |Capo Area/Responsabile del Verde Urbano|Risposta scritta interrogazione consiliare|si|nomecognome @comune.palermo.it|0917401111|[link](https://docs.google.com/spreadsheets/d/1qJ8iUDgwPxVebEOCjFFR-gKIWO5ro2hd/edit#gid=371520549)|1|
 |Educazione Formazione e Politiche Giovanili| | staff Capo Area| Erogazione contributi  previsti dal D.Lgs n. 65 del 13.04.2017  (0-6 anni) | si | nomecognome @comune.palermo.it | 0917401111 - 0917401112 | [link](https://docs.google.com/spreadsheets/d/1xbGxiY8iYK2-k39EyPV_coAf7R4TrVuDd8SUmL9fGNs/edit#gid=1298047631)|2|
 
-Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate dai responsabili del procedimento), si provvede a creare un catalogo che permetta, online, la consultazione facile con possibilità di effettuare ricerche multicriterio. 
+Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate dai responsabili del procedimento), si provvede a creare un catalogo che permetta la consultazione online e facile, con possibilità di effettuare ricerche multicriterio. 
 
 !!! Note "Importante"
     **Il catalogo con la mappatura e le schede di analisi dei procedimenti può diventare un allegato del capitolato speciale di appalto che la PA può fornire alle aziende che parteciperanno alla fornitura del software per la digitalizzazione dei procedimenti dell'ente pubblico**. 
@@ -95,7 +95,7 @@ Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate
 
 ---
 
-## Creare un interfaccia grafica con GitHub per il catalogo online :fontawesome-brands-github:
+## Creare un interfaccia grafica con GitHub :fontawesome-brands-github: per il catalogo online 
 Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo) è possibile creare un interfaccia di catalogo molto intuitiva per la consultazione online.
 
 [![](https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png)](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo)
@@ -127,17 +127,18 @@ Sul progetto da creare su GitHub si fa riferimento al link del foglio excel di G
 
 
 ### Clonare il progetto esistente come modello da replicare per un nuovo catalogo :octicons-repo-clone-16:
-:octicons-repo-clone-16: La realizzazione del progetto su GitHub è possibile clonando il [**progetto già realizzato**](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo), e dando un nuovo titolo nella sezione "**Repository Name**" ↓
+La realizzazione del progetto su GitHub è possibile clonando il [**progetto già realizzato**](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo), e dando un nuovo titolo nella sezione "**Repository Name**" ↓
 
 ![clona il repository GitHub](https://user-images.githubusercontent.com/42996217/141466142-53cf9edb-6b6b-4df3-8795-ac6da2da9b0f.png)
 
 
-### Codice sorgente open source
-Il codice sorgente utilizzato è ["**open source**"](https://it.wikipedia.org/wiki/Open_source) e rilasciato con licenza aperta che ne permette il riutilizzo gratuito.
+### Codice sorgente open source :material-open-source-initiative:
+Il codice sorgente utilizzato è ["**open source**"](https://it.wikipedia.org/wiki/Open_source) ed è rilasciato con licenza aperta che ne permette il riutilizzo gratuito.
+
+---
 
 
-
-## Presentazione del `catalogo`
+## Presentazione del `catalogo` :computer:
 Presentazione del [**catalogo dei procedimenti amministrativi del Comune di Palermo**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) come strumento fondamentale di conoscenza per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione dei procedimenti.
 
 [![](https://user-images.githubusercontent.com/42996217/141728854-f2e11070-85e4-4afc-a075-229beed21f34.png)](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/)
