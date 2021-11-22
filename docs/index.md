@@ -56,7 +56,7 @@ A ---- M([Reingegnerizzazione])
 A ---- F([Catalogo]);
 A ---- G([Linkografia]);
 A ---- H([Redazione]);
-A ---- I([Strumenti e Licenza]);
+A ---- I([Strumenti]);
 A ---- L([Forum]);
 B ---- B1([Procedimenti visti dal CAD]);
 C ---- C1([Digitalizzazione in ambito comuale]);
