@@ -47,7 +47,7 @@ A tal proposito è stato predisposto un apposito [**`Forum`**](https://github.co
 
 ## Contenuti del progetto :fontawesome-solid-sitemap:
 
-<div style="width:300px;overflow:auto">
+<div style="width:1000px;overflow:auto">
 <pre>
 <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_self"><b>Home</b></a>
 ├─ Focus giuridico &#8595; 
