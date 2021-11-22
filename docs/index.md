@@ -42,10 +42,11 @@ Nella fase di creazione di questo documento abbiamo pensato che interagire e con
 
 A tal proposito è stato predisposto un apposito [**`Forum`**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions) :material-forum-outline: sulla piattaforma GitHub :material-github:, che ospita il codice sorgente di questo progetto di documentazione, nel quale è possibile fare domande, ma anche proporre idee e miglioramenti al flusso di lavoro per la mappatura e analisi dei procedimenti amministrativi. Un luogo di interazione. 
 
+[Vai al forum :material-forum:](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions){ .md-button .md-button--primary }
+
 
 ## Contenuti del progetto :fontawesome-solid-sitemap:
 <div class="center"> 
-
 <pre>
 <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_self"><b>Home</b></a>
 ├─ Focus giuridico &#8595; 
@@ -68,14 +69,10 @@ A tal proposito è stato predisposto un apposito [**`Forum`**](https://github.co
 └─ <a href="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions" target="_self">Forum</a>
 -  <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/site-map/" target="_blank">Site map</a>
 -  <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/privacy/" target="_blank">Privacy-cookies</a>
-</pre>  
-  
-  
+</pre>    
 </div>
 
 
 
-<!--
-[Vai al forum :material-forum:](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions){ .md-button .md-button--primary }
--->
+
 
