@@ -43,7 +43,7 @@ Nella fase di creazione di questo documento abbiamo pensato che interagire e con
 A tal proposito è stato predisposto un apposito [**`Forum`**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions) :material-forum-outline: sulla piattaforma GitHub :material-github:, che ospita il codice sorgente di questo progetto di documentazione, nel quale è possibile fare domande, ma anche proporre idee e miglioramenti al flusso di lavoro per la mappatura e analisi dei procedimenti amministrativi. Un luogo di interazione. 
 
 
-## Contenuti del progetto :material-graph-outline:
+## Contenuti del progetto :fontawesome-solid-sitemap:
 <div class="center"> 
 
 <pre>
