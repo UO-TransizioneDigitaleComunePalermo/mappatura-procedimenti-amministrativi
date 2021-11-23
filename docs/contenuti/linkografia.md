@@ -5,7 +5,7 @@ hide:
 
 # Documenti essenziali per la digitalizzazione di procedimenti e servizi :octicons-link-external-16:
 
-Di seguito si riportano i link ai principali **documenti** e **Linee Guida**, redatte dall'[Agenzia per l'Italia Digitale](https://www.agid.gov.it/) e dal [Ministero per l'Innovazione Tecnologica e la digitalizzazione](https://innovazione.gov.it/), per la digitalizzazione dei procedimenti amministrativi e dei relativi servizi all'utenza.
+Di seguito si riportano i link ai principali **documenti** e **Linee Guida**, redatte dall'[**Agenzia per l'Italia Digitale**](https://www.agid.gov.it/) e dal [**Ministero per l'Innovazione Tecnologica e la digitalizzazione**](https://innovazione.gov.it/), per la digitalizzazione dei procedimenti amministrativi e dei relativi servizi pubblici.
 
 - [CAD - Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html)
 - [Piano Triennale per l’informatica nella Pubblica Amministrazione 2020 - 2022](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html)
@@ -30,6 +30,6 @@ Link ai portali dell'AGID e del Dipartimento Trasformazione Digitale sule linee 
 - [Docs Italia](https://docs.italia.it/)
 - [Linee Guida AGID](https://www.agid.gov.it/it/linee-guida)
 
-Link al Forum per 
+Link al Forum per lo spazio di discussione aperto a tutti sui servizi pubblici digitali
 
-- [Forum Italia](https://forum.italia.it/), lo spazio di discussione aperto a tutti sui servizi pubblici digitali
+- [Forum Italia](https://forum.italia.it/)
