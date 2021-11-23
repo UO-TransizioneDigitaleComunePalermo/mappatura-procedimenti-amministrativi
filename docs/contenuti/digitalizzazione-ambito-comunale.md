@@ -148,7 +148,7 @@ La **reingegnerizzazione** va attuata dopo alcuni **step**:
 Il 3° step rappresenta il tempo in cui può essere effettuata la “reingegnerizzazione” tenendo conto delle modifiche da apportare ai procedimenti per un ottimale gestione del procedimento stesso nella **modalità digitale**.
 
 !!! Note "Per approfondimenti"
-    Vai alla pagina dedicata [`Reingegnerizzazione`](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/reingegnerizzazione/)
+    Vai alla pagina dedicata [`Reingegnerizzazione`](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/reingegnerizzazione/) :octicons-link-external-16:
 
 
 ## Il supporto dell’Intelligenza Artificiale
