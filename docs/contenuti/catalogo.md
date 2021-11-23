@@ -80,9 +80,9 @@ Il file contiene i principali metadati dei procedimenti che permettono:
 
 Il database ha il seguente "**schema dati**":
 
-|==area==|==settore==|==servizio==|==denominazione procedimento==|==lavoro agile==|==email responsabile procedimento==|==telefono info==|==link scheda==|==rif==|
+|==area==|==settore==|==servizio==|==denominazione procedimento==|==lavoro agile==|==email resp.procedimento==|==telefono info==|==link scheda==|==rif==|
 |----|-------|--------|--------------------------|------------|-------------------------------|-------------|-----------|---|
-|Decoro Urbano e Verde|                          |Capo Area/Responsabile del Verde Urbano|Risposta scritta interrogazione consiliare|si|nomecognome @comune.palermo.it|0917401111|[link](https://docs.google.com/spreadsheets/d/1qJ8iUDgwPxVebEOCjFFR-gKIWO5ro2hd/edit#gid=371520549)|1|
+|Decoro Urbano e Verde|                          |Capo Area / Responsabile del Verde Urbano|Risposta scritta interrogazione consiliare|si|nomecognome @comune.palermo.it|0917401111|[link](https://docs.google.com/spreadsheets/d/1qJ8iUDgwPxVebEOCjFFR-gKIWO5ro2hd/edit#gid=371520549)|1|
 |Educazione Formazione e Politiche Giovanili| | staff Capo Area| Erogazione contributi  previsti dal D.Lgs n. 65 del 13.04.2017  (0-6 anni) | si | nomecognome @comune.palermo.it | 0917401111 - 0917401112 | [link](https://docs.google.com/spreadsheets/d/1xbGxiY8iYK2-k39EyPV_coAf7R4TrVuDd8SUmL9fGNs/edit#gid=1298047631)|2|
 
 Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate dai responsabili del procedimento), si provvede a creare un catalogo che permetta la consultazione online e facile, con possibilità di effettuare ricerche multicriterio. 
