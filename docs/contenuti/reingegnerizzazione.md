@@ -192,9 +192,7 @@ Utenti e personale della PA hanno entrambi la stessa esigenza|aspettativa di int
 
 > *La fruizione dei servizi deve seguire un flusso standard, a partire dalla struttura delle informazioni fino all’integrazione di componenti di autenticazione (Spid) e del sistema di pagamento (pagoPA)* [(fonte)](https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/stabile/il-modello/architettura-dellinformazione.html#flusso-accesso).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3BPZXwwsXjc?list=PLd5bJJul8c5phEjmNKgPK2dCwZGCSqzsq&t=2086" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-https://youtu.be/3BPZXwwsXjc?list=PLd5bJJul8c5phEjmNKgPK2dCwZGCSqzsq&t=2086
+<iframe width="960" height="515" src="https://www.youtube.com/embed/3BPZXwwsXjc?list=PLd5bJJul8c5phEjmNKgPK2dCwZGCSqzsq&t=2086" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi e per tale ragione il software gestionale deve permettere/assicurare a chiunque di fare le cose in maniera facile, intuitiva e agevole, senza incorrere in problemi di accessibilità o di interpretazione delle funzioni operative (relative alle interfaccie grafiche).
 
