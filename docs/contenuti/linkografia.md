@@ -25,11 +25,11 @@ Di seguito si riportano i link ai principali **documenti** e **Linee Guida**, re
 - [Linee guida sulla formazione, gestione e conservazione dei documenti informatici](https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html)
 - [Linee Guida sull’infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati per l’interoperabilità dei sistemi informativi e delle basi di dati](https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/it/bozza/index.html#)
 
-Link ai portali dell'AGID e del Dipartimento Trasformazione Digitale sule linee guida
+Link ai portali dell'AGID e del Dipartimento Trasformazione Digitale sulle `linee guida`
 
 - [Docs Italia](https://docs.italia.it/)
 - [Linee Guida AGID](https://www.agid.gov.it/it/linee-guida)
 
-Link al Forum per lo spazio di discussione aperto a tutti sui servizi pubblici digitali
+Link al Forum nazionale per lo spazio di discussione aperto a tutti sui servizi pubblici digitali (a cura del Dipartimento per la Trasformazione Digitale + AGID)
 
 - [Forum Italia](https://forum.italia.it/)
