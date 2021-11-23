@@ -7,7 +7,7 @@ Al fine di costruire la scheda di metadati del procedimento è importante approf
 
 ## Definizioni di metadati
 
-- ==**ISO 23081-1== sistema di metadati per la gestione di documenti informatici**: Informazioni strutturate o semi-strutturate che consentono la formazione, registrazione, classificazione, accesso, conservazione e selezione di documenti nel tempo e nell’ambito di diversi domini. 
+- ==**ISO 23081-1**== sistema di metadati per la gestione di documenti informatici**: Informazioni strutturate o semi-strutturate che consentono la formazione, registrazione, classificazione, accesso, conservazione e selezione di documenti nel tempo e nell’ambito di diversi domini. 
 
 - ==**norma ISO 15489**==: Dati che descrivono:
     - il contenuto, 
