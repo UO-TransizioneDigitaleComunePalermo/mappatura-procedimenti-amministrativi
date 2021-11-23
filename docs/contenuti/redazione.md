@@ -46,11 +46,10 @@ I contenuti di questo progetto di documentazione sono stati anche trattati nel p
 
 ## Dopo la mappatura e analisi dei procedimenti, ... l'innovazione tecnologica 
 
-!!! Nota "Innovazione tecnologica e transizione digitale al Comune di Palermo"
-    Il Comune di Palermo gestisce i sistemi informativi e provvede alla digitalizzazione di procedimenti e servizi attraverso la Società interamente in house [SISPI SpA](https://www.sispi.it/) specializzata per l'informatica. 
+**Innovazione tecnologica e transizione digitale al Comune di Palermo**. Il Comune di Palermo gestisce i sistemi informativi e provvede alla digitalizzazione di procedimenti e servizi attraverso la Società interamente in house [SISPI SpA](https://www.sispi.it/) specializzata per l'informatica. 
+
+![](https://user-images.githubusercontent.com/42996217/141452047-eedca94d-1712-4406-95ed-e324eb1a6a8e.png)
     
-    ![](https://user-images.githubusercontent.com/42996217/141452047-eedca94d-1712-4406-95ed-e324eb1a6a8e.png)
-    
-    Attraverso le risorse del PO FESR Sicilia 2014-2020, OT2 (agenda digitale), entro il 2023, vengono realizzati progetti [(Azioni 2.2.1 e 2.2.3)](https://www.euroinfosicilia.it/po-fesr-sicilia-2014-2020/obiettivi-tematici/agenda-digitale/) per gestire in modalità digitale la maggior parte dei principali procedimenti amministrativi, grazie al supporto tecnico operativo della Società in house per i sistemi informatici SISPI SpA. 
-    
-    ![](https://user-images.githubusercontent.com/42996217/141454902-ff3f188c-56a5-497d-8220-9bf9de3a7968.PNG)
+Attraverso le risorse del PO FESR Sicilia 2014-2020, OT2 (agenda digitale), entro la fine del 2023, vengono realizzati progetti [(Azioni 2.2.1 e 2.2.3)](https://www.euroinfosicilia.it/po-fesr-sicilia-2014-2020/obiettivi-tematici/agenda-digitale/) per gestire in modalità digitale la maggior parte dei principali procedimenti amministrativi, grazie al supporto tecnico operativo della Società in house per i sistemi informatici SISPI SpA. 
+
+![](https://user-images.githubusercontent.com/42996217/141454902-ff3f188c-56a5-497d-8220-9bf9de3a7968.PNG)
