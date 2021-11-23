@@ -139,7 +139,7 @@ I ==**vantaggi**== sono:
 
 
 ## Metadati del documento informatico
-[Dalle =="linee guida AGID sulla formazione-gestione-conservazione documento informatico"==](https://www.agid.gov.it/sites/default/files/repository_files/all.5_metadati.pdf)
+[Dalle "linee guida AGID sulla formazione-gestione-conservazione documento informatico"](https://www.agid.gov.it/sites/default/files/repository_files/all.5_metadati.pdf)
 
 - **metadato IdDoc** (Identificativo univoco e persistente associato in modo univoco e permanente al documento informatico in modo da consentirne l’identificazione) 
 - **metadato Modalità di formazione** (Indica la modalità di generazione del documento informatico)
@@ -162,7 +162,7 @@ I ==**vantaggi**== sono:
 
 
 ## Metadati delle aggregazioni documentali informatiche
-[Dalle =="linee guida AGID sulla formazione-gestione-conservazione documento informatico"==](https://www.agid.gov.it/sites/default/files/repository_files/all.5_metadati.pdf)
+[Dalle "linee guida AGID sulla formazione-gestione-conservazione documento informatico"](https://www.agid.gov.it/sites/default/files/repository_files/all.5_metadati.pdf)
 
 - **metadato Identificativo dell’Aggregazione documentale** (è una sequenza di caratteri alfanumerici associata in modo univoco all’aggregazione documentale informatica in modo da consentirne l’identificazione, indica se si tratta di un Fascicolo o di una Serie Documentale o di una Serie di Fascicoli)
 - **metadato Tipologia fascicolo** (I fascicoli sono organizzati per: affare, attività, persona fisica, persona giuridica, procedimento amministrativo.)
