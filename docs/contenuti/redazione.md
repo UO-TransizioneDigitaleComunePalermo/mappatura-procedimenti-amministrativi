@@ -52,4 +52,12 @@ I contenuti di questo progetto di documentazione sono stati anche trattati nel p
     
 Attraverso le risorse del PO FESR Sicilia 2014-2020, OT2 (agenda digitale), entro la fine del 2023, vengono realizzati progetti [(Azioni 2.2.1 e 2.2.3)](https://www.euroinfosicilia.it/po-fesr-sicilia-2014-2020/obiettivi-tematici/agenda-digitale/) per gestire in modalità digitale la maggior parte dei principali procedimenti amministrativi, grazie al supporto tecnico operativo della Società in house per i sistemi informatici SISPI SpA. 
 
+=== "2.2.1"
+
+    Soluzioni tecnologiche per la digitalizzazione e innovazione dei processi interni dei vari ambiti della pubblica amministrazione nel quadro del Sistema Pubblico di Connettività.
+             
+=== "2.2.3"
+
+    Interventi per assicurare l'interoperabilità delle banche dati pubbliche. (Gli interventi riguardano prioritariamente le grandi banche dati pubbliche, eventualmente anche nuove basi dati, nonchè quelle realizzate realizzate attraverso la gestione associata delle funzioni ICT, ricorrendo obe opportuno a soluzioni cloud).
+
 ![](https://user-images.githubusercontent.com/42996217/141454902-ff3f188c-56a5-497d-8220-9bf9de3a7968.PNG)
