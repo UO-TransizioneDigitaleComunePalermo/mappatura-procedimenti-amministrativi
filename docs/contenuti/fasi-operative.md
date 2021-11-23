@@ -9,6 +9,8 @@ hide:
 
 In questa pagina viene descritto come utilizzare (compilare) la scheda relativa alla descrizione delle "**fasi operative**" che in ordine cronologico caratterizzano la gestione del procedimento amministrativo, da parte del personale dell'ente pubblico.
 
+Lo schema dati della scheda è abbastanza semplice e di facile intuizione per chiunque.
+
 La scheda utilizzata è la seguente:
 
 | **==Ordine progressivo delle fasi del procedimento==** | **==Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo==** | **==Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo==** |
@@ -18,7 +20,11 @@ La scheda utilizzata è la seguente:
 | fase 3 | .............. | ........... |
 | fase 4 | .............. | ........... |
 
-Il 3° campo serve per inserire **Note** che si ritengono utili ad illustrare, quanto più dettagliatemete possibile, le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni o endo-procedimenti necessari al perfezionamento del procedimento amministrativo.
+Il 1° campo è riferito all'ordine temporale progressivo in cui si svolgono le azioni per la gestione del procedimento: fase 1 - fase 2 - fase 3 - fase 4 - ecc.
+
+Il 2° campo è riferito alla descrizione puntuale delle attività svolte, per fase, dal personale che gestisce il procedimento amministrativo.
+
+Il 3° campo serve per inserire **Note** che si ritengono utili ad illustrare, quanto più dettagliatemete possibile, le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni o endo-procedimenti necessari al perfezionamento e conclusione del procedimento amministrativo.
 
 La scheda "**fasi operative**" accompagna la scheda dei "**metadati**" del procedimento amministrativo. Entrambe le schede vengono compilate nello stesso tempo dai responsabili di procedimenti. Esse sono nello stesso file excel su Google Drive, distinte in due fogli di lavoro. 
 
