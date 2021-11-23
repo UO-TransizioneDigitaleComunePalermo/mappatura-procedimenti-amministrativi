@@ -7,18 +7,18 @@ Al fine di costruire la scheda di metadati del procedimento è importante approf
 
 ## Definizioni di metadati
 
-- **ISO 23081-1 sistema di metadati per la gestione di documenti informatici**: Informazioni strutturate o semi-strutturate che consentono la formazione, registrazione, classificazione, accesso, conservazione e selezione di documenti nel tempo e nell’ambito di diversi domini. 
+- ==**ISO 23081-1== sistema di metadati per la gestione di documenti informatici**: Informazioni strutturate o semi-strutturate che consentono la formazione, registrazione, classificazione, accesso, conservazione e selezione di documenti nel tempo e nell’ambito di diversi domini. 
 
-- **norma ISO 15489**: Dati che descrivono:
+- ==**norma ISO 15489**==: Dati che descrivono:
     - il contenuto, 
     - la struttura, 
     - il contesto dei documenti, 
     - e la loro gestione nel tempo.
 
-- **Wikipedia**: Un metadato - dal greco μετὰ "oltre, dopo, per mezzo" e dal latino datum "informazione" - plurale: data - letteralmente "(dato) per mezzo di un (altro) dato", 
+- ==**Wikipedia**==: Un metadato - dal greco μετὰ "oltre, dopo, per mezzo" e dal latino datum "informazione" - plurale: data - letteralmente "(dato) per mezzo di un (altro) dato", 
 è un'informazione che descrive un insieme di dati.
 
-- **Accademia Crusca**: Distinzione tra
+- ==**Accademia Crusca**==: Distinzione tra
     - metadati di struttura, definiscono l’architettura dei dati e la loro interrelazione, 
     - metadati di contenuto, classificano e descrivono l’informazione 
 
@@ -39,13 +39,13 @@ Al fine di costruire la scheda di metadati del procedimento è importante approf
 
 Dematerializzazione delle fonti dei documenti prodotti e mantenute informaticamente.
 
-**Vantaggi**: 
+==**Vantaggi**==: 
 
 - facile accessibilità ai documenti, e ricercabilità; 
 - rapido e facile trasferimento su altri supporti ed in ambienti (informatici) diversi; 
 - condivisione, ecc.
 
-**Limiti**: 
+==**Limiti**==: 
 
 - necessità di una molteplicità di mediazioni; 
 - strumenti e risorse per poterle utilizzare (leggere e comprendere); 
@@ -129,7 +129,7 @@ I metadati aiutano a **conoscere** e definire **l’architettura delle informazi
 I metadati prodotti e gestiti tramite tali formati orientati ai dati (o ‘formati standard’) sono allo stesso tempo 
 “**contenuto**” e “**informazione sul contenuto**”. 
 
-I **vantaggi** sono: 
+I ==**vantaggi**== sono: 
 
 - riuso dei dati contenuti nei metadati, 
 - interoperabilità (via software), 
@@ -139,7 +139,7 @@ I **vantaggi** sono:
 
 
 ## Metadati del documento informatico
-[Dalle "linee guida AGID sulla formazione-gestione-conservazione documento informatico"](https://www.agid.gov.it/sites/default/files/repository_files/all.5_metadati.pdf)
+[Dalle =="linee guida AGID sulla formazione-gestione-conservazione documento informatico"==](https://www.agid.gov.it/sites/default/files/repository_files/all.5_metadati.pdf)
 
 - **metadato IdDoc** (Identificativo univoco e persistente associato in modo univoco e permanente al documento informatico in modo da consentirne l’identificazione) 
 - **metadato Modalità di formazione** (Indica la modalità di generazione del documento informatico)
@@ -162,7 +162,7 @@ I **vantaggi** sono:
 
 
 ## Metadati delle aggregazioni documentali informatiche
-[Dalle "linee guida AGID sulla formazione-gestione-conservazione documento informatico"](https://www.agid.gov.it/sites/default/files/repository_files/all.5_metadati.pdf)
+[Dalle =="linee guida AGID sulla formazione-gestione-conservazione documento informatico"==](https://www.agid.gov.it/sites/default/files/repository_files/all.5_metadati.pdf)
 
 - **metadato Identificativo dell’Aggregazione documentale** (è una sequenza di caratteri alfanumerici associata in modo univoco all’aggregazione documentale informatica in modo da consentirne l’identificazione, indica se si tratta di un Fascicolo o di una Serie Documentale o di una Serie di Fascicoli)
 - **metadato Tipologia fascicolo** (I fascicoli sono organizzati per: affare, attività, persona fisica, persona giuridica, procedimento amministrativo.)
