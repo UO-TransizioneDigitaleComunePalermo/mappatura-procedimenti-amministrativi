@@ -16,14 +16,16 @@ Conclusa la compilazione delle schede (**metadati** + **fasi operative**) da par
 - collezionare 
 - e verificare 
 
-i contenuti di tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato excel) che li raccoglie tutti. Il database rappresenta la fonte dati che genererà l'interfaccia grafica del catalogo dei procedimenti.
+i contenuti di tutte le schede tabellari. 
 
-:material-database-check-outline: Questa è una fase importante in quanto dal database realizzato si accederà ai dati di tutti i procedimenti. Vediamo come creare il database.
+Viene creato una cartella su Google Drive che raccoglie tutti le schede compilate dal personal degli uffici. Successivamente si crea un `database` (sempre in formato excel su Googel Drive) che elenca tutte le schede dei procedimenti. Il `database` rappresenta la fonte dati che genererà l'interfaccia grafica del `catalogo` dei procedimenti.
+
+:material-database-check-outline: Questa è una fase importante in quanto dal database realizzato si accederà ai dati nel dettaglio di tutti i procedimenti. 
 
 
 
 ## Aggiornamento periodico delle schede ("versionamento") :octicons-versions-16:
-Un attività di fondamentale importanza è rappresentata dalla validazione delle schede nel tempo da parte dei responsabili dei procedimenti e dai dirigenti.
+Un attività di fondamentale importanza è rappresentata dalla validazione delle schede nel tempo da parte dei responsabili dei procedimenti e dai dirigenti. Le norme cambiano e anche le procedure operative per la gestione dei procedimenti possono cambiare, è necessario, quindi, tenere traccia di eventuali cambiamenti.
 
 I responsabili di procedimento e i dirigenti dovrebbero provvedere alla validazione dei contenuti delle schede dei procedimenti di competenza (dopo la prima versione), almeno con la seguente cadenza temporale:
 
@@ -47,7 +49,6 @@ Nei casi di modifica delle schede nei semestri successivi alla data di redazione
 | fase 3 | .............. | ........... |
 
 
-
 :material-file-document-multiple-outline: **metadati** ↓
 
 |==ID metadato==| ==Denominazione del metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
@@ -65,18 +66,18 @@ Tali informazioni di "versionamento" delle schede sono necessarie al fine di app
 
 
 ## Creare un database con l'elenco dei procedimenti
-Si procede con la creazione di un file in formato tabellare su Google Drive. 
+Un ufficio centrale dell'Amministrazione procede con la creazione di un file in formato tabellare su Google Drive. 
 
-Il file contiene i principali metadati dei procedimenti che permettono:
+Il file contiene i principali metadati dei procedimenti:
 
-- `l'individuazione del tipo di procedimento (denominazione)`, 
+- `denominazione procedimento`, 
 - `nome_cognome del responsabile`, 
 - `email del responsabile`, 
 - `telefono del responsabile`, 
-- `il servizio/ufficio responsabile`, 
-- `l'informazione se il procedimento è gestibile in modalità "lavoro agile" (utile per la costruzione del POLA)`, 
-- `un numero progressivo identificativo del procedimento amministrativo in un database`, 
-- `il link alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"`.
+- `servizio/ufficio responsabile`, 
+- `informazione che permette di capire se il procedimento è gestibile in modalità "lavoro agile" (utile per la costruzione del POLA)`, 
+- `numero progressivo identificativo del procedimento amministrativo in un database`, 
+- `link alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"`.
 
 Il database ha il seguente "**schema dati**":
 
@@ -85,12 +86,12 @@ Il database ha il seguente "**schema dati**":
 |Decoro Urbano e Verde|                          |Capo Area / Responsabile del Verde Urbano|Risposta scritta interrogazione consiliare|si|nomecognome @comune.palermo.it|0917401111|[link](https://docs.google.com/spreadsheets/d/1qJ8iUDgwPxVebEOCjFFR-gKIWO5ro2hd/edit#gid=371520549)|1|
 |Educazione Formazione e Politiche Giovanili| | staff Capo Area| Erogazione contributi  previsti dal D.Lgs n. 65 del 13.04.2017  (0-6 anni) | si | nomecognome @comune.palermo.it | 0917401111 - 0917401112 | [link](https://docs.google.com/spreadsheets/d/1xbGxiY8iYK2-k39EyPV_coAf7R4TrVuDd8SUmL9fGNs/edit#gid=1298047631)|2|
 
-Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate dai responsabili del procedimento), si provvede a creare un catalogo che permetta la consultazione online e facile, con possibilità di effettuare ricerche multicriterio. 
+Dall'elenco dei procedimenti con il relativo link alle singole schede (compilate dai responsabili del procedimento), come passo successivo, si procede a creare un catalogo che permetta la consultazione online facile, con possibilità di effettuare ricerche multicriterio. 
 
 !!! Note "Importante"
     **Il catalogo con la mappatura e le schede di analisi dei procedimenti può diventare un allegato del capitolato speciale di appalto che la PA può fornire alle aziende che parteciperanno alla fornitura del software per la digitalizzazione dei procedimenti dell'ente pubblico**. 
     
-    :exclamation: In questo modo la PA ha svolto il lavoro necessario affinchè le software house possano fornire un applicativo ideoneo a soddisfare al meglio i bisogni di digitalizzazione dei procedimenti della PA.
+    :exclamation: In questo modo la PA ha svolto un lavoro importante e necessario affinchè le software house possano costruire e fornire un applicativo ideoneo a soddisfare al meglio i bisogni di digitalizzazione per la gestione dei procedimenti della PA.
 
 
 ---
@@ -133,13 +134,13 @@ La realizzazione del progetto su GitHub è possibile clonando il [**progetto gi�
 
 
 ### Codice sorgente open source :material-open-source-initiative:
-Il codice sorgente utilizzato è ["**open source**"](https://it.wikipedia.org/wiki/Open_source) ed è rilasciato con licenza aperta che ne permette il riutilizzo gratuito.
+Il codice sorgente per il progetto realizzato su GitHub è ["**open source**"](https://it.wikipedia.org/wiki/Open_source) ed è rilasciato con licenza aperta che ne permette il riutilizzo gratuito (licenza [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.it)).
 
 ---
 
 
 ## Presentazione del `catalogo` :computer:
-Presentazione del [**catalogo dei procedimenti amministrativi del Comune di Palermo**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) come strumento fondamentale di conoscenza per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione dei procedimenti.
+Presentazione del [**catalogo dei procedimenti amministrativi del Comune di Palermo**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) come strumento di conoscenza per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione dei procedimenti.
 
 [![](https://user-images.githubusercontent.com/42996217/141728854-f2e11070-85e4-4afc-a075-229beed21f34.png)](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/)
 
