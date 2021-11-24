@@ -140,8 +140,10 @@ La realizzazione del progetto su GitHub è possibile clonando il [**progetto gi�
 ### Codice sorgente open source :material-open-source-initiative:
 Il codice sorgente per il progetto realizzato su GitHub è ["**open source**"](https://it.wikipedia.org/wiki/Open_source) ed è rilasciato con licenza aperta che ne permette il riutilizzo gratuito (licenza [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.it)).
 
+
 ---
 
+<br>
 
 ## Presentazione del `catalogo` :computer:
 Presentazione del [**catalogo dei procedimenti amministrativi del Comune di Palermo**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) come strumento di conoscenza per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione dei procedimenti.
