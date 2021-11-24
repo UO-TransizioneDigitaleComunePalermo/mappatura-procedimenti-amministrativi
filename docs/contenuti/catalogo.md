@@ -18,7 +18,7 @@ Conclusa la compilazione delle schede (**metadati** + **fasi operative**) da par
 
 i contenuti di tutte le schede tabellari. 
 
-Viene creato una cartella su Google Drive che raccoglie tutti le schede compilate dal personal degli uffici. Successivamente si crea un `database` (sempre in formato excel su Googel Drive) che elenca tutte le schede dei procedimenti. Il `database` rappresenta la fonte dati che genererà l'interfaccia grafica del `catalogo` dei procedimenti.
+Viene creato una cartella su Google Drive che raccoglie tutte le schede compilate dal personale degli uffici. Successivamente si crea un `database` (sempre in formato excel su Googel Drive) che elenca tutte le schede dei procedimenti. Il `database` rappresenta la fonte dati che genererà l'interfaccia grafica del `catalogo` dei procedimenti.
 
 :material-database-check-outline: Questa è una fase importante in quanto dal database realizzato si accederà ai dati nel dettaglio di tutti i procedimenti. 
 
@@ -33,10 +33,10 @@ I responsabili di procedimento e i dirigenti dovrebbero provvedere alla validazi
     :exclamation: **semestrale** ed in concomitanza con le scadenze degli obiettivi di Unità Organizzative e dirigenziali, se nessuna nuova norma interviene a modificare le fasi di gestione del procedimento amministrativo. In questo caso se nessuna modifica viene ritenuta necessaria da apportare alla modalità di gestione e dei metadati, si conferma e valida il contenuto delle schede compilate il semestre precedente;
 
 !!! Note ""
-    :exclamation: **nel momento preciso in cui una nuova norma interviene** a modificare le fasi di gestione e o i metadati del procedimento amministrativo.
+    :exclamation: **nel momento preciso in cui una nuova norma interviene** a modificare le fasi di gestione e/o i metadati del procedimento amministrativo. Si pensi, ad esempio, al cambio di ufficio che gestisce un procedimento, alla modifica di telefono/email/pec o alla modifica della modalità di pagamento.
 
 
-Nei casi di modifica delle schede nei semestri successivi alla data di redazione della prima versione delle schede (metadati e fasi operative) è necessario aggiungere un record "data_versione_scheda" sia alla scheda "**fasi operative**" che alla scheda "**metadati**", in maniera tale da avere sempre chiara la data di riferimento a partire dalla quale vigono le informazioni riportate nelle stesse schede. Il campo riportante la "data di versionamento" sarà il primo in ambedue le schede.
+Nei casi di modifica delle schede nei semestri successivi alla data di redazione della prima versione delle schede (metadati e fasi operative) è necessario aggiungere un record "data_versione_scheda" sia alla scheda "**fasi operative**" che alla scheda "**metadati**", in maniera tale da avere sempre definita la data di riferimento a partire dalla quale vigono le informazioni riportate nelle stesse schede. Il campo riportante la "data di versionamento" sarà il primo in ambedue le schede.
 
 
 :material-file-document-multiple-outline: **fasi operative** ↓
@@ -60,7 +60,7 @@ Nei casi di modifica delle schede nei semestri successivi alla data di redazione
 |4|Nome del Settore comunale competente e del Servizio Se non è previsto il Settore scrivere il nome del Servizio di appartenenza| Settore della Cittadinanza solidale- Staff responsabile di Settore|  |
 |5| ..... | ..... | ...... |
 
-Tali informazioni di "versionamento" delle schede sono necessarie al fine di apportare le eventuali modifiche future all'applicativo informatico per la gestione dei procedimenti e anche per tenere traccia delle variazioni dei contenuti delle schede nel tempo.
+Le informazioni di "versionamento" delle schede sono necessarie al fine di apportare le eventuali modifiche future all'applicativo informatico per la gestione dei procedimenti e anche per tenere traccia delle variazioni dei contenuti delle schede nel tempo.
 
 
 
@@ -101,7 +101,7 @@ Attraverso un [**progetto di codice ospitato sulla piattaforma GitHub**](https:/
 
 [![](https://user-images.githubusercontent.com/42996217/141148955-34ca8068-dc79-47ab-b341-2fa1e9f35ff1.png)](https://github.com/UO-TransizioneDigitaleComunePalermo/procedimenti-amministrativi-comunepalermo)
 
-[**`GitHub`**](https://github.com/) è un servizio online e gratuito di hosting per progetti software. 
+[**`GitHub`**](https://github.com/) è un servizio online gratuito di hosting per progetti software. E' la stessa piattaforma che viene utilizzata da [AGID e Dipartimento Trasformazione Digitale](https://github.com/italia/) per la conservazione e messa a disposizione pubblica online, del codice sorgente sorgente delle soluzioni informatiche realizzate per l'attuazione del Codice dell'Amministrazione Digitale.
 
 
 
@@ -134,7 +134,7 @@ Il codice sorgente per il progetto realizzato su GitHub è ["**open source**"](h
 
 <br>
 
-## Presentazione del `catalogo` :octicons-device-desktop-24:
+## Presentazione del catalogo :octicons-device-desktop-24:
 Presentazione del [**catalogo dei procedimenti amministrativi del Comune di Palermo**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) come strumento di conoscenza per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione dei procedimenti.
 
 [![](https://user-images.githubusercontent.com/42996217/141728854-f2e11070-85e4-4afc-a075-229beed21f34.png)](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/)
