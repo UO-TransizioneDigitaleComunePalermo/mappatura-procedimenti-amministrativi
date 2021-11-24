@@ -121,6 +121,8 @@ Sul progetto da creare su GitHub si fa riferimento al link del foglio excel di G
 
 :white_check_mark:  L'URL `https://docs.google.com/spreadsheets/d/e/2PACX-1vQfrJ2qTTIIkX5Pf0Q4dxijhIA9R3XtocGEvhPsNA3Hd-OnhTgkYEqNJltvVeTdQrsXAsnrDX2_09lK/pub?output=csv` è la fonte dati da cui il progetto GitHub genera l'interfaccia web di consultazione dei procedimenti amministrativi.
 
+<br>
+
 !!! Note "Gli strumenti usati per realizzare la visualizzazione del catalogo dei procedimenti sono 4"
 
     - [**Simile Exhibit**](http://www.simile-widgets.org/exhibit3/), per realizzare l'interfaccia di navigazione del catalogo online
