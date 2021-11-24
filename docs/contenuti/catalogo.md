@@ -134,7 +134,7 @@ Il codice sorgente per il progetto realizzato su GitHub è ["**open source**"](h
 
 <br>
 
-## Presentazione del `catalogo` :computer:
+## Presentazione del `catalogo` :octicons-device-desktop-24:
 Presentazione del [**catalogo dei procedimenti amministrativi del Comune di Palermo**](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/) come strumento di conoscenza per il personale della PA, per i cittadini e per la costruzione della piattaforma digitale di gestione dei procedimenti.
 
 [![](https://user-images.githubusercontent.com/42996217/141728854-f2e11070-85e4-4afc-a075-229beed21f34.png)](https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/)
