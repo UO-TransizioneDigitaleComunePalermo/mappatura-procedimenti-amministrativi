@@ -5,7 +5,7 @@ hide:
 
 
 
-# Costruire un esempio di catalogo dei procedimenti amministrativi
+# Costruire un catalogo dei procedimenti amministrativi
 
 !!! info inline end
 
@@ -16,9 +16,9 @@ Conclusa la compilazione delle schede (**metadati** + **fasi operative**) da par
 - collezionare 
 - e verificare 
 
-i contenuti di tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato excel) che li elenca tutti. Il database rappresenta la fonte dati che genererà il catalogo dei procedimenti amministrativi.
+i contenuti di tutte le schede tabellari in una cartella su Google Drive, e costruisce un database (in formato excel) che li raccoglie tutti. Il database rappresenta la fonte dati che genererà l'interfaccia grafica del catalogo dei procedimenti.
 
-:material-database-check-outline: Questa è una fase importante in quanto dal database costruito si accederà ai dati di tutti i procedimenti. Vediamo come creare il database.
+:material-database-check-outline: Questa è una fase importante in quanto dal database realizzato si accederà ai dati di tutti i procedimenti. Vediamo come creare il database.
 
 
 
