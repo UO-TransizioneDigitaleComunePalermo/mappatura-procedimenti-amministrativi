@@ -15,7 +15,8 @@ Realizzare un’analisi dei procedimenti in ottica di **semplificazione**, al fi
 
 Questa guida è stata progettata seguendo il percorso operativo condotto dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione alla modalità digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (decreto legislativo n. 82/2005 e successive modifiche). 
 
-Vengono descritte le azioni realizzate dal personale comunale, che hanno portato alla redazione di un <span style="background-color: #757474; color: #ffffff; padding: 0px 4px; border-radius: 5px;"><b>catalogo</b></span> contenente le **`fasi operative`** e i **`metadati`** dei procedimenti, tracciando un passo importante per il Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
+Vengono descritte le azioni realizzate dal personale comunale, che hanno portato alla redazione di un **`catalogo`** contenente le **`fasi operative`** e i **`metadati`** dei procedimenti, tracciando un passo importante per il Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
+<!-- <span style="background-color: #757474; color: #ffffff; padding: 0px 4px; border-radius: 5px;"><b>catalogo</b></span> -->
 
 Il **processo di lavoro** :material-transit-connection-variant: - svolto in ordine temporale - è raffigurato nel seguente schema:
 ``` mermaid
