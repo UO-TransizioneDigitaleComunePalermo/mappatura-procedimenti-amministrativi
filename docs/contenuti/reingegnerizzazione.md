@@ -188,7 +188,7 @@ La **User Experience** UX (esperienza utente) è strettamente legata alla **User
 Utenti e personale della PA hanno entrambi la stessa esigenza|aspettativa di interagire con interfaccie grafiche software di semplice intuizione, che si adattaono a qualsiasi dimensione di dispaly (laptop, tablet, smartphone, pc desktop).
 
 !!! Note "Guida al linguaggio della Pubblica Amministrazione"
-    Nel linguaggio da usare per le interfacce grafiche dei servizi pubblici online bisogna seguire le indicazioni della [**`Guida al linguaggio della Pubblica Amministrazione`**](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html) al fine di rendere semplici e intuitive le istruzioni che l'utente deve seguire per richiedere ed ottenere un servizio.
+    Nel linguaggio da usare per le interfacce grafiche dei servizi pubblici online bisogna seguire le indicazioni della [**`Guida al linguaggio della Pubblica Amministrazione`**](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html) (a cura di AGID + Team Digitale) al fine di rendere semplici e intuitive le istruzioni che l'utente deve seguire per richiedere ed ottenere un servizio.
     
     Vedi anche il [**Kit Contenuti e linguaggio**](https://designers.italia.it/kit/contenuti-linguaggio/) del Dipartimento Trasformazione digitale.
 
