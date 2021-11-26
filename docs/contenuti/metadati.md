@@ -186,5 +186,5 @@ I ==**vantaggi**== sono:
     
     **D.ssa Fiorella Foscarini**. Firenze, 17 giugno 2007 [https://docplayer.it/11946830-I-metadati-per-la-gestione-e-conservazione-dei-documenti-elettronici-fiorella-foscarini-firenze-17-giugno-2007.html](https://docplayer.it/11946830-I-metadati-per-la-gestione-e-conservazione-dei-documenti-elettronici-fiorella-foscarini-firenze-17-giugno-2007.html) 
     
-    **Prof. Simone Carletti** [https://docenti.unimc.it/simone.carletti](https://docenti.unimc.it/simone.carletti), a.a. 2014-1 [https://docenti.unimc.it/simone.carletti/teaching/2014/13911/files/xml-e-i-metadati-per-la-gestione-dei-depositi-digitali](https://docenti.unimc.it/simone.carletti/teaching/2014/13911/files/xml-e-i-metadati-per-la-gestione-dei-depositi-digitali) 
+    **Prof. Simone Carletti**. [https://docenti.unimc.it/simone.carletti](https://docenti.unimc.it/simone.carletti), a.a. 2014-2015 [https://docenti.unimc.it/simone.carletti/teaching/2014/13911/files/xml-e-i-metadati-per-la-gestione-dei-depositi-digitali](https://docenti.unimc.it/simone.carletti/teaching/2014/13911/files/xml-e-i-metadati-per-la-gestione-dei-depositi-digitali) 
 
