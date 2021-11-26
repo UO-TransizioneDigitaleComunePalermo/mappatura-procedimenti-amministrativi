@@ -190,7 +190,7 @@ Utenti e personale della PA hanno entrambi la stessa esigenza|aspettativa di int
 !!! Note "Guida al linguaggio della Pubblica Amministrazione"
     Nel linguaggio da usare per le interfacce grafiche dei servizi pubblici online bisogna seguire le indicazioni della [**`Guida al linguaggio della Pubblica Amministrazione`**](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html) al fine di rendere semplici e intuitive le istruzioni che l'utente deve seguire per richiedere ed ottenere un servizio.
     
-    Vedi anche il ["Kit Contenuti e linguaggio"](https://designers.italia.it/kit/contenuti-linguaggio/)
+    Vedi anche il [**Kit Contenuti e linguaggio**](https://designers.italia.it/kit/contenuti-linguaggio/) del Dipartimento Trasformazione digitale.
 
 [![](https://user-images.githubusercontent.com/42996217/142879902-2cb144f1-91d3-421f-8f29-c53db315df4d.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf#page=31)
 `Focus sui servizi al cittadino a cui è legato un procedimento`
