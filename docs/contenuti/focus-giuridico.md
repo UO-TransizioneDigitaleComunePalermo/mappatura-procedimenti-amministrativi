@@ -83,4 +83,6 @@ L’endoprocedimento non è altro che un procedimento **parziale** o, letteralme
 
 
 ## Legge 7 agosto 1990, n. 241 sul procedimento amministrativo
-La [legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=) ha colmato una lacuna del nostro ordinamento, dettando norme sul procedimento. Tale legge disciplina in particolare la fase dell'iniziativa e dell'istruttoria, allo scopo di fornire al privato adeguate garanzie nella fase di formazione dell'atto amministrativo. La legge contiene anche norme che riguardano l'organizzazione e il funzionamento degli organi burocratici (es. conferenza di servizi). Alla legge sul procedimento è stato attribuito il carattere di legge di "grande riforma".
+La [legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=) ha colmato una lacuna del nostro ordinamento, dettando norme sul procedimento. Tale legge disciplina in particolare la fase dell'iniziativa e dell'istruttoria, allo scopo di fornire al privato adeguate garanzie nella fase di formazione dell'atto amministrativo. 
+
+La legge contiene anche norme che riguardano l'organizzazione e il funzionamento degli organi burocratici (es. conferenza di servizi). Alla legge sul procedimento è stato attribuito il carattere di legge di "grande riforma".
