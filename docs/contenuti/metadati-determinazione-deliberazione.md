@@ -1,6 +1,6 @@
 
 # Presentazione elementi minimi (metadati) di una determinazione dirigenziale e deliberazione di Giunta comunale
-Le determinazioni e le deliberazioni sono gli atti amministrativi di maggiore produzione in un ente comunale.
+Le **determinazioni** e le **deliberazioni** sono gli atti amministrativi di maggiore produzione in un ente comunale.
 
 In questa pagina vengono illustrati i metadati minimi che devono identificare una determinazione dirigenziale e una deliberazione di Giunta comunale, al fine di strutturare adeguati applicativi informatici necessari alla gestione digitale di tali atti amministrativi.
 
@@ -10,7 +10,7 @@ In questa pagina vengono illustrati i metadati minimi che devono identificare un
 ![](https://user-images.githubusercontent.com/42996217/141756265-dfd38aa4-6702-42e0-8b3f-8133ac02bc2e.png)
 ![](https://user-images.githubusercontent.com/42996217/141756613-5538eca6-7144-4b33-a924-ed0be479992c.png)
 
-`elenco metadati minimi della determinazione dirigenziale`:
+**`elenco metadati minimi della determinazione dirigenziale`**:
 
 - data inserimento determinazione nell'applicativo gestionale (che generalmente viene generata automaticamente dall'applicativo)
 - numero determinazione
@@ -33,7 +33,7 @@ In questa pagina vengono illustrati i metadati minimi che devono identificare un
 ![](https://user-images.githubusercontent.com/42996217/141310385-537399a8-b98c-44c8-8ea7-bb228ecec6e8.png)
 ![](https://user-images.githubusercontent.com/42996217/141310437-cca4ce4d-f4b2-414d-a307-ba82f281ce88.png)
 
-`elenco metadati minimi della deliberazione di Giunta comunale`:
+**`elenco metadati minimi della deliberazione di Giunta comunale`**:
 
 - data inserimento deliberazione nell'applicativo gestionale (che generalmente viene generata automaticamente dall'applicativo)
 - numero proposta deliberazione
