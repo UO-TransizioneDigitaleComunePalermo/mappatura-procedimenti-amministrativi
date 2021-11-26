@@ -13,11 +13,11 @@ Le Pubbliche Amministrazioni, dunque, agiscono per procedimenti e, di conseguenz
 
 Possiamo distinguere tre fasi fondamentali: 
 
-- a. fase preparatoria; 
+- a. **fase preparatoria**; 
      - Stadio di iniziativa
      - Stadio di istruttoria
-- b. fase dispositiva; 
-- c. fase integrativa dell'efficacia
+- b. **fase dispositiva**; 
+- c. **fase integrativa dell'efficacia**
      - Controllo
      - Comunicazione
 
@@ -34,6 +34,7 @@ L'iniziativa può essere:
     - *S.C.I.A.* è la dichiarazione che consente alle imprese di iniziare, modificare o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni competenti- ricorso: con cui si richiede un riesame di legittimità o di merito di atti ritenuti lesivi di diritti soggettivi o interessi legittimi (procedimento di secondo grado).
 
 Lo stadio dell'istruttoria è inteso ad acquisire e valutare tutti i dati utili ai fini dell'emanazione dell'atto finale o conclusivo, che viene adottato nella successiva fase dispositiva.
+
 Il Responsabile del procedimento assegna a sé o ad altro funzionario la responsabilità dell'istruttoria e provvede a dare comunicazione di tale assegnazione sia a colui che ha presentato l'atto di iniziativa, sia ai controinteressati 
 
 Ai fini dell'istruttoria **debbono essere compiute le seguenti operazioni**: 
@@ -68,7 +69,7 @@ Quando parliamo di **PROCESSO AMMINISTRATIVO** ci riferiamo ad una serie di atti
 
 Un **PROCEDIMENTO AMMINISTRATIVO**, invece, come abbiamo visto, si conclude sempre con un provvedimento finale.
 
-E’ importante quindi comprendere che dobbiamo digitalizzare tutta l’attività amministrativa **mappando i procedimenti** e non i processi.
+E’ importante quindi comprendere che dobbiamo digitalizzare tutta l’attività amministrativa **mappando i singoli procedimenti** e non i processi.
 
 
 ## Cos’è un endoprocedimento?
@@ -83,6 +84,6 @@ L’endoprocedimento non è altro che un procedimento **parziale** o, letteralme
 
 
 ## Legge 7 agosto 1990, n. 241 sul procedimento amministrativo
-La [legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=) ha colmato una lacuna del nostro ordinamento, dettando norme sul procedimento. Tale legge disciplina in particolare la fase dell'iniziativa e dell'istruttoria, allo scopo di fornire al privato adeguate garanzie nella fase di formazione dell'atto amministrativo. 
+La [**legge n. 241/1990**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=) ha colmato una lacuna del nostro ordinamento, dettando norme sul procedimento. Tale legge disciplina in particolare la fase dell'iniziativa e dell'istruttoria, allo scopo di fornire al privato adeguate garanzie nella fase di formazione dell'atto amministrativo. 
 
 La legge contiene anche norme che riguardano l'organizzazione e il funzionamento degli organi burocratici (es. conferenza di servizi). Alla legge sul procedimento è stato attribuito il carattere di legge di "grande riforma".
