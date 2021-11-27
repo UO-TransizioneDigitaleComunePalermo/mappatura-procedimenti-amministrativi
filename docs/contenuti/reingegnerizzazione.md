@@ -196,7 +196,7 @@ Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigen
     Vedi anche il [**Kit "Contenuti e linguaggio"**](https://designers.italia.it/kit/contenuti-linguaggio/) curato dal Dipartimento Trasformazione digitale.
 
 
-## Architettura delle informazioni nella gestione di servizi e procedimenti
+## Architettura delle informazioni nella gestione di servizi e procedimenti :material-table-sync:
 [![](https://user-images.githubusercontent.com/42996217/142879902-2cb144f1-91d3-421f-8f29-c53db315df4d.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf#page=31)
 `Focus sui servizi al cittadino a cui è legato un procedimento`
 
