@@ -196,9 +196,7 @@ Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigen
 [![](https://user-images.githubusercontent.com/42996217/142879902-2cb144f1-91d3-421f-8f29-c53db315df4d.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf#page=31)
 `Focus sui servizi al cittadino a cui è legato un procedimento`
 
-> *La fruizione dei servizi deve seguire un flusso standard, a partire dalla struttura delle informazioni fino all’integrazione di componenti di autenticazione (Spid) e del sistema di pagamento (pagoPA)* 
-> 
-> [(fonte)](https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/stabile/il-modello/architettura-dellinformazione.html#flusso-accesso).
+*[La fruizione dei servizi deve seguire un flusso standard](https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/stabile/il-modello/architettura-dellinformazione.html#flusso-accesso), a partire dalla struttura delle informazioni fino all’integrazione di componenti di autenticazione (Spid) e del sistema di pagamento (pagoPA)* 
 
 !!! Note "Video tutorial e materiali utili su `progettare e realizzare il sito web di un Comune`"
     
