@@ -254,8 +254,8 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
     Le immagini utilizzate in questa pagina sono state rilasciate: 
     
     - alcune con licenza CC0, 
-    - altre con [licenza CC-BY 3.0](https://www.governo.it/note-legali) dal Dipartimento Trasformazione Digitale, 
-    - altre con licenza CC BY-SA 3.0 IT dal [FormezPA](http://eventipa.formez.it/node/328513).
+    - altre con [licenza CC-BY 3.0](https://www.governo.it/note-legali) dal Dipartimento Trasformazione Digitale (vedi paragrafo copyright), 
+    - altre con licenza CC BY-SA 3.0 IT dal [FormezPA](http://eventipa.formez.it/node/328513) (vedi footer).
 
 
 <!--
