@@ -251,10 +251,13 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 
     [Fonte](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-research/usabilita.html#user-centered-design)
 
-
-<!--
 ---
 
+!!! Info "Immagini"
+    Le immagini utilizzate in questa pagina sono state rilasciate, alcune con licenza CC0 (pubblico dominio), e altre dal [Dipartimento Trasformazione Digitale](https://designers.italia.it/kit/contenuti-linguaggio/)
+
+
+<!--
 !!! Note "Credits"
     Per la redazione di questa pagina si è fatto riferimento anche alle seguenti fonti: 
     
