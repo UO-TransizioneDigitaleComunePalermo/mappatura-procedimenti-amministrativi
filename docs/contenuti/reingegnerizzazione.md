@@ -185,7 +185,7 @@ La **User Experience** UX (esperienza utente) è strettamente legata alla **User
 - **`back end`** = tutte le funzioni che vede, consulta e gestisce il personale della PA (in ufficio o da remoto in lavoro agile)
 - **`front end`** = tutte le funzioni che vede, consulta e con le quali interagisce l'utente da casa
 
-Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigenza|aspettativa di interagire con interfaccie grafiche software di semplice intuizione, che si adattaono a qualsiasi dimensione di dispaly (laptop, tablet, smartphone, pc desktop).
+Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigenza|aspettativa di interagire con interfaccie grafiche software di semplice intuizione, che si adattaono a qualsiasi dimensione di dispaly (laptop, tablet, smartphone, pc desktop). Anche il linguaggio da usare nelle interfacce grafiche riveste una grande importanza per ambedue le categorie di utilizzatori.
 
 !!! Note "Guida al linguaggio della Pubblica Amministrazione"
     [![](https://user-images.githubusercontent.com/42996217/143673391-2bea274c-1101-4d36-877f-762a6609dac9.png)](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html)
@@ -195,6 +195,8 @@ Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigen
     
     Vedi anche il [**Kit "Contenuti e linguaggio"**](https://designers.italia.it/kit/contenuti-linguaggio/) curato dal Dipartimento Trasformazione digitale.
 
+
+## Architettura delle informazioni nella gestione di servizi e procedimenti
 [![](https://user-images.githubusercontent.com/42996217/142879902-2cb144f1-91d3-421f-8f29-c53db315df4d.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf#page=31)
 `Focus sui servizi al cittadino a cui è legato un procedimento`
 
@@ -206,7 +208,7 @@ Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigen
     - [Link ai meteriali](http://eventipa.formez.it/node/328513) a cura del FormezPA.
 
 
-I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi e per tale ragione il software gestionale deve permettere/assicurare a chiunque di fare le cose in maniera facile, intuitiva e agevole, senza incorrere in problemi di accessibilità o di interpretazione delle funzioni operative (relative alle interfaccie grafiche).
+I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi, e per tale ragione il software gestionale deve assicurare a chiunque di poter fare le cose in maniera facile, intuitiva e agevole, senza incorrere in problemi di accessibilità o di interpretazione delle funzioni operative (relative alle interfaccie grafiche) o del linguaggio adottato. A tal riguardo l'[**`architettura dell'informazione`**](https://designers.italia.it/kit/architettura-informazione/) va curata nella fase di progettazione degli applicativi per la gestione dei procedimenti e per l'erogazione dei servizi all'utenza.
 
 
 ## Funzioni minime di un applicativo per gestire procedimenti legati a servizi :material-order-bool-ascending-variant:
