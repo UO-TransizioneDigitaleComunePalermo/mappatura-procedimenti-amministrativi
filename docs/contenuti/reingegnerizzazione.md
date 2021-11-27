@@ -210,7 +210,10 @@ Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigen
 
 I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi, e per tale ragione il software gestionale deve assicurare a chiunque di poter fare le cose in maniera facile, intuitiva e agevole, senza incorrere in problemi di accessibilità o di interpretazione delle funzioni operative (relative alle interfaccie grafiche) o del linguaggio adottato. A tal riguardo l'[**`architettura dell'informazione`**](https://designers.italia.it/kit/architettura-informazione/) va curata nella fase di progettazione degli applicativi per la gestione dei procedimenti e per l'erogazione dei servizi all'utenza.
 
-<iframe src="https://drive.google.com/file/d/1kDeHA9yx7IUbeLFGwz8mmuZsdtVJ9HJ2/view" width="700"; height=950"> </iframe>
+Organizzazione dei contenuti per i servizi, con la tecnica del ["`card-sorting`"](https://designers.italia.it/kit/architettura-informazione/) (ordinamento delle carte)
+![](https://user-images.githubusercontent.com/42996217/143689833-68aa7352-dc33-4eda-a97f-1c5caee5dc6c.png)
+![](https://user-images.githubusercontent.com/42996217/143689845-876050e7-b258-4f4b-ae24-889feb3ee5c9.png)
+![](https://user-images.githubusercontent.com/42996217/143689857-f0ad3618-7421-4427-a5c4-4c5aa6702a28.png)
 
 
 ## Funzioni minime di un applicativo per gestire procedimenti legati a servizi :material-order-bool-ascending-variant:
