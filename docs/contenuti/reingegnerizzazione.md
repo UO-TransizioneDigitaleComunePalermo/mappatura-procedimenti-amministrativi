@@ -189,6 +189,7 @@ Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigen
 
 !!! Note "Guida al linguaggio della Pubblica Amministrazione"
     [![](https://user-images.githubusercontent.com/42996217/143673391-2bea274c-1101-4d36-877f-762a6609dac9.png)](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html)
+    ![](https://user-images.githubusercontent.com/42996217/143673713-55a68086-ab94-433c-8112-d4da3d76fc54.png)
     
     Nel linguaggio da usare nelle interfacce grafiche degli applicativi per gestire procedimenti e servizi pubblici online bisogna seguire le indicazioni della [**`Guida al linguaggio della Pubblica Amministrazione`**](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html) (a cura di AGID + Team Digitale) al fine di rendere semplici e intuitive le istruzioni che l'utente e l'operatore della PA deve seguire per richiedere | ottenere un servizio (front end) e per gestire il procedimento (back end).
     
