@@ -251,7 +251,11 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 ---
 
 !!! Info "Immagini"
-    Le immagini utilizzate in questa pagina sono state rilasciate, alcune con licenza CC0 (pubblico dominio), e altre dal [Dipartimento Trasformazione Digitale](https://designers.italia.it/kit/contenuti-linguaggio/)
+    Le immagini utilizzate in questa pagina sono state rilasciate, 
+    
+    - alcune con licenza CC0 (pubblico dominio), 
+    - altre dal [Dipartimento Trasformazione Digitale](https://designers.italia.it/kit/contenuti-linguaggio/) 
+    - altre dal FormezPA.
 
 
 <!--
