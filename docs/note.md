@@ -90,3 +90,8 @@ Per inserire diagrammi di flusso fare riferimento a: [https://mermaid-js.github.
 
 ## Inserire `Emoji`
 Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
+
+---
+
+## HTML / Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
