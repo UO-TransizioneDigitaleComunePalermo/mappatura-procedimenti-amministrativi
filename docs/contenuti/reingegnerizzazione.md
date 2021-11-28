@@ -270,9 +270,8 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 
 ---
 
-!!! Info "Immagini" :octicons-image-24:
-    
-    Le immagini utilizzate in questa pagina sono state rilasciate: 
+!!! Info "Immagini" 
+    :octicons-image-24: Le immagini utilizzate in questa pagina sono state rilasciate: 
     
     - alcune con licenza CC0, 
     - altre con [licenza CC-BY 3.0](https://www.governo.it/note-legali) dal Dipartimento Trasformazione Digitale (vedi paragrafo copyright), 
