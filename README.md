@@ -35,9 +35,11 @@ Progetto consultabile al link:
 
 
 ### Strumenti integrati nel progetto
-- <img src="https://img.shields.io/badge/Addthis-for_sharing_contents-blue.svg?style=popout"> **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
-- <img src="https://img.shields.io/badge/Disqus-for_comments-blue.svg?style=popout"> **Disqus** per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
-- <img src="https://img.shields.io/badge/PDF_generator-for_printing_documentation-blue"> **Strumento di generazione dei contenuti del progetto in formato PDF**, indicato in ogni pagina con il simbolo della stampante posizionato in alto a destra
+<img src="https://img.shields.io/badge/Addthis-for_sharing_contents-blue.svg?style=popout"> **Addthis** per la condivisione sui social, e stampa pagine del progetto. Loghi social visualizzabili nella parte destra della pagina web su desktop e in basso su dispsitivi mobile. IL codice di Addthis si inserisce nel file `main.html` che si trova al seguente percorso `mkdocs-style/docs/overrides/main.html`
+
+<img src="https://img.shields.io/badge/Disqus-for_comments-blue.svg?style=popout"> **Disqus** per permettere di inserire commenti in ogni singola pagina, tranne nell'home page. L'istruzione per inserire il codice di Disqus viene data nel file `mkdocs.yml` 
+
+<img src="https://img.shields.io/badge/PDF_generator-for_printing_documentation-blue"> **Strumento di generazione dei contenuti del progetto in formato PDF**, indicato in ogni pagina con il simbolo della stampante posizionato in alto a destra
 
 
 ## Licenza
