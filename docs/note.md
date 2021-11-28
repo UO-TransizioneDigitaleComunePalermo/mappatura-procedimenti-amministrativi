@@ -67,7 +67,7 @@ theme:
 |  └─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" target="_self">I procedimenti visti dal "CAD"</a>
 ```
 
-(1) :man_raising_hand: I'm a code annotation! I can
+1.  :man_raising_hand: I'm a code annotation! I can
 
 
 ---
