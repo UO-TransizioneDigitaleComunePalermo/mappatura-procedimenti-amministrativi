@@ -54,6 +54,8 @@ cittadino/a, impresa, associazione che 1) chiede un servizio alla PA e 2) attend
 
 Nel caso di percezione dell'utente "negativa" del servizio pubblico reso, il personale delle PA responsabile della gestione del procedimento deve effettuare un analisi degli aspetti che caratterizzano le criticità, ed in questo può essere utile fare infadigini online di **`customer satisfaction`** con le quali - attraverso domande specifiche :fontawesome-regular-list-alt: - intercettare gli aspetti del processo di lavoro che debbono essere migliorati, al fine di assicurare all'utenza un servizio più vicino alle aspettative (ad esempio, aspetti su: accessibilità, interfaccia grafica, fasi operative da seguire sulla piattaforma informatica, modalità di pagamenti, modalità di comunicazione e di avvisi tra utente e PA, ecc.).
 
+Di seguito un infografica della `scheda del servizio`, a cura del Dipartimento Trasformazione Digitale (Designers Italia) che aiuta a comprendere come costruire l'architettura dell'informazione, necessaria a strutturare anche le fasi di gestione del procedimento a cui è correlato il servizio da erogare.
+
 [![](https://user-images.githubusercontent.com/42996217/142882837-9ce7084d-3b65-431e-a18d-078c8eee3c9a.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf#page=30)
 `scheda del servizio da erogare a cui è legato un procedimento`
 
