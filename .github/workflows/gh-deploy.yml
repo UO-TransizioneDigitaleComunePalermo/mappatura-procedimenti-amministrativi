@@ -42,3 +42,5 @@ jobs:
  #    - run: pip install mkdocs-rss-plugin                           # disattivato il 28 nov 2021
       - run: pip install mkdocs-mermaid2-plugin
       - run: mkdocs gh-deploy --force
+
+# setting by https://github.com/opendatasicilia/ods-mkdocs-material/blob/main/.github/workflows/gh-deploy.yml
