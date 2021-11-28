@@ -73,6 +73,9 @@ theme:
 
 <kbd>prova</kbd>
 
+<del><p>togli</p></del>
+<ins><p>inserisci</p></ins>
+
 ---
 
 
