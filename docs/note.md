@@ -70,6 +70,7 @@ theme:
 1.  :man_raising_hand: I'm a code annotation! I can
 
 <small>prova prova   prova </small>
+<kbd>prova</kbd>
 
 ---
 
