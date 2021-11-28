@@ -19,7 +19,7 @@ jobs:
       - run: pip install Pygments>=2.4                      # aggiunto il 28 nov 2021
       - run: pip install requests_oauthlib
 #     - run: pip install click                              # disattivato il 28 nov 2021
-#     - run: pip install click-plugins                      # disattivato il 28 nov 2021
+      - run: pip install click-plugins                      
 #     - run: pip install click-config-file                  # disattivato il 28 nov 2021
 #     - run: pip install pytest                             # disattivato il 28 nov 2021
 #     - run: pip install mkdocs                             # disattivato il 28 nov 2021
