@@ -24,7 +24,7 @@ jobs:
 #     - run: pip install pytest                             # disattivato il 28 nov 2021
 #     - run: pip install mkdocs                             # disattivato il 28 nov 2021
       - run: pip install mkdocs>=1.2.2
-#     - run: pip install mkdocstrings                       # disattivato il 28 nov 2021
+      - run: pip install mkdocstrings                       
       - run: pip install mkdocs-click
       - run: pip install pygments
 #     - run: pip install pymdown-extensions                # disattivato il 28 nov 2021
