@@ -18,27 +18,27 @@ jobs:
       - run: pip install markdown>=3.2                      # aggiunto il 28 nov 2021
       - run: pip install Pygments>=2.4                      # aggiunto il 28 nov 2021
       - run: pip install requests_oauthlib
-      - run: pip install click
-      - run: pip install click-plugins
-      - run: pip install click-config-file
-      - run: pip install pytest
+#     - run: pip install click                              # disattivato il 28 nov 2021
+#     - run: pip install click-plugins                      # disattivato il 28 nov 2021
+#     - run: pip install click-config-file                  # disattivato il 28 nov 2021
+#     - run: pip install pytest                             # disattivato il 28 nov 2021
 #     - run: pip install mkdocs                             # disattivato il 28 nov 2021
       - run: pip install mkdocs>=1.2.2
-      - run: pip install mkdocstrings
+#     - run: pip install mkdocstrings                       # disattivato il 28 nov 2021
       - run: pip install mkdocs-click
       - run: pip install pygments
 #     - run: pip install pymdown-extensions                # disattivato il 28 nov 2021
       - run: pip install pymdown-extensions>=9.0           # aggiunto il 28 nov 2021
-      - run: pip install mkdocs-autolinks-plugin
-      - run: pip install mkdocs-jupyter
-      - run: pip install mkdocs-exclude
-      - run: pip install mkdocs-exclude-search
-      - run: pip install mkdocs-macros-plugin
+#     - run: pip install mkdocs-autolinks-plugin           # disattivato il 28 nov 2021
+#     - run: pip install mkdocs-jupyter                    # disattivato il 28 nov 2021
+#     - run: pip install mkdocs-exclude                    # disattivato il 28 nov 2021
+#     - run: pip install mkdocs-exclude-search             # disattivato il 28 nov 2021
+#     - run: pip install mkdocs-macros-plugin              # disattivato il 28 nov 2021
       - run: pip install mkdocs-print-site-plugin
       - run: pip install mkdocs-pdf-export-plugin
-      - run: pip install mkdocs-git-revision-date-localized-plugin
-      - run: pip install mkdocs-windmill
-      - run: pip install mkdocs-img2fig-plugin
-      - run: pip install mkdocs-rss-plugin
+ #    - run: pip install mkdocs-git-revision-date-localized-plugin   # disattivato il 28 nov 2021
+ #    - run: pip install mkdocs-windmill                             # disattivato il 28 nov 2021
+ #    - run: pip install mkdocs-img2fig-plugin                       # disattivato il 28 nov 2021
+ #    - run: pip install mkdocs-rss-plugin                           # disattivato il 28 nov 2021
       - run: pip install mkdocs-mermaid2-plugin
       - run: mkdocs gh-deploy --force
