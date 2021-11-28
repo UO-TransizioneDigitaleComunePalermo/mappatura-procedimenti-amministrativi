@@ -73,8 +73,6 @@ https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amm
 
 <kbd>prova</kbd>
 
-<del><p>togli</p></del>
-<ins><p>inserisci</p></ins>
 
 ---
 
