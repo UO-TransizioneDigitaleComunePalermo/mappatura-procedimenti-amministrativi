@@ -69,7 +69,10 @@ https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amm
 
 1.  :man_raising_hand: I'm a code annotation! I can
 
-<small>prova prova   prova </small>
+<small>il testo piccolo</small> si ottiene così:
+``` yaml
+<small>il testo piccolo</small>
+```
 
 <kbd>prova</kbd> si ottiene così:
 ``` yaml
