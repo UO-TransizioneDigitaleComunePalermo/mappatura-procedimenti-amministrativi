@@ -32,8 +32,9 @@ Per testo di colore bianco contornato di altro colore, inserire il seguente codi
 ## `Code annotation`, annotazioni nel blocco codice
 Nel file `.md` inserire quanto descritto a: [https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
 
-Esempio:
+Vediamo qual è il risultato. Inseriamo nel seguente blocco di codice un commento che sarà preceduto dal simbolo cancelletto `#` e dal numero dentro parentesi tonda. Dopo aver chiuso il blocco di codice lasciare una riga vuota e inserire il commento:
 
+```` markdown
 ``` yaml
 theme:
   features:
@@ -42,8 +43,25 @@ theme:
 
 1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
     text__, images, ... basically anything that can be expressed in Markdown.
+````
+
+
+Esempio:
+
+``` yaml
+theme:
+  features:
+    - content.code.annotate # (1)  (2)
+```
+
+1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
+    text__, images, ... basically anything that can be expressed in Markdown.
+    
+2.  : I'm a different annotation contain `code`
+
 
 ---
+
 
 ## (File "Catalogo")
 Ho tolto l'iframe dal file `contenuti/catalogo.md`
