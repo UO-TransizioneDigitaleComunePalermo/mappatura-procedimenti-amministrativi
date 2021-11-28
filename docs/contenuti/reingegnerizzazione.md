@@ -219,7 +219,7 @@ I software sono gli strumenti per permettere a chiunque (personale della PA e ci
 
 Nell'architettura dell'informazione va curata l'organizzazione dei contenuti per i servizi da erogare.
 
-!!! Info "Organizzazione dei contenuti per i servizi, con la tecnica del ["`card-sorting`"](https://designers.italia.it/kit/architettura-informazione/) (ordinamento delle carte)"
+!!! Info "Organizzazione dei contenuti per i servizi, con la tecnica del ["`card-sorting`"](https://designers.italia.it/kit/architettura-informazione/) (ordinamento delle carte)". A cura del Dipartimento Trasformazione Digitale (Designers Italia)
     ![](https://user-images.githubusercontent.com/42996217/143689833-68aa7352-dc33-4eda-a97f-1c5caee5dc6c.png)
     ![](https://user-images.githubusercontent.com/42996217/143689845-876050e7-b258-4f4b-ae24-889feb3ee5c9.png)
     ![](https://user-images.githubusercontent.com/42996217/143689857-f0ad3618-7421-4427-a5c4-4c5aa6702a28.png)
