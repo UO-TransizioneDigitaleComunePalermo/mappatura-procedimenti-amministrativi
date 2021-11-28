@@ -100,4 +100,4 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 ---
 
 ## HTML / Element
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
