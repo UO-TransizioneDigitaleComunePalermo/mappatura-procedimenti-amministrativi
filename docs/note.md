@@ -60,7 +60,7 @@ theme:
 
 
 ### Altra Prova annotation
-```
+``` yaml
 content  code annotate # (1)
 ```
 
