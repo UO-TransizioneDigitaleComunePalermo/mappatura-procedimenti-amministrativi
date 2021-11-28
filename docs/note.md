@@ -61,10 +61,10 @@ theme:
 
 ### Altra Prova annotation
 ``` yaml
-<a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_self"><b>Home</b></a> # (1)
-├─ Focus giuridico &#8595; 
-|  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" target="_self">Focus giuridico</a>
-|  └─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" target="_self">I procedimenti visti dal "CAD"</a>
+https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi # (1)
+├─ Focus giuridico  
+|  ├─ https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico
+|  └─ https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/
 ```
 
 1.  :man_raising_hand: I'm a code annotation! I can
