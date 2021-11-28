@@ -162,7 +162,7 @@ Un applicativo gestionale deve poter offrire la possibilità alla pubblica ammin
 
 
 ## Richieste di servizi più efficienti dalla collettività :fontawesome-solid-users:
-Oggi cittadini, imprese e associazioni richiedono servizi pubblici sempre più efficienti ed in modalità digitale, senza essere ostaggio di inutili perdite di tempo. A questo fabbisogno della colletività deve seguire un "aggiornamento" del prezioso sistema dei metadati e delle fasi operative di lavoro per la gestione del procedimento. 
+Oggi cittadini, imprese e associazioni richiedono servizi pubblici sempre più efficienti ed in modalità digitale e online, senza essere ostaggio di inutili perdite di tempo agli sportelli fisici. A questo fabbisogno della colletività deve seguire un "aggiornamento" del prezioso sistema dei metadati e delle fasi operative di lavoro per la gestione del procedimento. 
 
 > [*I cittadini si aspettano*](https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/stabile/principi-guida-lanalisi-dei-risultati-della-ricerca/priorit%C3%A0-e-bisogni.html):
 > 
@@ -171,18 +171,21 @@ Oggi cittadini, imprese e associazioni richiedono servizi pubblici sempre più e
 > - *una semplificazione non solo delle procedure, ma anche del linguaggio burocratico, che permetta di essere autonomi da intermediari e consulenti nella gestione di pratiche al momento non completamente accessibili;* 
 > - *una comunicazione aggiornata e trasparente;* 
 > - *integrazione e scambio di dati tra più enti, evitando di ripetere le stesse procedure e di inserire informazioni già note.*
+>
+> (A cura di Designers Italia)
+
 
 Nella PA è difficile individuare e reingegnerizzare processi di lavoro, in quanto c'è la tendenza culturale generalizzata a privilegiare la "conformità alle norme" anzichè privilegiare l’"efficacia" e l’"efficienza operativa". 
 Non viene dedicato il tempo e l'attenzione necessaria all’utente, preferendo il rispetto di esigenze organizzative interne. Il principale errore delle pubbliche amministrazioni consiste nell'essere autoreferenziali e nel non orientare la propria azione amministrativa a servizio del cittadino. Ancora oggi molte PA programmano la gestione dei servizi facendo riferimento a *Organigrammi/Uffici/Dirigenti* e non alla soddisfazione dell'utente nella fruizione di un servizio pubblico.
 
-Per invertire questa vecchia tendenza, un aspetto su cui focalizzare l'attenzione è la **qualità dell'esperienza utente** nella fruizione dei servizi pubblici online, e di conseguena all'utilizzo dell'applicativo informatico nelle fasi di:
+Per invertire questa vecchia tendenza, un aspetto su cui focalizzare l'attenzione è la **qualità dell'esperienza utente** nella fruizione dei servizi pubblici online, e di conseguenza all'utilizzo dell'applicativo informatico nelle fasi di:
 
 1. gestione delle funzioni operative dell'interfaccia grafica da parte del personale delle pubbliche amministrazioni (`back end`)
 2. gestione delle funzioni operative dell'interfaccia grafica da parte degli utenti che richiedono ed ottengono un servizio in modalità totalmente digitale online (`front end`).
 
 
-## Esperienza utente (UX) :face_with_raised_eyebrow:  e interfaccia utente (UI) :material-monitor-dashboard: 
-La **User Experience** UX (esperienza utente) è strettamente legata alla **User Interface** UI (interfaccia utente). Interfaccie semplici e intuitive dei software generano facilità d'uso e soddisfazione nella fase di utilizzo. Questo ha la medesima valenza per il personale della pubblica amministrazione e per gli utenti dei servizi.  Ambedue le categorie sono esseri umani anche se sono posizionati in due punti diversi dell'applicativo:
+## Esperienza Utente (UX) :face_with_raised_eyebrow:  e Interfaccia Utente (UI) :material-monitor-dashboard: 
+La **User Experience** UX (esperienza utente) è strettamente legata alla **User Interface** UI (interfaccia utente). Interfaccie semplici e intuitive dei software generano facilità d'uso e soddisfazione nella fase di utilizzo. Questo ha la medesima valenza per il personale della pubblica amministrazione e per gli utenti dei servizi.  Ambedue le categorie sono persone, anche se sono posizionati in due punti diversi dell'applicativo:
 
 - **`back end`** = tutte le funzioni che vede, consulta e gestisce il personale della PA (in ufficio o da remoto in lavoro agile)
 - **`front end`** = tutte le funzioni che vede, consulta e con le quali interagisce l'utente da casa
@@ -193,13 +196,13 @@ Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigen
     [![](https://user-images.githubusercontent.com/42996217/143673391-2bea274c-1101-4d36-877f-762a6609dac9.png)](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html)
     ![](https://user-images.githubusercontent.com/42996217/143673713-55a68086-ab94-433c-8112-d4da3d76fc54.png)
     
-    Nel linguaggio da usare nelle interfacce grafiche degli applicativi per gestire procedimenti e servizi pubblici online bisogna seguire le indicazioni della [**`Guida al linguaggio della Pubblica Amministrazione`**](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html) (a cura di AGID + Team Digitale) al fine di rendere semplici e intuitive le istruzioni che l'utente e l'operatore della PA deve seguire per richiedere | ottenere un servizio (front end) e per gestire il procedimento (back end).
+    Nel linguaggio da usare nelle interfacce grafiche degli applicativi per gestire procedimenti e servizi pubblici online bisogna seguire le indicazioni della [**`Guida al linguaggio della Pubblica Amministrazione`**](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html) (a cura di AGID + Team Digitale) al fine di rendere semplici e intuitive le istruzioni che l'utente e l'operatore della PA deve seguire per richiedere|ottenere un servizio (front end) e per gestire il procedimento (back end).
     
     Vedi anche il [**Kit "Contenuti e linguaggio"**](https://designers.italia.it/kit/contenuti-linguaggio/) curato dal Dipartimento Trasformazione digitale.
 
 
 ## Architettura delle informazioni nella gestione di servizi e procedimenti :material-table-sync:
-> *[L’architettura dell’informazione](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/content-design/architettura-dell-informazione.html) consiste nell’organizzazione semantica e logica di ambienti informativi, sia fisici sia digitali, e serve a rendere i servizi pubblici più facili da trovare, da capire e da usare. Una buona architettura dell’informazione aiuta le persone a comprendere ciò che le circonda e a trovare ciò che cercano, sia online che offline. Lavorare su questo ambito implica una riflessione sulla struttura dell’informazione e sul linguaggio*.
+> *[L’architettura dell’informazione](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/content-design/architettura-dell-informazione.html) consiste nell’organizzazione semantica e logica di ambienti informativi, sia fisici sia digitali, e serve a rendere i servizi pubblici più facili da trovare, da capire e da usare. Una buona architettura dell’informazione aiuta le persone a comprendere ciò che le circonda e a trovare ciò che cercano, sia online che offline. Lavorare su questo ambito implica una riflessione sulla struttura dell’informazione e sul linguaggio*. (A cura di Designers Italia).
 
 [![](https://user-images.githubusercontent.com/42996217/142879902-2cb144f1-91d3-421f-8f29-c53db315df4d.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf#page=31)
 `Focus sui servizi al cittadino a cui è legato un procedimento`
@@ -212,7 +215,9 @@ Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigen
     - [Link ai meteriali](http://eventipa.formez.it/node/328513) a cura del FormezPA.
 
 
-I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi, e per tale ragione il software gestionale deve assicurare a chiunque di poter fare le cose in maniera facile, intuitiva e agevole, senza incorrere in problemi di accessibilità o di interpretazione delle funzioni operative (relative alle interfaccie grafiche) o del linguaggio adottato. A tal riguardo l'[**`architettura dell'informazione`**](https://designers.italia.it/kit/architettura-informazione/) va curata nella fase di progettazione degli applicativi per la gestione dei procedimenti e per l'erogazione dei servizi all'utenza.
+I software sono gli strumenti per permettere a chiunque (personale della PA e cittadini) di lavorare per gestire tutte le fasi che caratterizzano l'attività di competenza delle istituzioni pubbliche. Tutti i servizi pubblici sono correlati a procedimenti amministrativi, e per tale ragione il software gestionale deve assicurare a chiunque di poter fare le cose in maniera facile, intuitiva e agevole, senza incorrere in problemi di accessibilità o di interpretazione delle funzioni operative (relative alle interfaccie grafiche) o del linguaggio adottato. A tal riguardo l'[**`architettura dell'informazione`**](https://designers.italia.it/kit/architettura-informazione/) va curata nella fase di progettazione degli applicativi per la gestione dei procedimenti e per l'erogazione dei servizi all'utenza. 
+
+Nell'architettura dell'informazione va curata l'organizzazione dei contenuti per i servizi da erogare.
 
 !!! Info "Organizzazione dei contenuti per i servizi, con la tecnica del ["`card-sorting`"](https://designers.italia.it/kit/architettura-informazione/) (ordinamento delle carte)"
     ![](https://user-images.githubusercontent.com/42996217/143689833-68aa7352-dc33-4eda-a97f-1c5caee5dc6c.png)
