@@ -71,7 +71,10 @@ https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amm
 
 <small>prova prova   prova </small>
 
+<kbd>prova</kbd> si ottiene così:
+``` yaml
 <kbd>prova</kbd>
+```
 
 
 ---
