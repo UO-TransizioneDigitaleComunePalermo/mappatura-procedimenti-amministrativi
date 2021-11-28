@@ -18,9 +18,7 @@ Vengono descritte le azioni realizzate dal personale comunale, che hanno portato
 ## Progetto curato da UO-TransizioneDigitaleComunePalermo 
 ![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png) 
 
-Progetto consultabile al link: 
-
-[**https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/)
+Il progetto consultabile [**qui**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/)
 
 
 ## Come è costruito il progetto 
