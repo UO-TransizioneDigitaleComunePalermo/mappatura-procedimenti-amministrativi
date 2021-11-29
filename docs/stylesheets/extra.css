@@ -149,7 +149,7 @@ table {
 
 
 
-/* Tabbed extension css */
+/* Tabbed extension css */   /* questo blocco di codice va in conflitto con "content tab" = https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/issues/15 */
 /*
 .tabbed-set {
   display: flex;
@@ -239,7 +239,7 @@ div.doc-contents:not(.first) {
 .md-banner { background-color: #2a2369;!important; }  */
 
 
-/* cambia colore al header nero sopra il menù cioè = announcement bar (cambiato 9 nov 2021) 
+/* cambia colore al header nero sopra il menù cioè = announcement bar  
 .md-announce { background-color: #eaeaea;!important; } */
 
 
