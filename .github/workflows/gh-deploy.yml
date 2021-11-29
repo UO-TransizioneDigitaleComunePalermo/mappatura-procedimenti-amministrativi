@@ -30,7 +30,7 @@ jobs:
 #     - run: pip install pymdown-extensions                # disattivato il 28 nov 2021
       - run: pip install pymdown-extensions>=9.0           # aggiunto il 28 nov 2021
       - run: pip install mkdocs-autolinks-plugin           
-      - run: pip install mkdocs-jupyter                    # in sospeso 
+#     - run: pip install mkdocs-jupyter                    # disattivato 
 #     - run: pip install mkdocs-exclude                    # disattivato il 28 nov 2021
       - run: pip install mkdocs-exclude-search             # in sospeso 
       - run: pip install mkdocs-macros-plugin              # in sospeso 
