@@ -70,18 +70,18 @@ Un ufficio centrale dell'Amministrazione procede con la creazione di un file in 
 
 Il file contiene i principali metadati relativi ai procedimenti:
 
-- <kbd>denominazione procedimento</kbd> | <small>(descrizione sintetica)</small>, 
-- <kbd>nome_cognome del responsabile</kbd>, 
-- <kbd>email del responsabile</kbd>, 
-- <kbd>telefono del responsabile</kbd>, 
-- <kbd>servizio/ufficio responsabile</kbd>, 
-- <kbd>informazione che permette di capire se il procedimento è gestibile in modalità "lavoro agile"</kbd> | <small>(utile per la costruzione del POLA)</small>, 
-- <kbd>numero progressivo identificativo del procedimento amministrativo in un database</kbd>, 
-- <kbd>link URL alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"</kbd> | <small>(deve essere un URL)</small>.
+- <kbd>`denominazione procedimento`</kbd> <small>(descrizione sintetica)</small>, 
+- <kbd>`nome_cognome del responsabile`</kbd>, 
+- <kbd>`email responsabile`</kbd>, 
+- <kbd>`telefono responsabile`</kbd>, 
+- <kbd>`servizio/ufficio responsabile`</kbd>, 
+- <kbd>`informazione che permette di capire se il procedimento è gestibile in "lavoro agile"`</kbd> <small>(utile per la costruzione del POLA)</small>, 
+- <kbd>`numero progressivo identificativo del procedimento amministrativo in un database`</kbd>, 
+- <kbd>`link URL alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"`</kbd>  <small>(deve essere un URL)</small>.
 
 Il database ha il seguente ==**schema dati**==:
 
-|<kbd>area</kbd>|<kbd>settore</kbd>|<kbd>servizio</kbd>|<kbd>denominazione procedimento</kbd>|<kbd>lavoro agile</kbd>|<kbd>email resp.procedimento</kbd>|<kbd>telefono info</kbd>|<kbd>link scheda</kbd>|<kbd>rif</kbd>|
+|<kbd>area</kbd>|<kbd>settore</kbd>|<kbd>servizio</kbd>|<kbd>denominaz. procedimento</kbd>|<kbd>lavoro agile</kbd>|<kbd>email resp.procedimento</kbd>|<kbd>telefono info</kbd>|<kbd>link scheda</kbd>|<kbd>rif</kbd>|
 |----|-------|--------|--------------------------|------------|-------------------------------|-------------|-----------|---|
 |Decoro Urbano e Verde|                          |Capo Area / Responsabile del Verde Urbano|Risposta scritta interrogazione consiliare|si|nomecognome @comune.palermo.it|0917401111|[link](https://docs.google.com/spreadsheets/d/1qJ8iUDgwPxVebEOCjFFR-gKIWO5ro2hd/edit#gid=371520549)|1|
 |Educazione Formazione e Politiche Giovanili| | staff Capo Area| Erogazione contributi  previsti dal D.Lgs n. 65 del 13.04.2017  (0-6 anni) | si | nomecognome @comune.palermo.it | 0917401111 - 0917401112 | [link](https://docs.google.com/spreadsheets/d/1xbGxiY8iYK2-k39EyPV_coAf7R4TrVuDd8SUmL9fGNs/edit#gid=1298047631)|2|
