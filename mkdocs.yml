@@ -1,7 +1,7 @@
 ## Project information
 site_name: Mappatura dei procedimenti amministrativi per la digitalizzazione
 site_url: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/
-# site_description: 
+# site_description:
 
 ## Repository
 repo_name: mappatura-procedimenti-amministrativi
@@ -9,9 +9,9 @@ repo_url: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-proce
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <img src="https://img.shields.io/github/last-commit/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi.svg?&label=ultimo_aggiornamento"> 
-           <img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi"> <br> 
-           
+copyright: <img src="https://img.shields.io/github/last-commit/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi.svg?&label=ultimo_aggiornamento">
+           <img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi"> <br>
+
 
 ## Social Media
 extra:
@@ -43,7 +43,7 @@ extra:
   # provider: google
   # property: usa il tuo codice
 
-    
+
 ## Configuration
 theme:
   name: material
@@ -65,7 +65,7 @@ theme:
     - content.code.annotate       # riferimento https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations
  #  - content.tabs.link           # riferimento= https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#linked-content-tabs
  #  - toc.integrate
-  
+
   palette:
     - scheme: default
       primary: white           # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
@@ -92,7 +92,7 @@ plugins:
 - search
 # - mkdocstrings
 # - autolinks
-# - macros  
+# - macros
 - print-site:
     add_to_navigation: false
     print_page_title: 'Documentazione in formato PDF'
@@ -117,7 +117,7 @@ plugins:
 markdown_extensions:
 - toc:
         permalink: ↵
-- meta        
+- meta
 - mkdocs-click
 - pymdownx.highlight
 - pymdownx.inlinehilite
@@ -161,43 +161,43 @@ extra_javascript:
 
 ## extra CSS
 extra_css:
-   - stylesheets/extra.css
-  
+#   - stylesheets/extra.css
 
-## Page tree 
-# ogni file .md corrisponde ad una pagina web 
+
+## Page tree
+# ogni file .md corrisponde ad una pagina web
 nav:
     - Home: index.md
-         
+
     - Focus giuridico:
         - Focus giuridico sui procedimenti: contenuti/focus-giuridico.md
-        - I procedimenti amministrativi visti dal "CAD": contenuti/cad.md 
-           
+        - I procedimenti amministrativi visti dal "CAD": contenuti/cad.md
+
     - Mappatura:
         - Percorsi di digitalizzazione in ambito comuale: contenuti/digitalizzazione-ambito-comunale.md
         - L'analisi dei procedimenti nel Piano della Performance: contenuti/esperienza-analisi.md
-     
+
     - Metadati:
         - I metadati nella mappatura dei procedimenti: contenuti/metadati.md
         - Metadati minimi di determinazioni e deliberazioni: contenuti/metadati-determinazione-deliberazione.md
         - Uno schema di metadati usato nella mappatura dei procedimenti: contenuti/schema-metadati.md
         - Un esperienza di mappatura con metadati: contenuti/esperienza-metadatazione.md
-   
+
     - Fasi operative:
         - Fasi operative dei procedimenti: contenuti/fasi-operative.md
-    
+
     - Reingegnerizzazione: contenuti/reingegnerizzazione.md
-    
+
     - Catalogo:
         - Dalla mappatura al catalogo dei procedimenti: contenuti/catalogo.md
-    
+
     - Linkografia:
         - Linkografia essenziale: contenuti/linkografia.md
-            
+
     - Redazione:
         - Redazione: contenuti/redazione.md
 
     - Strumenti: contenuti/strumenti.md
-    
+
     - Forum →: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions
-       
+
