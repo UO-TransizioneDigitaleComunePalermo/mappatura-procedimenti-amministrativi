@@ -51,7 +51,7 @@ Nei casi di modifica delle schede nei semestri successivi alla data di redazione
 
 :material-file-document-multiple-outline: ==**metadati**== ↓
 
-| <kbd>ID metadato</kbd> | <kbd>Denominazione del metadato</kbd> | <kbd>Contenuto del metadato</kbd> |  <kbd>Note aggiuntive<kbd>  |
+| <kbd>ID metadato</kbd> | <kbd>Denominazione del metadato</kbd> | <kbd>Contenuto del metadato</kbd> |  <kbd>Note aggiuntive</kbd>  |
 |:---|:--------------------------------------|:-----------------|:-----|
 |**`versione`**| **`data_versione_scheda`**| 30/06/2021 | *la versione del 30/06/2021 è stata redatta al fine di recepire le indicazioni della legge 1234/2021 che ha introddoto alcune modifiche sulla gestione del procedimento ........ e del relativo servizio all'utenza* |
 |1| Nome del procedimento amministrativo | ACQUISIZIONE DEL SERVIZIO DI REFEZIONE SCOLASTICA E DEL SERVIZIO DI FORMAZIONE ALIMENTARISTI |    |
