@@ -28,7 +28,7 @@ jobs:
 #     - run: pip install click-config-file                  
 #     - run: pip install pytest                             
 #     - run: pip install mkdocs                             
-#     - run: pip install mkdocstrings                       
+      - run: pip install mkdocstrings           # lo vuole Github altrimenti non fa il commit               
 #     - run: pip install pygments
 #     - run: pip install pymdown-extensions                
 #     - run: pip install mkdocs-autolinks-plugin           
