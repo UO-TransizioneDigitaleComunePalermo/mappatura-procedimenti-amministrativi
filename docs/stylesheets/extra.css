@@ -223,7 +223,7 @@ div.doc-contents:not(.first) {
 
 /* cambia colore al footer e a page next/pre */
 .md-footer { background-color:var(--md-default-bg-color); color: var(--md-default-fg-color);}
-.md-footer-meta {    background-color: var(--md-footer-bg-color); color: #898989!important; font-size: .64rem!important; padding: 0.3rem!important; } /* aggiunti dopo la vers.8 */
+.md-footer-meta {    background-color: var(--md-footer-bg-color); color: #898989!important; font-size: .60rem!important; padding: 0.3rem!important; } /* aggiunti dopo la vers.8 */
 
 
 
