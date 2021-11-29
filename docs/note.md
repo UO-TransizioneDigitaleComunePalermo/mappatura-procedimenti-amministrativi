@@ -9,7 +9,7 @@ Questo file "note" contiene varie prove effettuate nei setting del codice e rife
 
 
 
-## Inserire una barra di testo sopra l'header (`block announce`) per annunci importanti
+## Inserire `block announce`, barra di testo sopra l'header per annunci importanti
 
 Nel file `override/main.html` va aggiunta l'istruzione di cui a [https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar):
 
