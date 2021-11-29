@@ -69,16 +69,6 @@ https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amm
 
 1.  :man_raising_hand: I'm a code annotation! I can
 
-<small>il testo piccolo</small> si ottiene così:
-``` yaml
-<small>il testo piccolo</small>
-```
-
-<kbd>prova</kbd> si ottiene così:
-``` yaml
-<kbd>prova</kbd>
-```
-
 
 ---
 
@@ -105,3 +95,14 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 
 ## HTML / Element
 [https://developer.mozilla.org/en-US/docs/Web/HTML/Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+<small>il testo piccolo</small> si ottiene così:
+``` yaml
+<small>il testo piccolo</small>
+```
+
+<kbd>prova</kbd> si ottiene così:
+``` yaml
+<kbd>prova</kbd>
+```
+
