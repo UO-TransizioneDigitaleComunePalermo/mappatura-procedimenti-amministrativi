@@ -22,7 +22,7 @@ jobs:
       - run: pip install pymdown-extensions>=9.0           
       - run: pip install mkdocs-rss-plugin
       - run: pip install mkdocs-mermaid2-plugin   # fin qui il setting di https://github.com/opendatasicilia/ods-mkdocs-material/blob/main/.github/workflows/gh-deploy.yml
-      - run: pip install requests_oauthlib  
+#     - run: pip install requests_oauthlib  
 #     - run: pip install click                              
 #     - run: pip install click-plugins                      
 #     - run: pip install click-config-file                  
