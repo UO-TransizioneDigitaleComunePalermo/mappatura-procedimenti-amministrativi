@@ -107,3 +107,5 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 ```
 
 <kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd> - <kbd>*prova*</kbd> - <kbd>**prova**</kbd>
+
+<kbd>[**prova**](https://cirospat.readthedocs.io) e [`codice`](https://cirospat.readthedocs.io) </kbd>
