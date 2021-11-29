@@ -32,7 +32,7 @@ jobs:
 #     - run: pip install pygments
 #     - run: pip install pymdown-extensions                
 #     - run: pip install mkdocs-autolinks-plugin           
-      - run: pip install mkdocs-jupyter          # attivato abilita "content tabs" e disabilita "code annotation" 
+#     - run: pip install mkdocs-jupyter          # attivato abilita "content tabs" e disabilita "code annotation" 
 #     - run: pip install mkdocs-exclude                    
 #     - run: pip install mkdocs-exclude-search              
 #     - run: pip install mkdocs-macros-plugin              
