@@ -41,7 +41,7 @@ Nei casi di modifica delle schede nei semestri successivi alla data di redazione
 
 :material-file-document-multiple-outline: **fasi operative** ↓
 
-| ==Ordine progressivo delle fasi del procedimento== | ==Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo== | <kbd>Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo</kbd> |
+| <kbd>Ordine progressivo delle fasi del procedimento</kbd> | <kbd>Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo</kbd> | <kbd>Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo</kbd> |
 |:-----|:-----|:-----|
 | **`data_versione_scheda`** | 30/06/2021 | *la versione del 30/06/2021 è stata redatta al fine di recepire le indicazioni della legge n... del .... che ha introddoto alcune modifiche sulla gestione del procedimento e del relativo servizio all'utenza* |
 | fase 1 | .............. | ........... |
@@ -51,7 +51,7 @@ Nei casi di modifica delle schede nei semestri successivi alla data di redazione
 
 :material-file-document-multiple-outline: **metadati** ↓
 
-|==ID metadato==| ==Denominazione del metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
+| <kbd>ID metadato</kbd> | <kbd>Denominazione del metadato</kbd> | <kbd>Contenuto del metadato</kbd> |  <kbd>Note aggiuntive<kbd>  |
 |:---|:--------------------------------------|:-----------------|:-----|
 |**`versione`**| **`data_versione_scheda`**| 30/06/2021 | *la versione del 30/06/2021 è stata redatta al fine di recepire le indicazioni della legge 1234/2021 che ha introddoto alcune modifiche sulla gestione del procedimento ........ e del relativo servizio all'utenza* |
 |1| Nome del procedimento amministrativo | ACQUISIZIONE DEL SERVIZIO DI REFEZIONE SCOLASTICA E DEL SERVIZIO DI FORMAZIONE ALIMENTARISTI |    |
