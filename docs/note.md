@@ -5,8 +5,8 @@ hide:
 
 
 # Setting vari, prove e remind  :octicons-code-16:
-<img src="https://user-images.githubusercontent.com/42996217/143854985-27c4fe94-3620-499d-8d0b-f9708f75a62f.png" width="400" > </img>
-<small>immagine di keliweb.it</small>
+<img src="https://user-images.githubusercontent.com/42996217/143856323-ce006e3d-77b8-4ef7-8002-3428a511ff51.png" width="400" > </img> 
+<kbd>immagine del Noun project</kbd>
 
 
 
