@@ -29,7 +29,7 @@ Per testo di colore bianco contornato di altro colore, inserire il seguente codi
 
 ---
 
-## `Code annotation`, annotazioni nel blocco codice
+## Inserire `Code annotation`, annotazioni nel blocco codice
 
 Nel file `.md` inserire quanto descritto al link: [https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
 
@@ -74,7 +74,7 @@ Ho tolto l'iframe dal file `contenuti/catalogo.md`
 ---
 
 
-## Inserire `Flowchart`
+## Inserire grafi `Flowchart`
 
 Per inserire diagrammi di flusso fare riferimento a: [https://mermaid-js.github.io/mermaid/#/flowchart](https://mermaid-js.github.io/mermaid/#/flowchart)
 
@@ -89,7 +89,7 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 
 ---
 
-## Inserire HTML `Element`
+## Inserire `HTML Element`
 
 [https://developer.mozilla.org/en-US/docs/Web/HTML/Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
