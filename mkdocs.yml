@@ -63,7 +63,7 @@ theme:
     - search.highlight
     - search.share
     - content.code.annotate       # riferimento https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations
-    - content.tabs.link           # riferimento= https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#linked-content-tabs
+ #  - content.tabs.link           # riferimento= https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#linked-content-tabs
  #  - toc.integrate
   
   palette:
