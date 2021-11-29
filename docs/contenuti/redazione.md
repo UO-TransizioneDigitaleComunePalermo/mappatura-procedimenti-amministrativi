@@ -21,7 +21,7 @@ dell'[**UO transizione al digitale**](https://www.comune.palermo.it/struttura-am
 
 
 
-## Perchè abbiamo costruito questo progetto di documentazione
+## Perché abbiamo costruito questo progetto di documentazione
 Perchè riteniamo utile condividere con colleghi di altre amministrazioni pubbliche il lavoro svolto per la mappatura, metadatazione e analisi dei procedimenti amministrativi. Il metodo utilizzato ha dato risultati positivi al Comune di Palermo. 
 
 L'Amministrazione è riuscita a mappare i procedimenti amministrativi per la successiva fase di digitalizzazione. Un attività che spesso viene vissuta con difficolà nelle amministrazioni pubbliche proprio per una mancanza di metodologia facile da applicare. 
