@@ -26,6 +26,7 @@
 */
 
 /* Active tab bold & color (cioè il carattere dei titoli del menù nell'header) */
+/*
 .md-tabs__link {
     font-size: .75rem !important;          /* di default era 75 */
 }
@@ -36,6 +37,7 @@
 .md-tabs__link:hover {
     color: var(--md-accent-fg-color);
 }
+*/
 
 
 /* Regolare font size del titolo nell'header */
