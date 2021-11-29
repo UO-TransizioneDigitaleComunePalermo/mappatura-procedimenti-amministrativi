@@ -39,7 +39,7 @@ I responsabili di procedimento e i dirigenti dovrebbero provvedere alla validazi
 Nei casi di modifica delle schede nei semestri successivi alla data di redazione della prima versione delle schede (metadati e fasi operative) è necessario aggiungere un record "data_versione_scheda" sia alla scheda "**fasi operative**" che alla scheda "**metadati**", in maniera tale da avere sempre definita la data di riferimento a partire dalla quale vigono le informazioni riportate nelle stesse schede. Il campo riportante la "data di versionamento" sarà il primo in ambedue le schede.
 
 
-:material-file-document-multiple-outline: **fasi operative** ↓
+:material-file-document-multiple-outline: ==**fasi operative**== ↓
 
 | <kbd>Ordine progressivo delle fasi del procedimento</kbd> | <kbd>Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo</kbd> | <kbd>Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo</kbd> |
 |:-----|:-----|:-----|
@@ -49,7 +49,7 @@ Nei casi di modifica delle schede nei semestri successivi alla data di redazione
 | fase 3 | .............. | ........... |
 
 
-:material-file-document-multiple-outline: **metadati** ↓
+:material-file-document-multiple-outline: ==**metadati**== ↓
 
 | <kbd>ID metadato</kbd> | <kbd>Denominazione del metadato</kbd> | <kbd>Contenuto del metadato</kbd> |  <kbd>Note aggiuntive<kbd>  |
 |:---|:--------------------------------------|:-----------------|:-----|
@@ -66,22 +66,22 @@ Le informazioni di "versionamento" delle schede sono necessarie al fine di appor
 
 
 ## Creare un database con l'elenco dei procedimenti
-Un ufficio centrale dell'Amministrazione procede con la creazione di un file in formato tabellare su Google Drive. 
+Un ufficio centrale dell'Amministrazione procede con la creazione di un file in formato tabellare su Google Drive, in apposita cartella. 
 
-Il file contiene i principali metadati dei procedimenti:
+Il file contiene i principali metadati relativi ai procedimenti:
 
-- `denominazione procedimento`, 
-- `nome_cognome del responsabile`, 
-- `email del responsabile`, 
-- `telefono del responsabile`, 
-- `servizio/ufficio responsabile`, 
-- `informazione che permette di capire se il procedimento è gestibile in modalità "lavoro agile" (utile per la costruzione del POLA)`, 
-- `numero progressivo identificativo del procedimento amministrativo in un database`, 
-- `link alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"`.
+- <kbd>denominazione procedimento</kbd> | <small>(descrizione sintetica)</small>, 
+- <kbd>nome_cognome del responsabile</kbd>, 
+- <kbd>email del responsabile</kbd>, 
+- <kbd>telefono del responsabile</kbd>, 
+- <kbd>servizio/ufficio responsabile</kbd>, 
+- <kbd>informazione che permette di capire se il procedimento è gestibile in modalità "lavoro agile"</kbd> | <small>(utile per la costruzione del POLA)</small>, 
+- <kbd>numero progressivo identificativo del procedimento amministrativo in un database</kbd>, 
+- <kbd>link URL alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"</kbd> | <small>(deve essere un URL)</small>.
 
-Il database ha il seguente "**schema dati**":
+Il database ha il seguente ==**schema dati**==:
 
-|==area==|==settore==|==servizio==|==denominazione procedimento==|==lavoro agile==|==email resp.procedimento==|==telefono info==|==link scheda==|==rif==|
+|<kbd>area</kbd>|<kbd>settore</kbd>|<kbd>servizio</kbd>|<kbd>denominazione procedimento</kbd>|<kbd>lavoro agile</kbd>|<kbd>email resp.procedimento</kbd>|<kbd>telefono info</kbd>|<kbd>link scheda</kbd>|<kbd>rif</kbd>|
 |----|-------|--------|--------------------------|------------|-------------------------------|-------------|-----------|---|
 |Decoro Urbano e Verde|                          |Capo Area / Responsabile del Verde Urbano|Risposta scritta interrogazione consiliare|si|nomecognome @comune.palermo.it|0917401111|[link](https://docs.google.com/spreadsheets/d/1qJ8iUDgwPxVebEOCjFFR-gKIWO5ro2hd/edit#gid=371520549)|1|
 |Educazione Formazione e Politiche Giovanili| | staff Capo Area| Erogazione contributi  previsti dal D.Lgs n. 65 del 13.04.2017  (0-6 anni) | si | nomecognome @comune.palermo.it | 0917401111 - 0917401112 | [link](https://docs.google.com/spreadsheets/d/1xbGxiY8iYK2-k39EyPV_coAf7R4TrVuDd8SUmL9fGNs/edit#gid=1298047631)|2|
