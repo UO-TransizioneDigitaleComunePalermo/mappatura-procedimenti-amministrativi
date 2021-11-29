@@ -30,7 +30,8 @@ Per testo di colore bianco contornato di altro colore, inserire il seguente codi
 ---
 
 ## `Code annotation`, annotazioni nel blocco codice
-Nel file `.md` inserire quanto descritto a: [https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
+
+Nel file `.md` inserire quanto descritto al link: [https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
 
 Vediamo qual è il risultato. Inseriamo nel seguente blocco di codice un commento che sarà preceduto dal simbolo cancelletto `#` e dal numero dentro parentesi tonda. Dopo aver chiuso il blocco di codice lasciare una riga vuota e inserire il commento:
 
@@ -56,24 +57,15 @@ theme:
 
 1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
     text__, images, ... basically anything that can be expressed in Markdown.
-2.  I'm a different annotation contain `code`
+2.  I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`
 
-
-### Altra Prova annotation
-``` yaml
-https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi # (1)
-├─ Focus giuridico  
-|  ├─ https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico
-|  └─ https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/
-```
-
-1.  :man_raising_hand: I'm a code annotation! I can
 
 
 ---
 
 
 ## (File "Catalogo")
+
 Ho tolto l'iframe dal file `contenuti/catalogo.md`
 ```
 <iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="83000"; width="100%"; frameborder="0"; > </iframe>
@@ -81,19 +73,24 @@ Ho tolto l'iframe dal file `contenuti/catalogo.md`
 
 ---
 
+
 ## Inserire `Flowchart`
+
 Per inserire diagrammi di flusso fare riferimento a: [https://mermaid-js.github.io/mermaid/#/flowchart](https://mermaid-js.github.io/mermaid/#/flowchart)
 
 [mermaid editor online](https://mermaid-js.github.io/mermaid-live-editor)
 
 ---
 
+
 ## Inserire `Emoji`
+
 Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
 
 ---
 
-## HTML / Element
+## Inserire HTML `Element`
+
 [https://developer.mozilla.org/en-US/docs/Web/HTML/Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 <small>il testo piccolo</small> si ottiene così:
