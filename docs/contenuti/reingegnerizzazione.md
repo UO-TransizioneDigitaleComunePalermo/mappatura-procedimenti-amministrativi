@@ -28,7 +28,7 @@ La riprogettazione del procedimento deve migliorare l’efficienza del flusso di
 
 ``` mermaid
 graph LR
-A([risorse impiegate]) -->|<small>umane, strumentali</small>| B([tempo]) -->|flussi di lavoro del procedimento| C([risultati ottenuti: qualità servizi all'utenza]) 
+A([risorse impiegate]) -->|umane, strumentali| B([tempo]) -->|flussi di lavoro del procedimento| C([risultati ottenuti: qualità servizi all'utenza]) 
 ```
 
 Nei procedimenti amministrativi, l’efficacia va valutata in relazione alle aspettative e ai bisogni dell'utenza. Migliorare l’efficacia del processo significa migliorare la qualità del servizio reso (cioè rispondenza del servizio alle necessità dei fruitori). 
