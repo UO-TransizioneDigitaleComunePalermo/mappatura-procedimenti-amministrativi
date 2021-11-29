@@ -15,7 +15,7 @@ copyright: <img src="https://img.shields.io/github/last-commit/uo-transizionedig
 
 ## Social Media
 extra:
-  manifest: "manifest.webmanifest"
+# manifest: "manifest.webmanifest"
   disqus: mkdocs
   social:
     - icon: fontawesome/solid/home
