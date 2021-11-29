@@ -18,7 +18,7 @@ jobs:
       - run: pip install markdown>=3.2                      # aggiunto il 28 nov 2021
       - run: pip install Pygments>=2.4                      # aggiunto il 28 nov 2021
       - run: pip install requests_oauthlib
-      - run: pip install click                              ## prova disattivato il 29 nov 2021
+#     - run: pip install click                              # disattivato il 28 nov 2021
       - run: pip install click-plugins                      
 #     - run: pip install click-config-file                  # disattivato il 28 nov 2021
 #     - run: pip install pytest                             # disattivato il 28 nov 2021
@@ -27,7 +27,7 @@ jobs:
       - run: pip install mkdocstrings                       
       - run: pip install mkdocs-click
       - run: pip install pygments
-#     - run: pip install pymdown-extensions                # disattivato il 28 nov 2021
+      - run: pip install pymdown-extensions                ## disattivato il 29 nov 2021
       - run: pip install pymdown-extensions>=9.0           # aggiunto il 28 nov 2021
       - run: pip install mkdocs-autolinks-plugin           
 #     - run: pip install mkdocs-jupyter                    # disattivato il 28 nov 2021
