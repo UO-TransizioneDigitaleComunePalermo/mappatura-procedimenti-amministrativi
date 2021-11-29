@@ -31,9 +31,9 @@ jobs:
       - run: pip install pymdown-extensions>=9.0           # aggiunto il 28 nov 2021
       - run: pip install mkdocs-autolinks-plugin           
       - run: pip install mkdocs-jupyter                    # attivato abilita "content tabs" e disabilita "code annotation" 
-      - run: pip install mkdocs-exclude                    # in sospeso
+#     - run: pip install mkdocs-exclude                    # disattivato
       - run: pip install mkdocs-exclude-search             # in sospeso 
-      - run: pip install mkdocs-macros-plugin              # in sospeso 
+#     - run: pip install mkdocs-macros-plugin              # in sospeso 
       - run: pip install mkdocs-print-site-plugin
       - run: pip install mkdocs-pdf-export-plugin
  #    - run: pip install mkdocs-git-revision-date-localized-plugin   # disattivato il 28 nov 2021
