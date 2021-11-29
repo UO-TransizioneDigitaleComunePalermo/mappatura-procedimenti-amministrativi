@@ -44,7 +44,7 @@ Vediamo qual è il risultato. Inseriamo nel seguente blocco di codice un comment
 ``` yaml
 theme:
   features:
-    - content.code.annotate # (1)
+    - content.code.annotate # (1) (2)
 ```
 
 1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
