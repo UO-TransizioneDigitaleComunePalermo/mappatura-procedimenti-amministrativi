@@ -70,14 +70,14 @@ Un ufficio centrale dell'Amministrazione procede con la creazione di un file in 
 
 Il file contiene i principali metadati relativi ai procedimenti:
 
-- <kbd>`denominazione procedimento`</kbd> <small>(descrizione sintetica)</small>, 
-- <kbd>`nome_cognome del responsabile`</kbd>, 
-- <kbd>`email responsabile`</kbd>, 
-- <kbd>`telefono responsabile`</kbd>, 
-- <kbd>`servizio/ufficio responsabile`</kbd>, 
-- <kbd>`informazione che permette di capire se il procedimento è gestibile in "lavoro agile"`</kbd> <small>(utile per la costruzione del POLA)</small>, 
-- <kbd>`numero progressivo identificativo del procedimento amministrativo in un database`</kbd>, 
-- <kbd>`link URL alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"`</kbd>  <small>(deve essere un URL)</small>.
+- <kbd>denominazione procedimento</kbd> <small>(descrizione sintetica)</small>, 
+- <kbd>nome_cognome del responsabile</kbd>, 
+- <kbd>email responsabile</kbd>, 
+- <kbd>telefono responsabile</kbd>, 
+- <kbd>servizio/ufficio responsabile</kbd>, 
+- <kbd>informazione che permette di capire se il procedimento è gestibile in "lavoro agile"</kbd> <small>(utile per la costruzione del POLA)</small>, 
+- <kbd>numero progressivo identificativo del procedimento amministrativo in un database</kbd>, 
+- <kbd>link URL alla scheda excel su Google Drive che contiene la scheda "metadati" e la scheda "fasi operative"</kbd>  <small>(deve essere un URL)</small>.
 
 Il database ha il seguente ==**schema dati**==:
 
