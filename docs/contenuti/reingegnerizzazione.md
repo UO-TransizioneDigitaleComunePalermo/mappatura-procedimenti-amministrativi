@@ -48,7 +48,7 @@ flowchart TD
 ## Reingegnerizzare partendo dagli utenti :fontawesome-regular-user:
 Nella gestione dei procedimenti amministrativi propedeutici all'erogazione dei servizi pubblici all'utenza si definiscono nettamente 2 ruoli, che di seguito verranno ripresi diverse volte.
 
-**l'utente**|**la PA**
+<kbd>**l'utente**</kbd>|<kbd>**la PA**</kbd>
 ------|--------
 cittadino/a, impresa, associazione che 1) chiede un servizio alla PA e 2) attende un tempo x per l'ottenimento del servizio | personale della PA che lavora direttamente (a vario titolo) nella gestione dei procedimenti amministrativi per l'erogazione di un servizio pubblico
 
