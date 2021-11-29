@@ -56,8 +56,8 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.tracking
-    - navigation.sections      # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections)
-    - navigation.expand        # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion)
+ #  - navigation.sections      # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections)
+ #  - navigation.expand        # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion)
  #  - navigation.instant       # va in conflitto con i bei grafi di mergemaid
     - search.suggest
     - search.highlight
