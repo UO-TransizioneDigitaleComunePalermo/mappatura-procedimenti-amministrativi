@@ -106,4 +106,4 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 <kbd>prova</kbd>
 ```
 
-<kbd>`prova`</kbd> - <kbd>*prova*</kbd> - <kbd>**prova**</kbd>
+<kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd> - <kbd>*prova*</kbd> - <kbd>**prova**</kbd>
