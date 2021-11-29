@@ -5,7 +5,7 @@ hide:
 
 
 # Setting vari, prove e remind  :octicons-code-16:
-<img src="https://user-images.githubusercontent.com/42996217/143856323-ce006e3d-77b8-4ef7-8002-3428a511ff51.png" width="400" > </img> 
+<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="400" > </img> 
 <kbd>immagine del Noun project</kbd>
 
 
