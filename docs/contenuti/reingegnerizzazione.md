@@ -57,7 +57,7 @@ Nel caso di percezione dell'utente "negativa" del servizio pubblico reso, il per
 Di seguito un infografica della `scheda del servizio`, a cura del Dipartimento Trasformazione Digitale (Designers Italia) che aiuta a comprendere come costruire l'architettura dell'informazione, necessaria a strutturare anche le fasi di gestione del procedimento a cui è correlato il servizio da erogare.
 
 [![](https://user-images.githubusercontent.com/42996217/142882837-9ce7084d-3b65-431e-a18d-078c8eee3c9a.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf#page=30)
-`scheda del servizio da erogare a cui è legato un procedimento`
+<kbd>scheda del servizio da erogare a cui è legato un procedimento</kbd>
 
 
 ## Customer satisfaction :fontawesome-solid-street-view:
@@ -205,7 +205,7 @@ Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigen
 > *[L’architettura dell’informazione](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/content-design/architettura-dell-informazione.html) consiste nell’organizzazione semantica e logica di ambienti informativi, sia fisici sia digitali, e serve a rendere i servizi pubblici più facili da trovare, da capire e da usare. Una buona architettura dell’informazione aiuta le persone a comprendere ciò che le circonda e a trovare ciò che cercano, sia online che offline. Lavorare su questo ambito implica una riflessione sulla struttura dell’informazione e sul linguaggio*. (A cura di Designers Italia).
 
 [![](https://user-images.githubusercontent.com/42996217/142879902-2cb144f1-91d3-421f-8f29-c53db315df4d.png)](http://eventipa.formez.it/sites/default/files/allegati_eventi/Maria%20Cristina%20Caratozzolo_20211116.pdf#page=31)
-`Focus sui servizi al cittadino a cui è legato un procedimento`
+<kbd>Focus sui servizi al cittadino a cui è legato un procedimento</kbd>
 
 *[La fruizione dei servizi deve seguire un flusso standard](https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/stabile/il-modello/architettura-dellinformazione.html#flusso-accesso), a partire dalla struttura delle informazioni fino all’integrazione di componenti di autenticazione (Spid) e del sistema di pagamento (pagoPA)* 
 
@@ -220,7 +220,7 @@ I software sono gli strumenti per permettere a chiunque (personale della PA e ci
 Nell'architettura dell'informazione va curata l'organizzazione dei contenuti per i servizi da erogare.
 
 !!! Info "Organizzazione dei contenuti per i servizi, con la tecnica del [`card-sorting`](https://designers.italia.it/kit/architettura-informazione/) (ordinamento delle carte)" 
-    `A cura del Dipartimento Trasformazione Digitale (Designers Italia)`
+    <kbd>A cura del Dipartimento Trasformazione Digitale (Designers Italia)</kbd>
     
     ↓
     ![](https://user-images.githubusercontent.com/42996217/143689833-68aa7352-dc33-4eda-a97f-1c5caee5dc6c.png)
