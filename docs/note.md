@@ -5,6 +5,11 @@ hide:
 
 
 # Setting vari, prove e remind  :octicons-code-16:
+<img src="https://user-images.githubusercontent.com/42996217/143854985-27c4fe94-3620-499d-8d0b-f9708f75a62f.png" width="400" > </img>
+<small>immagine di keliweb.it</small>
+
+
+
 Questo file "note" contiene varie prove effettuate nei setting del codice e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 
