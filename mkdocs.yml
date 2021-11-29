@@ -90,8 +90,8 @@ theme:
 ## Plugins
 plugins:
 - search
-- mkdocstrings
-- autolinks
+# - mkdocstrings
+# - autolinks
 # - macros  
 - print-site:
     add_to_navigation: false
