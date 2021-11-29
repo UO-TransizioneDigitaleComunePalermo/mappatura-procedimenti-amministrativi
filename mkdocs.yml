@@ -54,7 +54,7 @@ theme:
   features:
     - navigation.top
     - navigation.tabs
-    - navigation.tabs.sticky
+ #  - navigation.tabs.sticky
     - navigation.tracking
  #  - navigation.sections      # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections)
  #  - navigation.expand        # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion)
