@@ -22,6 +22,8 @@ jobs:
       - run: pip install pymdown-extensions>=9.0           
       - run: pip install mkdocs-rss-plugin
       - run: pip install mkdocs-mermaid2-plugin   # fin qui il setting di https://github.com/opendatasicilia/ods-mkdocs-material/blob/main/.github/workflows/gh-deploy.yml
+      - run: pip install mkdocs-print-site-plugin
+      - run: pip install mkdocs-jupyter           # attivato abilita "content tabs" e disabilita "code annotation"
 #     - run: pip install requests_oauthlib  
 #     - run: pip install click                              
 #     - run: pip install click-plugins                      
@@ -31,12 +33,10 @@ jobs:
 #     - run: pip install mkdocstrings                          
 #     - run: pip install pygments
 #     - run: pip install pymdown-extensions                
-#     - run: pip install mkdocs-autolinks-plugin           
-      - run: pip install mkdocs-jupyter          # attivato abilita "content tabs" e disabilita "code annotation" 
+#     - run: pip install mkdocs-autolinks-plugin            
 #     - run: pip install mkdocs-exclude                    
 #     - run: pip install mkdocs-exclude-search              
-#     - run: pip install mkdocs-macros-plugin              
-#     - run: pip install mkdocs-print-site-plugin
+#     - run: pip install mkdocs-macros-plugin  
 #     - run: pip install mkdocs-pdf-export-plugin
 #     - run: pip install mkdocs-git-revision-date-localized-plugin   
 #     - run: pip install mkdocs-windmill                             
