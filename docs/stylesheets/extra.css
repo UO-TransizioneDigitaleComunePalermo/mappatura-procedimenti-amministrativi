@@ -30,6 +30,8 @@
 .md-tabs__link {
     font-size: .75rem !important;          /* di default era 75 */
 }
+*/
+/*
 .md-tabs__link--active {
     font-weight: bold !important;
     color: var(--md-accent-fg-color);
@@ -54,16 +56,18 @@
 
 
 /* regolare colore della navigation bar (sotto l'header con titolo progetto). Prova 10 nov 2021  */
+/*
 .md-tabs {
     background-color: #e9e9e9;
     color: var(--md-primary-bg-color);
     overflow: auto;
     width: 100%;
 }
-
+*/
 
 
 /* regolare colore della dell'header con titolo progetto. Prova 10 nov 2021  */
+/*
 .md-header {
     background-color: #cfcfcf;
     box-shadow: 0 0 .2rem transparent,0 .2rem .4rem transparent;
@@ -75,7 +79,7 @@
     top: 0;
     z-index: 3;
 }
-
+*/
 
 
 
@@ -185,7 +189,7 @@ table {
 }
 
 
-/* Admonition settings option*/
+/* Admonition settings option */
 .md-typeset .admonition.settings, .md-typeset details.settings {
     border-left: .22rem solid #448aff;
 }
