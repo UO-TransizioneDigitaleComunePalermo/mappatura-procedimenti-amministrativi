@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
 
 /* forza il back to top a tornare in basso */
-/*
 .md-top {
     background: var(--md-primary-fg-color); 
     border-radius: 100%; 
@@ -18,7 +17,7 @@
     z-index: 1; 
 	font-size: 0px!important; 
 }
-*/
+
 
  /*sposta più in alto il back to top in mobile se è installata la condivisione social;*/
  /*
