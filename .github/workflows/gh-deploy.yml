@@ -33,7 +33,7 @@ jobs:
 #     - run: pip install mkdocs-jupyter                    # disattivato il 28 nov 2021
 #     - run: pip install mkdocs-exclude                    # disattivato il 28 nov 2021
       - run: pip install mkdocs-exclude-search             # disattivato il 28 nov 2021
-#     - run: pip install mkdocs-macros-plugin              # disattivato il 28 nov 2021 
+      - run: pip install mkdocs-macros-plugin              # in sospeso 
       - run: pip install mkdocs-print-site-plugin
       - run: pip install mkdocs-pdf-export-plugin
  #    - run: pip install mkdocs-git-revision-date-localized-plugin   # disattivato il 28 nov 2021
