@@ -164,7 +164,7 @@ Può essere fornito un **supporto al backend (lato personale PA)** che trova una
 
 
 
-## Nella digitalizzazione bisogna pensare per `dati` e non per `PDF`
+## Nella digitalizzazione bisogna pensare per <kbd>dati</kbd> e non per <kbd>PDF</kbd>
 Oggi spesso pensiamo la documentazione della PA come formati `PDF` che derivano da formati DOCX/ODT ai quali abbiamo lavorato precedentemente.
 Dimentichiamo di lavorare principalmente per documenti `PDF`.
 
@@ -194,7 +194,7 @@ A tutti i servizi online sono correlati distinti e specifici procedimenti ammini
 
 La PA deve tendere al raggiungimento del 5° livello dei servizi online, al fine di consentire al cittadino di essere informato - in tenpo reale - sull'intero ciclo di vita del procedimento che permetterà l'erogazione del servizio.
 
-| **1** | **2** | **3** | **4** | **5** |
+| <kbd>livello 1</kbd> | <kbd>livello 2</kbd> | <kbd>livello 3</kbd> | <kbd>livello 4</kbd> | <kbd>livello 5</kbd> |
 |---|---|---|---|---|
 | **Informazione** | **Interazione a una via** | **Interazione a due vie** | **Transazione** | **Personalizzazione** |
 Sono fornite all’utente informazioni sul procedimento amministrativo (es. finalità, termini di richiesta, ecc.) e sulle modalità di espletamento (es. sedi, orari di sportello, indirizzi email da utilizzare, ….) | Oltre alle informazioni, sono resi disponibili all’utente i moduli per la richiesta dell’atto (avvio procedimento amministrativo) di interesse che dovrà poi essere inoltrata attraverso canali tradizionali (es. modulo di variazione residenza, moduli di autocertificazione). Moduli da scaricare in formato pdf/xlsx/odt/docx | L’utente può avviare il procedimento amministrativo di interesse (es. il modulo può essere compilato e inviato online) e viene garantita online solo la presa in carico dei dati immessi dall’utente e non la loro contestuale elaborazione | L’utente può avviare il procedimento amministrativo di interesse fornendo i dati necessari ed eseguire la transazione corrispondente interamente online, incluso l'eventuale pagamento dei costi previsti | L'utente, oltre ad eseguire online l'intero ciclo del procedimento amministrativo di interesse riceve informazioni (sono ricordate le scadenze, è restituito l’esito del procedimento, ecc.), che gli sono inviate preventivamente, sulla base del profilo collegato ai sistemi informatici dell’ente (sistema di notifiche e allerta)|
