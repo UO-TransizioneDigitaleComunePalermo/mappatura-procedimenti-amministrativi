@@ -71,8 +71,10 @@ theme:
 ``` yaml
 S.C.I.A. è la dichiarazione che consente alle imprese di iniziare, modificare un’attività produttiva #(1) 
 o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento 
+
 della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e 
 controlli preliminari da parte delle amministrazioni competenti #(2) 
+
 con ricorso: con cui si richiede un riesame di legittimità o di merito di atti 
 ritenuti lesivi di diritti soggettivi o interessi legittimi #(3) 
 del procedimento di secondo grado
