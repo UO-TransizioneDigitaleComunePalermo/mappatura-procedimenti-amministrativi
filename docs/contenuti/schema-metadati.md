@@ -3,7 +3,7 @@ Di seguito viene proposto uno schema :material-table-large: di metadati minimi p
 
 I metadati individuati sono 30 e sono applicabili a qualsiasi procedimento amministrativo.
 
-| **==Denominazione dei metadati per descrivere le informazioni relative al procedimento amministrativo==** | **==Risposte==** | **==Note che si ritengono utili inserire per illustrare al meglio le informazioni sul procedimento amministrativo==** |
+| <kbd>Denominazione dei metadati per descrivere le informazioni relative al procedimento amministrativo</kbd> | <kbd>Risposte</kbd> | <kbd>Note che si ritengono utili inserire per illustrare al meglio le informazioni sul procedimento amministrativo</kbd> |
 |:-----|:-----|:-----|
 | individuare la denominazione per ogni metadato per il quale si richiede al compilatore di inserire informazioni | dare al compilatore questo campo per descrivere le informazioni relative al metadato associato (colonna precedente) | dare al compilatore questo campo per inserire eventuali informazioni ad approfondimento del precedente campo “Risposte” |
 
@@ -17,7 +17,7 @@ Uno schema tabellare semplice :material-table-large: come quello proposto, ha vi
 ## Esempio di schema di metadati per identificare un procedimento amministrativo di un ente comunale
 Quello che segue è un esempio di schema, abbastanza semplice ma allo stesso tempo esaustivo per la comprensione del procedimento ai fini della digitalizzazione.
 
-| ==ID metadato== | ==**METADATI per descrivere le informazioni relative al procedimento amministrativo**== | 
+| <kbd>ID metadato</kbd> | <kbd>METADATI per descrivere le informazioni relative al procedimento amministrativo</kbd> | 
 |---------|----------------|
 | 1 | Nome del procedimento amministrativo |
 | 2 | Descrizione del procedimento amministrativo |
