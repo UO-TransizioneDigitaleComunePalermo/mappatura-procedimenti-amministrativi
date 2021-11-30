@@ -73,7 +73,7 @@ Ultimata l’attività di controllo e censimento delle schede, il Servizio Innov
 
 L'elenco è costruito attraverso l'utilizzo di un file excel (su Google Drive) e lo "schema dati" è il seguente:
 
-|area|settore|servizio|denominaz. procedimento|lavoro agile|email resp procedim.|telefono info|link scheda|rif|
+|<kbd>area</kbd>|<kbd>settore</kbd>|<kbd>servizio</kbd>|<kbd>denominaz. procedimento</kbd>|<kbd>lavoro agile</kbd>|<kbd>email resp procedim.</kbd>|<kbd>telefono info</kbd>|<kbd>link scheda</kbd>|<kbd>rif</kbd>|
 |--- |-------|--------|--------------------------|------------|-----------------------|-------------|-----------|---|
 
 Il campo `link scheda` contiene i link (URL) ai file tabellari contenente sia i metadati che gli step operativi dei vari procedimenti amministrativi, file che si trovano tutti dentro una cartella di Google Drive.
