@@ -47,10 +47,19 @@ flowchart TD
 
 
 <!--
-## Reingegnerizzare usando lo strumento del BPM
+## Reingegnerizzare attraverso lo strumento del "BPM"
 <img src="https://user-images.githubusercontent.com/42996217/144023922-3b97ba56-bc88-4898-ab90-a41b16565c7b.PNG"> </img> <kbd>immagine del FormezPA</kbd>
 
-Il BPM è l'acronimo di [Businees Process Management](https://it.wikipedia.org/wiki/Business_process_management). E' una tecnica che nasce per le aziende private, e, nel caso di una pubblica amministrazione, può servire a definire, ottimizzare, monitorare ed integrare i processi amministrativi, al fine di rendere efficaci i servizi all'utenza. E' utile conoscere questa tecnica nell'attività di reingegnerizzazione dei procedimenti.
+Il BPM è l'acronimo di [Businees Process Management](https://it.wikipedia.org/wiki/Business_process_management). E' una tecnica che nasce per le aziende private, e, nel caso di una pubblica amministrazione, può servire a definire, ottimizzare, monitorare ed integrare i processi amministrativi, al fine di rendere efficaci i servizi all'utenza. E' sicuramente utile conoscere questa tecnica nell'attività di reingegnerizzazione dei procedimenti.
+
+Il BPM si avvale di software che permette di ricevere in ingresso dati|informazioni, analizzarli e costruire flussi di lavoro in base alle "esigenze" degli addetti ai lavori (in questo caso: responsabili e addetti al procedimento nella PA + utenti del servizio pubblico correlato al procedimento). Nelle "esigenze" rientrano:
+ 
+- le norme vigenti da rispettare per la gestione di un procedimento e l'erogazione di un servizio pubblico;
+- i tempi da rispettare per la gestione di un procedimento e l'erogazione di un servizio pubblico;
+- le fasi operative proprie di ogni procedimento;
+- i metadati propri di ogni procedimento;
+- le regole tecniche previste dalle linee guida attuative del CAD.
+
 -->
 
 
