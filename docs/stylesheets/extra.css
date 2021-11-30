@@ -158,6 +158,13 @@ table {
 
 
 
+/* colore background intestazione tabella */
+div.md-typeset__table thead {
+  background-color: #b6c1ff;
+}
+
+
+
 /* Admonition settings option */
 .md-typeset .admonition.settings, .md-typeset details.settings {
     border-left: .22rem solid #448aff;
