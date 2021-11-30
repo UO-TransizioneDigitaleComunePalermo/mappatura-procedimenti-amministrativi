@@ -108,7 +108,7 @@ a.md-button.md-button:hover {
 }
 /* gbvitrano per opendatasicilia*/
 
-/* Table styling */
+/* Table styling */                  /* disattivato */
 /*
 table {
   padding: 0; }
@@ -136,7 +136,9 @@ table {
       margin-bottom: 0; }
 */
 
-/* regolare dimensioni carattere delle tabelle (prova 13 nov 2021). Modificato solo il font-size.  
+
+/* regolare dimensioni carattere delle tabelle (prova 13 nov 2021). Modificato solo il font-size  */                  /* disattivato */
+/*
 .md-typeset table:not([class]) {
     background-color: var(--md-default-bg-color);
     border: .05rem solid var(--md-typeset-table-color);
@@ -146,46 +148,9 @@ table {
     max-width: 100%;
     overflow: auto;
     touch-action: auto;
-} */
-
-
-
-/* Tabbed extension css */   /* questo blocco di codice va in conflitto con "content tab" = https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/issues/15 */
-/*
-.tabbed-set {
-  display: flex;
-  position: relative;
-  flex-wrap: wrap;
-}
-.tabbed-set .highlight {
-  background: #ddd;
-}
-.tabbed-set .tabbed-content {
-  display: none;
-  order: 99;
-  width: 100%;
-}
-.tabbed-set label {
-  width: auto;
-  margin: 0 0.5em;
-  padding: 0.25em;
-  font-size: 120%;
-  cursor: pointer;
-}
-.tabbed-set input {
-  position: absolute;
-  opacity: 0;
-}
-.tabbed-set input:nth-child(n+1) {
-  color: #333333;
-}
-.tabbed-set input:nth-child(n+1):checked + label {
-    color: #FF5252;
-}
-.tabbed-set input:nth-child(n+1):checked + label + .tabbed-content {
-    display: block;
-}
+} 
 */
+
 
 
 /* Admonition settings option */
@@ -200,14 +165,16 @@ table {
     color: #448aff;
     content: "settings"}
 
-/* mkdocstrings styling
+
+/* mkdocstrings styling */
 /* Indentation. */
 div.doc-contents:not(.first) {
   padding-left: 25px;
   border-left: 4px solid rgba(230, 230, 230);
   margin-bottom: 80px;
 }
-/* errore 404 centra immagine nella pagina */
+
+/* errore codice 404 centra immagine nella pagina */
 .centerimg {
   /*display: block;
   margin-left: auto;
@@ -224,24 +191,30 @@ div.doc-contents:not(.first) {
   background-size: contain;
   height: 480px;} 
 
-/* rettangolo info stampa pdf */  
+
+/* rettangolo logo info stampa pdf */  
 #print-site-banner {border-color: #ff0000!important; border-radius: 10px!important; }
 
-/*mod. altezza footer prev/next*/
+
+/*modifica altezza footer prev/next */
 .md-footer__link {padding-bottom: .1rem!important; padding-top: .2rem!important; }
+
 
 /* cambia colore al footer e a page next/pre */
 .md-footer { background-color:var(--md-default-bg-color); color: var(--md-default-fg-color);}
 .md-footer-meta {    background-color: var(--md-footer-bg-color); color: #898989!important; font-size: .63rem!important; padding: 0.3rem!important; } /* aggiunti dopo la vers.8 */
 
+ 
+/* cambia colore al header nero sopra il menù cioè = announcement bar */        /* disattivato */
+/* 
+.md-banner { background-color: #2a2369;!important; }  
+*/
 
 
-/* cambia colore al header nero sopra il menù cioè = announcement bar  
-.md-banner { background-color: #2a2369;!important; }  */
-
-
-/* cambia colore al header nero sopra il menù cioè = announcement bar  
-.md-announce { background-color: #eaeaea;!important; } */
+/* cambia colore al header nero sopra il menù cioè = announcement bar  */        /* disattivato */
+/*
+.md-announce { background-color: #eaeaea;!important; } 
+*/
 
 
 /* Content area width (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width) */
