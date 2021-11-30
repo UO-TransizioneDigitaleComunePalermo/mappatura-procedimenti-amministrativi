@@ -5,7 +5,7 @@ hide:
 
 
 # Reingegnerizzazione dei procedimenti :material-engine-outline:
-Questa pagina focalizza l'attenzione sull'attività di riprogettazione, dei flussi di lavoro, che deve essere effettuata sia per la nuova gestione in modalità digitale dei procedimenti amministrativi, grazie all'uso di adeguati applicativi software, sia per migliorare le modalità di lavoro da parte del personale della PA e dell'utente (per i procedimenti attivati da istanza di parte) e per ridurre i tempi di processamento delle fasi operative.
+Questa pagina focalizza l'attenzione sull'attività di riprogettazione, dei flussi di lavoro, che deve essere effettuata sia per la nuova gestione in modalità digitale dei procedimenti amministrativi, grazie all'uso di adeguati applicativi software, sia per migliorare le modalità di lavoro - in termini di efficienza - da parte del personale della PA e dell'utente (per i procedimenti attivati da istanza di parte) e per ridurre i tempi di processamento delle fasi operative.
 
 
 ## Cosa si intende per reingegnerizzazione dei procedimenti
@@ -44,6 +44,15 @@ flowchart TD
     B ---->|positiva| E(["soddisfazione utente &#x263A;"]);
     style B fill:#f9f,stroke:#333,stroke-width:2px
 ```
+
+
+<!--
+## Reingegnerizzare usando lo strumento del BPM
+<img src="https://user-images.githubusercontent.com/42996217/144023922-3b97ba56-bc88-4898-ab90-a41b16565c7b.PNG"> </img> <kbd>immagine del FormezPA</kbd>
+
+Il BPM è l'acronimo di [Businees Process Management](https://it.wikipedia.org/wiki/Business_process_management). E' una tecnica che nasce per le aziende private, e, nel caso di una pubblica amministrazione, può servire a definire, ottimizzare, monitorare ed integrare i processi amministrativi, al fine di rendere efficaci i servizi all'utenza. E' utile conoscere questa tecnica nell'attività di reingegnerizzazione dei procedimenti.
+-->
+
 
 ## Reingegnerizzare partendo dagli utenti :fontawesome-regular-user:
 Nella gestione dei procedimenti amministrativi propedeutici all'erogazione dei servizi pubblici all'utenza si definiscono nettamente 2 ruoli, che di seguito verranno ripresi diverse volte.
