@@ -13,7 +13,7 @@ Lo schema dati della scheda è abbastanza semplice e di facile intuizione per ch
 
 La scheda utilizzata è la seguente:
 
-| **==Ordine progressivo delle fasi del procedimento==** | **==Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo==** | **==Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo==** |
+| <kbd>Ordine progressivo delle fasi del procedimento</kbd> | <kbd>Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo</kbd> | <kbd>Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo</kbd> |
 |:-----|:-----|:-----|
 | fase 1 | .............. | ........... |
 | fase 2 | .............. | ........... |
@@ -43,7 +43,7 @@ Di seguito vengono riportati alcuni esempi di compilazione di schede relative al
 
 ### Procedimento "*Abbattimento alberature sottoposte a vincoli*"
 
-| **==Ordine progressivo delle fasi del procedimento==** | **==Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo==** | **==Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo==** |
+| <kbd>Ordine progressivo delle fasi del procedimento</kbd> | <kbd>Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativ</kbd> | <kbd>Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo</kbd> |
 |:-----|:-----|:-----|
 |fase 1| Ricevimento richiesta di abbattimento alberi/o su territorio cittadino (da cittadino, consigliere, ente ecc..) o da privato se l'abero/i insiste su proprietà privata| |
 |fase 2| Verifica fito-statica/sanitaria dell’esemplare in esame, secondo la metodologia V.T.A. (Visual Tree Assessment). Da richiedere al proprietario, se trattasi di albero in proprietà privata, da commissionare alla Ditta aggiudicataria della gara in atto, se trattasi di albero su suolo pubblico|  |
@@ -56,7 +56,7 @@ Di seguito vengono riportati alcuni esempi di compilazione di schede relative al
 
 ### Procedimento: "*Parere di conformità Urbanistica  ai sensi dell'art.5 L.R. 12 del 12/07/2011*"
 
-| **==Ordine progressivo delle fasi del procedimento==** | **==Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo==** | **==Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo==** |
+| <kbd>Ordine progressivo delle fasi del procedimento</kbd> | <kbd>Breve descrizione puntuale delle attività svolte, per fase, dal personale per gestire il procedimento amministrativo</kbd> | <kbd>Note che si ritengono utili inserire per illustrare al meglio le varie fasi del procedimento amministrativo. Utile a descrivere eventuali sotto-azioni necessarie al perfezionamento del procedimento amministrativo</kbd> |
 |:-----|:-----|:-----|
 |fase 1|Acquisizione dell'istanza da parte dell'Area dell'Amm.ne Comunale o dell'Ente Pubblico esterno all'Amm.ne Comunale  | L'istanza e i relativi allegati possono pervenire per posta certificata, ma occorre che la stessa acquisisca il protocollo in entrata dell'Area|
 |fase 2| Verifica inerente la procedibilità ovvero richiesta di documentazione integrativa|  |
