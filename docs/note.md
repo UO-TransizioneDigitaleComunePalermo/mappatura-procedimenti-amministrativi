@@ -66,22 +66,21 @@ theme:
 2.  I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`
 
 
-### Prova `Code annotation` con testo lungo
+### Prova `Code annotation` con testo lungo e immagini nel popup
 
 ``` yaml
-S.C.I.A. è la dichiarazione che consente alle imprese di iniziare, modificare un’attività produttiva # (1) 
+S.C.I.A. è la dichiarazione che consente alle imprese di iniziare, modificare un’attività produttiva #(1) 
 o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento 
 della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e 
 controlli preliminari da parte delle amministrazioni competenti #(2) 
 con ricorso: con cui si richiede un riesame di legittimità o di merito di atti 
-ritenuti lesivi di diritti soggettivi o interessi legittimi # (3) 
+ritenuti lesivi di diritti soggettivi o interessi legittimi #(3) 
 del procedimento di secondo grado
 ```
 
 1.  :man_raising_han: :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
     text__, images, ... basically anything that can be expressed in Markdown.
 2.  dichiarazione che consente alle imprese di iniziare, modificare (1) o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni (2) competenti- rico
-    
 3.  <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="400" > </img>  la dichiarazione che consente alle imprese di iniziare, modificare (1) o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni (2) competenti- ricorso: con cui si richiede un riesame di legittimità o di merito di atti ritenuti     
     
 
