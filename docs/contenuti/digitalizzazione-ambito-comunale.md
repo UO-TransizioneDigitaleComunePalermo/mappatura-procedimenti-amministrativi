@@ -204,8 +204,13 @@ Sono fornite all’utente informazioni sul procedimento amministrativo (es. fina
 L’art. [69  del CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_VI-articolo_69.html) prevede che 
 > *le PA che siano titolari di soluzioni e programmi informatici realizzati su specifiche indicazioni del committente pubblico, hanno l’obbligo di rendere disponibile il relativo codice sorgente, completo della documentazione e rilasciato in repertorio pubblico sotto licenza aperta, in uso gratuito ad altre pubbliche amministrazioni o ai soggetti giuridici che intendano adattarli alle proprie esigenze, salvo motivate ragioni di ordine e sicurezza pubblica, difesa nazionale e consultazioni elettorali*. 
 
-A tal fine l’[AGID](https://www.agid.gov.it/) ha reso disponibile online un catalogo del riuso gratuito del software [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software), dove ogni PA deve verificare la presenza di programmi che soddisfano le proprie esigenze, e questa attività deve avvenire necessariamente prima di rivolgersi al mercato privato. I codici sorgenti del software presenti nel catalogo del riuso sono accompagnati da riferimenti (PA, nome, cognome, telefono, email,..) della PA erogatrice del software e della dcumentazione necessaria all'instalalzione dei programmi.
+A tal fine l’[AGID](https://www.agid.gov.it/) ha reso disponibile online un catalogo del riuso gratuito del software [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software), dove ogni PA deve verificare la presenza di programmi che soddisfano le proprie esigenze, e questa attività deve avvenire necessariamente prima di rivolgersi al mercato privato. I codici sorgenti del software presenti nel catalogo del riuso sono accompagnati da riferimenti (PA, nome, cognome, telefono, email,..) della PA erogatrice del software e della documentazione tecnica necessaria all'instalalzione dei programmi.
 
 Le PA che hanno acquisito software sono tenute a rilasciare codici sorgenti e relativa documentazione, accompagnati da una licenza aperta, sulla piattaforma [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software).
+
+Al fine di facilitare il percorso per il riuso del software delle PA, il [**FormezPA ha realizzato un percorso formativo ad hoc**](http://eventipa.formez.it/node/328513) per il personale della PA. I materiali didattici ([video](https://www.youtube.com/playlist?list=PLd5bJJul8c5phEjmNKgPK2dCwZGCSqzsq) e dispense in formato PDF) sono di elevato valore per consentire e agevolare il riuso applicativo. 
+
+
+
 
 ---
