@@ -164,6 +164,15 @@ div.md-typeset__table thead {
 */
 
 
+/* colore righe pari nelle tabelle  */   /* disattivato */
+/*
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+*/
+
+
+
 /* Admonition settings option */
 .md-typeset .admonition.settings, .md-typeset details.settings {
     border-left: .22rem solid #448aff;
