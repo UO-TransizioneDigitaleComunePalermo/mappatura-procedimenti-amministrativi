@@ -45,7 +45,7 @@ A tal proposito è stato predisposto un apposito [**Forum**](https://github.com/
 
 [Vai al forum :material-forum:](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions){ .md-button .md-button--primary }
 
-
+<!-- 
 ## Contenuti del progetto :fontawesome-solid-sitemap:
 <pre><code>
 <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_self"><b>Home</b></a>
@@ -70,3 +70,4 @@ A tal proposito è stato predisposto un apposito [**Forum**](https://github.com/
 |  <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/site-map/" target="_blank">Site map</a>
 |  <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/privacy/" target="_blank">Privacy-cookies</a>
 </code></pre>
+-->
