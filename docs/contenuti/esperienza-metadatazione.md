@@ -4,7 +4,7 @@
 
 ## Procedimento: "*Autorizzazione benefici Legge n. 104/1992*"
 
-|==ID metadato==| ==Denominazione del metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
+|<kbd>ID metadato</kbd>| <kbd>Denominazione del metadato</kbd> | <kbd>Contenuto del metadato</kbd> |  <kbd>Note aggiuntive</kbd>  |
 |:---|:--------------------------------------|:-----------------|:-----|
 |1|Nome del procedimento amministrativo | ACQUISIZIONE DEL SERVIZIO DI REFEZIONE SCOLASTICA E DEL SERVIZIO DI FORMAZIONE ALIMENTARISTI |    |
 |2|Descrizione del procedimento amministrativo | Autorizzazione alla fruizione ai dipendenti afferenti il Settore dei benefici L. 104/1992 |   |
@@ -41,7 +41,7 @@
 
 ## Procedimento: "*Permesso di costruire*"
 
-|==ID metadato==| ==Denominazione del metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
+| <kbd>ID metadato</kbd>| <kbd>Denominazione del metadato</kbd> | <kbd>Contenuto del metadato</kbd> |  <kbd>Note aggiuntive</kbd>  |
 |:---|:--------------------------------------|:-----------------|:-----|
 |1| Nome del procedimento amministrativo | Permesso id costruire P.D.C. - D.I.A. - S.C.I.A. lett. G |  |
 |2| Descrizione del procedimento amministrativo | Il tecnico incaricato, registrato sul portale Super@EDI, su incarico del cittadino trasmette l'istanza con i relativi allegati sul portale procedendo direttamente al pagamento dei diritti d'istruttoria tramite PagoPA o in differita inoltrando il link del pagamento al richiedente. Il fascicolo è inoltrata al Responsabile del Procedimento che si assegna la pratica o la assegna ad un suo referente per l'istruttoria. Il Responsabile del Procedimento compila e fa protocollare le note in uscita (Preavviso di rigetto/diniego, richieste integrazioni sul portale Super@EDI, e dopo il riscontro di dette note provvede alla stesura del Provvedimento finale che viene sottoposto alla firma del Dirigente Coordinatore. Il Provvedimento firmato viene scansionato e inviato via pec al professionista e viene inserito sul portale Super@EDI e su MAIA. La consegna dell'atto avviene solo in modalità telematica|  |
@@ -78,7 +78,7 @@
 
 ## Procedimento "*Avviso iscrizioni scuole d’infanzia*"
 
-|==ID metadato==| ==Denominazione del metadato== | ==Contenuto del metadato== |  ==Note aggiuntive==  |
+|<kbd>ID metadato</kbd>| <kbd>Denominazione del metadato</kbd> | <kbd>Contenuto del metadato</kbd> |  <kbd>Note aggiuntive</kbd>  |
 |:---|:--------------------------------------|:-----------------|:-----|
 |1| Nome del procedimento amministrativo | avviso iscrizioni scuole infanzia |  |
 |2| Descrizione del procedimento amministrativo | redazione e pubblicazione, nel mese di gennaio, della modalità e requisiti di accesso per iscrizione minore scuole infanzia comunali|  |
@@ -110,77 +110,6 @@
 |28|  E' prevista la consultazione di banche dati dell'amministrazione comunale per la gestione del procedimento? `(si,no)` | si |  |
 |29|  Se è prevista la consultazione di banche dati dell'amministrazione comunale (o di altri enti pubblici) per la gestione del procedimento, descrivere il nome della banca dati. Se sono più banche dati da consultare usare il trattino - di separazione | si | a priori della redazione dell'Avviso , consultazione banca dati personale scolastico collocato a riposo c/o Risorse Umane |
 |30|  Il procedimento può essere gestito anche in modalità di lavoro agile, perchè, ad esempio, non è necessario consultare atti cartacei che si trovano in ufficio o per altri motivi che non rendono necessaria la presenza quotidiana in ufficio? `(si,no)` | si | perché non è necessario consultare atti che richiedono la presenza giornaliera | 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
