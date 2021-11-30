@@ -9,7 +9,6 @@ hide:
 <kbd>immagine del Noun project</kbd>
 
 
-
 Questo file "note" contiene varie prove effettuate nei setting del codice e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 
@@ -81,7 +80,6 @@ del procedimento di secondo grado
 
 1.  :man_raising_han: :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
     text__, images, ... basically anything that can be expressed in Markdown.
-    
 2.  dichiarazione che consente alle imprese di iniziare, modificare (1) o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni (2) competenti- rico
     
 3.  <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="400" > </img>  la dichiarazione che consente alle imprese di iniziare, modificare (1) o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni (2) competenti- ricorso: con cui si richiede un riesame di legittimità o di merito di atti ritenuti     
@@ -101,17 +99,7 @@ del procedimento di secondo grado
     Interventi per assicurare l'interoperabilità delle banche dati pubbliche. (Gli interventi riguardano prioritariamente le grandi banche dati pubbliche, eventualmente anche nuove basi dati, nonchè quelle realizzate realizzate attraverso la gestione associata delle funzioni ICT, ricorrendo obe opportuno a soluzioni cloud).
 
 !!! attention "Attenzione"
-    C'è un pezzo di codice nel file `stylesheets/extra.css` (`/* Tabbed extension css */`) che va in conflitto con la funzione "**content tab**" - vedi [**`issue`**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/issues/15). Quindi è stato disabilitato con `/*  */`
-
----
-
-
-## (File "Catalogo")
-
-Ho tolto l'iframe dal file `contenuti/catalogo.md`
-```
-<iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="83000"; width="100%"; frameborder="0"; > </iframe>
-```
+    C'è un pezzo di codice nel file `stylesheets/extra.css` (`/* Tabbed extension css */`) che va in conflitto con la funzione "**content tab**" - vedi [**`issue`**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/issues/15). Quindi questo blocco di codice è stato eliminato
 
 ---
 
@@ -148,3 +136,14 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 <kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd> - <kbd>*prova*</kbd> - <kbd>**prova**</kbd>
 
 <kbd>[**prova**](https://cirospat.readthedocs.io) e [`codice`](https://cirospat.readthedocs.io) </kbd>
+
+---
+
+<!--
+## (File "Catalogo")
+Ho tolto l'iframe dal file `contenuti/catalogo.md`
+```
+<iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="83000"; width="100%"; frameborder="0"; > </iframe>
+```
+-->
+
