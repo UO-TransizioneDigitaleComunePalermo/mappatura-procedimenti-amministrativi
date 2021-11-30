@@ -70,7 +70,11 @@ theme:
 ### Prova `Code annotation` con testo lungo
 
 ``` yaml
-S.C.I.A. è la dichiarazione che consente alle imprese di iniziare, modificare (1) o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni (2) competenti- ricorso: con cui si richiede un riesame di legittimità o di merito di atti ritenuti lesivi di diritti soggettivi o interessi legittimi (3) (procedimento di secondo grado).
+S.C.I.A. è la dichiarazione che consente alle imprese di iniziare, modificare  # (1) o cessare un’attività 
+produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere 
+i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni # (2) competenti -
+ricorso: con cui si richiede un riesame di legittimità o di merito di atti ritenuti lesivi di diritti 
+soggettivi o interessi legittimi # (3) procedimento di secondo grado
 ```
 
 1.  :man_raising_han: :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
