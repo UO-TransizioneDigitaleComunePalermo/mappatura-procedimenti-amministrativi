@@ -4,13 +4,11 @@ hide:
 ---
 
 
-# Setting vari, prove e remind  :octicons-code-16:
+# Setting vari e prove :octicons-code-16:
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="400" > </img> 
 <kbd>immagine del Noun project</kbd>
 
-
 Questo file "note" contiene varie prove effettuate nei setting del codice e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
-
 
 
 ## Inserire `block announce`, barra di testo sopra l'header per annunci importanti
@@ -89,7 +87,7 @@ del procedimento di secondo grado
 ---
 
 
-## Content tabs
+## Inserire `Content tabs`
 
 === "2.2.1"
 
@@ -114,7 +112,7 @@ Per inserire diagrammi di flusso fare riferimento a: [https://mermaid-js.github.
 ---
 
 
-## Inserire `Emoji`
+## Inserire icone `Emoji`
 
 Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
 
@@ -140,6 +138,10 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 
 ---
 
+---
+
+
+
 <!--
 ## (File "Catalogo")
 Ho tolto l'iframe dal file `contenuti/catalogo.md`
@@ -147,4 +149,3 @@ Ho tolto l'iframe dal file `contenuti/catalogo.md`
 <iframe src="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" height="83000"; width="100%"; frameborder="0"; > </iframe>
 ```
 -->
-
