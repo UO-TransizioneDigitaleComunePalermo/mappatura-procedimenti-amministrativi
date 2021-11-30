@@ -108,7 +108,8 @@ a.md-button.md-button:hover {
 }
 /* gbvitrano per opendatasicilia*/
 
-/*Table styling*/
+/* Table styling */
+/*
 table {
   padding: 0; }
   table tr {
@@ -133,7 +134,7 @@ table {
       margin-top: 0; }
     table tr th :last-child, table tr td :last-child {
       margin-bottom: 0; }
-
+*/
 
 /* regolare dimensioni carattere delle tabelle (prova 13 nov 2021). Modificato solo il font-size.  
 .md-typeset table:not([class]) {
