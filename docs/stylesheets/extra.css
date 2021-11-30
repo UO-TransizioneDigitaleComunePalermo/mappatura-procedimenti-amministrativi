@@ -158,11 +158,12 @@ table {
 
 
 
-/* colore background intestazione tabella */
+/* colore background intestazione tabella */   /* disattivato */   /* nella modalità scura c'è poca leggibilità nel testo */
+/* 
 div.md-typeset__table thead {
   background-color: #b6c1ff;
 }
-
+*/
 
 
 /* Admonition settings option */
