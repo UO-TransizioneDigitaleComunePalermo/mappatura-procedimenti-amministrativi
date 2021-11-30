@@ -56,21 +56,19 @@
 
 
 
-/* regolare il colore della navigation bar - sotto l'header con titolo progetto */   /* disattivato */
-/*
+/* regolare il colore della navigation bar - sotto l'header con titolo progetto */   
 .md-tabs {
     background-color: #e9e9e9;
     color: var(--md-primary-bg-color);
     overflow: auto;
     width: 100%;
 }
-*/
 
 
-/* regolare colore della dell'header con il titolo progetto  */    /* disattivato */
-/*
+
+/* regolare colore della dell'header con il titolo progetto  */    
 .md-header {
-    background-color: #cfcfcf;
+    background-color: #e9e9e9;    /* era #cfcfcf */
     box-shadow: 0 0 .2rem transparent,0 .2rem .4rem transparent;
     color: var(--md-primary-bg-color);
     left: 0;
@@ -80,7 +78,7 @@
     top: 0;
     z-index: 3;
 }
-*/
+
 
 
 
