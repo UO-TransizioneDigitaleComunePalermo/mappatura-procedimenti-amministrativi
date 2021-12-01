@@ -295,6 +295,15 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 >
 > (A cura di Designers Italia)
 
+---
+
+## Paragrafo su “*Linee guida Tecnologie e standard per la sicurezza dell’interoperabilità tramite API dei sistemi informatici” e delle “Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni*”
+https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html
+
+<kbd>>>to be continued</kbd>
+
+
+
 
 ---
 
