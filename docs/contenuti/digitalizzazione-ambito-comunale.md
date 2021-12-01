@@ -12,7 +12,7 @@ L'[**Articolo 15 del CAD, comma 2**](https://docs.italia.it/italia/piano-trienna
 - **ad un'opportunità → (nuovo modo di lavorare dentro la PA e di far fruire i servizi pubblici ai cittadini)**
 
 
-## Cronistoria delle attività del Comune di Palermo relative a digitalizzazione
+## Cronistoria delle attività del Comune di Palermo relative a digitalizzazione documentale
 Il Comune di Palermo è impegnato da anni nella transizione al digitale, come previsto dal CAD (d.lgs. n. 82/2005 e succ. modifiche/integrazioni). 
 
 I passi compiuti dall'Amministrazione comunale di Palermo per la digitalizzazione dei documenti sono stati:  
