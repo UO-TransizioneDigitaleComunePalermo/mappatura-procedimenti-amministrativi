@@ -170,9 +170,10 @@ Il BPM è l'acronimo di [Businees Process Management](https://it.wikipedia.org/w
 Il BPM si avvale di software che permette di ricevere in ingresso dati|informazioni, analizzarli e costruire flussi di lavoro in base alle "esigenze" degli addetti ai lavori (in questo caso: responsabili e addetti al procedimento nella PA + utenti del servizio pubblico correlato al procedimento). Nelle "esigenze" rientrano:
  
 - le norme vigenti da rispettare per la gestione di un procedimento e l'erogazione di un servizio pubblico;
-- i tempi da rispettare per la gestione di un procedimento e l'erogazione di un servizio pubblico;
+- i tempi da rispettare (pevisti dalle norme) per la gestione di un procedimento e l'erogazione di un servizio pubblico;
 - le fasi operative proprie di ogni procedimento;
 - i metadati propri di ogni procedimento;
+- le richieste degli utenti, raccolte e mappate attraverso momenti di ascolto (incontri di personale della PA e cittadini) e indagini di customer satisfaction;
 - le regole tecniche previste dalle [linee guida attuative del CAD](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/) :octicons-link-external-16: .
 
 
