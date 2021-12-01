@@ -293,7 +293,7 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 > - *Dipendenti di altre amministrazioni o istituzioni*; 
 > - *Committenti*.
 >
-> (*A cura di Designers Italia*)
+> (A cura di Designers Italia)
 
 
 ---
