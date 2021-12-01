@@ -138,6 +138,15 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 
 ---
 
+## Adding abbreviations
+
+Ciro Spataro prova testo con Andrea Borruso.
+
+*[Ciro Spataro]: https://cirospat.readthedocs.io
+*[Andrea Borruso]: https://twitter/aborruso
+
+---
+
 ---
 
 
