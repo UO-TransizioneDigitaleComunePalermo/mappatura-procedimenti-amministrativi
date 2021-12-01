@@ -143,9 +143,8 @@ Riferimento: [https://squidfunk.github.io/mkdocs-material/reference/abbreviation
 
 Ciro Spataro prova testo con Andrea Borruso.
 
-*[Ciro Spataro]: https://cirospat.readthedocs.io
-*[Andrea Borruso]: https://twitter/aborruso
-
+*[Ciro Spataro]: perchè Ciro deve imparare, Ciro deve imparare, Ciro deve imparare, Ciro deve imparare, Ciro deve imparare,
+*[Andrea Borruso]: perchè Andrea è un bravo ragazzo, Andrea è un bravo ragazzo, Andrea è un bravo ragazzo, Andrea è un bravo ragazzo, Andrea è un bravo ragazzo, Andrea è un bravo ragazzo,
 ---
 
 ---
