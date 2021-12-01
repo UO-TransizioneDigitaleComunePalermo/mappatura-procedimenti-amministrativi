@@ -139,6 +139,7 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 ---
 
 ## Adding abbreviations
+Riferimento: [https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage](https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage)
 
 Ciro Spataro prova testo con Andrea Borruso.
 
