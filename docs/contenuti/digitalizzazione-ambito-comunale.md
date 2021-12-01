@@ -147,20 +147,20 @@ La **reingegnerizzazione** va attuata dopo alcuni **step**:
 
 Il 3° step rappresenta il tempo in cui può essere effettuata la “reingegnerizzazione” tenendo conto delle modifiche da apportare ai procedimenti per un ottimale gestione del procedimento stesso nella **modalità digitale**.
 
-!!! Note "Per approfondimenti"
+!!! Note "Per approfondimenti sull'argomento"
     Vai alla pagina dedicata [`Reingegnerizzazione`](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/reingegnerizzazione/) :octicons-link-external-16:
 
 
 ## Il supporto dell’Intelligenza Artificiale
 L'Intelligenza Artificiale (grazie all'utilizzo di specifici algoritmi) può fornire un enorme supporto nella gestione quotidiana di procedimenti e servizi.
 
-Dall'analisi e interpretazione “semantica” del testo dei documenti generati dai procedimenti amministrativi (norme, termini specifici ripetuti) può nascere un sistema utile al personale dell’Ente nella **ricerca multicriterio** in un documento o in un archivio.
+Dall'analisi e interpretazione “semantica” del testo dei documenti generati dai procedimenti amministrativi (norme, termini specifici ripetuti) può nascere un sistema utile al personale dell’Ente per la **ricerca multicriterio** in un documento o in un archivio documentale.
 
-Si può disporre di un auto controllo della gestione del procedimento e disporre di **avvisi di scadenze**.
+Si può disporre di un auto controllo della gestione del procedimento e ricevere **avvisi di scadenze**.
 
-Può essere fornito all'utente (cittadino) un **servizio di ricerca multicriterio e di assistenza virtuale** che aiuta nella richiesta di servizi.
+Può essere fornito all'utente dei servizi (cittadino) un **servizio di ricerca multicriterio e di assistenza virtuale** che aiuta nella richiesta di servizi pubblici.
 
-Può essere fornito un **supporto al backend (lato personale PA)** che trova una facilitazione nella gestione del processo (documenti - dati) che interessa i vari procedimenti amministrativi.
+Può essere fornito un **supporto al backend (lato personale della PA)** che trova una facilitazione nella gestione del processo (documenti - dati) che interessa i vari procedimenti amministrativi negli uffici pubblici.
 
 
 
