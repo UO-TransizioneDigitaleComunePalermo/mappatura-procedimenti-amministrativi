@@ -46,22 +46,6 @@ flowchart TD
 ```
 
 
-
-## Reingegnerizzare attraverso lo strumento del "BPM"
-<img src="https://user-images.githubusercontent.com/42996217/144023922-3b97ba56-bc88-4898-ab90-a41b16565c7b.PNG"> </img> <kbd>immagine del FormezPA</kbd>
-
-Il BPM è l'acronimo di [Businees Process Management](https://it.wikipedia.org/wiki/Business_process_management). E' una tecnica che nasce per le aziende private, e, nel caso di una pubblica amministrazione, può servire a definire, ottimizzare, monitorare ed integrare i processi amministrativi, al fine di rendere efficaci i servizi all'utenza. E' sicuramente utile conoscere questa tecnica nell'attività di reingegnerizzazione dei procedimenti.
-
-Il BPM si avvale di software che permette di ricevere in ingresso dati|informazioni, analizzarli e costruire flussi di lavoro in base alle "esigenze" degli addetti ai lavori (in questo caso: responsabili e addetti al procedimento nella PA + utenti del servizio pubblico correlato al procedimento). Nelle "esigenze" rientrano:
- 
-- le norme vigenti da rispettare per la gestione di un procedimento e l'erogazione di un servizio pubblico;
-- i tempi da rispettare per la gestione di un procedimento e l'erogazione di un servizio pubblico;
-- le fasi operative proprie di ogni procedimento;
-- i metadati propri di ogni procedimento;
-- le regole tecniche previste dalle linee guida attuative del CAD.
-
-
-
 ## Reingegnerizzare partendo dagli utenti :fontawesome-regular-user:
 Nella gestione dei procedimenti amministrativi propedeutici all'erogazione dei servizi pubblici all'utenza si definiscono nettamente 2 ruoli, che di seguito verranno ripresi diverse volte.
 
@@ -176,6 +160,21 @@ A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi**
 Il report di diagnosi contiene anche le **proposte di rivisitazione** delle fasi di lavoro per la gestione del procedimento amministrativo in una nuova modalità. Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione futura di applicativi informatici per la gestione del procedimento amministrativo in modalità digitale.
 
 Un applicativo gestionale deve poter offrire la possibilità alla pubblica amministrazione di modificare i flussi di lavoro del procedimento amministrativo, senza ricorrere ogni volta all'intervento della software house per gli sviluppi. Per esempio aggiugere e togliere: funzioni, moduli e metadati. Un sistema informatico che sia modulare e adattabile alle esigenze di trattamento ed evoluzione gestionale del procedimento, senza fare ogni volta risorso alla software house per le implementazioni. Questo "requisito" dovrebbe essere rappresentato nelle caratteristiche richieste dalle pubbliche amministrazioni nei capitolati tecnici per la fornitura di software gestionale dei procedimenti.
+
+
+## Reingegnerizzare attraverso lo strumento del "BPM"
+<img src="https://user-images.githubusercontent.com/42996217/144023922-3b97ba56-bc88-4898-ab90-a41b16565c7b.PNG"> </img> <kbd>immagine del FormezPA</kbd>
+
+Il BPM è l'acronimo di [Businees Process Management](https://it.wikipedia.org/wiki/Business_process_management). E' una tecnica che nasce per le aziende private, e, nel caso di una pubblica amministrazione, può servire a definire, ottimizzare, monitorare ed integrare i processi amministrativi, al fine di rendere efficaci i servizi all'utenza. E' sicuramente utile conoscere questa tecnica nell'attività di reingegnerizzazione dei procedimenti.
+
+Il BPM si avvale di software che permette di ricevere in ingresso dati|informazioni, analizzarli e costruire flussi di lavoro in base alle "esigenze" degli addetti ai lavori (in questo caso: responsabili e addetti al procedimento nella PA + utenti del servizio pubblico correlato al procedimento). Nelle "esigenze" rientrano:
+ 
+- le norme vigenti da rispettare per la gestione di un procedimento e l'erogazione di un servizio pubblico;
+- i tempi da rispettare per la gestione di un procedimento e l'erogazione di un servizio pubblico;
+- le fasi operative proprie di ogni procedimento;
+- i metadati propri di ogni procedimento;
+- le regole tecniche previste dalle linee guida attuative del CAD.
+
 
 
 ## Richieste di servizi più efficienti dalla collettività :fontawesome-solid-users:
