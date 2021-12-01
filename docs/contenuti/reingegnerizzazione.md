@@ -206,7 +206,11 @@ La **User Experience** UX (esperienza utente) è strettamente legata alla **User
 - **`back end`** = tutte le funzioni che vede, consulta e gestisce il personale della PA (in ufficio o da remoto in lavoro agile)
 - **`front end`** = tutte le funzioni che vede, consulta e con le quali interagisce l'utente da casa
 
-Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigenza|aspettativa di interagire con interfaccie grafiche software di semplice intuizione, che si adattaono a qualsiasi dimensione di dispaly (laptop, tablet, smartphone, pc desktop). Anche il linguaggio da usare nelle interfacce grafiche riveste una grande importanza per ambedue le categorie di utilizzatori.
+Utenti dei servizi pubblici e personale della PA hanno entrambi la stessa esigenza|aspettativa di interagire con interfaccie grafiche software di semplice intuizione, che si adattaono a qualsiasi dimensione di dispaly (laptop, tablet, smartphone, pc desktop). 
+
+
+## Il linguaggio da usare per le interfacce grafiche della PA
+Anche il linguaggio da usare nelle interfacce grafiche riveste una grande importanza per il personale della PA e per gli utenti dei servizi pubblici.
 
 !!! Note "Guida al linguaggio della Pubblica Amministrazione"
     [![](https://user-images.githubusercontent.com/42996217/143673391-2bea274c-1101-4d36-877f-762a6609dac9.png)](https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html)
