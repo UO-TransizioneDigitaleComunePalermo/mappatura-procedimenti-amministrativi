@@ -173,7 +173,7 @@ Il BPM si avvale di software che permette di ricevere in ingresso dati|informazi
 - i tempi da rispettare per la gestione di un procedimento e l'erogazione di un servizio pubblico;
 - le fasi operative proprie di ogni procedimento;
 - i metadati propri di ogni procedimento;
-- le regole tecniche previste dalle linee guida attuative del CAD.
+- le regole tecniche previste dalle [linee guida attuative del CAD](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/) :octicons-link-external-16: .
 
 
 
