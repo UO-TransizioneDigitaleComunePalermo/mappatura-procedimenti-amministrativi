@@ -46,7 +46,7 @@ flowchart TD
 ```
 
 
-<!--
+
 ## Reingegnerizzare attraverso lo strumento del "BPM"
 <img src="https://user-images.githubusercontent.com/42996217/144023922-3b97ba56-bc88-4898-ab90-a41b16565c7b.PNG"> </img> <kbd>immagine del FormezPA</kbd>
 
@@ -60,7 +60,6 @@ Il BPM si avvale di software che permette di ricevere in ingresso dati|informazi
 - i metadati propri di ogni procedimento;
 - le regole tecniche previste dalle linee guida attuative del CAD.
 
--->
 
 
 ## Reingegnerizzare partendo dagli utenti :fontawesome-regular-user:
