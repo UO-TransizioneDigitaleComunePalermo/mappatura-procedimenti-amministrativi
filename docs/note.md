@@ -141,10 +141,11 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 ## Adding abbreviations
 Riferimento: [https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage](https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage)
 
-Ciro Spataro prova testo con Andrea Borruso.
+Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Borruso e prova testo, tanto testo con lorem ipsum lorem ispus tanto testo con lorem ipsum tanto testo con lorem ipsumtanto testo con lorem ipsum tanto testo con lorem ipsum con Gianni Vitrano.
 
 *[Ciro Spataro]: perchè Ciro deve imparare, Ciro deve imparare, Ciro deve imparare, Ciro deve imparare, Ciro deve imparare,
 *[Andrea Borruso]: perchè Andrea è un bravo ragazzo, Andrea è un bravo ragazzo, Andrea è un bravo ragazzo, Andrea è un bravo ragazzo, Andrea è un bravo ragazzo, Andrea è un bravo ragazzo,
+*[Gianni Vitrano]: Perchè Gianni ama gli effetti speciali, Gianni ama gli effetti speciali, Gianni ama gli effetti speciali, Gianni ama gli effetti speciali, Gianni ama gli effetti speciali, Gianni ama gli effetti speciali , Gianni ama gli effetti speciali 
 ---
 
 ---
