@@ -138,7 +138,7 @@ Con la customer satisfaction si raccolgono anche dati che aiutano a comprendere 
         - ad oggi non possiedo nessuna delle 3 identità digitali sopra elencate
 
 
-Con i dati dell'indagine raccolti si avvia l'attività di analisi per comprendere i gap e concentrarsi sulla riprogettazione del flusso di lavoro che caratterizza la gestione del procedimento in esame.
+Con i dati dell'indagine raccolti si avvia l'attività di analisi per comprendere gli aspetti critici e concentrarsi sulla riprogettazione del flusso di lavoro che caratterizza la gestione del procedimento in esame.
 
 
 ## Analisi per la reingegnerizzazione :material-check-underline:
@@ -148,7 +148,7 @@ Viene effettuata un **analisi** dei procedimenti per verificare la modalità di 
 - la riduzione dei tempi di processamento delle singole attività lavorative;
 - il miglioramento dell'efficienza nella gestione delle fasi di lavoro dei procedimenti;
 - il miglioramento della qualità dell'esperienza di lavoro quotidiano del dipendente pubblico;
-- il miglioramento della qualità dei servizi pubblici erogati all'utenza e collegati ai procedimenti gestiti negli uffici e misurati con il livello di qualità percepita.
+- il miglioramento della qualità dei servizi pubblici erogati all'utenza e collegati ai procedimenti gestiti negli uffici, e misurati con il livello di qualità percepita (rilevata con indagini di customer satisfation).
 
 
 ## Report dell'analisi: diagnosi :material-google-analytics:
@@ -159,15 +159,15 @@ A seguito dell'**analisi dei procedimenti** si produce un report di **diagnosi**
 
 Il report di diagnosi contiene anche le **proposte di rivisitazione** delle fasi di lavoro per la gestione del procedimento amministrativo in una nuova modalità. Il report di diagnosi viene reso disponibile come documentazione necessaria all'adozione futura di applicativi informatici per la gestione del procedimento amministrativo in modalità digitale.
 
-Un applicativo gestionale deve poter offrire la possibilità alla pubblica amministrazione di modificare i flussi di lavoro del procedimento amministrativo, senza ricorrere ogni volta all'intervento della software house per gli sviluppi. Per esempio aggiugere e togliere: funzioni, moduli e metadati. Un sistema informatico che sia modulare e adattabile alle esigenze di trattamento ed evoluzione gestionale del procedimento, senza fare ogni volta risorso alla software house per le implementazioni. Questo "requisito" dovrebbe essere rappresentato nelle caratteristiche richieste dalle pubbliche amministrazioni nei capitolati tecnici per la fornitura di software gestionale dei procedimenti.
+Un applicativo gestionale deve poter offrire la possibilità alla pubblica amministrazione di modificare i flussi di lavoro del procedimento amministrativo, senza ricorrere ogni volta all'intervento della software house per gli sviluppi. Per esempio aggiugere e togliere: **funzioni**, **moduli** e **metadati**. Un sistema informatico che sia modulare e adattabile alle esigenze di trattamento ed evoluzione gestionale del procedimento, senza fare ogni volta risorso alla software house per le implementazioni. Questo "requisito" dovrebbe essere rappresentato nelle caratteristiche richieste dalle pubbliche amministrazioni nei capitolati tecnici per la fornitura di software gestionale dei procedimenti.
 
 
 ## Reingegnerizzare attraverso lo strumento del "BPM"
 <img src="https://user-images.githubusercontent.com/42996217/144023922-3b97ba56-bc88-4898-ab90-a41b16565c7b.PNG"> </img> <kbd>immagine del FormezPA</kbd>
 
-Il BPM è l'acronimo di [Businees Process Management](https://it.wikipedia.org/wiki/Business_process_management). E' una tecnica che nasce per le aziende private, e, nel caso di una pubblica amministrazione, può servire a definire, ottimizzare, monitorare ed integrare i processi amministrativi, al fine di rendere efficaci i servizi all'utenza. E' sicuramente utile conoscere questa tecnica nell'attività di reingegnerizzazione dei procedimenti.
+Il BPM è l'acronimo di [**Businees Process Management**](https://it.wikipedia.org/wiki/Business_process_management). E' una tecnica che nasce per le aziende private, e, nel caso di una pubblica amministrazione, può servire a definire, ottimizzare, monitorare ed integrare i processi amministrativi, al fine di rendere efficaci i servizi all'utenza. E' sicuramente utile conoscere questa tecnica nell'attività di reingegnerizzazione dei procedimenti.
 
-Il BPM si avvale di software che permette di ricevere in ingresso dati|informazioni, analizzarli e costruire flussi di lavoro in base alle "esigenze" degli addetti ai lavori (in questo caso: responsabili e addetti al procedimento nella PA + utenti del servizio pubblico correlato al procedimento). Nelle "esigenze" rientrano:
+Il BPM si avvale di software che permette di ricevere in ingresso dati|informazioni, analizzarli e costruire flussi di lavoro in base alle "esigenze" degli addetti ai lavori. Gli addetti ai lavoro sono: 1) responsabili e addetti al procedimento nella PA e 2) utenti del servizio pubblico correlato al procedimento. Nelle "esigenze" rientrano:
  
 - le norme vigenti da rispettare per la gestione di un procedimento e l'erogazione di un servizio pubblico;
 - i tempi da rispettare (pevisti dalle norme) per la gestione di un procedimento e l'erogazione di un servizio pubblico;
@@ -175,6 +175,8 @@ Il BPM si avvale di software che permette di ricevere in ingresso dati|informazi
 - i metadati propri di ogni procedimento;
 - le richieste degli utenti, raccolte e mappate attraverso momenti di ascolto (incontri di personale della PA e cittadini) e indagini di customer satisfaction;
 - le regole tecniche previste dalle [linee guida attuative del CAD](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/) :octicons-link-external-16: .
+
+È consigliabile sperimentare la reingegnerizzazione partendo da piccole porzioni dell'Ente, concentrando il lavoro sugli attori coinvolti in singolo procedimento specifico, così da verificare i risultati della sperimentazione e successivamente estendere il metodo all'intero sistema dei procedimenti dell'Ente. 
 
 
 
