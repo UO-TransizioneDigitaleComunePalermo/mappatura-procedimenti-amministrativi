@@ -298,7 +298,7 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 ---
 
 ## Paragrafo su “*Linee guida tecnologie e standard per la sicurezza dell’interoperabilità tramite API dei sistemi informatici” e “Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni*”
-https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html
+[https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html)
 
 > Le Linee Guida considerano i servizi digitali (e-service) realizzati da una Pubblica Amministrazione per assicurare l’accesso ai propri dati e/o l’integrazione dei propri processi attraverso l’interazione dei suoi sistemi informatici con quelli dei fruitori.
 
