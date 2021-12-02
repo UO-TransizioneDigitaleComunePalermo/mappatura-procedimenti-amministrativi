@@ -256,7 +256,7 @@ Nell'architettura dell'informazione va curata l'organizzazione dei contenuti per
 
 
 ## Funzioni minime di un applicativo per gestire procedimenti legati a servizi :material-order-bool-ascending-variant:
-Di seguito viene elencato un set di funzioni minime di un applicativo che gestisce procedimenti correlati a servizi pubblici. Funzioni da intendersi come "`requisiti minimi`" da chiedere al mercato software (o individuare nel [**catalogo del riuso applicativo**](https://developers.italia.it/it/software.html)) da parte della PA e da includere in capitolati tecnici.
+Di seguito viene elencato un set di funzioni minime di un applicativo che gestisce procedimenti correlati a servizi pubblici. Funzioni da intendersi come "`requisiti minimi`" da chiedere al mercato software, da parte della PA, e da includere in capitolati tecnici, o individuare nel [**catalogo AGID del riuso applicativo**](https://developers.italia.it/it/software.html).
 
 1. interfaccia grafica che adotta il `Material design` e conforme alle [**Linee guida AGID**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/)
 2. accesso dell'utente (cittadino, impresa, associazione) esclusivamente con identità digitale SPID|CIE|CNS 
