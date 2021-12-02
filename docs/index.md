@@ -15,7 +15,7 @@ Realizzare un’analisi dei procedimenti in ottica di **semplificazione**, al fi
 
 Questa guida è stata progettata seguendo il percorso operativo condotto dall’**Amministrazione comunale di Palermo**, impegnata da anni nella transizione alla modalità digitale, come prevista dal [Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html) (decreto legislativo n. 82/2005 e successive modifiche). 
 
-Vengono descritte le azioni realizzate dal personale comunale, che hanno portato alla redazione di un **`catalogo`** contenente le **`fasi operative`** e i **`metadati`** dei procedimenti, tracciando un passo importante per il Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
+Vengono descritte le azioni realizzate dal personale comunale, che hanno portato alla redazione di un **`catalogo`** contenente le **`fasi operative`** e i **`metadati`**, tracciando un passo importante per il Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
 <!-- <span style="background-color: #757474; color: #ffffff; padding: 0px 4px; border-radius: 5px;"><b>catalogo</b></span> -->
 
 Il **processo di lavoro** :material-transit-connection-variant: - svolto in ordine temporale - è raffigurato nel seguente schema:
@@ -31,9 +31,9 @@ style A fill:#fc5b5b,stroke:#333,stroke-width:2px
 <!-- era fill:#f9f -->
 
 ## Destinatari del progetto :material-target-account:
-I destinatari dei contenuti del progetto sono dirigenti, dipendenti e amministratori politici delle amministrazioni comunali.
+I destinatari dei contenuti del progetto sono amministratori, dirigenti e dipendenti degli enti comunali.
 
-I comuni sono tra i maggiori erogatori di servizi pubblici sul territorio a livello locale, e per tale motivo sono tenuti a gestire un numero elevato di procedimenti amministrativi correlati agli stessi servizi. 
+I comuni sono tra i maggiori erogatori di servizi pubblici sul territorio a livello locale, e per tale motivo gestiscono un numero elevato di procedimenti amministrativi correlati agli stessi servizi. 
 
 Questo progetto si pone l'obiettivo di facilitare :material-hand-extended: e documentare :material-file-document-outline: il percorso operativo che il personale delle amministrazioni comunali deve avviare e condurre per la digitalizzazione dei servizi e dei relativi procedimenti.
 
@@ -45,29 +45,3 @@ A tal proposito è stato predisposto un apposito [**Forum**](https://github.com/
 
 [Vai al forum :material-forum:](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions){ .md-button .md-button--primary }
 
-<!-- 
-## Contenuti del progetto :fontawesome-solid-sitemap:
-<pre><code>
-<a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_self"><b>Home</b></a>
-├─ Focus giuridico &#8595; 
-|  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/focus-giuridico/" target="_self">Focus giuridico</a>
-|  └─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/cad/" target="_self">I procedimenti visti dal "CAD"</a>
-├─ Mappatura &#8595;
-|  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/digitalizzazione-ambito-comunale/" target="_self">Percorsi di digitalizzazione in ambito comuale</a>
-|  └─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/esperienza-analisi/" target="_self">L'analisi dei procedimenti nel Piano della Performance</a>
-├─ Metadati &#8595;
-|  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati/" target="_self">I metadati nella mappatura dei procedimenti</a>
-|  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/metadati-determinazione-deliberazione/" target="_self">Metadati di determinazioni e deliberazioni</a>
-|  ├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/schema-metadati/" target="_self">Schema di metadati per mappatura dei procedimenti</a>
-|  └─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/esperienza-metadatazione/" target="_self">Esperienza di mappatura con metadati</a>   
-├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/fasi-operative/" target="_self">Fasi operative</a>
-├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/reingegnerizzazione/" target="_self">Reingegnerizzazione</a>
-├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/catalogo/" target="_self">Catalogo</a>
-├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/linkografia/" target="_self">Linkografia</a>
-├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/redazione/" target="_self">Redazione</a>
-├─ <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/contenuti/strumenti/" target="_self">Strumenti | Licenza</a>
-└─ <a href="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions" target="_self">Forum</a>
-|  <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/site-map/" target="_blank">Site map</a>
-|  <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/privacy/" target="_blank">Privacy-cookies</a>
-</code></pre>
--->
