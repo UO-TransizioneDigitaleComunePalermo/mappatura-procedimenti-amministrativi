@@ -329,7 +329,7 @@ Lo schema di sopra relativo all'`ambito di applicazione del modello di interoper
 
 **Le [API, Application Programming Interfaces](https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf#page=14) (Interfaccie di Programmazione delle Applicazioni) sono l'elemento tecnologico di base del ModI (Modello di Interoperabilità), attraverso cui le PA rendono disponibile gli e-service utilizzati dai sistemi informatici di altre PA, cittadini e imprese**.
 
-<iframe src="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf" width="100%"; height="1000"; frameborder="0" > </iframe>
+<iframe src="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf" width="100%"; height="800"; frameborder="0" > </iframe>
 
 
 
