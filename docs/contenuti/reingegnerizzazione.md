@@ -314,7 +314,9 @@ l’utilizzo dei dati e dei servizi digitali;
 > - promuovere l’adozione dell’approccio «API first» per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
 > - privilegiare standard tecnologici che soddisfino l’esigenza di rendere sicure le interazioni tra le PA, e tra queste, cittadini e imprese;
 
+
 > Le interazioni prevedono che i soggetti coinvolti possano svolgere la funzione di erogatore di servizi, quando il soggetto mette a disposizione servizi digitali utilizzati da altri soggetti, e la funzione di fruitore di servizi, quando il soggetto utilizza i servizi digitali messi a disposizione da un altro soggetto.
+> 
 > ![](https://user-images.githubusercontent.com/42996217/144393131-a085cbde-519c-4a1a-8851-83fd74f82ca8.png)
 
 
