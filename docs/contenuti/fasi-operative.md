@@ -72,7 +72,7 @@ Di seguito vengono riportati alcuni esempi di compilazione di schede relative al
 !!! Info "Immagini" 
     Le immagini utilizzate in questa pagina sono state rilasciate: 
     
-    - con [licenza CC-BY 3.0](https://designers.italia.it/note-legali/) dal Dipartimento Trasformazione Digitale - Designers Italia (vedi paragrafo Note legali), 
+    - con [licenza CC-BY 3.0](https://designers.italia.it/note-legali/) dal Dipartimento Trasformazione Digitale - Designers Italia (vedi paragrafo Note legali). 
     
 
 
