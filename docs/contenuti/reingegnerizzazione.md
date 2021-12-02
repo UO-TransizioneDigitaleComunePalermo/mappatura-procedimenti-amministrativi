@@ -306,8 +306,6 @@ Nell'attività di miglioramento del software bisogna seguire quanto stabilito da
 >
 > Le Linee Guida individuano le modalità con cui le PA implementano le proprie API, quale elemento tecnologico di base del Modello di Interoperabilità, attraverso cui le PA rendono disponibile gli e-service utilizzati dai sistemi informatici di altre Pubbliche Amministrazioni, cittadini e imprese.
 
-*[API]: Application Programming Interfaces (Interfaccie di Programmazione delle Applicazioni)
-
 Per l'interoperabilità dei sistemi informatici è necessario:
 
 > - definire le modalità di integrazione tra le PA, e tra queste, cittadini e imprese, armonizzando le scelte delle architetture di interoperabilità delle PA;
@@ -316,7 +314,11 @@ l’utilizzo dei dati e dei servizi digitali;
 > - promuovere l’adozione dell’approccio «API first» per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
 > - privilegiare standard tecnologici che soddisfino l’esigenza di rendere sicure le interazioni tra le PA, e tra queste, cittadini e imprese;
 
+> Le interazioni prevedono che i soggetti coinvolti possano svolgere la funzione di erogatore di servizi, quando il soggetto mette a disposizione servizi digitali utilizzati da altri soggetti, e la funzione di fruitore di servizi, quando il soggetto utilizza i servizi digitali messi a disposizione da un altro soggetto.
+> ![](https://user-images.githubusercontent.com/42996217/144393131-a085cbde-519c-4a1a-8851-83fd74f82ca8.png)
 
+
+*[API]: Application Programming Interfaces (Interfaccie di Programmazione delle Applicazioni)
 
 <kbd>to be continued</kbd>
 
