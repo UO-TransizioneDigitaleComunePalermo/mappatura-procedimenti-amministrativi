@@ -117,6 +117,7 @@ plugins:
 markdown_extensions:
 - toc:
         permalink: ↵
+        toc_depth: 3
 - meta
 - mkdocs-click
 - pymdownx.highlight
