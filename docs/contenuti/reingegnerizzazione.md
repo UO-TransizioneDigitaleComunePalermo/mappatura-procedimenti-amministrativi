@@ -305,9 +305,11 @@ Nell'attività di individuazione o miglioramento del software bisogna seguire qu
 <iframe src="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf" width="100%"; height="700"; frameborder="0" > </iframe>
 
 **Le linee guida**
-> - considerano i servizi digitali (e-service) realizzati da una Pubblica Amministrazione per assicurare l’accesso ai propri dati e/o l’integrazione dei propri processi attraverso l’interazione dei suoi sistemi informatici con quelli dei fruitori.
+> - considerano i servizi digitali (e-service) realizzati da una Pubblica Amministrazione per assicurare l’accesso ai propri dati e/o l’integrazione dei propri processi attraverso l’interazione dei suoi sistemi informatici con quelli dei fruitori;
 > - individuano le modalità con cui le PA implementano le proprie API, quale elemento tecnologico di base del Modello di Interoperabilità, attraverso cui le PA rendono disponibile gli e-service utilizzati dai sistemi informatici di altre Pubbliche Amministrazioni, cittadini e imprese.
 
+!!! Note "L'e-service"
+    è un **servizio erogato via Internet** o attraverso una rete privata tramite un processo digitale in cui sono coinvolti erogatori e fruitori. Gli e-service sono una particolare categoria di servizi in rete basati su interfacce applicative (API).
 
 **Per l'interoperabilità dei sistemi informatici è necessario**:
 > - definire le modalità di integrazione tra le PA, e tra queste, cittadini e imprese, armonizzando le scelte delle architetture di interoperabilità delle PA;
