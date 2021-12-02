@@ -277,7 +277,7 @@ Questi sopra elencati rappresentano i requisiti minimi che dal 2022 **devono** e
 
 
 ## Linee guida di design per i servizi digitali della PA :material-devices: 
-Al fine di rendere le interfaccie grafiche quanto più semplici possibili per la consultazione da parte degli utenti sono state pubblicate da AGID le [**Linee guida di design per i servizi digitali della PA**](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html) che rappresentano uno strumento di lavoro per la Pubblica Amministrazione (e loro fornitori), *e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al service design (progettazione dei servizi), al content design (progettazione dei contenuti), alla user research (ricerca con gli utenti), e alla user interface (interfaccia utente)*.
+Al fine di rendere le interfaccie grafiche dei servizi e dei procedimenti quanto più semplici possibili per la consultazione da parte degli utenti, sono state pubblicate da AGID le [**Linee guida di design per i servizi digitali della PA**](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html) che rappresentano uno strumento di lavoro per la Pubblica Amministrazione (e loro fornitori), *e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al service design (progettazione dei servizi), al content design (progettazione dei contenuti), alla user research (ricerca con gli utenti), e alla user interface (interfaccia utente)*.
 
 Le Linee guida di design per i servizi digitali della PA adottano l’approccio [**`human-centered`**](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-research/usabilita.html#user-centered-design) :fontawesome-solid-street-view: con i seguenti obiettivi:
 
@@ -298,7 +298,7 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 ---
 
 ## Reingegnerizzare curando l'interoperabilità dei sistemi informatici
-Nel lavoro di reingegnerizzazione si mette mano al software nel senso che si adotta software per la prima volta, oppure si evolve il software esistente già in uso (migliorandolo con ulteriore sviluppo oppure si sostituisce con software nuovo più performante).
+Nel lavoro di reingegnerizzazione si opera con il software, nel senso che si adotta software per la prima volta, oppure si evolve il software esistente già in uso (migliorandolo con ulteriore sviluppo oppure si sostituisce con software nuovo più performante).
 
 Nell'attività di individuazione o miglioramento del software bisogna seguire quanto stabilito dall'AGID nelle [“**Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni**”](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html).
 
@@ -325,19 +325,15 @@ l’utilizzo dei dati e dei servizi digitali;
 > 
 > ![](https://user-images.githubusercontent.com/42996217/144393131-a085cbde-519c-4a1a-8851-83fd74f82ca8.png)
 
-Lo schema di sopra relativo all'`ambito di applicazione del modello di interoperabilità` illustra le interazioni bidirezionali possibili:
+Lo schema di sopra relativo all'**`ambito di applicazione del modello di interoperabilità`** illustra le interazioni bidirezionali possibili:
 
 - impresa ⇆ amministrazione (A2B)
 - amministrazione ⇆ cittadini (A2C)
 - amministrazione ⇆ amministrazione (A2A)
 
-**Le [API, Application Programming Interfaces](https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf#page=14) (Interfaccie di Programmazione delle Applicazioni) sono l'elemento tecnologico di base del ModI (Modello di Interoperabilità), attraverso cui le PA rendono disponibile gli e-service utilizzati dai sistemi informatici di altre PA, cittadini e imprese**.
+**Le [API, Application Programming Interfaces](https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf#page=14) (Interfaccie di Programmazione delle Applicazioni) sono l'elemento tecnologico di base del cosiddetto ModI (Modello di Interoperabilità), attraverso cui le PA rendono disponibile gli e-service utilizzati dai sistemi informatici di altre PA, cittadini e imprese**.
 
-
-
-
-<kbd>to be continued</kbd>
-
+Le linee guida sono le regole che le PA devono seguire per l'adozione di applicativi per la gestione di procedimenti amministrativi e servizi da erogare. Nei capitolati tecnici che le PA redigono per il reperimento di software sul mercato, il riferimento al rispetto delle linee guida sull'interoperabilità deve essere citato come "requisito essenziale" per la realizzazione del software da parte delle imprese.
 
 
 
