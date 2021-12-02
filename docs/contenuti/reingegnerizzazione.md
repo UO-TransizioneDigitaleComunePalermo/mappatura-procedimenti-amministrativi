@@ -204,6 +204,8 @@ Per invertire questa vecchia tendenza, un aspetto su cui focalizzare l'attenzion
 
 
 ## Esperienza Utente (UX) :face_with_raised_eyebrow:  e Interfaccia Utente (UI) :material-monitor-dashboard: 
+<img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/esperienza-utente.png" width=316; > </img> <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/interfaccia-utente.png" width=400; > </img> 
+
 La **User Experience** UX (esperienza utente) è strettamente legata alla **User Interface** UI (interfaccia utente). Interfaccie semplici e intuitive dei software generano facilità d'uso e soddisfazione nella fase di utilizzo. Questo ha la medesima valenza per il personale della pubblica amministrazione e per gli utenti dei servizi.  Ambedue le categorie sono persone, anche se sono posizionati in due punti diversi dell'applicativo:
 
 - **`back end`** = tutte le funzioni che vede, consulta e gestisce il personale della PA (in ufficio o da remoto in lavoro agile)
