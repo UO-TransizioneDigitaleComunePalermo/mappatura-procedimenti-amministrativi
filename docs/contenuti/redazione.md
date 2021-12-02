@@ -44,13 +44,15 @@ I contenuti di questo progetto di documentazione sono stati anche trattati nel p
 [Relatori: Maura Montironi - Gabriele Marchese - Michele Lo Squadro - Ciro Spataro - Sergio Schimicci]
 
 
-## Dopo la mappatura e analisi dei procedimenti, ... l'innovazione tecnologica 
+## Dopo la mappatura e analisi dei procedimenti, l'innovazione tecnologica 
 
-**Innovazione tecnologica e transizione digitale al Comune di Palermo**. Il Comune di Palermo gestisce i sistemi informativi e provvede alla digitalizzazione di procedimenti e servizi attraverso la Società interamente in house [SISPI SpA](https://www.sispi.it/web/guest/chi-siamo/i-soci) specializzata per l'informatica. 
+**Innovazione tecnologica e transizione digitale del Comune di Palermo**. 
+
+Il Comune di Palermo gestisce i sistemi informativi e provvede alla digitalizzazione di procedimenti e servizi attraverso la Società interamente in house [SISPI SpA](https://www.sispi.it/web/guest/chi-siamo/i-soci) specializzata per l'informatica. 
 
 [![](https://user-images.githubusercontent.com/42996217/141452047-eedca94d-1712-4406-95ed-e324eb1a6a8e.png)](https://www.sispi.it)
     
-Attraverso le risorse del PO FESR Sicilia 2014-2020, OT2 (agenda digitale), entro la fine del 2023, vengono realizzati progetti [(Azioni 2.2.1 e 2.2.3)](https://www.euroinfosicilia.it/po-fesr-sicilia-2014-2020/obiettivi-tematici/agenda-digitale/) per gestire in modalità digitale la maggior parte dei principali procedimenti amministrativi, grazie al supporto tecnico operativo della Società in house per i sistemi informatici SISPI SpA. 
+Attraverso le risorse del PO FESR Sicilia 2014-2020, Obiettivo Tematico 2 (agenda digitale), entro la fine del 2023, vengono realizzati progetti [(Azioni 2.2.1 e 2.2.3)](https://www.euroinfosicilia.it/po-fesr-sicilia-2014-2020/obiettivi-tematici/agenda-digitale/) per gestire in modalità digitale i principali procedimenti amministrativi, grazie al supporto tecnico operativo della Società in house per i sistemi informatici SISPI SpA. 
 
 === "2.2.1"
 
