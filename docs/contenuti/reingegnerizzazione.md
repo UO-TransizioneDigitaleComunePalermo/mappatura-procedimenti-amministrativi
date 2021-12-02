@@ -300,7 +300,7 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 ## Reingegnerizzare curando l'interoperabilità dei sistemi informatici
 Nel lavoro di reingegnerizzazione si mette mano al software nel senso che si adotta software per la prima volta, oppure si evolve il software esistente già in uso (migliorandolo con ulteriore sviluppo oppure si sostituisce con software nuovo più performante).
 
-Nell'attività di miglioramento del software bisogna seguire quanto stabilito dall'AGID nelle [“*Linee guida tecnologie e standard per la sicurezza dell’interoperabilità tramite API dei sistemi informatici” e “Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni*”](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html)
+Nell'attività di individuazione o miglioramento del software bisogna seguire quanto stabilito dall'AGID nelle [“Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni*”](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html)
 
 > Le Linee Guida considerano i servizi digitali (e-service) realizzati da una Pubblica Amministrazione per assicurare l’accesso ai propri dati e/o l’integrazione dei propri processi attraverso l’interazione dei suoi sistemi informatici con quelli dei fruitori.
 >
@@ -314,7 +314,7 @@ l’utilizzo dei dati e dei servizi digitali;
 > - promuovere l’adozione dell’approccio «API first» per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
 > - privilegiare standard tecnologici che soddisfino l’esigenza di rendere sicure le interazioni tra le PA, e tra queste, cittadini e imprese;
 
-
+**Le interazioni**
 > Le interazioni prevedono che i soggetti coinvolti possano svolgere la funzione di erogatore di servizi, quando il soggetto mette a disposizione servizi digitali utilizzati da altri soggetti, e la funzione di fruitore di servizi, quando il soggetto utilizza i servizi digitali messi a disposizione da un altro soggetto.
 > 
 > ![](https://user-images.githubusercontent.com/42996217/144393131-a085cbde-519c-4a1a-8851-83fd74f82ca8.png)
