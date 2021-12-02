@@ -298,7 +298,7 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 ---
 
 ## Reingegnerizzare curando l'interoperabilità dei sistemi informatici
-Nel lavoro di reingegnerizzazione si mette mano al software nel senso che si adotta software per la prima volta, oppure si evolve il software esistente già in uso (migliorandolo con ulteriore sviluppo oppure si sostituisce con software nuovo più perormante).
+Nel lavoro di reingegnerizzazione si mette mano al software nel senso che si adotta software per la prima volta, oppure si evolve il software esistente già in uso (migliorandolo con ulteriore sviluppo oppure si sostituisce con software nuovo più performante).
 
 Nell'attività di miglioramento del software bisogna seguire quanto stabilito dall'AGID nelle [“*Linee guida tecnologie e standard per la sicurezza dell’interoperabilità tramite API dei sistemi informatici” e “Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni*”](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html)
 
