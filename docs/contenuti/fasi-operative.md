@@ -7,6 +7,8 @@ hide:
 
 # Scheda delle fasi operative del procedimento amministrativo :material-format-list-bulleted-type:
 
+<img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/kit_prototipazione_flussi.png" width=300; > </img>
+
 In questa pagina viene descritto come utilizzare (compilare) la scheda relativa alla descrizione delle "**fasi operative**" che in ordine cronologico caratterizzano la gestione del procedimento amministrativo, da parte del personale dell'ente pubblico.
 
 Lo schema dati della scheda è abbastanza semplice e di facile intuizione per chiunque.
@@ -67,8 +69,11 @@ Di seguito vengono riportati alcuni esempi di compilazione di schede relative al
 
 
 
-
-
+!!! Info "Immagini" 
+    Le immagini utilizzate in questa pagina sono state rilasciate: 
+    
+    - con [licenza CC-BY 3.0](https://designers.italia.it/note-legali/) dal Dipartimento Trasformazione Digitale - Designers Italia (vedi paragrafo Note legali), 
+    
 
 
 
