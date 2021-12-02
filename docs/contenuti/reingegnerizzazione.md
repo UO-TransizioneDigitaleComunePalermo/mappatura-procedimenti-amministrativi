@@ -297,22 +297,24 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 
 ---
 
-## Paragrafo su “*Linee guida tecnologie e standard per la sicurezza dell’interoperabilità tramite API dei sistemi informatici” e “Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni*”
-[https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html)
+## Reingegnerizzare curando l'interoperabilità dei sistemi informatici
+Nel lavoro di reingegnerizzazione si mette mano al software nel senso che si adotta software per la prima volta, oppure si evolve il software esistente già in uso (migliorandolo con ulteriore sviluppo oppure si sostituisce con software nuovo più perormante).
+
+Nell'attività di miglioramento del software bisogna seguire quanto stabilito dall'AGID nelle [“*Linee guida tecnologie e standard per la sicurezza dell’interoperabilità tramite API dei sistemi informatici” e “Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni*”](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html)
 
 > Le Linee Guida considerano i servizi digitali (e-service) realizzati da una Pubblica Amministrazione per assicurare l’accesso ai propri dati e/o l’integrazione dei propri processi attraverso l’interazione dei suoi sistemi informatici con quelli dei fruitori.
+>
+> Le Linee Guida individuano le modalità con cui le PA implementano le proprie API, quale elemento tecnologico di base del Modello di Interoperabilità, attraverso cui le PA rendono disponibile gli e-service utilizzati dai sistemi informatici di altre Pubbliche Amministrazioni, cittadini e imprese.
 
-> Le Linee Guida individuano le modalità con cui le PA implementano le proprie API, quale elemento tecnologico di base del ModI, attraverso cui le PA rendono disponibile gli e-service utilizzati dai sistemi informatici di altre Pubbliche Amministrazioni, cittadini e imprese.
+*[API]: Application Programming Interfaces (Interfaccie di Programmazione delle Applicazioni)
 
-E' necessario:
+Per l'interoperabilità dei sistemi informatici è necessario:
 
-- definire le modalità di integrazione tra le PA, e tra queste, cittadini e imprese, armonizzando le scelte architetturali di interoperabilità delle PA;
-- individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative che semplifichino e abilitino
+> - definire le modalità di integrazione tra le PA, e tra queste, cittadini e imprese, armonizzando le scelte delle architetture di interoperabilità delle PA;
+> - individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative che semplifichino e abilitino
 l’utilizzo dei dati e dei servizi digitali;
-- promuovere l’adozione dell’approccio «API first» per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
-- privilegiare standard tecnologici che soddisfino l’esigenza di rendere sicure le interazioni tra le PA, e tra queste, cittadini e imprese;
-- favorire l’interazione tra PA, e tra queste, cittadini e imprese, attraverso un approccio Contract-First
-
+> - promuovere l’adozione dell’approccio «API first» per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
+> - privilegiare standard tecnologici che soddisfino l’esigenza di rendere sicure le interazioni tra le PA, e tra queste, cittadini e imprese;
 
 
 
