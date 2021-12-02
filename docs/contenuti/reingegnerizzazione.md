@@ -316,7 +316,7 @@ l’utilizzo dei dati e dei servizi digitali;
 
 *[API]: Application Programming Interfaces (Interfaccie di Programmazione delle Applicazioni)
 
-**Le interazioni fra soggetti diversi* per l'erogazione e fruizione dei servizi**
+**Le interazioni fra soggetti diversi per l'erogazione e fruizione dei servizi**
 > Le interazioni prevedono che i soggetti coinvolti possano svolgere la funzione di erogatore di servizi, quando il soggetto mette a disposizione servizi digitali utilizzati da altri soggetti, e la funzione di fruitore di servizi, quando il soggetto utilizza i servizi digitali messi a disposizione da un altro soggetto.
 > 
 > ![](https://user-images.githubusercontent.com/42996217/144393131-a085cbde-519c-4a1a-8851-83fd74f82ca8.png)
