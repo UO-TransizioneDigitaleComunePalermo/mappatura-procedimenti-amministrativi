@@ -300,13 +300,13 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 ## Reingegnerizzare curando l'interoperabilità dei sistemi informatici
 Nel lavoro di reingegnerizzazione si mette mano al software nel senso che si adotta software per la prima volta, oppure si evolve il software esistente già in uso (migliorandolo con ulteriore sviluppo oppure si sostituisce con software nuovo più performante).
 
-Nell'attività di individuazione o miglioramento del software bisogna seguire quanto stabilito dall'AGID nelle [“Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni*”](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html)
+Nell'attività di individuazione o miglioramento del software bisogna seguire quanto stabilito dall'AGID nelle [“**Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni**”](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html)
 
 > Le Linee Guida considerano i servizi digitali (e-service) realizzati da una Pubblica Amministrazione per assicurare l’accesso ai propri dati e/o l’integrazione dei propri processi attraverso l’interazione dei suoi sistemi informatici con quelli dei fruitori.
 >
-> Le Linee Guida individuano le modalità con cui le PA implementano le proprie API, quale elemento tecnologico di base del Modello di Interoperabilità, attraverso cui le PA rendono disponibile gli e-service utilizzati dai sistemi informatici di altre Pubbliche Amministrazioni, cittadini e imprese.
+> Inoltre le Linee Guida individuano le modalità con cui le PA implementano le proprie API, quale elemento tecnologico di base del Modello di Interoperabilità, attraverso cui le PA rendono disponibile gli e-service utilizzati dai sistemi informatici di altre Pubbliche Amministrazioni, cittadini e imprese.
 
-Per l'interoperabilità dei sistemi informatici è necessario:
+**Per l'interoperabilità dei sistemi informatici è necessario**:
 
 > - definire le modalità di integrazione tra le PA, e tra queste, cittadini e imprese, armonizzando le scelte delle architetture di interoperabilità delle PA;
 > - individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative che semplifichino e abilitino
@@ -316,17 +316,20 @@ l’utilizzo dei dati e dei servizi digitali;
 
 *[API]: Application Programming Interfaces (Interfaccie di Programmazione delle Applicazioni)
 
-**Le interazioni**
+**Le interazioni fra soggetti diversi* per l'erogazione e fruizione dei servizi**
 > Le interazioni prevedono che i soggetti coinvolti possano svolgere la funzione di erogatore di servizi, quando il soggetto mette a disposizione servizi digitali utilizzati da altri soggetti, e la funzione di fruitore di servizi, quando il soggetto utilizza i servizi digitali messi a disposizione da un altro soggetto.
 > 
 > ![](https://user-images.githubusercontent.com/42996217/144393131-a085cbde-519c-4a1a-8851-83fd74f82ca8.png)
 
-Lo schema di sopra relativo all'`ambito di applicazione del modello di interoperabilità` illustra le interazioni possibili:
+Lo schema di sopra relativo all'`ambito di applicazione del modello di interoperabilità` illustra le interazioni bidirezionali possibili:
 
 - impresa ⇆ amministrazione (A2B)
 - amministrazione ⇆ cittadini (A2C)
 - amministrazione ⇆ amministrazione (A2A)
 
+**Le [API, Application Programming Interfaces](https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf#page=14) (Interfaccie di Programmazione delle Applicazioni) sono l'elemento tecnologico di base del ModI (Modello di Interoperabilità), attraverso cui le PA rendono disponibile gli e-service utilizzati dai sistemi informatici di altre PA, cittadini e imprese**.
+
+<iframe src="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf" width="800"; frameborder="0" > </iframe>
 
 
 
