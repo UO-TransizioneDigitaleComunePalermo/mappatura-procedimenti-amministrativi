@@ -95,7 +95,7 @@ plugins:
     locale: it
     fallback_to_build_date: false
     enable_creation_date: true
-    enabled: true
+#   enabled: true
 # - mkdocstrings
 # - autolinks
 # - macros
