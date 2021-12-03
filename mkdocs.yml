@@ -90,6 +90,7 @@ theme:
 ## Plugins
 plugins:
 - search
+- git-revision-date-localized    # prova per mettere data modifica pagina
 # - mkdocstrings
 # - autolinks
 # - macros
