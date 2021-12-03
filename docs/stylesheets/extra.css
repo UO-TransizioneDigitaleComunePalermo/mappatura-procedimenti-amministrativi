@@ -244,10 +244,11 @@ div.doc-contents:not(.first) {
 
 /* imposazione colore ombra del blocco codice <pre> */
 pre {
-    color: #1D5504;
+    background: #dfd3d5;
+    color: #000000;
     margin: 1em 0;
-    border-radius: .9em;
-    box-shadow: 0.1em 0.1em 0.4em #7c8ca3;
+    border-radius: .5em;
+    box-shadow: 0.1em 0.1em 0.4em #bd7a5a;
     white-space: pre-wrap;
     font-style: normal;
 }
