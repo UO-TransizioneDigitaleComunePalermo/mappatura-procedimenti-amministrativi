@@ -92,7 +92,8 @@ plugins:
 - search
 - git-revision-date-localized:         # per funzionare bisogna installare plugin relativo su gh-pages.yml 
     type: date
-    fallback_to_build_date: true
+    locale: it
+    fallback_to_build_date: false
     enable_creation_date: true
     enabled: true
 # - mkdocstrings
