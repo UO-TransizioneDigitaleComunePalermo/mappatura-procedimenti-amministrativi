@@ -39,9 +39,11 @@
 }
 
 
+/* cambiare colore a  data ultima modifica pagina */
+.git-revision-date-localized-plugin { color: red; }
 
 
- /*sposta più in alto il back to top in mobile se è installata la condivisione social;*/    /* disattivato */
+/* sposta più in alto il back to top in mobile se è installata la condivisione social;*/    /* disattivato */
 /*
 @media screen and (max-width: 1100px) { .md-top {bottom: 2.5rem!important;}} 
 */
