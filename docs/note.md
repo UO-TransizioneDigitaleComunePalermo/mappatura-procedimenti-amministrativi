@@ -90,7 +90,7 @@ del procedimento di secondo grado
 3.  <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="400" > </img>  la dichiarazione che consente alle imprese di iniziare, modificare (1) o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni (2) competenti- ricorso: con cui si richiede un riesame di legittimità o di merito di atti ritenuti     
     
 
-### Text annotation
+## Text annotation (news)
 
 Il 1 dicembre 2021 è stata creata [**issue sul repo di MKDocs-material**](https://github.com/squidfunk/mkdocs-material/issues/3282) per creare una funzione di annotation analoga a "**code annotation**" ma applicata al testo fuori dal blocco codice.
 
