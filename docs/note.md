@@ -21,6 +21,7 @@ Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Mar
 ## Plugin per inserire data ultimo aggiornamento sulle pagine (footer)
 
 Plugin MkDocs consente di visualizzare la data dell'ultima modifica git di una pagina. Il plugin utilizza babel e timeago.js per fornire diversi formati di data localizzati. Fork iniziale da mkdocs-git-revision-date-plugin.
+
 [https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/](https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/)
 
 
