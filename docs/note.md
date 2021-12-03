@@ -12,6 +12,11 @@ hide:
     Questa pagina contiene varie prove effettuate nei setting del ==codice== e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 
+## PyMdown Extensions
+Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Markdown`. Sono stati originariamente scritti per rendere più piacevole la scrittura della documentazione. Coprono un'ampia gamma di soluzioni e, sebbene non tutte le estensioni siano necessarie a tutte le persone, di solito c'è almeno un'estensione utile per tutti.
+
+[https://facelessuser.github.io/pymdown-extensions/](https://facelessuser.github.io/pymdown-extensions/)
+
 
 ## Inserire `block announce`, barra di testo sopra l'header per annunci importanti
 
