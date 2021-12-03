@@ -241,3 +241,16 @@ div.doc-contents:not(.first) {
 .md-grid {
   max-width: 1250px; 
 }
+
+/* imposazione colore ombra del blocco codice <pre> */
+pre {
+    background: #fff3c9;
+    color: #1D5504;
+    margin: 1em 0;
+    border-radius: .5em;
+    box-shadow: .3em .3em .5em #002000;
+    white-space: pre-wrap;
+    padding: 0 .5em;
+    font-style: normal;
+    /* font-size: 110%; */
+}
