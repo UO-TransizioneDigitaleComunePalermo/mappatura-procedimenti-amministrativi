@@ -15,7 +15,9 @@ hide:
 
 ## Inserire `block announce`, barra di testo sopra l'header per annunci importanti
 
-Nel file `override/main.html` va aggiunta l'istruzione di cui a [https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar):
+Nel file `override/main.html` va aggiunta l'istruzione di cui al link:
+
+[https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar):
 
 ``` html
 {% extends "base.html" %}
@@ -35,7 +37,9 @@ Per testo di colore bianco contornato di altro colore, inserire il seguente codi
 
 ## Inserire `Code annotation`, annotazioni nel blocco codice
 
-Nel file `.md` inserire quanto descritto al link: [https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
+Nel file `.md` inserire quanto descritto al link: 
+
+[https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
 
 Vediamo qual è il risultato. Inseriamo nel seguente blocco di codice un commento che sarà preceduto dal simbolo cancelletto `#` e dal numero dentro parentesi tonda. Dopo aver chiuso il blocco di codice lasciare una riga vuota e inserire il commento:
 
@@ -89,6 +93,8 @@ del procedimento di secondo grado
 ### Text annotation
 
 Il 1 dicembre 2021 è stata creata [**issue sul repo di MKDocs-material**](https://github.com/squidfunk/mkdocs-material/issues/3282) per creare una funzione di annotation analoga a "**code annotation**" ma applicata al testo fuori dal blocco codice.
+
+[**`Qui il feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
 
 ---
 
