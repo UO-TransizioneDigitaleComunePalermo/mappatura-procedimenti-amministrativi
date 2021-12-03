@@ -90,7 +90,9 @@ theme:
 ## Plugins
 plugins:
 - search
-- git-revision-date-localized    # per funzionare bisogna installare plugin relativo su gh-pages.yml (da capire al 3 dic 2021) 
+- git-revision-date-localized:         # per funzionare bisogna installare plugin relativo su gh-pages.yml 
+    fallback_to_build_date: true
+    enable_creation_date: true
 # - mkdocstrings
 # - autolinks
 # - macros
