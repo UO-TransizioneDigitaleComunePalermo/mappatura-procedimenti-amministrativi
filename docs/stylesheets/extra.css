@@ -242,13 +242,4 @@ div.doc-contents:not(.first) {
   max-width: 1250px; 
 }
 
-/* imposazione colore ombra del blocco codice <pre> */
-pre {
-    background: #dfd3d5;
-    color: #000000;
-    margin: 1em 0;
-    border-radius: .9em;
-    box-shadow: 0.2em 0.2em 0.5em #bd7a5a;
-    white-space: pre-wrap;
-    font-style: normal;
-}
+
