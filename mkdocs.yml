@@ -91,8 +91,10 @@ theme:
 plugins:
 - search
 - git-revision-date-localized:         # per funzionare bisogna installare plugin relativo su gh-pages.yml 
-    fallback_to_build_date: true
+    type: timeago
+    fallback_to_build_date: false
     enable_creation_date: true
+    enabled: true
 # - mkdocstrings
 # - autolinks
 # - macros
