@@ -5,7 +5,7 @@ hide:
 
 
 # Impostazioni e prove di codice varie :octicons-code-16:
-<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="400" > </img> 
+<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="300" > </img> 
 
 <kbd>immagine del Noun project</kbd>
 
