@@ -210,7 +210,3 @@ Le PA che hanno acquisito software sono tenute a rilasciare codici sorgenti e re
 
 Al fine di facilitare il percorso per il riuso del software delle PA, il [**FormezPA ha realizzato un percorso formativo ad hoc**](http://eventipa.formez.it/node/328513) per il personale della PA. I materiali didattici ([video](https://www.youtube.com/playlist?list=PLd5bJJul8c5phEjmNKgPK2dCwZGCSqzsq) e dispense in formato PDF) sono di elevato valore per consentire e agevolare il riuso applicativo. 
 
-
-
-
----
