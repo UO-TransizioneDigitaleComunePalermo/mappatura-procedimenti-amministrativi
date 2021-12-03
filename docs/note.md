@@ -189,6 +189,7 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
 ---
 ---
 
+This page was last updated: {{ git_revision_date_localized }}
 
 
 <!--
