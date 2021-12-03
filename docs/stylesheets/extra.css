@@ -249,7 +249,5 @@ pre {
     border-radius: .5em;
     box-shadow: .3em .3em .5em #586578;
     white-space: pre-wrap;
-    padding: 0 .5em;
     font-style: normal;
-    /* font-size: 110%; */
 }
