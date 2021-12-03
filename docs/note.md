@@ -168,17 +168,6 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
 <iframe width="100%" height="700px" frameBorder="0" src="https://cirospat.readthedocs.io/it/latest/developer.html"></iframe>
 
 ---
-
-## Editor .MD
-<iframe width="100%" height="600px" frameBorder="0" src="https://hackmd.io/PBnbzEiKSTicBWTdzUACCw?both"></iframe>
-
----
-
-## Editor HTML
-<iframe width="100%" height="600px" frameBorder="0" src="https://html5-editor.net/"></iframe>
-
----
-
 ---
 
 
