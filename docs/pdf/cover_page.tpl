@@ -25,7 +25,7 @@
         <small>{{ config.copyright }}</small><br />
     {% endif %}
 	<br>
-	<a href="#" title="documentazione_PDF"><img src="../img/logo2.png"/></a>
+	<a href="#" title="documentazione_PDF"><img src="../img/procedimenti-logo1.png"/></a>
 </p>
 <h2 style="text-align: justify">Generazione del documento in PDF</h2>
 <p style="text-align: justify">Visualizza i contenuti della documentazione in formato PDF</p>
