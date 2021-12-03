@@ -18,9 +18,9 @@ extra:
 # manifest: "manifest.webmanifest"
   disqus: mkdocs
   social:
-    - icon: fontawesome/solid/home
-      link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi
-      name: Home Page
+    - icon: fontawesome/solid/file-pdf
+      link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/print_page/
+      name: Scarica il documento in formato PDF
     - icon: octicons/comment-discussion-16
       link: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions
       name: Forum sulla mappatura dei procedimenti amministrativi
@@ -36,9 +36,9 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:c.spataro@comune.palermo.it
       name: mail to c.spataro@comune.palermo.it
-    - icon: fontawesome/solid/file-pdf
-      link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/print_page/
-      name: Scarica il documento in formato PDF
+    - icon: fontawesome/solid/home
+      link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi
+      name: Home Page
   # analytics:
   # provider: google
   # property: usa il tuo codice
