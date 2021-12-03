@@ -9,7 +9,7 @@ hide:
 
 
 !!! Note "Cosa è questa pagina"
-    Questa pagina contiene varie prove effettuate nei setting del codice e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
+    Questa pagina contiene varie prove effettuate nei setting del <em>codice</em> e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 
 
