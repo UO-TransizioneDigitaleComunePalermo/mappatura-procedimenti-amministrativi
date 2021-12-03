@@ -247,7 +247,7 @@ pre {
     color: #1D5504;
     margin: 1em 0;
     border-radius: .9em;
-    box-shadow: .3em .3em .5em #586578;
+    box-shadow: 0.1em 0.1em 0.4em #7c8ca3;
     white-space: pre-wrap;
     font-style: normal;
 }
