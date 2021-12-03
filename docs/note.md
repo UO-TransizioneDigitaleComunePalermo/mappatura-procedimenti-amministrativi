@@ -4,11 +4,13 @@ hide:
 ---
 
 
-# Setting vari e prove :octicons-code-16:
+# Impostazioni e prove di codice varie :octicons-code-16:
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="400" > </img> 
 <kbd>immagine del Noun project</kbd>
 
-Questo file "note" contiene varie prove effettuate nei setting del codice e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
+!!! Note "Cosa è questa pagina"
+    Questa pagina contiene varie prove effettuate nei setting del codice e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
+
 
 
 ## Inserire `block announce`, barra di testo sopra l'header per annunci importanti
@@ -85,6 +87,7 @@ del procedimento di secondo grado
     
 
 ### Text annotation
+
 Il 1 dicembre 2021 è stata creata [**issue sul repo di MKDocs-material**](https://github.com/squidfunk/mkdocs-material/issues/3282) per creare una funzione di annotation analoga a "**code annotation**" ma applicata al testo fuori dal blocco codice.
 
 ---
@@ -142,6 +145,7 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 ---
 
 ## Adding abbreviations
+
 Riferimento: [https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage](https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage)
 
 Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Borruso e prova testo, tanto testo con lorem ipsum lorem ispus tanto testo con lorem ipsum tanto testo con lorem ipsumtanto testo con lorem ipsum tanto testo con lorem ipsum con Gianni Vitrano.
