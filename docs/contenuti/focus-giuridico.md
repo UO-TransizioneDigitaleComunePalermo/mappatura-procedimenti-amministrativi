@@ -4,7 +4,7 @@ In questa pagina si parte dalla "definizione giuridica" di procedimento amminist
 
 ## Il Procedimento Amministrativo
 
-**Definizione (Virga)**: 
+👉 **Definizione (Virga)**: 
 > “*Il procedimento consiste in una sequenza di atti aventi diversa natura e funzione, ma preordinati, nonostante la loro eterogeneità e la loro relativa autonomia, alla emanazione di un provvedimento centrale o conclusivo*”.
 
 Le Pubbliche Amministrazioni, dunque, agiscono per procedimenti e, di conseguenza, il procedimento di digitalizzazione non può limitarsi alla mera informatizzazione degli atti. 
