@@ -15,7 +15,7 @@ Questo progetto di documentazione è stato creato utilizzando i seguenti strumen
 
 <img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout" /> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
 
-<img src="https://img.shields.io/badge/MarkDown-for_page_editing-blue.svg?style=popout"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio [**MarkDown**](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<img src="https://img.shields.io/badge/MarkDown-for_page_editing-blue.svg?style=popout&logo=Markdown"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio [**MarkDown**](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [![gh-deploy](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub gh-pages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
