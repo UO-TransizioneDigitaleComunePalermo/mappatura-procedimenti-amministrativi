@@ -69,7 +69,7 @@ Nella digitalizzazione di un ente pubblico assume una rilevante importanza il **
 
 La smaterializzazione è l'attività che si effettua per riportare un documento esistente in forma cartaceo ad un formato digitale (es. formato `PDF`), così da inserirlo nel “fascicolo” digitale del procedimento amministrativo specifico.  In questo caso il **fascicolo sarà composto da**:
 
-**documenti amministrativi nativi digitali + documenti informatici frutto di scansione.**
+<kbd> 👉 **documenti amministrativi nativi digitali** + 👉 **documenti informatici frutto di scansione** </kbd>
 
 Nella smaterializzazione si opera con la scansione, cioè l’acquisizione dell’immagine del documento cartaceo.  Il documento scansionato è una vera e propria “fotografia” del documento cartaceo. Non è possibile estrapolare "informaticamente" dati e informazioni da un documento scansionato (a meno che non si utilizzano efficaci programmi di OCR in grado di leggere testo e riportarlo in un formato di testo di tipo "aperto").
 
