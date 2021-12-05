@@ -262,8 +262,3 @@ div.doc-contents:not(.first) {
   max-width: 1250px; 
 }
 
-/* allinea icone social nel footer tutto a sx quando è visione su mobile  */
-.md-social {
-    /* margin: 0 .4rem; */
-    padding: .2rem 0 .6rem;
-}
