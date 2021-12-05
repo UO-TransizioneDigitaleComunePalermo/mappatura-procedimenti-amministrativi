@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 
 # Documenti essenziali per la digitalizzazione di procedimenti e servizi :octicons-link-external-16:
