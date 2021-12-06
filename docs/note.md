@@ -12,7 +12,7 @@ hide:
     Questa pagina contiene varie prove effettuate nei setting del ==codice== e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 
-## Release `mkdocs-material`
+## Release di `mkdocs-material`
 - [**`https://github.com/squidfunk/mkdocs-material/releases/`**](https://github.com/squidfunk/mkdocs-material/releases/)
 - [**`Feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
 
@@ -88,7 +88,7 @@ theme:
 2.  I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`
 
 
-### `Code annotation` con testo lungo e immagini nel popup
+### Inserire `Code annotation` con testo lungo e immagini nel popup
 
 ``` yaml
 S.C.I.A. è la dichiarazione che consente alle imprese di iniziare, modificare un’attività produttiva #(1) 
