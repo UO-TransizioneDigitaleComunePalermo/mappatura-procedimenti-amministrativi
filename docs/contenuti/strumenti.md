@@ -13,7 +13,7 @@ hide:
 ## :material-monitor-cellphone: Come è costruito il progetto di documentazione 
 Questo progetto di documentazione è stato creato utilizzando i seguenti strumenti:
 
-<img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout&logo=readthedocs" /> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
+<img src="https://img.shields.io/badge/Material%20for%20MKDocs-for_publishing_online-blue.svg?style=popout&logo=readthedocs" /> <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" width="20" ></img> Il progetto di documentazione è stato creato con lo strumento [**Material for MKDocs**](https://squidfunk.github.io/mkdocs-material/)
 
 <img src="https://img.shields.io/badge/MarkDown-for_page_editing-blue.svg?style=popout&logo=Markdown"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio [**MarkDown**](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
