@@ -5,9 +5,8 @@ hide:
 
 
 # Impostazioni e prove di codice vari 
-# :octicons-code-16:
-<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="300" > </img> 
 
+<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="300" > </img> 
 
 !!! Note "Cosa è questa pagina"
     Questa pagina contiene varie prove effettuate nei setting del ==codice== e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
