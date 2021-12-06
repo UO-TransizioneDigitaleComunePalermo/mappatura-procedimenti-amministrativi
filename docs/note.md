@@ -12,7 +12,7 @@ hide:
     Questa pagina contiene varie prove effettuate nei setting del ==codice== e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 
-## Release `mkdocs-maerial`
+## Release `mkdocs-material`
 [**`https://github.com/squidfunk/mkdocs-material/releases/`**](https://github.com/squidfunk/mkdocs-material/releases/)
 
 
