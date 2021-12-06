@@ -17,13 +17,13 @@ hide:
 - [**`Feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
 
 
-## PyMdown Extensions
+## `PyMdown Extensions`
 Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Markdown`. Sono stati originariamente scritti per rendere più piacevole la scrittura della documentazione. Coprono un'ampia gamma di soluzioni e, sebbene non tutte le estensioni siano necessarie a tutte le persone, di solito c'è almeno un'estensione utile per tutti.
 
 [https://facelessuser.github.io/pymdown-extensions/](https://facelessuser.github.io/pymdown-extensions/)
 
 
-## Plugin per inserire data ultimo aggiornamento sulle pagine (footer)
+## Plugin per inserire `data ultimo aggiornamento` sulle pagine (footer)
 
 Plugin MkDocs consente di visualizzare la data dell'ultima modifica git di una pagina. Il plugin utilizza babel e timeago.js per fornire diversi formati di data localizzati. Fork iniziale da mkdocs-git-revision-date-plugin.
 
@@ -108,7 +108,7 @@ del procedimento di secondo grado
 3.  <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="400" > </img>  la dichiarazione che consente alle imprese di iniziare, modificare (1) o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni (2) competenti- ricorso: con cui si richiede un riesame di legittimità o di merito di atti ritenuti     
     
 
-## Text annotation (news)
+## `Text annotation` (news december_2021)
 
 Il 1 dicembre 2021 è stata creata [**issue sul repo di MKDocs-material**](https://github.com/squidfunk/mkdocs-material/issues/3282) per creare una funzione di annotation analoga a "**code annotation**" ma applicata al testo fuori dal blocco codice.
 
@@ -168,7 +168,7 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 
 ---
 
-## Adding abbreviations
+## `Adding abbreviations`
 
 Riferimento: [https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage](https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage)
 
