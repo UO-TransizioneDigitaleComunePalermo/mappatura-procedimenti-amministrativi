@@ -13,7 +13,8 @@ hide:
 
 
 ## Release `mkdocs-material`
-[**`https://github.com/squidfunk/mkdocs-material/releases/`**](https://github.com/squidfunk/mkdocs-material/releases/)
+- [**`https://github.com/squidfunk/mkdocs-material/releases/`**](https://github.com/squidfunk/mkdocs-material/releases/)
+- [**`Feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
 
 
 ## PyMdown Extensions
