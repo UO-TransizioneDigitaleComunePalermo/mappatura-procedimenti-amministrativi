@@ -13,7 +13,7 @@ hide:
 
 
 ## Release di `mkdocs-material`
-- [**`https://github.com/squidfunk/mkdocs-material/releases/`**](https://github.com/squidfunk/mkdocs-material/releases/)
+- [**`https://github.com/squidfunk/mkdocs-material/releases/`**](https://github.com/squidfunk/mkdocs-material/releases/) ▶  [**`https://squidfunk.github.io/mkdocs-material/changelog/`**](https://squidfunk.github.io/mkdocs-material/changelog/)
 - [**`Feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
 
 
