@@ -244,7 +244,8 @@ div.doc-contents:not(.first) {
 .md-footer { background-color:var(--md-default-bg-color); color: var(--md-default-fg-color);}   
 .md-footer-meta {    background-color: var(--md-footer-bg-color); color: #898989!important; font-size: .61rem!important; padding: 0.5rem!important; }  /* aggiunti dopo la vers.8 */
 .md-social__link { text-align: left;!important; }  /* allinea le icone dei social link */
- 
+.md-social { /* margin: 0 .0rem; */  padding: .6rem 0 .6rem; }
+
 
 
 /* cambia colore al header nero sopra il menù cioè = announcement bar */        /* disattivato */
