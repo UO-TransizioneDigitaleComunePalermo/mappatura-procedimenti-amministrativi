@@ -65,5 +65,5 @@ I contenuti di questo progetto di documentazione sono rilasciati con licenza ape
 - Divieto di restrizioni aggiuntive — Non puoi applicare termini legali o misure tecnologiche che impongano ad altri soggetti dei vincoli giuridici su quanto la licenza consente loro di fare.
 
 
-## Credits :material-head-snowflake-outline:
+## :material-head-snowflake-outline: Credits
  Per la costruzione tecnica di questo progetto di documentazione online è stato fondamentale il supporto fornito da [**`Andrea Borruso`**](https://twitter.com/aborruso) e [**`Giovan Battista Vitrano`**](https://twitter.com/gbvitrano), della community di <kbd>[OpendataSicilia](http://opendatasicilia.it/)</kbd>, ai quali va un grande grazie :fontawesome-regular-handshake: 
