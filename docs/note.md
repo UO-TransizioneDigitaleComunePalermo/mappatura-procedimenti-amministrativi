@@ -195,7 +195,7 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
 immagini centrate
 
 <figure markdown> <!--  -->
-  ![Dummy image](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png){ width="300" }
+  ![image](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png){ width="300" }
   <figcaption>Image caption</figcaption>
 </figure>
 
