@@ -7,7 +7,8 @@ hide:
 # Impostazioni e prove di codice vari 
 
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="300" ></img> 
-<img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" ></img>
+<img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" ></img>  
+:octicons-heart-fill-24:{ .heart }
 
 !!! Note "Cosa è questa pagina"
     Questa pagina contiene varie prove effettuate nei setting del ==codice== e riferimenti utili per la costruzione di un progetto con [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
@@ -17,7 +18,7 @@ hide:
 - [**`https://github.com/squidfunk/mkdocs-material/releases/`**](https://github.com/squidfunk/mkdocs-material/releases/) ▶  [**`https://squidfunk.github.io/mkdocs-material/changelog/`**](https://squidfunk.github.io/mkdocs-material/changelog/)
 - [**`Feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
 
-:octicons-heart-fill-24:{ .heart }
+
 
 
 ## `PyMdown Extensions`
