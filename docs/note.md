@@ -197,6 +197,9 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
   <figcaption>Image caption</figcaption>
 </figure>
 
+![Placeholder](https://dummyimage.com/600x400/eee/aaa){ align=left }
+
+
 ---
 
 
