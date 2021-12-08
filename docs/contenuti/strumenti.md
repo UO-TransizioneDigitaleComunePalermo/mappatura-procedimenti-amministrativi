@@ -66,4 +66,4 @@ I contenuti di questo progetto di documentazione sono rilasciati con licenza ape
 
 
 ## :material-head-snowflake-outline: Credits
- Per la costruzione tecnica di questo progetto di documentazione online è stato fondamentale il supporto fornito da [**`Andrea Borruso`**](https://twitter.com/aborruso) e [**`Giovan Battista Vitrano`**](https://twitter.com/gbvitrano), della community di <kbd>[OpendataSicilia](http://opendatasicilia.it/)</kbd>, ai quali va un grande grazie :fontawesome-regular-handshake: 
+ Per la costruzione tecnica di questo progetto di documentazione online è stato fondamentale il supporto fornito da [**`Andrea Borruso`**](https://twitter.com/aborruso) e [**`Giovan Battista Vitrano`**](https://twitter.com/gbvitrano), della community di <kbd>[OpendataSicilia](http://opendatasicilia.it/)</kbd>, ai quali va un grande grazie :fontawesome-regular-handshake: :octicons-heart-fill-24:{ .heart } 
