@@ -17,6 +17,8 @@ hide:
 - [**`https://github.com/squidfunk/mkdocs-material/releases/`**](https://github.com/squidfunk/mkdocs-material/releases/) ▶  [**`https://squidfunk.github.io/mkdocs-material/changelog/`**](https://squidfunk.github.io/mkdocs-material/changelog/)
 - [**`Feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
 
+:octicons-heart-fill-24:{ .heart }
+
 
 ## `PyMdown Extensions`
 Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Markdown`. Sono stati originariamente scritti per rendere più piacevole la scrittura della documentazione. Coprono un'ampia gamma di soluzioni e, sebbene non tutte le estensioni siano necessarie a tutte le persone, di solito c'è almeno un'estensione utile per tutti.
