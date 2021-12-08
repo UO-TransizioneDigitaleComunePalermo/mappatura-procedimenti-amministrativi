@@ -192,15 +192,17 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
 ## `Images configuration`
 [`https://squidfunk.github.io/mkdocs-material/reference/images/`](https://squidfunk.github.io/mkdocs-material/reference/images/)
 
+immagini centrate
+
 <figure markdown> <!--  -->
-  ![Dummy image](https://dummyimage.com/600x400/){ width="300" }
+  ![Dummy image](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png){ width="300" }
   <figcaption>Image caption</figcaption>
 </figure>
 
 
-![Placeholder](https://dummyimage.com/600x400/eee/aaa){ align=left } align=left
 
-![Placeholder](https://dummyimage.com/600x400/eee/aaa){ loading=lazy } loading=lazy
+
+
 
 ---
 
