@@ -50,7 +50,7 @@
   }
 }
 .heart {
-  animation: heart 1000ms infinite; color: #d7d7d7;  /* colore */
+  animation: heart 1000ms infinite; color: #ff0000;  /* colore */
 }
 
 
