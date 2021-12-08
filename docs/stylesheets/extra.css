@@ -40,6 +40,21 @@
 
 
 
+/* cuore che pulsa */
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.heart {
+  animation: heart 1000ms infinite;
+}
+
+
+
 
 /* sposta più in alto il back to top in mobile se è installata la condivisione social;*/    /* disattivato */
 /*
