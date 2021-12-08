@@ -47,9 +47,6 @@ I principali strumenti usati per realizzare la visualizzazione del [**catalogo**
 <img src="https://img.shields.io/badge/GitHub_Pages-for_code_hosting-blue"> [**GitHub Pages**](https://pages.github.com/), per l'hosting dei file che costituiscono la visualizzazione online (bisogna dotarsi di un account)
 
 
-=== "Credits"
-
-    Per la costruzione tecnica di questo progetto di documentazione online è stato importante il supporto fornito da [**`Andrea Borruso`**](https://twitter.com/aborruso) e [**`Giovan Battista Vitrano`**](https://twitter.com/gbvitrano) ai quali va un grande grazie :fontawesome-regular-handshake: 
 
 
 ## :fontawesome-brands-creative-commons: Contenuti rilasciati con licenza aperta 
@@ -66,3 +63,7 @@ I contenuti di questo progetto di documentazione sono rilasciati con licenza ape
 
 - Attribuzione — Devi riconoscere una menzione di paternità adeguata, fornire un link alla licenza e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile, ma non con modalità tali da suggerire che il licenziante avalli te o il tuo utilizzo del materiale. 
 - Divieto di restrizioni aggiuntive — Non puoi applicare termini legali o misure tecnologiche che impongano ad altri soggetti dei vincoli giuridici su quanto la licenza consente loro di fare.
+
+
+## Credits
+ Per la costruzione tecnica di questo progetto di documentazione online è stato fondamentale il supporto fornito da [**`Andrea Borruso`**](https://twitter.com/aborruso) e [**`Giovan Battista Vitrano`**](https://twitter.com/gbvitrano), della community di <kbd>[OpendataSicilia](http://opendatasicilia.it/)</kbd>, ai quali va un grande grazie :fontawesome-regular-handshake: 
