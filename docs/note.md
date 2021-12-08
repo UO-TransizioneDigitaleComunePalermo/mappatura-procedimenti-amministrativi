@@ -192,11 +192,9 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
 ## `Images configuration`
 [`https://squidfunk.github.io/mkdocs-material/reference/images/`](https://squidfunk.github.io/mkdocs-material/reference/images/)
 
-immagini centrate
-
 <figure markdown> <!--  -->
-  ![image](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png){ width="300" }
-  <figcaption>Image caption</figcaption>
+  ![image](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png){ width="200" }
+    <figcaption><b>immagine centrata</b></figcaption>
 </figure>
 
 
