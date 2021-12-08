@@ -189,6 +189,17 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
 
 ---
 
+## `Images configuration`
+[`https://squidfunk.github.io/mkdocs-material/reference/images/`](https://squidfunk.github.io/mkdocs-material/reference/images/)
+
+<figure markdown> <!--  -->
+  ![Dummy image](https://dummyimage.com/600x400/){ width="300" }
+  <figcaption>Image caption</figcaption>
+</figure>
+
+---
+
+
 ## Developer strumenti vari 
 <iframe width="100%" height="700px" frameBorder="0" src="https://cirospat.readthedocs.io/it/latest/developer.html"></iframe>
 
