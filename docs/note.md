@@ -9,8 +9,8 @@ hide:
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="300" ></img> 
 <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" ></img> 
 
-!!! Note "Cosa è questa pagina"
-    Questa pagina contiene varie prove effettuate nei setting del ==codice== e riferimenti utili per la costruzione di parti del progetto grazie all'utilizzo di [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/) :octicons-heart-fill-24:{ .heart }
+**Cosa è questa pagina**
+Questa pagina contiene varie prove effettuate nei setting del ==codice== e riferimenti utili per la costruzione di parti del progetto grazie all'utilizzo di [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/) :octicons-heart-fill-24:{ .heart }
 
 
 ## Release di `mkdocs-material`
@@ -19,18 +19,18 @@ hide:
 
 
 
-
 ## `PyMdown Extensions`
 Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Markdown`. Sono stati originariamente scritti per rendere più piacevole la scrittura della documentazione. Coprono un'ampia gamma di soluzioni e, sebbene non tutte le estensioni siano necessarie a tutte le persone, di solito c'è almeno un'estensione utile per tutti.
 
-[https://facelessuser.github.io/pymdown-extensions/](https://facelessuser.github.io/pymdown-extensions/)
+[**https://facelessuser.github.io/pymdown-extensions/**](https://facelessuser.github.io/pymdown-extensions/)
+
 
 
 ## Plugin per inserire `data ultimo aggiornamento` sulle pagine (footer)
 
 Plugin MkDocs consente di visualizzare la data dell'ultima modifica git di una pagina. Il plugin utilizza babel e timeago.js per fornire diversi formati di data localizzati. Fork iniziale da mkdocs-git-revision-date-plugin.
 
-[https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/](https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/)
+[**https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/**](https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/)
 
 
 
@@ -38,7 +38,7 @@ Plugin MkDocs consente di visualizzare la data dell'ultima modifica git di una p
 
 Nel file `override/main.html` va aggiunta l'istruzione di cui al link:
 
-[https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar):
+[**https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar**](https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar):
 
 ``` html
 {% extends "base.html" %}
@@ -60,7 +60,7 @@ Per testo di colore bianco contornato di altro colore, inserire il seguente codi
 
 Nel file `.md` inserire quanto descritto al link: 
 
-[https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
+[**https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations**](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations)
 
 Vediamo qual è il risultato. Inseriamo nel seguente blocco di codice un commento che sarà preceduto dal simbolo cancelletto `#` e dal numero dentro parentesi tonda. Dopo aver chiuso il blocco di codice lasciare una riga vuota e inserire il commento:
 
@@ -154,20 +154,20 @@ Prova testo seguito da text annotation [^1] e show graph [^show graph]. Al 9 dic
 
 Per inserire diagrammi di flusso fare riferimento a: [https://mermaid-js.github.io/mermaid/#/flowchart](https://mermaid-js.github.io/mermaid/#/flowchart)
 
-[mermaid editor online](https://mermaid-js.github.io/mermaid-live-editor)
+[**mermaid editor online**](https://mermaid-js.github.io/mermaid-live-editor)
 
 ---
 
 
 ## Inserire icone `Emoji`
 
-Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
+Per insiere nel testo emoji fare riderimento a: [**https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/**](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
 
 ---
 
 ## Inserire `HTML Element`
 
-[https://developer.mozilla.org/en-US/docs/Web/HTML/Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+[**https://developer.mozilla.org/en-US/docs/Web/HTML/Element**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 <small>il testo piccolo</small> si ottiene così:
 ``` yaml
@@ -187,7 +187,7 @@ Per insiere nel testo emoji fare riderimento a: [https://squidfunk.github.io/mkd
 
 ## `Adding abbreviations`
 
-Riferimento: [https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage](https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage)
+Riferimento: [**https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage**](https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage)
 
 Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Borruso e prova testo, tanto testo con lorem ipsum lorem ispus tanto testo con lorem ipsum tanto testo con lorem ipsumtanto testo con lorem ipsum tanto testo con lorem ipsum con Gianni Vitrano.
 
@@ -206,7 +206,7 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
 ---
 
 ## `Images configuration`
-[`https://squidfunk.github.io/mkdocs-material/reference/images/`](https://squidfunk.github.io/mkdocs-material/reference/images/)
+[**`https://squidfunk.github.io/mkdocs-material/reference/images/`**](https://squidfunk.github.io/mkdocs-material/reference/images/)
 
 <figure markdown> <!--  -->
   ![image](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png){ width="200" }
