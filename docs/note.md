@@ -117,6 +117,22 @@ Il 1 dicembre 2021 è stata creata [**issue sul repo di MKDocs-material**](https
 
 [**`Qui il feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
 
+Prova testo seguito da text annotation [^1] e show graph [^show graph].
+
+[^1]: small annotation
+
+[^show graph]:
+    Here's a graph:
+
+    ``` mermaid
+    graph LR
+      A[Start] --> B{Error?};
+      B -->|Yes| C[Hmm...];
+      C --> D[Debug];
+      D --> B;
+      B ---->|No| E[Yay!];
+    ```
+
 ---
 
 
