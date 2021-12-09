@@ -115,9 +115,7 @@ del procedimento di secondo grado
 
 Il 1 dicembre 2021 è stata creata [**issue sul repo di MKDocs-material**](https://github.com/squidfunk/mkdocs-material/issues/3282) per creare una funzione di annotation analoga a "**code annotation**" ma applicata al testo fuori dal blocco codice.
 
-[**`Qui il feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
-
-Prova testo seguito da text annotation [^1] e show graph [^show graph].
+Prova testo seguito da text annotation [^1] e show graph [^show graph]. Al 9 dic 2021 non è stata rilasciata la versione per abilitare la text annotation.
 
 [^1]: small annotation
 
