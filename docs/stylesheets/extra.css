@@ -136,15 +136,15 @@
 }
 */
 a.md-button.md-button--primary {
-    background-color: var(--md-accent-fg-color);
+    background-color: #fc0000!important;                      /* era =    var(--md-accent-fg-color);  */
     border-color: var(--md-accent-fg-color);
     color: #ffffff;
 }
 a.md-button.md-button--primary:hover {
-    color: #000000;
+    color: #fc0000!important;                                 /* era   #000000;   */
 }
 a.md-button.md-button:hover {
-    color: #000000;
+    color: #cccccc!important;                                /* era   #000000;   */
 }
 
 
