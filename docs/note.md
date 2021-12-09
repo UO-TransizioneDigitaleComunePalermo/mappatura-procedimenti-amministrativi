@@ -115,21 +115,11 @@ del procedimento di secondo grado
 
 Il 1 dicembre 2021 è stata creata [**issue sul repo di MKDocs-material**](https://github.com/squidfunk/mkdocs-material/issues/3282) per creare una funzione di annotation analoga a "**code annotation**" ma applicata al testo fuori dal blocco codice.
 
-Prova testo seguito da text annotation [^1] e show graph [^show graph]. Al 9 dic 2021 non è stata rilasciata la versione per abilitare la text annotation.
+This is a paragraph with some (1) annotations (2)
+{ .annotate }
 
-[^1]: small annotation
-
-[^show graph]:
-    Here's a graph:
-
-    ``` mermaid
-    graph LR
-      A[Start] --> B{Error?};
-      B -->|Yes| C[Hmm...];
-      C --> D[Debug];
-      D --> B;
-      B ---->|No| E[Yay!];
-    ```
+1. Hey, I'm a text annotation!
+2. Me too!
 
 ---
 
