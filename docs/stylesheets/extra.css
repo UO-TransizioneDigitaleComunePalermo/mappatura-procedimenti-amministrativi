@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
 
-/* forza il back-to-top a tornare in basso */        /*  disattivato */
+/* forza il back-to-top laterale (by gbvitrano) a tornare in basso */        /*  disattivato */
 /*
 .md-top {
     background: var(--md-primary-fg-color); 
@@ -129,7 +129,8 @@
 }
 
 
-/* frontpage elements */
+/* frontpage elements */           /* disattivato */
+/*
 .tx-hero h1 {
     font-size: 2.41rem !important;
 }
@@ -144,6 +145,9 @@ a.md-button.md-button--primary:hover {
 a.md-button.md-button:hover {
     color: #000000;
 }
+*/
+
+
 
 /* gbvitrano per opendatasicilia*/
 
@@ -209,7 +213,8 @@ tr:nth-child(even) {
 
 
 
-/* Admonition settings option */
+/* Admonition settings option */              /* disattivato */
+/*
 .md-typeset .admonition.settings, .md-typeset details.settings {
     border-left: .22rem solid #448aff;
 }
@@ -220,15 +225,19 @@ tr:nth-child(even) {
 .md-typeset .admonition.settings>.admonition-title:before, .md-typeset details.settings>.admonition-title:before, .md-typeset details.settings>summary:before {
     color: #448aff;
     content: "settings"}
+*/
 
 
-/* mkdocstrings styling */
+/* mkdocstrings styling */             /* disattivato */
 /* Indentation. */
+/*
 div.doc-contents:not(.first) {
   padding-left: 25px;
   border-left: 4px solid rgba(230, 230, 230);
   margin-bottom: 80px;
 }
+*/
+
 
 /* errore codice 404 centra immagine nella pagina */
 .centerimg {
