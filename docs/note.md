@@ -7,10 +7,10 @@ hide:
 # Impostazioni e prove di codice vari 
 
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="300" ></img> 
-<img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" ></img> :octicons-heart-fill-24:{ .heart }
+<img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" ></img> 
 
 !!! Note "Cosa è questa pagina"
-    Questa pagina contiene varie prove effettuate nei setting del ==codice== e riferimenti utili per la costruzione di parti del progetto grazie all'utilizzo di [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/)
+    Questa pagina contiene varie prove effettuate nei setting del ==codice== e riferimenti utili per la costruzione di parti del progetto grazie all'utilizzo di [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/) :octicons-heart-fill-24:{ .heart }
 
 
 ## Release di `mkdocs-material`
