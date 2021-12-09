@@ -152,16 +152,20 @@ Prova testo seguito da text annotation [^1] e show graph [^show graph]. Al 9 dic
 
 ## Inserire grafi `Flowchart`
 
-Per inserire diagrammi di flusso fare riferimento a: [https://mermaid-js.github.io/mermaid/#/flowchart](https://mermaid-js.github.io/mermaid/#/flowchart)
+Per inserire diagrammi di flusso fare riferimento a: 
 
-[**mermaid editor online**](https://mermaid-js.github.io/mermaid-live-editor)
+[**https://mermaid-js.github.io/mermaid/#/flowchart**](https://mermaid-js.github.io/mermaid/#/flowchart)
+
+[**`Mermaid editor online`**](https://mermaid-js.github.io/mermaid-live-editor)
 
 ---
 
 
 ## Inserire icone `Emoji`
 
-Per insiere nel testo emoji fare riderimento a: [**https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/**](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
+Per insiere nel testo emoji fare riderimento a: 
+
+[**https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/**](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
 
 ---
 
@@ -187,7 +191,9 @@ Per insiere nel testo emoji fare riderimento a: [**https://squidfunk.github.io/m
 
 ## `Adding abbreviations`
 
-Riferimento: [**https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage**](https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage)
+Riferimento: 
+
+[**https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage**](https://squidfunk.github.io/mkdocs-material/reference/abbreviations/#usage)
 
 Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Borruso e prova testo, tanto testo con lorem ipsum lorem ispus tanto testo con lorem ipsum tanto testo con lorem ipsumtanto testo con lorem ipsum tanto testo con lorem ipsum con Gianni Vitrano.
 
