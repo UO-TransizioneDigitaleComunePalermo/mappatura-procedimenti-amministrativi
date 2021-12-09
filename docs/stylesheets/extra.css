@@ -263,7 +263,7 @@ div.doc-contents:not(.first) {
 
 
 /*modifica altezza footer prev/next */
-.md-footer__link {padding-bottom: .1rem!important; padding-top: .2rem!important; }
+.md-footer__link {padding-bottom: .2rem!important; padding-top: .2rem!important; }
 
 
 /* cambia colore al footer e a page next/pre */
