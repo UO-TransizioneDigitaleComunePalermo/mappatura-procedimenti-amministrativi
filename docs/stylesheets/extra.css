@@ -65,7 +65,7 @@
 /* Active tab bold & color (cioè il carattere dei titoli del menù nell'header) */
 .md-tabs__link {
     font-size: .75rem !important;          /* di default è .75rem */
-    background-color: #f0f0f0!important; border-radius: .2rem!important;   /* solo una  prova - da cancellare */
+    background-color: #e8e8e8!important; border-radius: .2rem!important;   /* solo una  prova - da cancellare */
 }
 
 
