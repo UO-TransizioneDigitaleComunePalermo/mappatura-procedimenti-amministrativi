@@ -134,6 +134,7 @@
 .tx-hero h1 {
     font-size: 2.41rem !important;
 }
+/*
 a.md-button.md-button--primary {
     background-color: var(--md-accent-fg-color);
     border-color: var(--md-accent-fg-color);
@@ -145,7 +146,7 @@ a.md-button.md-button--primary:hover {
 a.md-button.md-button:hover {
     color: #000000;
 }
-*/
+
 
 
 
