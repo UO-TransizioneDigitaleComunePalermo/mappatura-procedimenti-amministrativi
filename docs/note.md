@@ -20,7 +20,7 @@ Questa pagina contiene varie prove effettuate nei setting del <kbd><b>codice</b>
     - [**`https://github.com/squidfunk/mkdocs-material/releases/`**](https://github.com/squidfunk/mkdocs-material/releases/) 
     - [**`https://squidfunk.github.io/mkdocs-material/changelog/`**](https://squidfunk.github.io/mkdocs-material/changelog/)
     
-=== "feed rss mkdocs-material
+=== "feed rss mkdocs-material"
 
     - [**`Feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
 
