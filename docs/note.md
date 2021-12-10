@@ -10,7 +10,7 @@ hide:
 <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" ></img> 
 
 **Cosa è questa pagina**
-Questa pagina contiene varie prove effettuate nei setting del ==codice== e riferimenti utili per la costruzione di parti del progetto grazie all'utilizzo di [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/) :octicons-heart-fill-24:{ .heart }
+Questa pagina contiene varie prove effettuate nei setting del ==<kbd>codice</kbd>== e riferimenti utili per la costruzione di parti del progetto grazie all'utilizzo di [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/) :octicons-heart-fill-24:{ .heart }
 
 
 ## Release di `mkdocs-material`
