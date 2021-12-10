@@ -65,7 +65,7 @@
 /* Active tab bold & color (cioè il carattere dei titoli del menù nell'header) */
 .md-tabs__link {
     font-size: .75rem !important;          /* di default è .75rem */
-    background-color: #e8e8e8!important; border-radius: .2rem!important;   /* solo una  prova - da cancellare */
+/*  background-color: #e8e8e8!important; border-radius: .2rem!important; */   /* disattivato */
 }
 
 
@@ -198,7 +198,7 @@ table {
 
 
 
-/* colore background intestazione tabella */   /* disattivato */   /* nella modalità scura c'è poca leggibilità nel testo */
+/* colore background intestazione tabella */   /* disattivato perchè nella modalità scura c'è poca leggibilità nel testo */
 /* 
 div.md-typeset__table thead {
   background-color: #b6c1ff;
@@ -241,6 +241,7 @@ div.doc-contents:not(.first) {
 */
 
 
+
 /* errore codice 404 centra immagine nella pagina */
 .centerimg {
   /*display: block;
@@ -270,8 +271,8 @@ div.doc-contents:not(.first) {
 /* cambia colore al footer e a page next/pre */
 .md-footer { background-color:var(--md-default-bg-color); color: var(--md-default-fg-color);}   
 .md-footer-meta {    background-color: var(--md-footer-bg-color); color: #898989!important; font-size: .64rem!important; padding: 0.5rem!important; }  /* aggiunti dopo la vers.8 */
-/* .md-social__link { text-align: left;!important; } */                   /* allinea le icone dei social link */  /* disattivato */
-/* .md-social { margin: 0 .0rem;!important; padding: .6rem 0 .6rem; } */  /* allinea le icone dei social link */  /* disattivato */
+/* .md-social__link { text-align: left;!important; } */                    /* allinea le icone dei social link */  /* disattivato */
+/* .md-social { margin: 0 .0rem;!important; padding: .6rem 0 .6rem; } */   /* allinea le icone dei social link */  /* disattivato */
 
 
 
