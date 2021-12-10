@@ -27,12 +27,14 @@ Questa pagina contiene varie prove effettuate nei setting del <kbd><b>codice</b>
 === "release mkdocs-material"
 
     <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" width=60 ></img>
+    
     - [**`https://github.com/squidfunk/mkdocs-material/releases/`**](https://github.com/squidfunk/mkdocs-material/releases/) 
     - [**`https://squidfunk.github.io/mkdocs-material/changelog/`**](https://squidfunk.github.io/mkdocs-material/changelog/)
     
 === "feed rss mkdocs-material"
 
     <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" width=60 ></img>
+    
     - [**`Feed RSS delle release di MKDocs-material`**](https://github.com/squidfunk/mkdocs-material/releases.atom)
 
 
