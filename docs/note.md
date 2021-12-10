@@ -16,8 +16,8 @@ Welcome
                 ||     ||
 ```
 
-<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="300" ></img> 
-<img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" ></img> 
+<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/noun_software%20developer_3843554.png?raw=true" width="200" ></img> 
+ 
 
 **Cosa è questa pagina**
 
@@ -25,6 +25,7 @@ Questa pagina contiene varie prove effettuate nei setting del <kbd><b>codice</b>
 
 
 ## Release di `mkdocs-material`
+<img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" width=200 ></img>
 
 === "release mkdocs-material"
 
