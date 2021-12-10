@@ -143,8 +143,21 @@ This is a paragraph with some (1) annotations (2)
 
     Interventi per assicurare l'interoperabilità delle banche dati pubbliche. (Gli interventi riguardano prioritariamente le grandi banche dati pubbliche, eventualmente anche nuove basi dati, nonchè quelle realizzate realizzate attraverso la gestione associata delle funzioni ICT, ricorrendo obe opportuno a soluzioni cloud).
 
+Il codice per far apparire grafcamente quanto sopra è
+
+```
+=== "2.2.1"
+
+    Soluzioni tecnologiche per la digitalizzazione e innovazione dei processi interni dei vari ambiti della pubblica amministrazione nel quadro del Sistema Pubblico di Connettività.
+             
+=== "2.2.3"
+
+    Interventi per assicurare l'interoperabilità delle banche dati pubbliche. (Gli interventi riguardano prioritariamente le grandi banche dati pubbliche, eventualmente anche nuove basi dati, nonchè quelle realizzate realizzate attraverso la gestione associata delle funzioni ICT, ricorrendo obe opportuno a soluzioni cloud).
+```
+
+
 !!! attention "Attenzione"
-    C'è un pezzo di codice nel file `stylesheets/extra.css` (`/* Tabbed extension css */`) che va in conflitto con la funzione "**content tab**" - vedi [**`issue`**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/issues/15). Quindi questo blocco di codice è stato eliminato
+    C'è un pezzo di codice nel file `stylesheets/extra.css` (`/* Tabbed extension css */`) che va in conflitto con la funzione "**content tab**" - vedi [**`issue`**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/issues/15). Quindi questo blocco di codice è stato eliminato dal file `stylesheets/extra.css`
 
 ---
 
