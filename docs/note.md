@@ -5,13 +5,11 @@ hide:
 
 # Impostazioni e prove di codice vari 
 ```
--------
 Welcome
--------
        \
         \   ^__^
          \  (oo)\_______
-            (__)\       )\/\
+          \ (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
