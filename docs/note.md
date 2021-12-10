@@ -184,7 +184,7 @@ Per insiere nel testo emoji fare riderimento a:
 
 prove varie:
 
-<kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd> - <kbd>*prova*</kbd> - <kbd>**prova**</kbd> - <kbd>[**prova**](https://cirospat.readthedocs.io) e [`codice`](https://cirospat.readthedocs.io) </kbd>
+<kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd> - <kbd>[**cirospat**](https://cirospat.readthedocs.io) e [`codice cirospat`](https://cirospat.readthedocs.io) </kbd>
 
 ---
 
