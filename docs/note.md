@@ -3,6 +3,18 @@ hide:
     - navigation
 ---
 
+```
+-------
+Welcome
+-------
+       \
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
 
 # Impostazioni e prove di codice vari 
 
