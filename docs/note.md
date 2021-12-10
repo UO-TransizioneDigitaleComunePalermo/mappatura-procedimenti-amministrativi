@@ -14,7 +14,7 @@ hide:
                 ||     ||
 ```
 
-1.  `welcome` <br> <img src="https://user-images.githubusercontent.com/3757525/145560955-54103376-8266-4dbd-a4da-f715808bde70.png" width=120 ></img>
+1.  <kbd><b>welcome</b></kbd> <br> <img src="https://user-images.githubusercontent.com/3757525/145560955-54103376-8266-4dbd-a4da-f715808bde70.png" width=120 ></img>
 
 **Cosa è questa pagina**
 
