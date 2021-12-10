@@ -140,6 +140,16 @@ This is a paragraph with some (1) annotations (2)
 1. Hey, I'm a text annotation!
 2. Me too!
 
+Per avere graficamente quanto sopra bisogna scrivere così:
+
+```
+This is a paragraph with some (1) annotations (2)
+{ .annotate }
+
+1. Hey, I'm a text annotation!
+2. Me too!
+```
+
 ---
 
 
@@ -153,7 +163,7 @@ This is a paragraph with some (1) annotations (2)
 
     Interventi per assicurare l'interoperabilità delle banche dati pubbliche. (Gli interventi riguardano prioritariamente le grandi banche dati pubbliche, eventualmente anche nuove basi dati, nonchè quelle realizzate realizzate attraverso la gestione associata delle funzioni ICT, ricorrendo obe opportuno a soluzioni cloud).
 
-Il codice per far apparire grafcamente quanto sopra è
+Il codice per far apparire graficamente quanto sopra è
 
 ```
 === "2.2.1"
@@ -191,6 +201,7 @@ Per insiere nel testo emoji fare riderimento a:
 
 ---
 
+
 ## Inserire `HTML Element`
 
 [**https://developer.mozilla.org/en-US/docs/Web/HTML/Element**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
@@ -208,7 +219,7 @@ Per insiere nel testo emoji fare riderimento a:
 
 prove varie:
 
-<kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd> - <kbd>[**cirospat**](https://cirospat.readthedocs.io) e [`codice cirospat`](https://cirospat.readthedocs.io) </kbd>
+<kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd> - <kbd>[**cirospat**](https://cirospat.readthedocs.io)</kbd> e <kbd>[`codice cirospat`](https://cirospat.readthedocs.io)</kbd>
 
 ---
 
