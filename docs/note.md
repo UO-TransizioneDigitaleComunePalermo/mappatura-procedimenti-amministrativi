@@ -66,7 +66,7 @@ Nel file `override/main.html` va aggiunta l'istruzione di cui al link:
 {% endblock %}
 ```
 
-Per <span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;"><b>testo di colore bianco grassetto contornato di colore rosso</b></span>, inserire il seguente codice: 
+Per ottenere <span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;"><b>testo di colore bianco grassetto su sfondo di colore rosso</b></span>, inserire il seguente codice: 
 
 ``` markdown
 <span style="background-color: #f50505; color: #ffffff; padding: 0px 3px; border-radius: 4px;"><b>testo da inserire</b></span>
