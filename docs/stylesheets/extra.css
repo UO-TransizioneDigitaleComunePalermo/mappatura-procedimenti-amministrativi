@@ -54,6 +54,19 @@
 }
 
 
+/* personalizzare il riquadro del rettangolo del testo racchiuso tra <kbd></kbd> */
+.md-typeset kbd {
+    background-color: var(--md-typeset-kbd-color);
+    border-radius: .2rem;
+    box-shadow: 0 .1rem 0 .05rem var(--md-typeset-kbd-border-color),0 .1rem 0 var(--md-typeset-kbd-border-color),0 -.1rem .2rem var(--md-typeset-kbd-accent-color) inset;
+    color: var(--md-default-fg-color);
+    display: inline-block;
+    font-size: .75em;
+    padding: 0 .6666666667em;
+    vertical-align: text-top;
+    word-break: break-word;
+}
+
 
 
 /* sposta più in alto il back to top in mobile se è installata la condivisione social;*/    /* disattivato */
