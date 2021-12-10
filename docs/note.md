@@ -5,7 +5,7 @@ hide:
 
 # Impostazioni e prove di codice vari 
 ``` yaml
-    (1)
+    #(1)
        \
         \   ^__^
          \  (oo)\_______
