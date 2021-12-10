@@ -221,7 +221,9 @@ Per insiere nel testo emoji fare riderimento a:
 
 prove varie:
 
-<kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd> - <kbd>[**cirospat**](https://cirospat.readthedocs.io)</kbd> e <kbd>[`codice cirospat`](https://cirospat.readthedocs.io)</kbd>
+- <kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd>
+- <kbd>[**cirospat**](https://cirospat.readthedocs.io)</kbd> 
+- <kbd>[`codice cirospat`](https://cirospat.readthedocs.io)</kbd>
 
 ---
 
