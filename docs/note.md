@@ -4,8 +4,8 @@ hide:
 ---
 
 # Impostazioni e prove di codice vari 
-```
-Welcome
+``` yaml
+    #(1)
        \
         \   ^__^
          \  (oo)\_______
@@ -13,6 +13,8 @@ Welcome
                 ||----w |
                 ||     ||
 ```
+
+1.  `welcome`
 
 **Cosa è questa pagina**
 
