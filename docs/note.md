@@ -18,14 +18,14 @@ Welcome
 
 **Cosa è questa pagina**
 
-![](https://user-images.githubusercontent.com/3757525/145560955-54103376-8266-4dbd-a4da-f715808bde70.png) 
+<img src="https://user-images.githubusercontent.com/3757525/145560955-54103376-8266-4dbd-a4da-f715808bde70.png" width=100 ></img>
 
 Questa pagina contiene varie prove effettuate nei setting del <kbd><b>codice</b></kbd> e riferimenti utili per la costruzione di parti del progetto grazie all'utilizzo di [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/) :octicons-heart-fill-24:{ .heart }
 
 
 
 ## Release di `mkdocs-material`
-<img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" width=100 ></img>
+<img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" width=70 ></img>
 
 === "release mkdocs-material"
 
