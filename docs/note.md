@@ -168,14 +168,15 @@ Per insiere nel testo emoji fare riderimento a:
 <small>il testo piccolo</small>
 ```
 
+
 <kbd>prova</kbd> si ottiene così:
 ``` yaml
 <kbd>prova</kbd>
 ```
 
-<kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd> - <kbd>*prova*</kbd> - <kbd>**prova**</kbd>
+prove varie:
 
-<kbd>[**prova**](https://cirospat.readthedocs.io) e [`codice`](https://cirospat.readthedocs.io) </kbd>
+<kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd> - <kbd>*prova*</kbd> - <kbd>**prova**</kbd> - <kbd>[**prova**](https://cirospat.readthedocs.io) e [`codice`](https://cirospat.readthedocs.io) </kbd>
 
 ---
 
