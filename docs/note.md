@@ -77,7 +77,9 @@ markdown_extensions:
 !!! Note "nota"
     If you have no plugins entry in your config file yet, you'll likely also want to add the search plugin. MkDocs enables it by default if there is no plugins entry set.
 
+Esempio di aborusso:
 
+[https://gist.githubusercontent.com/aborruso/78316cec487d8115d2898e58f46c7ef6/raw/e5d8c7a76a7991ef0e0bb9290aad137b264e84ef/charts.md](https://gist.githubusercontent.com/aborruso/78316cec487d8115d2898e58f46c7ef6/raw/e5d8c7a76a7991ef0e0bb9290aad137b264e84ef/charts.md)
 
 
 ## Plugin per inserire `data ultimo aggiornamento` sulle pagine (footer)
