@@ -75,7 +75,7 @@ markdown_extensions:
 ```
 
 !!! Note "nota"
-    If you have no plugins entry in your config file yet, you'll likely also want to add the search plugin. MkDocs enables it by default if there is no plugins entry set.
+    If you have no `plugins` entry in your config file yet, you'll likely also want to add the `search` plugin. MkDocs enables it by default if there is no `plugins` entry set.
 
 Esempio di aborusso:
 
