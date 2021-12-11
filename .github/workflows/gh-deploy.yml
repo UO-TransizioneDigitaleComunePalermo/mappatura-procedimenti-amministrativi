@@ -17,6 +17,7 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material
       - run: pip install --upgrade mkdocs-material       # https://squidfunk.github.io/mkdocs-material/upgrade/
+      - run: pip3 install mkdocs-charts-plugin  # per fare grafici/charts (https://timvink.github.io/mkdocs-charts-plugin/)
       - run: pip install mkdocs-material-extensions>=1.0  
       - run: pip install mkdocs>=1.2.2
       - run: pip install markdown>=3.2  
