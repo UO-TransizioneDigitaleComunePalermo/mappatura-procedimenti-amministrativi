@@ -45,6 +45,40 @@ Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Mar
 [**https://facelessuser.github.io/pymdown-extensions/**](https://facelessuser.github.io/pymdown-extensions/)
 
 
+## Inserire `charts`
+<kbd>mkdocs-charts-plugin</kbd>
+
+[**https://timvink.github.io/mkdocs-charts-plugin/**](https://timvink.github.io/mkdocs-charts-plugin/)
+
+pip3 install mkdocs-charts-plugin
+```
+pip3 install mkdocs-charts-plugin
+```
+
+Next, add the following lines to your `mkdocs.yml`
+```
+plugins:
+  - search
+  - charts
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
+```
+
+!!! Note "nota"
+    If you have no plugins entry in your config file yet, you'll likely also want to add the search plugin. MkDocs enables it by default if there is no plugins entry set.
+
+
+
 
 ## Plugin per inserire `data ultimo aggiornamento` sulle pagine (footer)
 
