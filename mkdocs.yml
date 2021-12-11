@@ -90,6 +90,7 @@ theme:
 ## Plugins
 plugins:
 - search
+- charts                                 # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
 # - git-revision-date-localized:         # per funzionare bisogna installare plugin relativo su gh-pages.yml 
 #    type: date
 #    locale: it
@@ -134,6 +135,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:mermaid2.fence_mermaid
+        - name: vegalite                                # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
 - pymdownx.tabbed:
     alternate_style: true
 - pymdownx.critic:
@@ -165,6 +169,9 @@ markdown_extensions:
 extra_javascript:
    - stylesheets/extra.js
    - https://unpkg.com/mermaid/dist/mermaid.min.js
+   - https://cdn.jsdelivr.net/npm/vega@5                  # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
+   - https://cdn.jsdelivr.net/npm/vega-lite@5             # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
+   - https://cdn.jsdelivr.net/npm/vega-embed@6            # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
 
 ## extra CSS
 extra_css:
