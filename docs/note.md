@@ -56,6 +56,7 @@ pip3 install mkdocs-charts-plugin
 ```
 
 Next, add the following lines to your `mkdocs.yml`
+
 ```
 plugins:
   - search
@@ -77,9 +78,79 @@ markdown_extensions:
 !!! Note "nota"
     If you have no `plugins` entry in your config file yet, you'll likely also want to add the `search` plugin. MkDocs enables it by default if there is no `plugins` entry set.
 
+
 Esempio di aborusso:
 
 [https://gist.githubusercontent.com/aborruso/78316cec487d8115d2898e58f46c7ef6/raw/e5d8c7a76a7991ef0e0bb9290aad137b264e84ef/charts.md](https://gist.githubusercontent.com/aborruso/78316cec487d8115d2898e58f46c7ef6/raw/e5d8c7a76a7991ef0e0bb9290aad137b264e84ef/charts.md)
+
+
+### DA JSON
+
+Codice:
+
+````
+```vegalite
+{
+  "description": "A simple bar chart with embedded data.",
+  "data": {"url" : "data/basic_bar_chart.json"},
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "a", "type": "nominal", "axis": {"labelAngle": 0}},
+    "y": {"field": "b", "type": "quantitative"}
+  }
+}
+```
+````
+
+ecco cosa si ottiene:
+
+```vegalite
+{
+  "description": "A simple bar chart with embedded data.",
+  "data": {"url" : "data/basic_bar_chart.json"},
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "a", "type": "nominal", "axis": {"labelAngle": 0}},
+    "y": {"field": "b", "type": "quantitative"}
+  }
+}
+```
+
+### DA CSV
+
+Codice
+
+````
+```vegalite
+{
+  "description": "A simple bar chart with embedded data.",
+  "data": {"url" : "data/basic_bar_chart.csv"},
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "a", "type": "nominal", "axis": {"labelAngle": 0}},
+    "y": {"field": "b", "type": "quantitative"}
+  }
+}
+```
+````
+
+ecco cosa si ottiene
+
+```vegalite
+{
+  "description": "A simple bar chart with embedded data.",
+  "data": {"url" : "data/basic_bar_chart.csv"},
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "a", "type": "nominal", "axis": {"labelAngle": 0}},
+    "y": {"field": "b", "type": "quantitative"}
+  }
+}
+```
+
+
+
+
 
 
 ## Plugin per inserire `data ultimo aggiornamento` sulle pagine (footer)
