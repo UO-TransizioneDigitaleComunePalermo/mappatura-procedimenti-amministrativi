@@ -46,7 +46,7 @@ Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Mar
 
 
 
-## Inserire `charts` | grafici
+## Inserire `charts` | grafici con mkdocs-charts-plugin
 Riferimenti: [**https://timvink.github.io/mkdocs-charts-plugin**](https://timvink.github.io/mkdocs-charts-plugin/)
 
 il plugin denominato <kbd>pip3 install mkdocs-charts-plugin</kbd> bisogna installarlo nel file al seguente percorso <kbd>.github / workflows / gh-deploy.yml</kbd>
@@ -77,7 +77,7 @@ markdown_extensions:
 !!! Note "nota"
     If you have no `plugins` entry in your config file yet, you'll likely also want to add the `search` plugin. MkDocs enables it by default if there is no `plugins` entry set.
 
-Successivamente bisogna creare una cartella **`data`** dentro la cartella **`docs`** e caricare i file in formato `json` o `csv`.
+Successivamente bisogna creare una cartella **`data`** dentro la cartella **`docs`**. Dentro la cartella **`data`** caricare i file in formato `json` o `csv`.
 
 Quindi editare dentro il file `.md` il seguente codice, vedi [**esempio**](https://gist.githubusercontent.com/aborruso/78316cec487d8115d2898e58f46c7ef6/raw/e5d8c7a76a7991ef0e0bb9290aad137b264e84ef/charts.md).
 
