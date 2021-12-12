@@ -45,15 +45,16 @@ Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Mar
 [**https://facelessuser.github.io/pymdown-extensions/**](https://facelessuser.github.io/pymdown-extensions/)
 
 
-## Inserire `charts`
-<kbd>mkdocs-charts-plugin</kbd> - Riferimenti: [**https://timvink.github.io/mkdocs-charts-plugin/**](https://timvink.github.io/mkdocs-charts-plugin/)
 
-pip3 install mkdocs-charts-plugin
+## Inserire `charts` | grafici
+<kbd>mkdocs-charts-plugin</kbd> - riferimenti: [**https://timvink.github.io/mkdocs-charts-plugin/**](https://timvink.github.io/mkdocs-charts-plugin/)
+
+il plugin `pip3 install mkdocs-charts-plugin` bisogna installarlo nel file al seguente percorso `.github` / `workflows` / `gh-deploy.yml`
 ```
 pip3 install mkdocs-charts-plugin
 ```
 
-Next, add the following lines to your `mkdocs.yml`
+Successivamente aggiungere le seguenti linee al file `mkdocs.yml`
 
 ```
 plugins:
@@ -83,7 +84,7 @@ Quindi editare dentro il file `.md` il seguente codice, vedi esempio di [**aboru
 
 ### Da file `JSON`
 
-Codice:
+Codice da editare:
 
 ````
 ```vegalite
@@ -115,7 +116,7 @@ ecco cosa si ottiene:
 
 ### Da file `CSV`
 
-Codice
+Codice da editare
 
 ````
 ```vegalite
