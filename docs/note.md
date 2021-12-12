@@ -47,9 +47,9 @@ Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Mar
 
 
 ## Inserire `charts` | grafici
-<kbd>mkdocs-charts-plugin</kbd> - riferimenti: [**https://timvink.github.io/mkdocs-charts-plugin/**](https://timvink.github.io/mkdocs-charts-plugin/)
+Riferimenti: [**https://timvink.github.io/mkdocs-charts-plugin**](https://timvink.github.io/mkdocs-charts-plugin/)
 
-il plugin `pip3 install mkdocs-charts-plugin` bisogna installarlo nel file al seguente percorso `.github` / `workflows` / `gh-deploy.yml`
+il plugin <kbd>pip3 install mkdocs-charts-plugin</kbd> bisogna installarlo nel file al seguente percorso <kbd>.github / workflows / gh-deploy.yml</kbd>
 ```
 pip3 install mkdocs-charts-plugin
 ```
