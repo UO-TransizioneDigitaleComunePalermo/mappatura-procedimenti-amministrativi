@@ -206,6 +206,33 @@ L’art. [69  del CAD](https://docs.italia.it/italia/piano-triennale-ict/codice-
 
 A tal fine l’[AGID](https://www.agid.gov.it/) ha reso disponibile online un catalogo del riuso gratuito del software [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software), dove ogni PA deve verificare la presenza di programmi che soddisfano le proprie esigenze, e questa attività deve avvenire necessariamente prima di rivolgersi al mercato privato. I codici sorgenti del software presenti nel catalogo del riuso sono accompagnati da riferimenti (PA, nome, cognome, telefono, email,..) della PA erogatrice del software e della documentazione tecnica necessaria all'instalalzione dei programmi.
 
+!!! Note "CAD Art. 68. Analisi comparativa delle soluzioni"
+    Le pubbliche amministrazioni acquisiscono programmi informatici o parti di essi nel rispetto dei principi di economicità e di efficienza, tutela degli investimenti, riuso e neutralità tecnologica, a seguito di una **valutazione comparativa di tipo tecnico ed economico** tra le seguenti soluzioni disponibili sul mercato:
+
+    - a) software sviluppato per conto della pubblica amministrazione; 
+    - b) riutilizzo di software o parti di esso sviluppati per conto della pubblica amministrazione; 
+    - c) software libero o a codice sorgente aperto; 
+    - d) software fruibile in modalità cloud computing; 
+    - e) software di tipo proprietario mediante ricorso a licenza d’uso; 
+    - f) software combinazione delle precedenti soluzioni.
+
+    A tal fine, le pubbliche amministrazioni prima di procedere all’acquisto, secondo le procedure di cui al codice di cui al decreto legislativo n. 50 del 2016, effettuano una valutazione comparativa delle diverse soluzioni disponibili sulla base dei seguenti criteri:
+
+    - a) **costo complessivo del programma o soluzione** quale costo di acquisto, di implementazione, di mantenimento e supporto; 
+    - b) **livello di utilizzo di formati di dati e di interfacce di tipo aperto nonché di standard in grado di assicurare l’interoperabilità** e la cooperazione applicativa tra i diversi sistemi informatici della pubblica amministrazione; 
+    - c) **garanzie del fornitore in materia di livelli di sicurezza**, conformità alla normativa in materia di protezione dei dati personali, livelli di servizio tenuto conto della tipologia di software acquisito.
+
+    Il processo decisionale per la individuazione del software passa attraverso la [descrizione di Fasi e la loro organizzazione in Macro fasi](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/acquisizione-software/valutazione-comparativa.html#descrizione-delle-macro-fasi).
+    
+    ![](https://user-images.githubusercontent.com/3757525/146354321-8405837b-5e5d-4afc-9fba-1becffc3003a.png)
+    
+    ![](https://user-images.githubusercontent.com/3757525/146354384-0e12f621-e184-46a8-ab5b-0a8f05169b4f.png)
+    
+    ![](https://user-images.githubusercontent.com/3757525/146354451-0de3422e-eaa0-4005-a008-b5c18ac395c0.png)
+    
+    ![](https://user-images.githubusercontent.com/3757525/146354490-262ee82b-6e11-4c17-9430-ef2d1f40a53f.png)
+
+
 Le PA che hanno acquisito software sono tenute a rilasciare codici sorgenti e relativa documentazione, accompagnati da una licenza aperta, sulla piattaforma [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software).
 
 Al fine di facilitare il percorso per il riuso del software delle PA, il [**FormezPA ha realizzato un percorso formativo ad hoc**](http://eventipa.formez.it/node/328513) per il personale della PA. I materiali didattici ([video](https://www.youtube.com/playlist?list=PLd5bJJul8c5phEjmNKgPK2dCwZGCSqzsq) e dispense in formato PDF) sono di elevato valore per consentire e agevolare il riuso applicativo. 
