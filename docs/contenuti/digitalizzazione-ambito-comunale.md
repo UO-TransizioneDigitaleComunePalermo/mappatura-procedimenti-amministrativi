@@ -224,7 +224,9 @@ A tal fine l’[AGID](https://www.agid.gov.it/) ha reso disponibile online un ca
 
     Al fine di facilitare il processo decisionale per l'individuazione del software, venongo in aiuto le [**Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni**](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/index.html). Le Linee guida prevedono che il processo decisionale per l'individuazione del software passa attraverso la [**descrizione di Fasi e la loro organizzazione in Macro fasi**](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/acquisizione-software/valutazione-comparativa.html#descrizione-delle-macro-fasi).
     
-    ![](https://user-images.githubusercontent.com/3757525/146354321-8405837b-5e5d-4afc-9fba-1becffc3003a.png) <kbd>**Fase 1, 2 e 3**</kbd>
+    <kbd>**Fase 1, 2 e 3**</kbd>
+    
+    ![](https://user-images.githubusercontent.com/3757525/146354321-8405837b-5e5d-4afc-9fba-1becffc3003a.png) 
     
     <kbd>**Fase 1 ↓**</kbd>
     
