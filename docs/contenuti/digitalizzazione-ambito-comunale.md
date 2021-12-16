@@ -231,6 +231,8 @@ A tal fine l’[AGID](https://www.agid.gov.it/) ha reso disponibile online un ca
     ![](https://user-images.githubusercontent.com/3757525/146354451-0de3422e-eaa0-4005-a008-b5c18ac395c0.png) Fase 2
     
     ![](https://user-images.githubusercontent.com/3757525/146354490-262ee82b-6e11-4c17-9430-ef2d1f40a53f.png) Fase 3
+    
+    E' disponibile un [**Tool per la Valutazione Comparativa nell'Acquisizione e Riuso di Software**](https://github.com/AgID/ccros-valcomp) reso da AGID.
 
 
 Le PA che hanno acquisito software sono tenute a rilasciare codici sorgenti e relativa documentazione, accompagnati da una licenza aperta, sulla piattaforma [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software).
