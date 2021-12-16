@@ -222,15 +222,15 @@ A tal fine l’[AGID](https://www.agid.gov.it/) ha reso disponibile online un ca
     - b) **livello di utilizzo di formati di dati e di interfacce di tipo aperto nonché di standard in grado di assicurare l’interoperabilità** e la cooperazione applicativa tra i diversi sistemi informatici della pubblica amministrazione; 
     - c) **garanzie del fornitore in materia di livelli di sicurezza**, conformità alla normativa in materia di protezione dei dati personali, livelli di servizio tenuto conto della tipologia di software acquisito.
 
-    Il processo decisionale per la individuazione del software passa attraverso la [descrizione di Fasi e la loro organizzazione in Macro fasi](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/acquisizione-software/valutazione-comparativa.html#descrizione-delle-macro-fasi).
+    Al fine di facilitare il processo decisionale per l'individuazione del software, venongo in aiuto le [**Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni**](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/index.html). Le Linne guida prevedono che il processo secisionale per l'individuazione del software passa attraverso la [**descrizione di Fasi e la loro organizzazione in Macro fasi**](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/acquisizione-software/valutazione-comparativa.html#descrizione-delle-macro-fasi).
     
-    ![](https://user-images.githubusercontent.com/3757525/146354321-8405837b-5e5d-4afc-9fba-1becffc3003a.png)
+    ![](https://user-images.githubusercontent.com/3757525/146354321-8405837b-5e5d-4afc-9fba-1becffc3003a.png) Fase 1,2 e 3
     
-    ![](https://user-images.githubusercontent.com/3757525/146354384-0e12f621-e184-46a8-ab5b-0a8f05169b4f.png)
+    ![](https://user-images.githubusercontent.com/3757525/146354384-0e12f621-e184-46a8-ab5b-0a8f05169b4f.png) Fase 1
     
-    ![](https://user-images.githubusercontent.com/3757525/146354451-0de3422e-eaa0-4005-a008-b5c18ac395c0.png)
+    ![](https://user-images.githubusercontent.com/3757525/146354451-0de3422e-eaa0-4005-a008-b5c18ac395c0.png) Fase 2
     
-    ![](https://user-images.githubusercontent.com/3757525/146354490-262ee82b-6e11-4c17-9430-ef2d1f40a53f.png)
+    ![](https://user-images.githubusercontent.com/3757525/146354490-262ee82b-6e11-4c17-9430-ef2d1f40a53f.png) Fase 3
 
 
 Le PA che hanno acquisito software sono tenute a rilasciare codici sorgenti e relativa documentazione, accompagnati da una licenza aperta, sulla piattaforma [**https://developers.italia.it/it/software**](https://developers.italia.it/it/software).
