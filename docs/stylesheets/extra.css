@@ -163,6 +163,12 @@ a.md-button.md-button:hover {
 
 
 
+/* regolare dimensione carattere delle admonition */
+.md-typeset :where(.admonition,details) {
+    font-size: .69rem;                       /* di default è 63 */
+}
+
+
 
 /* gbvitrano per opendatasicilia*/
 
