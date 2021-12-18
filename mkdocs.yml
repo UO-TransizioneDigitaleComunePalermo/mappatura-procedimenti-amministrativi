@@ -80,8 +80,8 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
   font:
-    text: Montserrat                    # di default = Lato
-    code: Fira Code                     # di default = Roboto Mono
+    text: Lato                            # di default = Lato
+    code: Roboto Mono                     # di default = Roboto Mono
   favicon: img/logo1.png
   icon:
     repo: fontawesome/brands/github
