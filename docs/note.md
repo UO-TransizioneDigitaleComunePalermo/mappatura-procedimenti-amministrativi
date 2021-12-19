@@ -215,7 +215,7 @@ theme:
 2.  I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`, I'm a different annotation contain `code`
 
 
-### Inserire `Code annotation` con testo lungo e immagini nel popup
+## Inserire `Code annotation` con testo lungo e immagini nel popup
 
 ``` yaml
 S.C.I.A. è la dichiarazione che consente alle imprese di iniziare, modificare un’attività produttiva #(1) 
