@@ -400,11 +400,14 @@ Per tabelle particolari come queste (con celle unite):
 
 ![](https://ondata.github.io/guidaPraticaPubblicazioneCSV/imgs/tabella.png)
 
-non è possibile riprodurle in `markdown`, si rende necessario usare l'**`HTML`**. Qui una [guida audio-video](https://www.youtube.com/watch?v=j1jrFGaQh9c), sul come farlo:
+non è possibile riprodurle in `Markdown`, si rende necessario usare l'**`HTML`**. Qui una [guida audio-video](https://www.youtube.com/watch?v=j1jrFGaQh9c), sul come farlo:
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/j1jrFGaQh9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Un tool utile per trasformare tabelle excel in HTML o Markdown è [**https://www.tablesgenerator.com/**](https://www.tablesgenerator.com/). Basta copiare lal selezione della tabella da excel (o google spreadsheet) e incollarlla nella pagina online del tool.
+Tool utili per trasformare tabelle excel in `HTML` o `Markdown` sono:
+
+- [**https://www.tablesgenerator.com/**](https://www.tablesgenerator.com/), basta copiare lal selezione della tabella da excel (o google spreadsheet) e incollarlla nella pagina online del tool
+- [**https://www.r2h.nl/html-word-excel-table-code-cleaner/index.php**](https://www.r2h.nl/html-word-excel-table-code-cleaner/index.php), basta copiare lal selezione della tabella da excel (o google spreadsheet) e incollarlla nella pagina online del tool
 
 ---
 
