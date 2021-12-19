@@ -366,7 +366,14 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
 
 ## Come creare tabelle 
 
-Vedi [**https://ondata.github.io/guidaPraticaPubblicazioneCSV/note_redazione/#come-creare-tabelle-html**](https://ondata.github.io/guidaPraticaPubblicazioneCSV/note_redazione/#come-creare-tabelle-html) la cui fonte è [**https://github.com/ondata/guidaPraticaPubblicazioneCSV/blob/main/docs/note_redazione.md**](https://github.com/ondata/guidaPraticaPubblicazioneCSV/blob/main/docs/note_redazione.md).
+=== "tabella in mkdocs-material"
+
+    Vedi [**https://ondata.github.io/guidaPraticaPubblicazioneCSV/note_redazione/#come-creare-tabelle-html**](https://ondata.github.io/guidaPraticaPubblicazioneCSV/note_redazione/#come-creare-tabelle-html)
+
+=== "tabella in markdown"
+
+    Vedi [**https://github.com/ondata/guidaPraticaPubblicazioneCSV/blob/main/docs/note_redazione.md**](https://github.com/ondata/guidaPraticaPubblicazioneCSV/blob/main/docs/note_redazione.md).
+
 
 Per tabelle come queste:
 
