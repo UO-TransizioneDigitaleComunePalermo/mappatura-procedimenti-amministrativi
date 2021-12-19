@@ -310,6 +310,8 @@ Per insiere nel testo emoji fare riderimento a:
 
 ## Inserire ed eliminare testo con colori diversi
 
+Con il seguente codice:
+
 ````
 ```diff
 - riga eliminata
@@ -317,7 +319,7 @@ Per insiere nel testo emoji fare riderimento a:
 ```
 ````
 
-genera questo
+si genera questo:
 
 
 ```diff
@@ -345,7 +347,7 @@ genera questo
 prove varie:
 
 - <kbd>testo normale, `codice`, **testo grassetto**, *testo italico*</kbd>
-- <kbd>[**cirospat**](https://cirospat.readthedocs.io)</kbd> 
+- <kbd>[**cirospat grassetto**](https://cirospat.readthedocs.io)</kbd> 
 - <kbd>[`codice cirospat`](https://cirospat.readthedocs.io)</kbd>
 
 ---
@@ -383,7 +385,7 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
 
 ---
 
-## Come creare tabelle 
+## Come creare `tabelle` - tool
 
 === "tabella in mkdocs-material"
 
@@ -394,15 +396,15 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
     Vedi [**https://github.com/ondata/guidaPraticaPubblicazioneCSV/blob/main/docs/note_redazione.md**](https://github.com/ondata/guidaPraticaPubblicazioneCSV/blob/main/docs/note_redazione.md).
 
 
-Per tabelle come queste:
+Per tabelle particolari come queste (con celle unite):
 
 ![](https://ondata.github.io/guidaPraticaPubblicazioneCSV/imgs/tabella.png)
 
-non è possibile riprodurle in markdown, si rende necessario usare l'**HTML**. Qui una [guida audio-video](https://www.youtube.com/watch?v=j1jrFGaQh9c), sul come farlo:
+non è possibile riprodurle in `markdown`, si rende necessario usare l'**`HTML`**. Qui una [guida audio-video](https://www.youtube.com/watch?v=j1jrFGaQh9c), sul come farlo:
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/j1jrFGaQh9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Un tool utile per trasformare tabelle excel in HTML o Markdown è [**https://www.tablesgenerator.com/**](https://www.tablesgenerator.com/).
+Un tool utile per trasformare tabelle excel in HTML o Markdown è [**https://www.tablesgenerator.com/**](https://www.tablesgenerator.com/). Basta copiare lal selezione della tabella da excel (o google spreadsheet) e incollarlla nella pagina online del tool.
 
 ---
 
