@@ -406,8 +406,8 @@ non è possibile riprodurle in `Markdown`, si rende necessario usare l'**`HTML`*
 
 Tool utili per trasformare tabelle excel in `HTML` o `Markdown` sono:
 
-- [**https://www.tablesgenerator.com/**](https://www.tablesgenerator.com/), basta copiare lal selezione della tabella da excel (o google spreadsheet) e incollarlla nella pagina online del tool
-- [**https://www.r2h.nl/html-word-excel-table-code-cleaner/index.php**](https://www.r2h.nl/html-word-excel-table-code-cleaner/index.php), basta copiare lal selezione della tabella da excel (o google spreadsheet) e incollarlla nella pagina online del tool
+- [**https://www.tablesgenerator.com/**](https://www.tablesgenerator.com/), basta copiare la selezione della tabella da excel (o google spreadsheet) e incollarlla nella pagina online del tool
+- [**https://www.r2h.nl/html-word-excel-table-code-cleaner/index.php**](https://www.r2h.nl/html-word-excel-table-code-cleaner/index.php), basta copiare la selezione della tabella da excel (o google spreadsheet) e incollarlla nella pagina online del tool
 
 ---
 
