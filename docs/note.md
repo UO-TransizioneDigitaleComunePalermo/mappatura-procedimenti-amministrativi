@@ -383,7 +383,7 @@ non è possibile riprodurle in markdown, si rende necessario usare l'**HTML**. Q
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/j1jrFGaQh9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+Un tool utile per trasformare tabelle excel in HTML o Markdown è [**https://www.tablesgenerator.com/**](https://www.tablesgenerator.com/).
 
 ---
 
