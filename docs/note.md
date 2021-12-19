@@ -308,6 +308,25 @@ Per insiere nel testo emoji fare riderimento a:
 ---
 
 
+## Inserire ed eliminare testo con colori diversi
+
+````
+```diff
+- riga eliminata
++ riga aggiunta
+```
+````
+
+genera questo
+
+
+```diff
+- riga eliminata
++ riga aggiunta
+```
+
+
+
 ## Inserire `HTML Element`
 
 [**https://developer.mozilla.org/en-US/docs/Web/HTML/Element**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
