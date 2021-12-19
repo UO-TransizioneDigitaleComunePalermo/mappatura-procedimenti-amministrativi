@@ -3,7 +3,7 @@ hide:
     - navigation
 ---
 
-# Impostazioni e prove di codice vari 
+# Impostazioni e prove varie di codice  
 ``` yaml
     #(1)
        \
@@ -362,7 +362,19 @@ Ciro Spataro prova testo, tanto testo con lorem ipsum lorem ispus con Andrea Bor
 </figure>
 
 
+---
 
+## Come creare tabelle 
+
+Vedi [**https://ondata.github.io/guidaPraticaPubblicazioneCSV/note_redazione/#come-creare-tabelle-html**](https://ondata.github.io/guidaPraticaPubblicazioneCSV/note_redazione/#come-creare-tabelle-html) la cui fonte è [**https://github.com/ondata/guidaPraticaPubblicazioneCSV/blob/main/docs/note_redazione.md**](https://github.com/ondata/guidaPraticaPubblicazioneCSV/blob/main/docs/note_redazione.md).
+
+Per tabelle come queste:
+
+![](https://ondata.github.io/guidaPraticaPubblicazioneCSV/imgs/tabella.png)
+
+non è possibile riprodurle in markdown, si rende necessario usare l'**HTML**. Qui una [guida audio-video](https://www.youtube.com/watch?v=j1jrFGaQh9c), sul come farlo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j1jrFGaQh9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
