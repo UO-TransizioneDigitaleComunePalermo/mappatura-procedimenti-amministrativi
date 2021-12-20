@@ -31,7 +31,8 @@ L'iniziativa può essere:
 - **di parte**: che si esercita, ad es., con uno dei seguenti tipi di atti: 
     - *istanza*: con cui si richiede l'emissione di un provvedimento (ad es. concessione edilizia); 
     - *denuncia*: con cui si rende noto all'autorità amministrativa un determinato fatto o una determinata situazione, allo scopo di suscitare l'esercizio dei suoi poteri (es. denuncia di danni subiti); 
-    - *S.C.I.A.* è la dichiarazione che consente alle imprese di iniziare, modificare o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni competenti- ricorso: con cui si richiede un riesame di legittimità o di merito di atti ritenuti lesivi di diritti soggettivi o interessi legittimi (procedimento di secondo grado).
+    - *S.C.I.A.* è la dichiarazione che consente alle imprese di iniziare, modificare o cessare un’attività produttiva (artigianale, commerciale, industriale), al momento della presentazione senza dover più attendere i tempi e l’esecuzione di verifiche e controlli preliminari da parte delle amministrazioni competenti
+    - *ricorso*: con cui si richiede un riesame di legittimità o di merito di atti ritenuti lesivi di diritti soggettivi o interessi legittimi (procedimento di secondo grado).
 
 Lo stadio dell'istruttoria è inteso ad acquisire e valutare tutti i dati utili ai fini dell'emanazione dell'atto finale o conclusivo, che viene adottato nella successiva fase dispositiva.
 
