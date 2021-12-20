@@ -22,13 +22,13 @@ dell'[**UO transizione al digitale**](https://www.comune.palermo.it/struttura-am
 
 
 ## Perché abbiamo costruito questo progetto di documentazione
-Perchè riteniamo utile condividere con colleghi di altre amministrazioni pubbliche il lavoro svolto per la mappatura, metadatazione e analisi dei procedimenti amministrativi. Il metodo utilizzato ha dato risultati positivi al Comune di Palermo. 
+Ciro Spataro e Sergio Schimicci riteniamo utile condividere con colleghi/e di altre amministrazioni pubbliche il lavoro svolto per la mappatura, metadatazione e analisi dei procedimenti amministrativi. Il metodo utilizzato ha dato risultati positivi al Comune di Palermo. 
 
 L'Amministrazione è riuscita a mappare i procedimenti amministrativi per la successiva fase di digitalizzazione. Un attività che spesso viene vissuta con difficolà nelle amministrazioni pubbliche proprio per una mancanza di metodologia facile da applicare. 
 
-Abbiamo semplificato quanto più possibile il percorso da fare per giungere alla mappatura, analisi e metadatazione dei procedimenti amministrativi di un ente comunale di grandi dimensioni.
+Abbiamo semplificato quanto più possibile (con l'adozione delle schede) il percorso da fare per giungere alla mappatura, analisi e metadatazione dei procedimenti amministrativi di un ente comunale di grandi dimensioni.
 
-Intendiamo mettere, con piacere, a disposizione di altri colleghi i risultati di questa esperienza.
+Intendiamo mettere - con piacere - a disposizione di altre/i colleghe/i i risultati di questa esperienza.
 
 
 ## Formazione su analisi dei procedimenti in un Ente Locale e i passi per la digitalizzazione
