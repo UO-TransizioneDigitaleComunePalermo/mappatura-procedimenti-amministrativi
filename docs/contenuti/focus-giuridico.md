@@ -61,18 +61,18 @@ La caratteristica essenziale del provvedimento finale è quella di porsi come pu
 - **Fase di Comunicazione**: Gli atti di comunicazione servono, come quelli di controllo, a conferire efficacia al provvedimento già perfezionato. In particolare: per gli atti recettizi (ad es. la disdetta di un contratto di locazione) la comunicazione costituisce requisito di obbligatorietà, e si pone come condizione perché l'atto possa produrre i suoi effetti nella sfera del destinatario; 
 - per gli atti non recettizi la comunicazione serve solo a dare legale conoscenza, ai fini soprattutto di una eventuale impugnativa. In ogni caso la comunicazione è solo un requisito di efficacia dell'atto comunicato, rispetto al quale mantiene la sua autonomia.
    
-La comunicazione a destinatari determinati avviene con la notificazione a mezzo di messo notificatore. Allorché si tratti di atti di carattere generale ovvero quando i destinatari non siano facilmente identificabili attraverso il testo del provvedimento, la comunicazione avviene mediante la pubblicazione , ad es. nella G.U. per gli atti dell'amministrazione centrale
+La comunicazione a destinatari determinati avviene con la notificazione a mezzo di messo notificatore. Allorché si tratti di atti di carattere generale ovvero quando i destinatari non siano facilmente identificabili attraverso il testo del provvedimento, la comunicazione avviene mediante la pubblicazione, ad es. nella Gazzetta Ufficiale per gli atti dell'amministrazione centrale
 
 
 ## Processo Amministrativo e Procedimento Amministrativo
 
-Sono la stessa cosa???
+*Sono la stessa cosa?*
 
 Quando parliamo di **PROCESSO AMMINISTRATIVO** ci riferiamo ad una serie di atti, fasi lavorative, adempimenti, che non necessariamente comportano l’emanazione di un atto o di un provvedimento finale.
 
 Un **PROCEDIMENTO AMMINISTRATIVO**, invece, come abbiamo visto, si conclude sempre con un provvedimento finale.
 
-E’ importante quindi comprendere che dobbiamo digitalizzare tutta l’attività amministrativa **mappando i singoli procedimenti** e non i processi.
+E’ importante quindi comprendere che dobbiamo digitalizzare tutta l’attività amministrativa **mappando ed esaminando i singoli procedimenti** e non partire dai processi, che possono abbracciare più procedimenti.
 
 
 ## Cos’è un "endoprocedimento"?
