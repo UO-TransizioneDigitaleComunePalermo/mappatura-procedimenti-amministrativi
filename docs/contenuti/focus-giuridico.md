@@ -9,7 +9,7 @@ In questa pagina si parte dalla "definizione giuridica" di procedimento amminist
 
 Le Pubbliche Amministrazioni, dunque, agiscono per procedimenti e, di conseguenza, il procedimento di digitalizzazione non può limitarsi alla mera informatizzazione degli atti. 
 
-### Fasi del  Procedimento Amministrativo
+## Fasi del  Procedimento Amministrativo
 
 Possiamo distinguere tre fasi fondamentali: 
 
@@ -22,7 +22,7 @@ Possiamo distinguere tre fasi fondamentali:
      - Comunicazione
 
 
-#### Fase preparatoria
+### Fase preparatoria
 
 Lo stadio dell'iniziativa comprende tutti gli atti propulsivi con cui si mette in moto il procedimento. 
 L'iniziativa può essere: 
@@ -46,7 +46,7 @@ Ai fini dell'istruttoria **debbono essere compiute le seguenti operazioni**:
 - richiesta di manifestazioni di volontà di altri organi o amministrazioni: allorché per il provvedimento finale si richiede il concorso di più organi della stessa amministrazione ovvero si richiedano atti di assenso (nulla osta, intese, autorizzazioni) di altre amministrazioni, spetta al responsabile dell'istruttoria acquisire tali atti; 
 - valutazione delle opposizioni presentate dagli interessati.
 
-#### Fase Dispositiva
+### Fase Dispositiva
 
 Ultimata l'istruttoria, entro il termine predeterminato per il singolo procedimento, l'amministrazione è tenuta ad adottare il provvedimento finale, sia esso positivo o negativo, poiché essa ha il dovere di concludere il procedimento "mediante l'adozione di un provvedimento espresso", salvi i casi di “silenzio assenso”.
 
@@ -54,7 +54,7 @@ Competente ad adottare il provvedimento finale è di regola il responsabile del 
 
 La caratteristica essenziale del provvedimento finale è quella di porsi come punto di imputazione degli effetti della fattispecie. Le successive fasi di controllo e di comunicazione assolvono la funzione ausiliaria di integrare l'efficacia dell'atto già esistente e perfetto, munendolo di esecutività (con gli atti di controllo) o di obbligatorietà (per gli atti di comunicazione). Ciò è comprovato dal fatto che gli effetti giuridici del provvedimento conclusivo si riportano retroattivamente al momento della fase dispositiva in cui si è perfezionato l'atto, qualora l'atto di controllo sia intervenuto successivamente.
 
-#### Fase integrativa dell’efficacia
+### Fase integrativa dell’efficacia
 
 - **Fase di controllo**: L'atto di controllo si pone come requisito di efficacia dell'atto finale, nel senso che esso non influisce sulla perfezione dell'atto, né sulla validità, ma esclusivamente sulla efficacia dell'atto o per consentirne la produzione degli effetti (controllo preventivo) ovvero per farli cessare (controllo successivo). 
 - **Fase di Comunicazione**: Gli atti di comunicazione servono, come quelli di controllo, a conferire efficacia al provvedimento già perfezionato. In particolare: per gli atti recettizi (ad es. la disdetta di un contratto di locazione) la comunicazione costituisce requisito di obbligatorietà, e si pone come condizione perché l'atto possa produrre i suoi effetti nella sfera del destinatario; - per gli atti non recettizi la comunicazione serve solo a dare legale conoscenza, ai fini soprattutto di una eventuale impugnativa. In ogni caso la comunicazione è solo un requisito di efficacia dell'atto comunicato, rispetto al quale mantiene la sua autonomia.
@@ -73,11 +73,11 @@ Un **PROCEDIMENTO AMMINISTRATIVO**, invece, come abbiamo visto, si conclude semp
 E’ importante quindi comprendere che dobbiamo digitalizzare tutta l’attività amministrativa **mappando i singoli procedimenti** e non i processi.
 
 
-## Cos’è un endoprocedimento?
+## Cos’è un "endoprocedimento"?
 
 È la parte di un procedimento amministrativo che ha come scopo la predisposizione di un **provvedimento parziale** necessario per il completamento dell’intero procedimento stesso.
 
-Pensiamo, ad es., alla richiesta di un’autorizzazione a un’Amministrazione pubblica e che s’inoltri la richiesta a un unico ufficio. Ciascuna delle unità coinvolte nel processo opererà autonomamente, per la parte che le compete, ma se alla fine tutti gli uffici interessati avranno espresso parere favorevole alla richiesta, la somma degli endoprocedimenti produrrà la necessaria autorizzazione. 
+Pensiamo, ad es., alla richiesta di un’autorizzazione a un’Amministrazione pubblica e che s’inoltri la richiesta ad un unico ufficio. Ciascuna delle unità coinvolte nel processo opererà autonomamente, per la parte che le compete, ma se alla fine tutti gli uffici interessati avranno espresso parere favorevole alla richiesta, la somma degli endoprocedimenti produrrà la necessaria autorizzazione. 
 
 Così come tutto ciò che un’Amministrazione fa per il pagamento di una fattura ad un fornitore, è un endoprocedimento del procedimento amministrativo “Acquisto di beni e servizi”
 
@@ -87,4 +87,4 @@ L’endoprocedimento non è altro che un procedimento **parziale** o, letteralme
 ## Legge 7 agosto 1990, n. 241 sul procedimento amministrativo
 La [**legge n. 241/1990**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=) ha colmato una lacuna del nostro ordinamento, dettando norme sul procedimento. Tale legge disciplina in particolare la fase dell'iniziativa e dell'istruttoria, allo scopo di fornire al privato adeguate garanzie nella fase di formazione dell'atto amministrativo. 
 
-La legge contiene anche norme che riguardano l'organizzazione e il funzionamento degli organi burocratici (es. conferenza di servizi). Alla legge sul procedimento è stato attribuito il carattere di legge di "grande riforma".
+La legge contiene anche norme che riguardano l'organizzazione e il funzionamento degli organi burocratici (es. Conferenza di Servizi). Alla legge sul procedimento è stato attribuito il carattere di legge di "grande riforma".
