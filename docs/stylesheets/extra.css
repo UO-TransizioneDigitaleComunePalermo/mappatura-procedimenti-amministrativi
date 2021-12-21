@@ -163,10 +163,17 @@ a.md-button.md-button:hover {
 
 
 
+
 /* regolare dimensione carattere delle admonition */
 .md-typeset :where(.admonition,details) {
-    font-size: .72rem;                       /* di default è 63 */
+    font-size: .70rem;                       /* di default è 63 */
 }
+
+.md-typeset :is(.admonition,details) {
+    font-size: .70rem;                       /* di default è 64 */
+}
+
+
 
 
 
