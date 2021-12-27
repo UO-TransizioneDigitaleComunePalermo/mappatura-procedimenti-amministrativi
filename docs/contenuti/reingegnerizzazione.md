@@ -302,6 +302,8 @@ Le Linee guida di design per i servizi digitali della PA adottano l’approccio 
 ## Reingegnerizzare curando l'interoperabilità dei sistemi informatici
 Nel lavoro di reingegnerizzazione si opera con il software, nel senso che si adotta software per la prima volta, oppure si evolve il software esistente già in uso (migliorandolo con ulteriore sviluppo oppure si sostituisce con software nuovo più performante).
 
+Due o più procedimenti di un ente possono avere informazioni, dati e anche porzioni di flussi di lavoro in comune. Per questo motivo si rende necessario permettere l'interrelazione tra questi procedimenti. Il software utilizzato deve poter soddisfare questa esigenza specifica. Per la gestione di ogni procedimento amministrativo, il software utilizzato deve consentire l'interrogazione di banche dati sia interne all'ente che esterne, ad esempio l'accesso alle banche dati ANPR o l'integrazione con l'identità digitale SPID/CIE/CNS o l'integrazione con la piattaforma dei pagamenti PagoPA nel caso di servizi a pagamento richiesti da cittadini.
+
 Nell'attività di individuazione o miglioramento del software bisogna seguire quanto stabilito dall'AGID nelle [“**Linee guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni**”](https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html).
 
 <iframe src="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf" width="100%"; height="700"; frameborder="0" > </iframe>
