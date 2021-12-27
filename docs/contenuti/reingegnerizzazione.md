@@ -4,6 +4,7 @@ hide:
 ---
 
 
+
 # Reingegnerizzazione dei procedimenti :material-engine-outline:
 Questa pagina focalizza l'attenzione sull'attività di riprogettazione, dei flussi di lavoro, che deve essere effettuata sia per la nuova gestione in modalità digitale dei procedimenti amministrativi, grazie all'uso di adeguati applicativi software, sia per migliorare le modalità di lavoro - in termini di efficienza - da parte del personale della PA e dell'utente (per i procedimenti attivati da istanza di parte) e per ridurre i tempi di processamento delle fasi operative.
 
