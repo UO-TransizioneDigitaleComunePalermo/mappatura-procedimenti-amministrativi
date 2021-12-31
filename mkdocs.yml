@@ -181,7 +181,7 @@ extra_css:
 ## Page tree
 # ogni file .md corrisponde ad una pagina web
 nav:
-    - Home: index.md
+    - 🏠 Home: index.md
 
     - Focus giuridico:
         - Focus giuridico sui procedimenti: contenuti/focus-giuridico.md
