@@ -240,6 +240,8 @@ del procedimento di secondo grado
 
 Il 1 dicembre 2021 è stata creata [**issue sul repo di MKDocs-material**](https://github.com/squidfunk/mkdocs-material/issues/3282) per creare una funzione di annotation analoga a "**code annotation**" ma applicata al testo fuori dal blocco codice.
 
+Al gennaio 2022 la funzione di annotazioni per il testo è solo disponibile per gli `insiders`: [https://squidfunk.github.io/mkdocs-material/reference/annotations/#usage](https://squidfunk.github.io/mkdocs-material/reference/annotations/#usage).
+
 This is a paragraph with some (1) annotations (2)
 { .annotate }
 
