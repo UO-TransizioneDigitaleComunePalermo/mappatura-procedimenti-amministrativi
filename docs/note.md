@@ -307,6 +307,8 @@ Per insiere nel testo emoji fare riderimento a:
 
 [**https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/**](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
 
+<iframe width="100%" height="700px" frameBorder="0" src="https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search"></iframe>
+
 [**https://emojipedia.org/**](https://emojipedia.org/)
 
 ---
