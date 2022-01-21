@@ -91,7 +91,6 @@ theme:
 plugins:
 - search
 - charts                                 # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
-- git-revision-date                      # vedi https://github.com/hummingbot/hummingbot/blob/master/documentation/mkdocs.yml
 # - git-revision-date-localized:         # per funzionare bisogna installare plugin relativo su gh-pages.yml 
 #    type: date
 #    locale: it
