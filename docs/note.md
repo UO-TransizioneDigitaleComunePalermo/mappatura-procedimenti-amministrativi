@@ -3,6 +3,9 @@ hide:
     - navigation
 ---
 
+<img src="https://img.shields.io/github/last-commit/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />
+
+
 # Impostazioni e prove varie di codice  
 ``` yaml
     #(1)
