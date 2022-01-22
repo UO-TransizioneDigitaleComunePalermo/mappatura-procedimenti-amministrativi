@@ -55,7 +55,8 @@ theme:
   features:
     - navigation.top
     - navigation.tabs
-    - navigation.tabs.sticky   # visualizza il menù della navigation bar anche quando si va giù nella pagina (va in contrasto con il back-to-top di default)
+    - navigation.indexes       # come da https://github.com/ondata/guidaPraticaPubblicazioneCSV/blob/main/mkdocs.yml (aggiunto 22-gen-2022)
+ #  - navigation.tabs.sticky   # visualizza il menù della navigation bar anche quando si va giù nella pagina (va in contrasto con il back-to-top di default)
     - navigation.tracking
  #  - navigation.sections      # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections)
  #  - navigation.expand        # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion)
