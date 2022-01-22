@@ -45,6 +45,5 @@ A tal proposito è stato predisposto un apposito [**Forum**](https://github.com/
 
 [Vai al forum :material-forum:](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions){ .md-button .md-button--primary }
 
----
 
 
