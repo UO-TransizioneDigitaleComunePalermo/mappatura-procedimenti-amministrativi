@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
 
 /* forza il back-to-top laterale (by gbvitrano) a tornare in basso */        /*  disattivato */
+/*
 .md-top {
     background: var(--md-primary-fg-color); 
     border-radius: 100%; 
@@ -17,7 +18,7 @@
     z-index: 1; 
 	font-size: 0px!important; 
 }
-
+*/
 
 
 /* back-to-top di MKDocs-material ma personalizzato come colori */
