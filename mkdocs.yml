@@ -95,7 +95,7 @@ plugins:
     type: date
     locale: it
     fallback_to_build_date: false
-    enable_creation_date: true
+    enable_creation_date: false
 #    enabled: true
 # - mkdocstrings
 # - autolinks
