@@ -69,3 +69,12 @@
     }
   </script>
 {% endif %}
+
+
+<!-- This section adds support for localized revision dates - vedi https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/howto/override-a-theme/ -->
+{% if page.meta.git_revision_date_localized %}
+    <small>Last update: {{ page.meta.git_revision_date_localized }}</small>
+{% endif %}
+{% if page.meta.git_created_date_localized %}
+    <small>Created: {{ page.meta.git_created_date_localized }}</small>
+{% endif %}
