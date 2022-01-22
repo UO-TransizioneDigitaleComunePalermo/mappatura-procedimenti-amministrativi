@@ -9,7 +9,8 @@ repo_url: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-proce
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <img src="https://img.shields.io/github/last-commit/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi.svg?&label=ultimo_aggiornamento">
+copyright: <img src="https://img.shields.io/github/last-commit/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi.svg?&label=ultimo_aggiornamento"> 
+           [![gh-deploy](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml)
            <img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo/mappatura-procedimenti-amministrativi"> <br>
 
 
