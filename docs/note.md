@@ -421,9 +421,14 @@ Tool utili per trasformare tabelle excel in `HTML` o `Markdown` sono:
 ## Developer strumenti vari 
 <iframe width="100%" height="700px" frameBorder="0" src="https://cirospat.readthedocs.io/it/latest/developer.html"></iframe>
 
+
+This page was last updated: *{{ git_revision_date_localized }}*
+
+
 ---
 
 ---
+
 
 
 
