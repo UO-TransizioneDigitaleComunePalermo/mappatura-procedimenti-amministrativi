@@ -165,7 +165,7 @@ Può essere fornito un **supporto al backend (lato personale della PA)** che tro
 
 
 ## Nella digitalizzazione bisogna pensare per <kbd>dati</kbd> e non per <kbd>PDF</kbd>
-Oggi spesso pensiamo la documentazione della PA come formati `PDF` che derivano da formati DOCX/ODT ai quali abbiamo lavorato precedentemente.
+Oggi spesso pensiamo la documentazione della PA come formati `PDF` che derivano da formati `DOCX` / `ODT` ai quali abbiamo lavorato precedentemente.
 Dimentichiamo di lavorare principalmente per documenti `PDF`.
 
 Dobbiamo lavorare per compilazione di campi in un applicativo, come quando compriamo un biglietto aereo online o usiamo piattaforme per acquisti online. 
