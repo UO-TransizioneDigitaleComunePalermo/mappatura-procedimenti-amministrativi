@@ -13,8 +13,8 @@ hide:
 
 A supportare il [Comune di Palermo](https://www.comune.palermo.it/) nel processo di mappatura e analisi per la digitalizzazione dei procedimenti amministrativi, e necessaria formazione del personale, siamo anche:
 
-- **Ciro Spataro** | [`CV`](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/preview) | [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) | 0917407340
-- **Sergio Schimicci** | [`CV`](https://docs.google.com/document/d/1QrCS7A3WYGOcUtV6L_zfrtjO7WUXhSbR/preview) | [s.schimicci@comune.palermo.it](mailto:s.schimicci@comune.palermo.it) | 0917407336
+- **Ciro Spataro** | [<kbd>CV</kbd>](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/preview) | [c.spataro@comune.palermo.it](mailto:c.spataro@comune.palermo.it) | 0917407340
+- **Sergio Schimicci** | [<kbd>CV</kbd>](https://docs.google.com/document/d/1QrCS7A3WYGOcUtV6L_zfrtjO7WUXhSbR/preview) | [s.schimicci@comune.palermo.it](mailto:s.schimicci@comune.palermo.it) | 0917407336
 
 dell'[**UO transizione al digitale**](https://www.comune.palermo.it/struttura-amministrativa.php?lev=4&id=2188) | [Servizio Innovazione](https://www.comune.palermo.it/struttura-amministrativa.php?lev=3&id=1056) | [Settore Servizi Direzione Generale](https://www.comune.palermo.it/struttura-amministrativa.php?id=230&lev=2)
 
