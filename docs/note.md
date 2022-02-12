@@ -53,6 +53,27 @@ Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Mar
 [**https://facelessuser.github.io/pymdown-extensions/**](https://facelessuser.github.io/pymdown-extensions/)
 
 
+## `Progress bar`
+ProgressBar è un'estensione che aggiunge il supporto per le barre di avanzamento/stato. Può richiedere percentuali o frazioni e, facoltativamente, può generare classi per percentuali a livelli di valore specifici. Funziona anche con l' attr_listestensione integrata di Python Markdown.
+
+[**https://facelessuser.github.io/pymdown-extensions/extensions/progressbar/**](https://facelessuser.github.io/pymdown-extensions/extensions/progressbar/)
+
+La sintassi di base per le barre di avanzamento è: [= <percentage or fraction> "optional single or double quoted title"]
+    
+[=0% "0%"]
+    
+[=5% "5%"]
+    
+[=25% "25%"]
+    
+[=45% "45%"]
+    
+[=65% "65%"]
+    
+[=85% "85%"]
+    
+[=100% "100%"]
+
 
 ## Inserire `charts` | grafici con mkdocs-charts-plugin
 Riferimenti: [**https://timvink.github.io/mkdocs-charts-plugin**](https://timvink.github.io/mkdocs-charts-plugin/)
