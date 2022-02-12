@@ -32,7 +32,7 @@ Questa pagina contiene varie prove effettuate nei setting del <kbd><b>codice</b>
 
 ## Release di `mkdocs-material`
 
-=== "release mkdocs-material"
+=== "release mkdocs-material" 
 
     <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/mkdocs.png" width=60 ></img>
     
