@@ -16,11 +16,11 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
-      - run: pip install --upgrade mkdocs-material        # https://squidfunk.github.io/mkdocs-material/upgrade/  disabilit. il 12 feb 2022
+#     - run: pip install --upgrade mkdocs-material        # https://squidfunk.github.io/mkdocs-material/upgrade
       - run: pip3 install mkdocs-charts-plugin            # per fare grafici/charts (https://timvink.github.io/mkdocs-charts-plugin/)
       - run: pip install mkdocs-material-extensions>=1.0  
       - run: pip install mkdocs>=1.2.2
-      - run: pip install markdown>=3.2  
+      - run: pip install markdown>=3.2 
       - run: pip install mkdocs-click
       - run: pip install Pygments>=2.4   
       - run: pip install pymdown-extensions>=9.0           
@@ -35,7 +35,7 @@ jobs:
 #     - run: pip install click-config-file                  
 #     - run: pip install pytest                             
 #     - run: pip install mkdocs                             
-#     - run: pip install mkdocstrings                          
+      - run: pip install mkdocstrings       # abilitato il 12 feb 2022                   
 #     - run: pip install pygments
 #     - run: pip install pymdown-extensions                
 #     - run: pip install mkdocs-autolinks-plugin            
