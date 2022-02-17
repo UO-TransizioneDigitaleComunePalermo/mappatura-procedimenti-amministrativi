@@ -42,7 +42,7 @@ flowchart TD
     B -->|negativa| C([analisi dei flussi procedimento per individuare criticità]);
     C -->|con feedback dell'utente dei servizi: customer satisfaction| D([riprogettazione flussi del procedimento]);
     D --> B;
-    B ---->|positiva| E(["soddisfazione utente &#x263A;"]);
+    B ---->|positiva| E(["soddisfazione utente"]);
     style B fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
