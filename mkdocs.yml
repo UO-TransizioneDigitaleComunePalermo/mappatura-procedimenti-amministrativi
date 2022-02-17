@@ -136,10 +136,10 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid
-        - name: vegalite                                # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
-          class: vegalite
-          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        # - name: vegalite                                                   # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
+        #   class: vegalite
+        #   format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
 - pymdownx.tabbed:
     alternate_style: true
 - pymdownx.critic:
