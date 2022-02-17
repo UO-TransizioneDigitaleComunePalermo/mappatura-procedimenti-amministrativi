@@ -25,7 +25,7 @@ jobs:
       - run: pip install Pygments>=2.4   
       - run: pip install pymdown-extensions>=9.0           
 #     - run: pip install mkdocs-rss-plugin
-      - run: pip install mkdocs-mermaid2-plugin   # fin qui il setting di https://github.com/opendatasicilia/ods-mkdocs-material/blob/main/.github/workflows/gh-deploy.yml
+#     - run: pip install mkdocs-mermaid2-plugin   # fin qui il setting di https://github.com/opendatasicilia/ods-mkdocs-material/blob/main/.github/workflows/gh-deploy.yml
       - run: pip install mkdocs-print-site-plugin
       - run: pip install mkdocs-git-revision-date-localized-plugin    #  una prova del 3 dic 2021
 #     - run: pip install mkdocs-jupyter           # attivato abilita "content tabs" e disabilita "code annotation"
