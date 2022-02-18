@@ -327,6 +327,8 @@ Per inserire diagrammi di flusso fare riferimento a:
 
 [**`Mermaid editor online`**](https://mermaid-js.github.io/mermaid-live-editor)
 
+I grafi mermaid sono nativi dal febbraio 2022 su mkdocs-material, vedi [**https://squidfunk.github.io/mkdocs-material/reference/diagrams/?h=mermaid**](https://squidfunk.github.io/mkdocs-material/reference/diagrams/?h=mermaid)
+
 ---
 
 
