@@ -54,7 +54,7 @@ Le <kbd>PyMdown Extensions</kbd> sono una raccolta di estensioni per `Python Mar
 
 
 ## `Progress bar`
-ProgressBar è un'estensione che aggiunge il supporto per le barre di avanzamento/stato. Può richiedere percentuali o frazioni e, facoltativamente, può generare classi per percentuali a livelli di valore specifici. Funziona anche con l' attr_listestensione integrata di Python Markdown.
+ProgressBar è un'estensione che aggiunge il supporto per le barre di avanzamento/stato. Può richiedere percentuali o frazioni e, facoltativamente, può generare classi per percentuali a livelli di valore specifici. Funziona anche con l'estensione `attr_list`  integrata di Python Markdown.
 
 [**https://facelessuser.github.io/pymdown-extensions/extensions/progressbar/**](https://facelessuser.github.io/pymdown-extensions/extensions/progressbar/)
 
