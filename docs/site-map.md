@@ -83,7 +83,6 @@ style A stroke:#8403fc,stroke-width:5px
 ```
 </div>
 
----
 
 <!--
 mappa sito (da mettere nel footer)
