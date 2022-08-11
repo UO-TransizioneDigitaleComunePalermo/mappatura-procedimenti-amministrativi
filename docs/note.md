@@ -28,6 +28,7 @@ Questa pagina contiene varie prove effettuate nei setting del <kbd><b>codice</b>
 
 - [<kbd>https://ondata.github.io/guidaPraticaPubblicazioneCSV</kbd>](https://ondata.github.io/guidaPraticaPubblicazioneCSV)
 - [<kbd>https://opendatasicilia.github.io/ods-mkdocs-material</kbd>](https://opendatasicilia.github.io/ods-mkdocs-material)
+- [<kbd>https://ondata.github.io/guidaVisiData/</kbd>](https://ondata.github.io/guidaVisiData/)
 
 
 ## Release di `mkdocs-material`
