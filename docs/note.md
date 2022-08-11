@@ -24,7 +24,7 @@ hide:
 Questa pagina contiene varie prove effettuate nei setting del <kbd><b>codice</b></kbd> e riferimenti utili per la costruzione di parti del progetto grazie all'utilizzo di [**MKDocs-material**](https://squidfunk.github.io/mkdocs-material/getting-started/) :octicons-heart-fill-24:{ .heart }
 
 
-## Repo di riferimento (buone prassi)
+## Repo di riferimento su mkdocs-material (buone prassi)
 
 - [<kbd>https://ondata.github.io/guidaPraticaPubblicazioneCSV</kbd>](https://ondata.github.io/guidaPraticaPubblicazioneCSV)
 - [<kbd>https://opendatasicilia.github.io/ods-mkdocs-material</kbd>](https://opendatasicilia.github.io/ods-mkdocs-material)
