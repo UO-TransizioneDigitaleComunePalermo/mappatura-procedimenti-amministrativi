@@ -75,9 +75,9 @@
 */
 
 
-/* Active tab bold & color (cioè il carattere dei titoli del menù nell'header) */
+/* Active tab bold & color (modificare la grandezza dei caratteri dei titoli del menù nell'header) */
 .md-tabs__link {
-    font-size: .75rem !important;          /* di default è .75rem */
+    font-size: .71rem !important;          /* di default è .75rem */
 /*  background-color: #e8e8e8!important; border-radius: .2rem!important; */   /* disattivato */
 }
 
