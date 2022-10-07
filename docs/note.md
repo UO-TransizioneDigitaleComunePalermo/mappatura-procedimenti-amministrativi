@@ -76,7 +76,6 @@ La sintassi di base per le barre di avanzamento è: [= <percentage or fraction> 
     
 [=100% "100%"]
 
-In stile HTML
     
 
 
