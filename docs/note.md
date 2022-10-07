@@ -76,6 +76,19 @@ La sintassi di base per le barre di avanzamento è: [= <percentage or fraction> 
     
 [=100% "100%"]
 
+In stile HTML
+    
+<h1>Obiettivo raggiunto</h1>
+<hr />
+<p>
+<div class="progress progress-20plus">
+<div class="progress-bar" style="width:25.00%">
+<p class="progress-label">25%</p>
+</div>
+</div>
+</p>
+
+
 
 ## Inserire `charts` | grafici con mkdocs-charts-plugin
 Riferimenti: [**https://timvink.github.io/mkdocs-charts-plugin**](https://timvink.github.io/mkdocs-charts-plugin/)
