@@ -20,7 +20,7 @@ Vengono descritte le azioni realizzate dal personale comunale, che hanno portato
 
 Il **processo di lavoro** :material-transit-connection-variant: - svolto in ordine temporale - è raffigurato nel seguente schema:
 
-``` mermaid
+```mermaid
 graph TD
 A([l'analisi dei procedimenti è stabilita come obiettivo nel Piano Performance!]) -->|direttive ai dirigenti| B([redazione schede dei 1- metadati e 2- delle fasi operative])
 B -->|compilazione schede da parte dei responsabili procedimenti| C([creazione database procedimenti: mappatura]) 
